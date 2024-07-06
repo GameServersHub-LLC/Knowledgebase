@@ -14,6 +14,13 @@ export default defineConfig({
       { text: "Dedicated Server Rentals", link: "/hosting" },
     ],
 
+    footer: {
+      message:
+        'Join our <a href="https://discord.gg/gsh">Discord</a> for faster support',
+      copyright:
+        '2024 © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.',
+    },
+
     sidebar: [
       {
         text: "Welcome to our guides!",
