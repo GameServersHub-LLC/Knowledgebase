@@ -28,6 +28,12 @@ export default defineConfig({
         items: [{ text: "Introduction", link: "/welcome" }],
       },
       {
+        text: "Basic security 101",
+        items: [
+          { text: "Passwords 101", link: "/how-to-protect-your-passwords" },
+        ],
+      },
+      {
         text: "Path of Titans",
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
