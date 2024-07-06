@@ -9,8 +9,9 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Gaming Guides", link: "/welcome" },
-      { text: "Forums / Marketplace", link: "/forums/resources" },
+      { text: "Meet the team", link: "/team" },
       { text: "Articles / Blogs", link: "/articles" },
+      { text: "Forums / Marketplace", link: "/forums/resources" },
       { text: "Dedicated Server Rentals", link: "/hosting" },
     ],
 
