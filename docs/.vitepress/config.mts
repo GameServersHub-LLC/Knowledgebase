@@ -1,28 +1,64 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "GameServersHub.com - Knowledgebase",
+  title: "Gaming Guides",
   description: "Knowledgebase for tutorials, guides, articles on GSH.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "Home", link: "/" },
+      { text: "Gaming Guides", link: "/welcome" },
+      { text: "Forums / Marketplace", link: "/forums/resources" },
+      { text: "Articles / Blogs", link: "/articles" },
+      { text: "Dedicated Server Rentals", link: "/hosting" },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: "Welcome to our guides!",
+        items: [{ text: "Introduction", link: "/welcome" }],
+      },
+      {
+        text: "Path of Titans",
+        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+      },
+      {
+        text: "The Isles",
+        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+      },
+      {
+        text: "Palworld",
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+          {
+            text: "How To Edit Palworld Server Settings",
+            link: "/palworld-server-settings",
+          },
+        ],
+      },
+      {
+        text: "V Rising",
+        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+      },
+      {
+        text: "7 Days To Die",
+        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+      },
+      {
+        text: "Soulmask",
+        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+      { icon: "discord", link: "https://discord.gg/gsh" },
+      {
+        icon: "facebook",
+        link: "https://www.facebook.com/people/Gameservershub/61559304243890/",
+      },
+      { icon: "instagram", link: "https://www.instagram.com/gameservershub/" },
+      { icon: "x", link: "https://twitter.com/GameServersHub" },
+      { icon: "github", link: "https://github.com/ServersHub" },
+    ],
+  },
+});

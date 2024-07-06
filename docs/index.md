@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "GameServersHub.com - Knowledgebase"
-  text: "Knowledgebase for tutorials, guides, articles on GSH."
-  tagline: My great project tagline
+  name: "Game Servers Knowledgebase"
+  text: "Tutorials, Guides, Knowledgebase for Gaming Servers"
+  tagline: Path of Titans Server Guide, Rust Server Guide, Palworld Server Guide, 7 Days To Die Server Guide, Soulmask Server Guide, V Rising Server Guide, The Isle Server Guide,
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Check out our guides
+      link: /welcome
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Join Our Discord
+      link: https://discord.gg/gsh
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

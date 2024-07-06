@@ -2,7 +2,7 @@
 
 Welcome to the GameServersHub Knowledgebase! This repository is dedicated to hosting our comprehensive collection of guides, tutorials, and documentation to help you make the most out of our gaming server solutions. We use Vitepress, a modern static site generator, to provide an easy-to-navigate and user-friendly experience.
 
-## How can I convert HTMl to markdown?
+## How can I convert HTML to markdown?
 
 So the way this system works are you create a new "File" inside the correct GitHub REPO structure and you name the file "**Whatever.md**" and inside that you add the markdown contents. You can use generators to convert HTML to MARKDOWN like [Check this one out](https://codebeautify.org/html-to-markdown)
 
