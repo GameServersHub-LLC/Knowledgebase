@@ -21,7 +21,13 @@ export default defineConfig({
       },
       {
         text: "Path of Titans",
-        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+        items: [
+          {
+            text: "Demo POT Page",
+            link: "/pot-demo",
+          },
+          { text: "Markdown Examples", link: "/markdown-examples" },
+        ],
       },
       {
         text: "The Isles",
