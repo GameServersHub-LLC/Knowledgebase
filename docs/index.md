@@ -11,7 +11,7 @@ hero:
       text: Check out our guides
       link: /welcome
   image:
-    src: /images/icon.webp
+    src: /images/icon.png
     alt: GameServersHub.com Official Logo
 
 features:
