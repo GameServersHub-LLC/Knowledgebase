@@ -237,11 +237,11 @@ export default defineConfig({
             items: [
               {
                 text: "How to configurate INIs",
-                link: "Pages/Path of Titans/Curve Overrides/Alderons/Path-of-Titans-how-to-configurate-server",
+                link: "Pages/Path of Titans/path-of-titans-how-to-configurate-server",
               },
               {
                 text: "How To Install Mods",
-                link: "Pages/Path of Titans/Curve Overrides/Alderons/Path-of-Titans-how-to-install-mods",
+                link: "Pages/Path of Titans/path-of-titans-how-to-install-mods",
               },
             ],
           },
