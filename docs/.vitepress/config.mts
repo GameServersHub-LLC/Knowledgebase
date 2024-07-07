@@ -4,20 +4,29 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Gaming Guides",
   description: "Knowledgebase for tutorials, guides, articles on GSH.",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
+    search: {
+      provider: "local",
+    },
+
     nav: [
       { text: "Home", link: "/" },
       { text: "Gaming Guides", link: "/welcome" },
       { text: "Meet the team", link: "/team" },
-      { text: "Articles / Blogs", link: "/articles" },
-      { text: "Forums / Marketplace", link: "/forums/resources" },
-      { text: "Dedicated Server Rentals", link: "/hosting" },
+      {
+        text: "Extra",
+        items: [
+          { text: "Articles / Blogs", link: "/articles" },
+          { text: "Forums / Marketplace", link: "/forums/resources" },
+          { text: "Dedicated Server Rentals", link: "/hosting" },
+        ],
+      },
     ],
 
     footer: {
-      message:
-        'Join our <a href="https://discord.gg/gsh">Discord</a> for faster support',
       copyright:
         '2024 © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.',
     },
@@ -25,24 +34,29 @@ export default defineConfig({
     sidebar: [
       {
         text: "Welcome to our guides!",
+        collapsed: false,
         items: [{ text: "Introduction", link: "/welcome" }],
       },
       {
         text: "Basic security 101",
+        collapsed: true,
         items: [
           { text: "Passwords 101", link: "/how-to-protect-your-passwords" },
         ],
       },
       {
         text: "Path of Titans",
+        collapsed: true,
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
       {
         text: "The Isles",
+        collapsed: true,
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
       {
         text: "Palworld",
+        collapsed: true,
         items: [
           {
             text: "How To Edit Palworld Server Settings",
@@ -52,14 +66,17 @@ export default defineConfig({
       },
       {
         text: "V Rising",
+        collapsed: true,
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
       {
         text: "7 Days To Die",
+        collapsed: true,
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
       {
         text: "Soulmask",
+        collapsed: true,
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
     ],
