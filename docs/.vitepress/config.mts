@@ -37,27 +37,33 @@ export default defineConfig({
         items: [
           {
             text: "Creatures Curve Overrides",
+            collapsed: true,
             items: [
               {
                 text: "Absentia's",
+                collapsed: true,
                 items: [
                   { text: "Acrocanthosaurus", link: "/acrocanthosaurus" },
                 ],
               },
               {
                 text: "ReplaceMe",
+                collapsed: true,
                 items: [{ text: "ReplaceMe", link: "/welcome" }],
               },
               {
                 text: "ReplaceMe",
+                collapsed: true,
                 items: [{ text: "ReplaceMe", link: "/welcome" }],
               },
               {
                 text: "ReplaceMe",
+                collapsed: true,
                 items: [{ text: "ReplaceMe", link: "/welcome" }],
               },
               {
                 text: "ReplaceMe",
+                collapsed: true,
                 items: [{ text: "ReplaceMe", link: "/welcome" }],
               },
             ],
