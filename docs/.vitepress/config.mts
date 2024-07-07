@@ -5,6 +5,9 @@ export default defineConfig({
   title: "Gaming Guides",
   description: "Knowledgebase for tutorials, guides, articles on GSH.",
   lastUpdated: true,
+  sitemap: {
+    hostname: "https://guides.gameservershub.com",
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
