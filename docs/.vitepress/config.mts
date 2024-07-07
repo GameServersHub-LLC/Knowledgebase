@@ -46,61 +46,63 @@ export default defineConfig({
       },
       {
         text: "Path of Titans",
+        collapsed: true,
         items: [
           {
-            text: "Creatures Curve Overrides",
+            text: "Curve overrides",
             collapsed: true,
             items: [
               {
-                text: "Absentia's",
-                collapsed: true,
-                items: [
-                  { text: "Acrocanthosaurus", link: "/acrocanthosaurus" },
-                ],
-              },
-              {
-                text: "ReplaceMe",
-                collapsed: true,
-                items: [{ text: "ReplaceMe", link: "/welcome" }],
-              },
-              {
-                text: "ReplaceMe",
-                collapsed: true,
-                items: [{ text: "ReplaceMe", link: "/welcome" }],
-              },
-              {
-                text: "ReplaceMe",
-                collapsed: true,
-                items: [{ text: "ReplaceMe", link: "/welcome" }],
-              },
-              {
-                text: "ReplaceMe",
-                collapsed: true,
-                items: [{ text: "ReplaceMe", link: "/welcome" }],
-              },
-            ],
-          },
-          {
-            text: "Server Configurations",
-            collapsed: true,
-            items: [
-              {
-                text: "Mod Installations",
+                text: "Alderons Dinos",
                 collapsed: true,
                 items: [
                   {
-                    text: "Step By Step Guide",
-                    link: "/path-of-titans-how-to-install-mods",
+                    text: "Dino Name",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "Attribute",
+                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                      },
+                      {
+                        text: "Multiplier",
+                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                      },
+                      {
+                        text: "Combat",
+                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                      },
+                    ],
                   },
                 ],
               },
               {
-                text: "How To Configurate Server",
+                text: "Modded Dino",
                 collapsed: true,
                 items: [
                   {
-                    text: "Configuration Guide",
-                    link: "/path-of-titans-how-to-configurate-server",
+                    text: "Modder Name/Group",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "Modded Dino",
+                        collapsed: true,
+                        items: [
+                          {
+                            text: "Attribute",
+                            items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                          },
+                          {
+                            text: "Multiplier",
+                            items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                          },
+                          {
+                            text: "Combat",
+                            items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                          },
+                        ],
+                      },
+                    ],
                   },
                 ],
               },
