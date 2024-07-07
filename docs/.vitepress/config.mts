@@ -63,7 +63,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "Server Configurations INIs",
+            text: "Server Configurations",
             items: [
               {
                 text: "Mod Installations",
