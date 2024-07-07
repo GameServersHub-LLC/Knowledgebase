@@ -16,6 +16,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Gaming Guides", link: "/welcome" },
       { text: "Meet the team", link: "/team" },
+      { text: "Join Our Discord", link: "https://discord.gg/gsh" },
       {
         text: "Extra",
         items: [
