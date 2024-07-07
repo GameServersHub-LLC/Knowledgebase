@@ -90,21 +90,35 @@ export default defineConfig({
                         items: [
                           {
                             text: "Attribute",
-                            items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                            items: [{ text: "ReplaceMe", link: "/replace" }],
                           },
                           {
                             text: "Multiplier",
-                            items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                            items: [{ text: "ReplaceMe", link: "/replace" }],
                           },
                           {
                             text: "Combat",
-                            items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
+                            items: [{ text: "ReplaceMe", link: "/replace" }],
                           },
                         ],
                       },
                     ],
                   },
                 ],
+              },
+            ],
+          },
+          {
+            text: "Server Configurations",
+            collapsed: true,
+            items: [
+              {
+                text: "How to configurate INIs",
+                link: "/path-of-titans-how-to-configurate-server",
+              },
+              {
+                text: "How To Install Mods",
+                link: "/path-of-titans-how-to-install-mods",
               },
             ],
           },
