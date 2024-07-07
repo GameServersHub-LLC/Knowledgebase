@@ -409,5 +409,3 @@ This enables `BattleEye` on the server, which is a anti-cheat Defaults to `true
 ### Transform your gaming experience with GSH dedicated servers! Get the most bang for your buck by deploying a Path of Titans Server today, and enjoy unbeatable prices without compromising on quality.
 
 Experience seamless gameplay with our top-of-the-line "**Path Of Titans**" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. With **lightning-fast hardware**, **unrivaled performance**, and **reliable uptime**, our servers ensure an immersive gaming experience for your community's needs. Take advantage of our cutting-edge features, including **customizable settings**, an **intuitive control panel**, and **dedicated support**. Don't miss out on this opportunity to level up your gaming experience.
-
-### [**Get your server today!**](/billing/index.php?rp=/store/path-of-titans)
