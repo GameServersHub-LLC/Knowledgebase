@@ -33,14 +33,55 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Level 1",
+        text: "Path of Titans",
         items: [
           {
-            text: "Level 2",
+            text: "Creatures Curve Overrides",
             items: [
               {
-                text: "Level 3",
-                items: [{ text: "Introduction", link: "/welcome" }],
+                text: "Absentia's",
+                items: [
+                  { text: "Acrocanthosaurus", link: "/acrocanthosaurus" },
+                ],
+              },
+              {
+                text: "ReplaceMe",
+                items: [{ text: "ReplaceMe", link: "/welcome" }],
+              },
+              {
+                text: "ReplaceMe",
+                items: [{ text: "ReplaceMe", link: "/welcome" }],
+              },
+              {
+                text: "ReplaceMe",
+                items: [{ text: "ReplaceMe", link: "/welcome" }],
+              },
+              {
+                text: "ReplaceMe",
+                items: [{ text: "ReplaceMe", link: "/welcome" }],
+              },
+            ],
+          },
+          {
+            text: "Server Configurations INIs",
+            items: [
+              {
+                text: "Mod Installations",
+                items: [
+                  {
+                    text: "Step By Step Guide",
+                    link: "/path-of-titans-how-to-install-mods",
+                  },
+                ],
+              },
+              {
+                text: "How To Configurate Server",
+                items: [
+                  {
+                    text: "Configuration Guide",
+                    link: "/path-of-titans-how-to-configurate-server",
+                  },
+                ],
               },
             ],
           },
