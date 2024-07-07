@@ -2,7 +2,8 @@
 
 This is all the default stats for the following creature:
 
-Please be sure to add <code>CurveOverrides=(CurveName="Achillobator.</code> in front of every line in the <code>Game.ini</code> under <code>[/Script/PathOfTitans.IGameSession]</code>
+> [!IMPORTANT]
+>Please be sure to add `CurveOverrides=(CurveName="Achillobator.` in front of every line in the <code>Game.ini</code> under `[/Script/PathOfTitans.IGameSession]`
 
 <span style="color: #ffd369;">Last Updated: 05-24-2024 by GSH</span>
 ## Attributes:
