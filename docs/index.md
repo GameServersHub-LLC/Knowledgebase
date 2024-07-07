@@ -17,7 +17,7 @@ hero:
 features:
   - icon:
       {
-        src: /images/Path of Titans - 667x260.webp,
+        src: /Path of Titans - 667x260.webp,
         width: 667,
         height: 260,
         alt: Path Of Titans Background,
@@ -26,7 +26,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/Rust - 667x260.webp,
+        src: /Rust - 667x260.webp,
         width: 667,
         height: 260,
         alt: Rust Background,
@@ -35,7 +35,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/Palworld - 667x260.webp,
+        src: /Palworld - 667x260.webp,
         width: 667,
         height: 260,
         alt: Palworld Background,
@@ -44,7 +44,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/7 Days To Die - 667x260.webp,
+        src: /7 Days To Die - 667x260.webp,
         width: 667,
         height: 260,
         alt: 7 Days To Die Background,
@@ -53,7 +53,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/Soulmask - 667x260.webp,
+        src: /Soulmask - 667x260.webp,
         width: 667,
         height: 260,
         alt: Soulmask Background,
@@ -62,7 +62,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/V Rising - 667x260.webp,
+        src: /V Rising - 667x260.webp,
         width: 667,
         height: 260,
         alt: V Rising Background,
@@ -71,7 +71,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/The Isle - 667x260.webp,
+        src: /The Isle - 667x260.webp,
         width: 667,
         height: 260,
         alt: The Isle Background,
@@ -80,7 +80,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {
-        src: /images/Satisfactory - 667x260.webp,
+        src: /Satisfactory - 667x260.webp,
         width: 667,
         height: 260,
         alt: Satisfactory Background,
