@@ -76,7 +76,7 @@ features:
         height: 260,
         alt: The Isle Background,
       }
-    title: The Isle Guides
+    title: The Isle (Evrima) Guides
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
       {

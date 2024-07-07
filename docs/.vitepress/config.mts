@@ -125,7 +125,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "The Isles",
+        text: "The Isle (Evrima)",
         collapsed: true,
         items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
