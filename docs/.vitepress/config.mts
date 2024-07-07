@@ -33,6 +33,20 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Level 1",
+        items: [
+          {
+            text: "Level 2",
+            items: [
+              {
+                text: "Level 3",
+                items: [{ text: "Introduction", link: "/welcome" }],
+              },
+            ],
+          },
+        ],
+      },
+      {
         text: "Welcome to our guides!",
         collapsed: false,
         items: [{ text: "Introduction", link: "/welcome" }],
