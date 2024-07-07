@@ -33,6 +33,18 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Welcome to our guides!",
+        collapsed: false,
+        items: [{ text: "Introduction", link: "/welcome" }],
+      },
+      {
+        text: "Basic security 101",
+        collapsed: true,
+        items: [
+          { text: "Passwords 101", link: "/how-to-protect-your-passwords" },
+        ],
+      },
+      {
         text: "Path of Titans",
         items: [
           {
@@ -70,9 +82,11 @@ export default defineConfig({
           },
           {
             text: "Server Configurations",
+            collapsed: true,
             items: [
               {
                 text: "Mod Installations",
+                collapsed: true,
                 items: [
                   {
                     text: "Step By Step Guide",
@@ -82,6 +96,7 @@ export default defineConfig({
               },
               {
                 text: "How To Configurate Server",
+                collapsed: true,
                 items: [
                   {
                     text: "Configuration Guide",
@@ -92,23 +107,6 @@ export default defineConfig({
             ],
           },
         ],
-      },
-      {
-        text: "Welcome to our guides!",
-        collapsed: false,
-        items: [{ text: "Introduction", link: "/welcome" }],
-      },
-      {
-        text: "Basic security 101",
-        collapsed: true,
-        items: [
-          { text: "Passwords 101", link: "/how-to-protect-your-passwords" },
-        ],
-      },
-      {
-        text: "Path of Titans",
-        collapsed: true,
-        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
       },
       {
         text: "The Isles",
