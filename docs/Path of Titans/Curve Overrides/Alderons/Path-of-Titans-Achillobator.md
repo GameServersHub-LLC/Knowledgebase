@@ -7,6 +7,7 @@
 <div><span style="font-weight: 500; color: #f8be01;">Last Updated: 05-24-2024 by GSH</span></div>
 <div> </div>
 <div><span style="text-decoration: underline;"><strong><span style="font-size: 14pt;">Attributes:</span></strong></span></div>
+```json
 <div><code>Core.MaxHealth",Values=(100,200,300,400,600))</code></div>
 <div><code>Core.MaxStamina",Values=(100,100,100,100,100))</code></div>
 <div><code>Core.CombatWeight",Values=(200,800,1100,1700,2600))</code></div>
@@ -60,6 +61,7 @@
 <div><code>Core.KnockbackToDelatchThreshold",Values=(100,100,100,100,100))</code></div>
 <div><code>Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))</code></div>
 <div><code>Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))</code></div>
+```
 <div><span style="font-weight: 500; color: #f8be01;">Last Updated: 05-24-2024 by GSH</span></div>
 <div> </div>
 <div><span style="text-decoration: underline;"><strong><span style="font-size: 14pt;">Multipliers:</span></strong></span></div>
