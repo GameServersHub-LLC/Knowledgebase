@@ -223,12 +223,12 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   {
-                    text: "Mikes Mods",
+                    text: "Absentia",
                     collapsed: true,
                     items: [
                       {
-                        text: "Superdino",
-                        link: "Pages/Path of Titans/Curve Overrides/Modded Dinosaurs/modder name/mod-dino-name",
+                        text: "Acrocanthosaurus",
+                        link: "Pages/Path of Titans/Curve Overrides/Modded Dinosaurs/Absentia/mod-Acrocanthosaurus",
                       },
                     ],
                   },
