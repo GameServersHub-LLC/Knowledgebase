@@ -6,6 +6,9 @@ hero:
   name: "Game Servers Knowledgebase"
   text: "Tutorials, Guides, Knowledgebase for Gaming Servers"
   tagline: Path of Titans Server Guide, Rust Server Guide, Palworld Server Guide, 7 Days To Die Server Guide, Soulmask Server Guide, V Rising Server Guide, The Isle Server Guide,
+  image:
+    src: /assets/img/GSH-logo_1_1.png
+    alt: GSH Logo
   actions:
     - theme: brand
       text: Check out our guides
