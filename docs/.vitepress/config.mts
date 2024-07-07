@@ -5,6 +5,26 @@ export default defineConfig({
   title: "Gaming Guides",
   description: "Knowledgebase for tutorials, guides, articles on GSH.",
   lastUpdated: true,
+  sitemap: {
+    hostname: "https://guides.gameservershub.com",
+  },
+  head: [
+    [
+      "script",
+      {
+        async: "",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-0WCXTJZXEF",
+      },
+    ],
+    [
+      "script",
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-0WCXTJZXEF');`,
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
