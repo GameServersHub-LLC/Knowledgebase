@@ -62,7 +62,10 @@ export default defineConfig({
         text: "Basic security 101",
         collapsed: true,
         items: [
-          { text: "Passwords 101", link: "/how-to-protect-your-passwords" },
+          {
+            text: "Passwords 101",
+            link: "Pages/Security/how-to-protect-your-passwords",
+          },
         ],
       },
       {
