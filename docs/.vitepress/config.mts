@@ -74,56 +74,155 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: "Alderons Dinos",
+                text: "Alderons Dinosaurs",
                 collapsed: true,
                 items: [
                   {
-                    text: "Dino Name",
-                    collapsed: true,
-                    items: [
-                      {
-                        text: "Attribute",
-                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
-                      },
-                      {
-                        text: "Multiplier",
-                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
-                      },
-                      {
-                        text: "Combat",
-                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
-                      },
-                    ],
+                    text: "Achillobator",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Achillobator",
+                  },
+                  {
+                    text: "Albertaceratops",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Albertaceratops",
+                  },
+                  {
+                    text: "Alioramus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Alioramus",
+                  },
+                  {
+                    text: "Allosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Allosaurus",
+                  },
+                  {
+                    text: "Amargasaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Amargasaurus",
+                  },
+                  {
+                    text: "Anodontosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Anodontosaurus",
+                  },
+                  {
+                    text: "Barsboldia",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Barsboldia",
+                  },
+                  {
+                    text: "Camptosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Camptosaurus",
+                  },
+                  {
+                    text: "Ceratosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Ceratosaurus",
+                  },
+                  {
+                    text: "Concavenator",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Concavenator",
+                  },
+                  {
+                    text: "Daspletosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Daspletosaurus",
+                  },
+                  {
+                    text: "Deinocheirus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Deinocheirus",
+                  },
+                  {
+                    text: "Deinonychus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Deinonychus",
+                  },
+                  {
+                    text: "Eotriceratops",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Eotriceratops",
+                  },
+                  {
+                    text: "Eurhinosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Eurhinosaurus",
+                  },
+                  {
+                    text: "Hatzegopteryx",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Hatzegopteryx",
+                  },
+                  {
+                    text: "Iguanodon",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Iguanodon",
+                  },
+                  {
+                    text: "Kaiwhekea",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Kaiwhekea",
+                  },
+                  {
+                    text: "Kentrosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Kentrosaurus",
+                  },
+                  {
+                    text: "Lambeosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Lambeosaurus",
+                  },
+                  {
+                    text: "Latenivenatrix",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Latenivenatrix",
+                  },
+                  {
+                    text: "Megalania",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Megalania",
+                  },
+                  {
+                    text: "Metriacanthosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Metriacanthosaurus",
+                  },
+                  {
+                    text: "Pachycephalosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Pachycephalosaurus",
+                  },
+                  {
+                    text: "Pycnonemosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Pycnonemosaurus",
+                  },
+                  {
+                    text: "Rhamphorhynchus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Rhamphorhynchus",
+                  },
+                  {
+                    text: "Sarcosuchus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Sarcosuchus",
+                  },
+                  {
+                    text: "Spinosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Spinosaurus",
+                  },
+                  {
+                    text: "Stegosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Stegosaurus",
+                  },
+                  {
+                    text: "Struthiomimus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Struthiomimus",
+                  },
+                  {
+                    text: "Styracosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Styracosaurus",
+                  },
+                  {
+                    text: "Suchomimus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Suchomimus",
+                  },
+                  {
+                    text: "Thalassodromeus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Thalassodromeus",
+                  },
+                  {
+                    text: "Tyrannosaurus",
+                    link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-Tyrannosaurus",
                   },
                 ],
               },
               {
-                text: "Modded Dino",
+                text: "Modded Dinosaurs",
                 collapsed: true,
                 items: [
                   {
-                    text: "Modder Name/Group",
+                    text: "Mikes Mods",
                     collapsed: true,
-                    items: [
-                      {
-                        text: "Modded Dino",
-                        collapsed: true,
-                        items: [
-                          {
-                            text: "Attribute",
-                            items: [{ text: "ReplaceMe", link: "/replace" }],
-                          },
-                          {
-                            text: "Multiplier",
-                            items: [{ text: "ReplaceMe", link: "/replace" }],
-                          },
-                          {
-                            text: "Combat",
-                            items: [{ text: "ReplaceMe", link: "/replace" }],
-                          },
-                        ],
-                      },
-                    ],
+                    items: [{ text: "Superdino", link: "/replaceMe" }],
                   },
                 ],
               },
@@ -135,11 +234,11 @@ export default defineConfig({
             items: [
               {
                 text: "How to configurate INIs",
-                link: "/path-of-titans-how-to-configurate-server",
+                link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-how-to-configurate-server",
               },
               {
                 text: "How To Install Mods",
-                link: "/path-of-titans-how-to-install-mods",
+                link: "Path of Titans/Curve Overrides/Alderons/Path-of-Titans-how-to-install-mods",
               },
             ],
           },
