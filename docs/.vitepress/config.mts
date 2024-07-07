@@ -74,56 +74,18 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: "Alderons Dinos",
+                text: "Alderons Dinosaurs",
                 collapsed: true,
-                items: [
-                  {
-                    text: "Dino Name",
-                    collapsed: true,
-                    items: [
-                      {
-                        text: "Attribute",
-                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
-                      },
-                      {
-                        text: "Multiplier",
-                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
-                      },
-                      {
-                        text: "Combat",
-                        items: [{ text: "ReplaceMe", link: "/ReplaceMe" }],
-                      },
-                    ],
-                  },
-                ],
+                items: [{ text: "T-Rex", link: "/replaceMe" }],
               },
               {
-                text: "Modded Dino",
+                text: "Modded Dinosaurs",
                 collapsed: true,
                 items: [
                   {
-                    text: "Modder Name/Group",
+                    text: "Mikes Mods",
                     collapsed: true,
-                    items: [
-                      {
-                        text: "Modded Dino",
-                        collapsed: true,
-                        items: [
-                          {
-                            text: "Attribute",
-                            items: [{ text: "ReplaceMe", link: "/replace" }],
-                          },
-                          {
-                            text: "Multiplier",
-                            items: [{ text: "ReplaceMe", link: "/replace" }],
-                          },
-                          {
-                            text: "Combat",
-                            items: [{ text: "ReplaceMe", link: "/replace" }],
-                          },
-                        ],
-                      },
-                    ],
+                    items: [{ text: "Superdino", link: "/replaceMe" }],
                   },
                 ],
               },
