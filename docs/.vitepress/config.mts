@@ -76,7 +76,111 @@ export default defineConfig({
               {
                 text: "Alderons Dinosaurs",
                 collapsed: true,
-                items: [{ text: "T-Rex", link: "/replaceMe" }],
+                items: [
+                  {
+                    text: "Achillobator",
+                    link: "/Path-of-Titans-Achillobator",
+                  },
+                  {
+                    text: "Albertaceratops",
+                    link: "/Path-of-Titans-Albertaceratops",
+                  },
+                  { text: "Alioramus", link: "/Path-of-Titans-Alioramus" },
+                  { text: "Allosaurus", link: "/Path-of-Titans-Allosaurus" },
+                  {
+                    text: "Amargasaurus",
+                    link: "/Path-of-Titans-Amargasaurus",
+                  },
+                  {
+                    text: "Anodontosaurus",
+                    link: "/Path-of-Titans-Anodontosaurus",
+                  },
+                  { text: "Barsboldia", link: "/Path-of-Titans-Barsboldia" },
+                  {
+                    text: "Camptosaurus",
+                    link: "/Path-of-Titans-Camptosaurus",
+                  },
+                  {
+                    text: "Ceratosaurus",
+                    link: "/Path-of-Titans-Ceratosaurus",
+                  },
+                  {
+                    text: "Concavenator",
+                    link: "/Path-of-Titans-Concavenator",
+                  },
+                  {
+                    text: "Daspletosaurus",
+                    link: "/Path-of-Titans-Daspletosaurus",
+                  },
+                  {
+                    text: "Deinocheirus",
+                    link: "/Path-of-Titans-Deinocheirus",
+                  },
+                  { text: "Deinonychus", link: "/Path-of-Titans-Deinonychus" },
+                  {
+                    text: "Eotriceratops",
+                    link: "/Path-of-Titans-Eotriceratops",
+                  },
+                  {
+                    text: "Eurhinosaurus",
+                    link: "/Path-of-Titans-Eurhinosaurus",
+                  },
+                  {
+                    text: "Hatzegopteryx",
+                    link: "/Path-of-Titans-Hatzegopteryx",
+                  },
+                  { text: "Iguanodon", link: "/Path-of-Titans-Iguanodon" },
+                  { text: "Kaiwhekea", link: "/Path-of-Titans-Kaiwhekea" },
+                  {
+                    text: "Kentrosaurus",
+                    link: "/Path-of-Titans-Kentrosaurus",
+                  },
+                  {
+                    text: "Lambeosaurus",
+                    link: "/Path-of-Titans-Lambeosaurus",
+                  },
+                  {
+                    text: "Latenivenatrix",
+                    link: "/Path-of-Titans-Latenivenatrix",
+                  },
+                  { text: "Megalania", link: "/Path-of-Titans-Megalania" },
+                  {
+                    text: "Metriacanthosaurus",
+                    link: "/Path-of-Titans-Metriacanthosaurus",
+                  },
+                  {
+                    text: "Pachycephalosaurus",
+                    link: "/Path-of-Titans-Pachycephalosaurus",
+                  },
+                  {
+                    text: "Pycnonemosaurus",
+                    link: "/Path-of-Titans-Pycnonemosaurus",
+                  },
+                  {
+                    text: "Rhamphorhynchus",
+                    link: "/Path-of-Titans-Rhamphorhynchus",
+                  },
+                  { text: "Sarcosuchus", link: "/Path-of-Titans-Sarcosuchus" },
+                  { text: "Spinosaurus", link: "/Path-of-Titans-Spinosaurus" },
+                  { text: "Stegosaurus", link: "/Path-of-Titans-Stegosaurus" },
+                  {
+                    text: "Struthiomimus",
+                    link: "/Path-of-Titans-Struthiomimus",
+                  },
+                  {
+                    text: "Styracosaurus",
+                    link: "/Path-of-Titans-Styracosaurus",
+                  },
+                  { text: "Suchomimus", link: "/Path-of-Titans-Suchomimus" },
+                  {
+                    text: "Thalassodromeus",
+                    link: "/Path-of-Titans-Thalassodromeus",
+                  },
+                  {
+                    text: "Tyrannosaurus",
+                    link: "/Path-of-Titans-Tyrannosaurus",
+                  },
+                ],
               },
               {
                 text: "Modded Dinosaurs",
