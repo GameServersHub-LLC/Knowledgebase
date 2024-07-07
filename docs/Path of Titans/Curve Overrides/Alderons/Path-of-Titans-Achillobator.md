@@ -1,13 +1,18 @@
 # Achillobator
-
-This is all the default stats for the following creature:
+::: info LAST UPDATED
+<span style="color: #ffd369;">05-24-2024 by Mike</span>
+:::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="Achillobator.` in front of every line in the <code>Game.ini</code> under `[/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="Achillobator.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
 
-<span style="color: #ffd369;">Last Updated: 05-24-2024 by GSH</span>
+::: warning
+The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
+:::
+
+Listed below are the default stats for the following creature:`Achillobator`
+
 ## Attributes:
-
 ```
 Core.MaxHealth",Values=(100,200,300,400,600))
 Core.MaxStamina",Values=(100,100,100,100,100))
@@ -34,6 +39,12 @@ Core.PoisonRate",Values=(0,0,0,0,0))
 Core.PoisonHealRate",Values=(0.02,0.02,0.02,0.02,0.02))
 Core.VenomRate",Values=(0,0,0,0,0))
 Core.VenomHealRate",Values=(0.02,0.02,0.02,0.02,0.02))
+Core.ParalysisRate",Values=(0,0,0,0,0))
+Core.ParalysisHealRate",Values=(0.01,0.01,0.01,0.01,0.01))
+Core.ToxinRate",Values=(0,0,0,0,0))
+Core.ToxinHealRate",Values=(0.01,0.01,0.01,0.01,0.01))
+Core.MudRate",Values=(0,0,0,0,0))
+Core.MudHealRate",Values=(0,0,0,0,0))
 Core.HungerDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 Core.ThirstDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 Core.OxygenDamage",Values=(6,6,6,6,6))
@@ -63,7 +74,9 @@ Core.KnockbackToDelatchThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
-<span style="color: #ffd369;">Last Updated: 05-24-2024 by GSH</span>
+::: info LAST UPDATED
+<span style="color: #ffd369;">05-24-2024 by Mike</span>
+:::
 
 ## Multipliers:
 ```
@@ -269,7 +282,9 @@ Multiplier.FannedSubSpecies.BleedDamage",Values=(1.2,1.2,1.2,1.2,1.2))
 Multiplier.SleekSubSpecies.Acceleration",Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.VultureSubSpecies.HealthRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
-<span style="color: #ffd369;">Last Updated: 05-24-2024 by GSH</span>
+::: info LAST UPDATED
+<span style="color: #ffd369;">05-24-2024 by Mike</span>
+:::
 
 ## Combat:
 ```
@@ -297,6 +312,7 @@ MockingCackleCooldown",Values=(360,360,360,360,360))
 MockingCackleCost",Values=(20,20,20,20,20))
 ShredDamage",Values=(80,100,120,140,180))
 ShredCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
+ShredCost",Values=(6,6,6,6,6))
 CruelSwipeDamage",Values=(1,5,10,20,30))
 CruelSwipeCooldown",Values=(12,12,12,12,12))
 CruelSwipeDebuffDuration",Values=(0.05,0.05,0.05,0.05,0.05))
@@ -309,7 +325,7 @@ LeaderOfThePackCheckMembersPeriod",Values=(3,3,3,3,3))
 LeaderOfThePackBuffPeriod",Values=(3,3,3,3,3))
 LeaderOfThePackMaxDino",Values=(7,7,7,7,7))
 LeaderOfThePackRange",Values=(6000,6000,6000,6000,6000))
-StrengthInNumberArmorBuff",Values=(1.05,1.05,1.05,1.05,1.05))
+StrengthInNumberArmorBuff",Values=(1.1,1.1,1.1,1.1,1.1))
 StrengthInNumberRange",Values=(6000,6000,6000,6000,6000))
 WarCryDuration",Values=(30,30,30,30,30))
 WarCryRange",Values=(3000,3000,3000,3000,3000))
@@ -327,6 +343,8 @@ PounceStrength",Values=(500,500,500,500,500))
 PounceDuration",Values=(1,1,1,1,1))
 PounceCooldown",Values=(8,8,8,8,8))
 PounceMinVictimCombatWeight",Values=(2000,3000,4000,5000,5000))
+AttachStaminaDrainPerSecond",Values=(2,2,2,2,2))
+AttachUnderwaterStaminaDrainPerSecond",Values=(2,2,2,2,2))
 HollowBonesJumpStamina",Values=(0.8,0.8,0.8,0.8,0.8))
 RippingKickMovementSpeed",Values=(300,300,300,300,300))
 RippingKickDamage",Values=(10,10,10,10,10))
@@ -337,15 +355,15 @@ CounterbalanceStamina",Values=(0.85,0.85,0.85,0.85,0.85))
 RudderJumpControl",Values=(2,2,2,2,2))
 RudderJumpStamina",Values=(0.8,0.8,0.8,0.8,0.8))
 RudderFallDamage",Values=(1.15,1.15,1.15,1.15,1.15))
-MobBossAttackBuffPercent",Values=(5,5,5,5,5))
+MobBossAttackBuffPercent",Values=(10,10,10,10,10))
 MobBossCheckMembersPeriod",Values=(3,3,3,3,3))
 MobBossBuffPeriod",Values=(3,3,3,3,3))
 MobBossMaxDino",Values=(7,7,7,7,7))
 MobBossRange",Values=(3000,3000,3000,3000,3000))
 BarkCooldown",Values=(20,20,20,20,20))
 ```
-
-<span style="color: #ffd369;">Last Updated: 05-24-2024 by GSH</span>
-
+::: info LAST UPDATED
+<span style="color: #ffd369;">05-24-2024 by Mike</span>
+:::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
