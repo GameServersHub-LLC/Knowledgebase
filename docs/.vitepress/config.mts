@@ -674,11 +674,11 @@ export default defineConfig({
             items: [
               {
                 text: "How to configurate INIs",
-                link: "Pages/Path of Titans/path-of-titans-how-to-configurate-server",
+                link: "Pages/Path of Titans/Server Configurations/path-of-titans-how-to-configurate-server",
               },
               {
                 text: "How To Install Mods",
-                link: "Pages/Path of Titans/path-of-titans-how-to-install-Mods",
+                link: "Pages/Path of Titans/Server Configurations/path-of-titans-how-to-install-mods",
               },
             ],
           },
