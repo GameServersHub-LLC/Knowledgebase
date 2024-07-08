@@ -1,9 +1,11 @@
-### We continually strive to improve our knowledge base to ensure that our customers have access to the most relevant and up-to-date information. Therefore, we highly value your suggestions and feedback on further enhancing our knowledge base. If you feel something needs to be added or added, we encourage you to join our Discord server.
+# We continually strive to improve our knowledge base to ensure that our customers have access to the most relevant and up-to-date information. Therefore, we highly value your suggestions and feedback on further enhancing our knowledge base. If you feel something needs to be added or added, we encourage you to join our Discord server.
 
 ### [By creating a support ticket on our discord server, you can let us know how we can improve and serve you better](https://discord.gg/gsh)
 
 ---
-
+::: warning
+The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
+:::
 Editing your configuration files using the official GameServersHub admin dashboard is easy. Follow the steps below to edit your configuration files efficiently.
 
 1.  Open the `File Managers` tab inside your admin dashboard.
@@ -12,205 +14,64 @@ Editing your configuration files using the official GameServersHub admin dashboa
 
 Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
 
-**IGameSession:**
+## IGameSession:
 
 Below are settings that will work under the `[/Script/PathOfTitans.IGameSession]` header.
 
-`ServerName=`
+|Config Name:|Description:|
+|-|-|
+|`ServerName=`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore "\_, "which will act as syntax spacing. **Note**: _GameServersHub runs the Path of Titans on Linux Machines which don't require underscores._|
+|`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
+|`ServerPassword=`|Set a password for accessing the server to ensure authorized access only.|
+|`bServerPaidUsersOnly=false`|Enable Free-to-Play Access: Determine whether the server permits users to join without payment.|
+|`bServerAllowChat=true`|Enhance Communication Control: Enable or disable text chat functionality for the entire server, granting you greater control over communication.|
+|`bServerGlobalChat=true`|Manage Global Chat: Toggle the availability of the global chat channel on the server, granting you the ability to enable or disable it as desired.|
+|`bServerFish=true`|Control Fish Population: Toggle the spawning of fish, giving you the ability to either enable or disable it.|
+|`bServerWaterQualitySystem=true`|Manage Water Quality System: This feature allows you to enable or disable the water quality system per your needs.|
+|`bOverrideWaterRegeneration=false`|Control Water Regeneration Override: This feature enables or disables the override function for water regeneration. If this setting is turned off, the system will revert to using predefined default values.|
+|`bEnableWaterRegeneration=true`|Configure Water Regeneration: This feature determines if water will replenish over time. If you choose to disable this, it is crucial to have water restoration quests in your hosted map; otherwise, the water supply could eventually deplete.|
+|`WaterRegenerationRateMultiplierUpdate=180`|This involves updating the multiplier for the water regeneration rate.|
+|`WaterRegenerationRate=60`|This refers to the duration, in seconds, before water begins to regenerate. Setting this value too low prompts the server to update water levels more frequently, which could potentially   lead to server lag.|
+|`WaterRegenerationValue=10`|This refers to the volume of water replenished during each cycle. The actual amount scales based on the size of the water body.|
+|`WaterRainRegenerationIncrement=20.0`|Multiplier that increases the amount of water restored when it rains.|
+|`bServerWaystoneCooldownRemoval=true`|This function permits or restricts players from using marks to initiate a cooldown on Waystones.|
+|`OverrideWaystoneCooldown=-1`|This setting allows you to alter the cooldown period for Waystones in seconds. If set to -1, the default cooldown duration will be utilized.|
+|`bServerAllowInGameWaystone=true`|This function allows the acceptance of Waystone invites within the game by resting for 30 seconds in a secure zone.|
+|`MaxCompleteQuestsInLocation=3`|Determines how many quests must be completed within a POI before it is 'completed'. Default|
+|`bServerFallDamage=true`|This feature allows you to either activate or deactivate fall damage for all participants on the server.|
+|`ServerDiscord=gsh`|This setting designates the linked community Discord server. You should only input the alphanumeric characters found after the discord.gg part of the server invite link. For instance, for the link [https://discord.gg/gsh](https://discord.gg/gsh), you should only use **gsh**. Please ensure to use a perpetual invite link to avoid expiration.|
+|`bServerAutoRestart=false`|This function facilitates the automatic rebooting of the server.|
+|`RestartLengthInSeconds=10800`|This setting determines the interval, in seconds, between each automatic server restart. Players will receive warnings at intervals of 2 and 1 hour, 30, 10, 5, and 1 minute, as well as 10, 5, 4, 3, 2, and 1 seconds before the restart.|
+|`ServerDeadBodyTime=0`|This setting indicates the duration, in seconds, for which a deceased character's body will remain. A value of 0 implies that the body will remain indefinitely.|
+|`bServerAllowMap=true`|Enables or disables the full map for the entire server.|
+|`bServerAllowMinimap=true`|Enables or disables the minimap for the entire server.|
+|`AllowedCharacters=DinosaurName`|This setting turns off all dinosaurs except those specified in the list. You can find more details. [Click to learn more]().|
+|`DisallowedCharacters=DinosaurName`|This setting disables the dinosaur specified in the list. You can find more details. [Click to learn more]().|
+|`bServerHomeCaves=true`|This feature allows you to either activate or deactivate the home caves on your server.|
+|`bServerEditAbilitiesInHomeCaves=true`|If set to true, players' ability modifications are restricted to their home caves. However, if set to false, players can alter their abilities anywhere, provided they are asleep. Setting this feature to true if you've also activated home caves on your server is advisable.|
+|`bServerHatchlingCaves=true`|This feature lets you turn the Hatchling Caves tutorial on or off. When enabled, players start in a tutorial zone at zero growth, and upon completing quests, they reach 0.3 growth before exiting. If disabled, players will directly spawn into the world at 0.3 growth, bypassing the tutorial altogether.|
+|`bServerHungerThirstInCaves=false`|Enables/Disables Hunger and Thirst in caves. If disabled, Dinosaurs will not lose hunger or thirst in caves and will take no damage if they have no food or water.|
+|`bServerGrowth=true`|This feature gives you the control to turn on or off the Growth function on your server. If turned off, all dinosaurs will appear as adults upon spawning, and all existing characters will be instantly matured into adults.|
+|`GlobalPassiveGrowthPerMinute=0.005`|This feature allows adding extra passive growth per second to all dinosaurs. Remember that the total growth equals 1, so a suitable value might be 0.005. This means it would take a player 200 minutes (or 3.3 hours) to reach adulthood. The growth amount is uniformly applied to all dinosaurs. Setting this value to 0 turns off passive growth.|
+|`QuestGrowthMultiplier=1`|This feature lets you modify the growth rate players gain when they finish quests. If you wish to turn off growth from quests, set this value to 0.|
+|`QuestMarksMultiplier=1.0`|Specifies the multiplier used when rewarding marks for quest completion.|
+|`bEnableMaxUnclaimedRewards=false`|Coming Soon!|
+|`bOverrideLocalQuestCooldown=false`|If set to `true` will allow you to override the time it takes for a local quest to cooldown after completion.|
+|`LocalQuestCooldown=3600`|Time it takes in seconds for a quest to cooldown before it can be completed again. Default `3600` (1 hour)|
+|`bOverrideLocationQuestCooldown=false`|If set to `true` will allow you to override the time it takes for the POI completion reward to reset after reaching 100%. Default `false`|
+|`LocationQuestCooldown=3600`|Time it takes in seconds for a the POI Completion reward to reset before it can be completed again. Default `3600` (1 hour)|
+|`bLoseGrowthPastGrowthStages=true`|Allows players to lose growth past Juvenile/Adolescent/Sub-Adult/Adult growth states when they die.|
+|`bLoseUnclaimedQuestsOnDeath=false`|Coming Soon!|
+|`CombatDeathMarksPenaltyPercent=25`|Percent of total marks a player will lose when they die from combat. Default `25`|
+|`CombatDeathGrowthPenaltyPercent=10`|Percent of growth a player will lose when they die from combat. Default `10`|
+|`FallDeathMarksPenaltyPercent=5`|Percent of total marks a player will lose when they die from fall damage. Default `5`|
+|`FallDeathGrowthPenaltyPercent=2`|Percent of growth a player will lose when they die from fall damage. Default `2`|
+|`SurvivalDeathMarksPenaltyPercent=10`|Percent of total marks a player will lose when they die from starving/thirst/drowning. Default  `10`|
+|`SurvivalDeathGrowthPenaltyPercent=5`|Percent of growth a player will lose when they die from starving/thirst/drowning. Default `5`|
+|`ChangeSubspeciesGrowthPenaltyPercent=10`|Percent growth stage lost when changing sub species Default `10`|
 
-Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore "\_, "which will act as syntax spacing. **Note**: _GameServersHub runs the Path of Titans on Linux Machines which don't require underscores._
 
-`MaxPlayers=100`
 
-Specifies the maximum number of players allowed on the server.
-
-`ServerPassword=`
-
-Set a password for accessing the server to ensure authorized access only.
-
-`bServerPaidUsersOnly=false`
-
-Enable Free-to-Play Access: Determine whether the server permits users to join without payment.
-
-`bServerAllowChat=true`
-
-Enhance Communication Control: Enable or disable text chat functionality for the entire server, granting you greater control over communication.
-
-`bServerGlobalChat=true`
-
-Manage Global Chat: Toggle the availability of the global chat channel on the server, granting you the ability to enable or disable it as desired.
-
-`bServerFish=true`
-
-Control Fish Population: Toggle the spawning of fish, giving you the ability to either enable or disable it.
-
-`bServerWaterQualitySystem=true`
-
-Manage Water Quality System: This feature allows you to enable or disable the water quality system per your needs.
-
-`bOverrideWaterRegeneration=false`
-
-Control Water Regeneration Override: This feature enables or disables the override function for water regeneration. If this setting is turned off, the system will revert to using predefined   default values.
-
-`bEnableWaterRegeneration=true`
-
-Configure Water Regeneration: This feature determines if water will replenish over time. If you choose to disable this, it is crucial to have water restoration quests in your hosted map;   otherwise, the water supply could eventually deplete.
-
-`WaterRegenerationRateMultiplierUpdate=180`
-
-This involves updating the multiplier for the water regeneration rate.
-
-`WaterRegenerationRate=60`
-
-This refers to the duration, in seconds, before water begins to regenerate. Setting this value too low prompts the server to update water levels more frequently, which could potentially   lead to server lag.
-
-`WaterRegenerationValue=10`
-
-This refers to the volume of water replenished during each cycle. The actual amount scales based on the size of the water body.
-
-`WaterRainRegenerationIncrement=20.0`
-
-Multiplier that increases the amount of water restored when it rains.
-
-`bServerWaystoneCooldownRemoval=true`
-
-This function permits or restricts players from using marks to initiate a cooldown on Waystones.
-
-`OverrideWaystoneCooldown=-1`
-
-This setting allows you to alter the cooldown period for Waystones in seconds. If set to -1, the default cooldown duration will be utilized.
-
-`bServerAllowInGameWaystone=true`
-
-This function allows the acceptance of Waystone invites within the game by resting for 30 seconds in a secure zone.
-
-`MaxCompleteQuestsInLocation=3`
-
-Determines how many quests must be completed within a POI before it is 'completed'. Default
-
-`bServerFallDamage=true`
-
-This feature allows you to either activate or deactivate fall damage for all participants on the server.
-
-`ServerDiscord=gsh`
-
-This setting designates the linked community Discord server. You should only input the alphanumeric characters found after the discord.gg part of the server invite link. For instance, for   the link [https://discord.gg/gsh](https://discord.gg/gsh), you should only use **gsh**. Please ensure to use a perpetual invite link to avoid expiration.
-
-`bServerAutoRestart=false`
-
-This function facilitates the automatic rebooting of the server.
-
-`RestartLengthInSeconds=10800`
-
-This setting determines the interval, in seconds, between each automatic server restart. Players will receive warnings at intervals of 2 and 1 hour, 30, 10, 5, and 1 minute, as well as 10,   5, 4, 3, 2, and 1 seconds before the restart.
-
-`ServerDeadBodyTime=0`
-
-This setting indicates the duration, in seconds, for which a deceased character's body will remain. A value of 0 implies that the body will remain indefinitely.
-
-`bServerAllowMap=true`
-
-Enables or disables the full map for the entire server.
-
-`bServerAllowMinimap=true`
-
-Enables or disables the minimap for the entire server.
-
-`AllowedCharacters=DinosaurName`
-
-This setting turns off all dinosaurs except those specified in the list. You can find more details. [Click to learn more](https://hosting.pathoftitans.wiki/guide/dinosaurs).
-
-`DisallowedCharacters=DinosaurName`
-
-This setting disables the dinosaur specified in the list. You can find more details. [Click to learn more](https://hosting.pathoftitans.wiki/guide/dinosaurs).
-
-`bServerHomeCaves=true`
-
-This feature allows you to either activate or deactivate the home caves on your server.
-
-`bServerEditAbilitiesInHomeCaves=true`
-
-If set to true, players' ability modifications are restricted to their home caves. However, if set to false, players can alter their abilities anywhere, provided they are asleep. Setting this   feature to true if you've also activated home caves on your server is advisable.
-
-`bServerHatchlingCaves=true`
-
-This feature lets you turn the Hatchling Caves tutorial on or off. When enabled, players start in a tutorial zone at zero growth, and upon completing quests, they reach 0.3 growth before   exiting. If disabled, players will directly spawn into the world at 0.3 growth, bypassing the tutorial altogether.
-
-`bServerHungerThirstInCaves=false`
-
-Enables/Disables Hunger and Thirst in caves. If disabled, Dinosaurs will not lose hunger or thirst in caves and will take no damage if they have no food or water.
-
-`bServerGrowth=true`
-
-This feature gives you the control to turn on or off the Growth function on your server. If turned off, all dinosaurs will appear as adults upon spawning, and all existing characters will be   instantly matured into adults.
-
-`GlobalPassiveGrowthPerMinute=0`
-
-This feature allows adding extra passive growth per second to all dinosaurs. Remember that the total growth equals 1, so a suitable value might be 0.005. This means it would take a   player 200 minutes (or 3.3 hours) to reach adulthood. The growth amount is uniformly applied to all dinosaurs. Setting this value to 0 turns off passive growth.
-
-`QuestGrowthMultiplier=1`
-
-This feature lets you modify the growth rate players gain when they finish quests. If you wish to turn off growth from quests, set this value to 0.
-
-`QuestMarksMultiplier=1.0`
-
-Specifies the multiplier used when rewarding marks for quest completion.
-
-`bEnableMaxUnclaimedRewards=false`
-
-Coming Soon!
-
-`bOverrideLocalQuestCooldown=false`
-
-If set to `true` will allow you to override the time it takes for a local quest to cooldown after completion.
-
-`LocalQuestCooldown=3600`
-
-Time it takes in seconds for a quest to cooldown before it can be completed again. Default `3600` (1 hour)
-
-`bOverrideLocationQuestCooldown=false`
-
-If set to `true` will allow you to override the time it takes for the POI completion reward to reset after reaching 100%. Default `false`
-
-`LocationQuestCooldown=3600`
-
-Time it takes in seconds for a the POI Completion reward to reset before it can be completed again. Default `3600` (1 hour)
-
-`bLoseGrowthPastGrowthStages=true`
-
-Allows players to lose growth past Juvenile/Adolescent/Sub-Adult/Adult growth states when they die.
-
-`bLoseUnclaimedQuestsOnDeath=false`
-
-Coming Soon!
-
-`CombatDeathMarksPenaltyPercent=25`
-
-Percent of total marks a player will lose when they die from combat. Default `25`
-
-`CombatDeathGrowthPenaltyPercent=10`
-
-Percent of growth a player will lose when they die from combat. Default `10`
-
-`FallDeathMarksPenaltyPercent=5`
-
-Percent of total marks a player will lose when they die from fall damage. Default `5`
-
-`FallDeathGrowthPenaltyPercent=2`
-
-Percent of growth a player will lose when they die from fall damage. Default `2`
-
-`SurvivalDeathMarksPenaltyPercent=10`
-
-Percent of total marks a player will lose when they die from starving/thirst/drowning. Default  `10`
-
-`SurvivalDeathGrowthPenaltyPercent=5`
-
-Percent of growth a player will lose when they die from starving/thirst/drowning. Default `5`
-
-`ChangeSubspeciesGrowthPenaltyPercent=10`
-
-Percent growth stage lost when changing sub species Default `10`
 
 `AFKDisconnectTime=600`
 
