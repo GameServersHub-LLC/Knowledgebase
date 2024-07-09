@@ -14,13 +14,15 @@ Editing your configuration files using the official GameServersHub admin dashboa
 
 Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
 
-## IGameSession:
+## IGameSession Config:
 
 Below are settings that will work under the `[/Script/PathOfTitans.IGameSession]` header.
-
+::: tip
+By not adding the line makes the line to the **default** setting
+:::
 |Config Name:|Description:|
 |-|-|
-|`ServerName=`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore "\_, "which will act as syntax spacing. **Note**: _GameServersHub runs the Path of Titans on Linux Machines which don't require underscores._|
+|`ServerName=`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: *GameServersHub runs Path of Titans on Linux Machines which don't require underscores.*
 |`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
 |`ServerPassword=`|Set a password for accessing the server to ensure authorized access only.|
 |`bServerPaidUsersOnly=false`|Enable Free-to-Play Access: Determine whether the server permits users to join without payment.|
@@ -69,105 +71,122 @@ Below are settings that will work under the `[/Script/PathOfTitans.IGameSession]
 |`SurvivalDeathMarksPenaltyPercent=10`|Percent of total marks a player will lose when they die from starving/thirst/drowning. Default  `10`|
 |`SurvivalDeathGrowthPenaltyPercent=5`|Percent of growth a player will lose when they die from starving/thirst/drowning. Default `5`|
 |`ChangeSubspeciesGrowthPenaltyPercent=10`|Percent growth stage lost when changing sub species Default `10`|
+|`AFKDisconnectTime=600`|Specifies the amount of time in seconds before a player will be automatically disconnected from the server if they are idle/AFK. Useful to prevent idle players from filling your server. Default `600` seconds (10 minutes). If set to `0`, no players will ever be kicked for being idle.|
+|`MaxClientPingMs=0`|Specifies the maximum ms ping before auto-disconnecting the player. `0` will disable this option. Use to prevent high-ping players causing issues for your server.|
+|`MaxClientPingDuration=0`|Specifies the duration of time in seconds the player's ms ping must be above the `MaxClientPingMs` before being disconnected.|
+|`ServerLogoutTime=60`|Specifies the duration of time in seconds the player's ms ping must be above the `MaxClientPingMs` before being disconnected.|
+|`bServerAntiRevengeKill=true`|Will only work when a Database is set to remote, for hived servers. It is planned to work for all servers in the future. When set to `true`, when a player is killed, any of their other characters within a certain radius are flagged with a 10 minute timer, which prevents those specific characters from logging back in right away. Characters that are further away are unaffected by the login timer.|
+|`RevengeKillDistance=100000`|Will only work when a Database is set to remote, for hived servers. It is planned to work for all servers in the future. Specifies the radius of the Anti-Revenge Kill distance. Defaults to `100000` which is 1 km.|
+|`MaxCharactersPerPlayer=30`|Specifies the maximum number of characters a user can have in total.|
+|`MaxCharactersPerSpecies=1`|Specified the maximum number of characters a user can have per species.|
+|`bLoseQuestsOnDeath=true`|Specifies whether quests will automatically fail when a player dies. Defaults to `true`|
+|`SpeedhackDetection=1`|Setting for action taken when speed hacks are detected. 0 = `none`, 1 = `log`, 2 = `kick`, 3 = `ban`. From settings 1-3, a PlayerHack webhook will also be sent.|
+|`SpeedhackThreshold=10`|The amount of speedhack detections that will be allowed per minute before the `SpeedhackDetection` action is taken. A value of 0 will disable detection. This value helps to minimize false positives due to packet loss or lag.|
 
-
-
-
-`AFKDisconnectTime=600`
-
-Specifies the amount of time in seconds before a player will be automatically disconnected from the server if they are idle/AFK. Useful to prevent idle players from filling your server. Default `600` seconds (10 minutes). If set to `0`, no players will ever be kicked for being idle.
-
-`MaxClientPingMs=0`
-
-Specifies the maximum ms ping before auto-disconnecting the player. `0` will disable this option. Use to prevent high-ping players causing issues for your server.
-
-`MaxClientPingMs=0`
-
-Specifies the maximum ms ping before auto-disconnecting the player. `0` will disable this option. Use to prevent high-ping players causing issues for your server.
-
-`MaxClientPingDuration=0`
-
-Specifies the duration of time in seconds the player's ms ping must be above the `MaxClientPingMs` before being disconnected.
-
-`ServerLogoutTime=60`
-
-Specifies the duration of time in seconds the player's ms ping must be above the `MaxClientPingMs` before being disconnected.
-
-`bServerAntiRevengeKill=true`
-
-Will only work when a Database is set to remote, for hived servers. It is planned to work for all servers in the future. When set to `true`, when a player is killed, any of their other   characters within a certain radius are flagged with a 10 minute timer, which prevents those specific characters from logging back in right away. Characters that are further away are   unaffected by the login timer.
-
-`RevengeKillDistance=100000`
-
-Will only work when a Database is set to remote, for hived servers. It is planned to work for all servers in the future. Specifies the radius of the Anti-Revenge Kill distance. Defaults   to `100000` which is 1 km.
-
-`MaxCharactersPerPlayer=30`
-
-Specifies the maximum number of characters a user can have in total.
-
-`MaxCharactersPerSpecies=1`
-
-Specified the maximum number of characters a user can have per species.
-
-`bLoseQuestsOnDeath=true`
-
-Specifies whether quests will automatically fail when a player dies. Defaults to `true`
-
-`SpeedhackDetection=1`
-
-Setting for action taken when speed hacks are detected. 0 = `none`, 1 = `log`, 2 = `kick`, 3 = `ban`. From settings 1-3, a PlayerHack webhook will also be sent.
-
-`SpeedhackThreshold=10`
-
-The amount of speedhack detections that will be allowed per minute before the `SpeedhackDetection` action is taken. A value of 0 will disable detection. This value helps to minimize false   positives due to packet loss or lag.
-
-**IGameMode:**
+## IGameMode Config:
 
 Below are settings that will work under the `[/Script/PathOfTitans.IGameMode]` header.
+|Config Name:|Description:|
+|-|-|
+|`ServerStartingTime=1380`|This feature designates the starting time of day for the server after a reboot. Time is measured on a scale from 0-2400. For instance, 100 represents 1:00 AM, 1200 signifies 12:00 PM, and 5800 denotes 6:00 PM.|
+|`bServerDynamicTimeOfDay=1`|This feature determines whether the server operates on a fixed or fluctuating time of day.|
+|`bServerRestrictCarnivoreGrouping=false`|This feature determines whether the server limits the grouping of carnivores to those of the same species.|
+|`bServerRestrictHerbivoreGrouping=false`|Specifies if the server restricts carnivore grouping to the same species. (Revision 13324)|
+|`ServerDayLength=240`|This feature sets the duration (minutes) for a complete day cycle.|
+|`ServerNightLength=240`|Specified the length (in minutes) of a full night cycle. (Revision 29073)|
+|`MaxGroupSize=10`|This feature establishes the limit for the number of slots available for player groups.|
+|`MaxGroupLeaderCommunicationDistance=50000`|This feature determines the distance (in meters) at which players can view their fellow group members.|
 
-`ServerStartingTime=1380`
+## BattleEye Config
 
-This feature designates the starting time of day for the server after a reboot. Time is measured on a scale from 0-2400. For instance, 100 represents 1:00 AM, 1200 signifies 12:00 PM,   and 5800 denotes 6:00 PM.
+Below are settings that will work under the `[BattlEye]` header.
+::: tip
+Only add this line if you want to set it to `false` as its set to `true` by default
+:::
+|Config Name:|Description:|
+|-|-|
+|`bEnabled=true`|This enables `BattleEye` on the server, which is a anti-cheat Defaults to `true`|
 
-`bServerDynamicTimeOfDay=1`
+## Example of Game.ini
+::: tip
+You can add `#` in front of any lines to remove them without deleting them
+:::
+```ini
+[/Script/PathOfTitans.IGameSession]
+ServerMap=Island
+ServerName=Hosted By GSH
+MaxPlayers=100
+ServerPassword=
+bServerPaidUsersOnly=false
+bServerAllowChat=true
+bServerGlobalChat=true
+bServerFish=true
+bServerWaterQualitySystem=true
+bServerWaystoneCooldownRemoval=true
+bServerFallDamage=true
+ServerDiscord=gsh
+bServerAutoRestart=true
+RestartLengthInSeconds=21600
+ServerDeadBodyTime=0
 
-This feature determines whether the server operates on a fixed or fluctuating time of day.
+[/Script/PathOfTitans.IGameMode]
+ServerStartingTime=1350
+bServerDynamicTimeOfDay=1
+ServerDayLength=240
+MaxGroupSize=10
+MaxGroupLeaderCommunicationDistance=50000
+; This is for loading Creator Modes on startup
+DefaultCreatorModeSave=
 
-`bServerRestrictCarnivoreGrouping=false`
 
-This feature determines whether the server limits the grouping of carnivores to those of the same species.
+[SourceRCON]
+bEnabled=true
+bLogging=true
+Password=ChangeMe
 
-`bServerRestrictHerbivoreGrouping=false`
 
-Specifies if the server restricts carnivore grouping to the same species. (Revision 13324)
+[ServerWebhooks]
+bEnabled=true
+Format="Discord"
+PlayerReport=""
+PlayerLogin=""
+PlayerLogout=""
+PlayerLeave=""
+PlayerKilled=""
+PlayerQuestComplete=""
+PlayerQuestFailed=""
+PlayerRespawn=""
+PlayerWaystone=""
+PlayerChat=""
+PlayerHack=""
+PlayerDamagedPlayer=""
+PlayerJoinedGroup=""
+PlayerLeftGroup=""
+ServerRestart=""
+ServerRestartCountdown=""
+ServerModerate=""
+AdminSpectate=""
+AdminCommand=""
+BadAverageTick=""
+ServerError=""
+PlayerProfanity=""
 
-`ServerDayLength=240`
+```
 
-This feature sets the duration (minutes) for a complete day cycle.
 
-`ServerNightLength=240`
 
-Specified the length (in minutes) of a full night cycle. (Revision 29073)
 
-`MaxGroupSize=10`
-
-This feature establishes the limit for the number of slots available for player groups.
-
-`MaxGroupLeaderCommunicationDistance=50000`
-
-This feature determines the distance (in meters) at which players can view their fellow group members.
-
-**ServerWebhooks:**
+## ServerWebhooks Config:
 
 Below are settings that will work under the `[ServerWebhooks]` header.
 
-`bEnabled=true`
+|Config Name:|Description:|
+|-|-|
+|`bEnabled=true`|Set this to true if you want the server to call webhooks.|
+|`Format="Discord"`|`Discord` or `General`: Discord will format the messsage for posting directly to the channel `General` will format the message to be consumed by your own website / server / backend|
+|||
 
-Set this to true if you want the server to call webhooks.
 
-`Format="Discord"`
-
-`Discord` or `General`: Discord will format the messsage for posting directly to the channel `General` will format the message to be consumed by your own website / server / backend
 
 `PlayerReport=""`
 
@@ -261,9 +280,7 @@ This records instances of a player using profanity in the game chat.
 
 Below are settings that will work under the `[BattlEye]` header.
 
-`bEnabled=true`
 
-This enables `BattleEye` on the server, which is a anti-cheat Defaults to `true`
 
 ---
 
