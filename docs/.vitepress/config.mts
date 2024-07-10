@@ -52,6 +52,10 @@ export default defineConfig({
         '2024 © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.',
     },
 
+    outline: {
+      level: "deep",
+    },
+
     sidebar: [
       {
         text: "Welcome to our guides!",
