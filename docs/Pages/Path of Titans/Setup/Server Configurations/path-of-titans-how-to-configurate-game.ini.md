@@ -175,9 +175,8 @@ PlayerProfanity=""
 
 ```
 
-Please go here for `[ServerWebhooks]` configuration
 ## [Server Webhooks Config]()
-
+[Link for `[ServerWebhooks]` configuration]()
 
 
 
