@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Spinosaurus`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(300,475,650,825,1000))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(500,1200,2625,3900,6500))
@@ -79,7 +79,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -288,7 +288,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(20,20,30,40,50))
 BiteBoneBreakChance,Values=(0,0,0,0,0))
 BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))

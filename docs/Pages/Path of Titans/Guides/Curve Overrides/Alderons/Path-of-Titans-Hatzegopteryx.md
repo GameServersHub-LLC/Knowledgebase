@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Hatzegopteryx`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,250,400,450,550))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(250,1000,2100,2700,3100))
@@ -82,7 +82,7 @@ Core.CharacterCarrySpeedMult,Values=(0.67,0.67,0.67,0.67,0.67))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -434,7 +434,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 MeshEffectBuckingDrainBuff,Values=(0.5,0.5,0.5,0.5,0.5))
 BeakClackCooldown,Values=(300,300,300,300,300))
 BeakClackRange,Values=(1000,1000,1000,1000,1000))

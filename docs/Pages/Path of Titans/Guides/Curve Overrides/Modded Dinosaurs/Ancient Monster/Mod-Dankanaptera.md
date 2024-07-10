@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`ArazoaXiph`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,200,300,400,500))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(300,975,1200,1875,3000))
@@ -75,7 +75,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -426,7 +426,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(20,25,30,35,40))
 BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))
 IncommingBiteDamage,Values=(0.75,0.75,0.75,0.75,0.75))

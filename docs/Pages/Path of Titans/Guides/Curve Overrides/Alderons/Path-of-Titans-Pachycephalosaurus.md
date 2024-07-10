@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Nyctatyrannus`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,300,450,550,650))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(300,1100,2000,3000,3700))
@@ -57,7 +57,7 @@ Core.TurnInPlaceRadiusMultiplier,Values=(1,1,1,1,1))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -266,7 +266,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1.15))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(20,30,40,50,60))
 BoneBreakChance,Values=(0,0,0,0,0))
 BiteCooldown,Values=(1.2,1.2,1.2,1.2,1.2))

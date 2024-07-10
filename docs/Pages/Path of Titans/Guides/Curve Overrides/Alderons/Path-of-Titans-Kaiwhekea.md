@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Kaiwhekea`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(150,262.5,375,487.5,600))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(300,1500,2400,3200,4000))
@@ -80,7 +80,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -335,7 +335,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(20,20,30,40,40))
 BoneBreakChance,Values=(0,0,0.01,0.03,0.05))
 BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))

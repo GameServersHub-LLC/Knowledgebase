@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Golugore`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,200,400,600,720))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(250,500,1500,2500,3500))
@@ -76,7 +76,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Sleeping,Values=(2,2,2,2,2))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -429,7 +429,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(60,60,60,60,60))
 BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))
 BiteBoneBreakChance,Values=(0,0,0.01,0.03,0.05))

@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`AbsentiaAcro`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,230,400,640,800))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(430,1250,2730,4200,6250))
@@ -73,7 +73,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -282,7 +282,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1.67))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(15,25,40,50,65))
 BoneBreakChance,Values=(0,0,0,0,0))
 BiteCooldown,Values=(1,1,1,1,1))

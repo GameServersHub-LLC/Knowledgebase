@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Gigamandra`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(200,325,450,525,600))
 Core.MaxStamina,Values=(50,100,100,100,100))
 Core.CombatWeight,Values=(200,800,1300,2300,3100))
@@ -75,7 +75,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -428,7 +428,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(10,20,30,30,30))
 BoneBreakChance,Values=(0,0,0.01,0.03,0.05))
 BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))

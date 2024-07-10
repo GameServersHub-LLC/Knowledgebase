@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Camarasaurus`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,200,500,1000,1500))
 Core.MaxStamina,Values=(230,200,150,100,100))
 Core.CombatWeight,Values=(1000,3000,4000,6000,7500))
@@ -58,7 +58,7 @@ Core.TurnInPlaceRadiusMultiplier,Values=(1,1,1,1,1))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.25,1.25,1.25,1.25,1.25))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -320,7 +320,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(1,5,10,20,30))
 BoneBreakChance,Values=(0,0,0,0,0))
 BiteCooldown,Values=(5,5,5,5,5))

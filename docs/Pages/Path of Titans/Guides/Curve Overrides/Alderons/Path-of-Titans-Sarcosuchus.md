@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Sarcosuchus`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(200,250,300,390,480))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(300,900,1500,2675,5000))
@@ -82,7 +82,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -337,7 +337,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(10,20,30,40,50))
 BiteBoneBreakChance,Values=(0,0,0,0,0))
 BiteCooldown,Values=(1,1,1,1,1))

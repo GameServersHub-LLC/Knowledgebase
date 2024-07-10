@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`AMMoraquile`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(50,150,200,400,800))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(250,1000,2100,2800,3500))
@@ -75,7 +75,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(2,2,2,2,2))
 Multiplier.HealthRecovery.Sleeping,Values=(4,4,4,4,4))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -429,7 +429,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(70,70,70,70,70))
 BoneBreakChance,Values=(0,0,0.01,0.03,0.05))
 BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))

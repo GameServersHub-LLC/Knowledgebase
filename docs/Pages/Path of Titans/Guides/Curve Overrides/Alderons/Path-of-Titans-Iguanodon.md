@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`IgnisNoviana`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(100,200,300,400,700))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(300,1100,2000,3000,4000))
@@ -73,7 +73,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -282,7 +282,7 @@ BodyFoodDecayPerSecond,Values=(2,1,1,1,1.49))
 :::
 
 ## Combat:
-```
+```cs
 BarrageDamage,Values=(50,50,50,50,50))
 BarrageCooldown,Values=(1.33,1.33,1.33,1.33,1.33))
 BarrageDamageBuff,Values=(0.04,0.04,0.04,0.04,0.04))

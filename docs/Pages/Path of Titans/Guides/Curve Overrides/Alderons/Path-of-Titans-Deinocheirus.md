@@ -13,7 +13,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`Deinocheirus`
 
 ## Attributes:
-```
+```cs
 Core.MaxHealth,Values=(300,525,750,975,1000))
 Core.MaxStamina,Values=(100,100,100,100,100))
 Core.CombatWeight,Values=(500,1000,2400,3450,6300))
@@ -79,7 +79,7 @@ Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 :::
 
 ## Multipliers:
-```
+```cs
 Multiplier.HealthRecovery.Resting,Values=(1.15,1.15,1.15,1.15,1.15))
 Multiplier.HealthRecovery.Sleeping,Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing,Values=(1,1,1,1,1))
@@ -288,7 +288,7 @@ Multiplier.HydratedBlows.AttackDamage,Values=(1.2,1.2,1.2,1.2,1.2))
 :::
 
 ## Combat:
-```
+```cs
 BiteDamage,Values=(20,20,20,20,20))
 BiteCooldown,Values=(2,2,2,2,2))
 ClawDamage,Values=(30,40,40,50,60))
