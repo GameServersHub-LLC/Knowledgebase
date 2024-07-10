@@ -683,12 +683,16 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   {
-                    text: "How to configurate INIs",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-configurate-server",
+                    text: "Basic Game.ini Config",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-configurate-game.ini",
                   },
                   {
                     text: "How To Install Mods",
                     link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-install-mods",
+                  },
+                  {
+                    text: "Basic Webhooks Config",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-webhook-config",
                   },
                 ],
               },

@@ -1,6 +1,8 @@
-# We continually strive to improve our knowledge base to ensure that our customers have access to the most relevant and up-to-date information. Therefore, we highly value your suggestions and feedback on further enhancing our knowledge base. If you feel something needs to be added or added, we encourage you to join our Discord server.
+# Game.ini Server Configuration
 
-### [By creating a support ticket on our discord server, you can let us know how we can improve and serve you better](https://discord.gg/gsh)
+### We continually strive to improve our knowledge base to ensure that our customers have access to the most relevant and up-to-date information. Therefore, we highly value your suggestions and feedback on further enhancing our knowledge base. If you feel something needs to be added or added, we encourage you to join our Discord server.
+
+[By creating a support ticket on our discord server, you can let us know how we can improve and serve you better](https://discord.gg/gsh)
 
 ---
 ::: warning
@@ -173,117 +175,15 @@ PlayerProfanity=""
 
 ```
 
+Please go here for `[ServerWebhooks]` configuration
+## [Server Webhooks Config]()
 
-
-
-## ServerWebhooks Config:
-
-Below are settings that will work under the `[ServerWebhooks]` header.
-
-|Config Name:|Description:|
-|-|-|
-|`bEnabled=true`|Set this to true if you want the server to call webhooks.|
-|`Format="Discord"`|`Discord` or `General`: Discord will format the messsage for posting directly to the channel `General` will format the message to be consumed by your own website / server / backend|
-|||
-
-
-
-`PlayerReport=""`
-
-This logs instances where a player submits a report, typically about another player’s behavior or a game issue.
-
-`PlayerLogin=""`
-
-This records when a player logs into the game.
-
-`PlayerLogout=""`
-
-This tracks when a player logs out of the game.
-
-`PlayerLeave=""`
-
-This logs when a player leaves the server.
-
-`PlayerKilled=""`
-
-This records instances of a player being killed in the game, often including details about who killed them and how.
-
-`PlayerQuestComplete=""`
-
-This logs when a player successfully completes a quest.
-
-`PlayerQuestFailed=""`
-
-This records when a player fails a quest.
-
-`PlayerRespawn=""`
-
-TThis tracks when a player respawns after being killed.
-
-`PlayerWaystone=""`
-
-This logs when a player uses a waystone to teleport.
-
-`PlayerChat=""`
-
-This records messages sent by a player in the game chat.
-
-`PlayerHack=""`
-
-This logs suspected or confirmed instances of a player using hacks or cheats and reports on high ping.
-
-`PlayerDamagedPlayer=""`
-
-This records when one player causes damage to another player.
-
-`PlayerJoinedGroup=""`
-
-This logs when a player joins a group within the game.
-
-`PlayerLeftGroup=""`
-
-This records when a player leaves a group within the game.
-
-`ServerRestart=""`
-
-This logs instances of the server being restarted.
-
-`ServerRestartCountdown=""`
-
-This tracks the countdown leading up to a server restart.
-
-`ServerModerate=""`
-
-This logs actions taken by server moderators, such as muting or banning players.
-
-`AdminSpectate=""`
-
-This records when an admin starts spectating a player or area within the game.
-
-`AdminCommand=""`
-
-This logs commands issued by an admin.
-
-`BadAverageTick=""`
-
-This tracks instances where the server’s tick rate falls below acceptable levels, indicating potential performance issues.
-
-`ServerError=""`
-
-This logs errors encountered by the server.
-
-`PlayerProfanity=""`
-
-This records instances of a player using profanity in the game chat.
-
-**BattlEye:**
-
-Below are settings that will work under the `[BattlEye]` header.
 
 
 
 ---
-
-### Transform your gaming experience with GSH dedicated servers! Get the most bang for your buck by deploying a Path of Titans Server today, and enjoy unbeatable prices without compromising on quality.
-
-Experience seamless gameplay with our top-of-the-line "**Path Of Titans**" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. With **lightning-fast hardware**, **unrivaled performance**, and **reliable uptime**, our servers ensure an immersive gaming experience for your community's needs. Take advantage of our cutting-edge features, including **customizable settings**, an **intuitive control panel**, and **dedicated support**. Don't miss out on this opportunity to level up your gaming experience.
+::: info LAST UPDATED
+<span style="color: #ffd369;">07-07-2024 by Mike</span>
+:::
+<p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
+<h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
