@@ -1,6 +1,6 @@
 # Game.ini Server Configuration
 
-### We continually strive to improve our knowledge base to ensure that our customers have access to the most relevant and up-to-date information. Therefore, we highly value your suggestions and feedback on further enhancing our knowledge base. If you feel something needs to be added or added, we encourage you to join our Discord server.
+**We continually strive to improve our knowledge base to ensure that our customers have access to the most relevant and up-to-date information. Therefore, we highly value your suggestions and feedback on further enhancing our knowledge base. If you feel something needs to be added or added, we encourage you to join our Discord server.**
 
 [By creating a support ticket on our discord server, you can let us know how we can improve and serve you better](https://discord.gg/gsh)
 
@@ -13,10 +13,9 @@ Editing your configuration files using the official GameServersHub admin dashboa
 1.  Open the `File Managers` tab inside your admin dashboard.
 2.  Head to `PathOfTitans/Saved/Config/LinuxServer` and open the `Game.ini` file.
 3.  Make the edits and click `Save Content`; then, you can safely restart your game server to apply the changes.
-
 Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
 
-## IGameSession Config:
+## IGameSession Config
 
 Below are settings that will work under the `[/Script/PathOfTitans.IGameSession]` header.
 ::: tip
@@ -85,7 +84,7 @@ By not adding the line makes the line to the **default** setting
 |`SpeedhackDetection=1`|Setting for action taken when speed hacks are detected. 0 = `none`, 1 = `log`, 2 = `kick`, 3 = `ban`. From settings 1-3, a PlayerHack webhook will also be sent.|
 |`SpeedhackThreshold=10`|The amount of speedhack detections that will be allowed per minute before the `SpeedhackDetection` action is taken. A value of 0 will disable detection. This value helps to minimize false positives due to packet loss or lag.|
 
-## IGameMode Config:
+## IGameMode Config
 
 Below are settings that will work under the `[/Script/PathOfTitans.IGameMode]` header.
 |Config Name:|Description:|
@@ -174,11 +173,15 @@ ServerError=""
 PlayerProfanity=""
 
 ```
-## [RCON]()
-[Link for `[SourceRCON]` configuration]()
-## [Server Webhooks Config]()
-[Link for `[ServerWebhooks]` configuration]()
+## [RCON Config]()
+Path of Titans RCON Config
 
+[Link for `[SourceRCON]` configuration]()
+
+## [Server Webhooks Config]()
+Path of Titans Server Webhooks Config
+
+[Link for `[ServerWebhooks]` configuration]()
 
 
 ---
