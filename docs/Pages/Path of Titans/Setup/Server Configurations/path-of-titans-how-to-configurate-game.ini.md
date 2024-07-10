@@ -174,7 +174,8 @@ ServerError=""
 PlayerProfanity=""
 
 ```
-
+## [RCON]()
+[Link for `[SourceRCON]` configuration]()
 ## [Server Webhooks Config]()
 [Link for `[ServerWebhooks]` configuration]()
 
