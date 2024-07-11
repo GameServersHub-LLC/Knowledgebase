@@ -156,7 +156,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## Divine Beasts:
 ::: details
-[Modder Discord]() | [Curve Overrides Link](https://discord.gg/divinebeasts) | [Others]()
+[Modder Discord](https://discord.gg/divinebeasts) | [Curve Overrides Link]() | [Others]()
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -221,8 +221,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
 |Torvosaurus tanneri|`UGC_M_YNR73VY081_SK`|`JFDTtanneri`|
-
-
 |Breenoc *deprecated|`UGC_M_634E5WJ08W_SK`|`Breenoc`|
 |Bwi|`UGC_M_NZK0JMQ012_SK`|`Bwi`|
 |Chisk *deprecated|`UGC_M_YNRE3QYE81_SK`|`Chisk`|
@@ -260,7 +258,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## P&D's Menagerie:
 ::: details
-[Modder Discord]() | [Curve Overrides Link](https://discord.gg/3mUVxVhSXW) | [Others]()
+[Modder Discord](https://discord.gg/3mUVxVhSXW) | [Curve Overrides Link]() | [Others]()
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -268,7 +266,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## Primordial Tyrants:
 ::: details
-[Modder Discord]() | [Curve Overrides Link](https://discord.gg/primordialtyrants) | [Others]()
+[Modder Discord](https://discord.gg/primordialtyrants) | [Curve Overrides Link]() | [Others]()
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -292,7 +290,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## Titanus Constructus:
 ::: details
-[Modder Discord]() | [Curve Overrides Link](https://discord.gg/primordialtyrants) | [Others]()
+[Modder Discord]() | [Curve Overrides Link]() | [Others]()
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -301,7 +299,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## Krono:
 ::: details
-[Modder Discord]() | [Curve Overrides Link](https://discord.gg/primordialtyrants) | [Others]()
+[Modder Discord]() | [Curve Overrides Link]() | [Others]()
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|

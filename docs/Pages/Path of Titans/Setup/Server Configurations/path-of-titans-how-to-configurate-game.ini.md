@@ -108,7 +108,7 @@ Only add this line if you want to set it to `false` as its set to `true` by defa
 |-|-|
 |`bEnabled=true`|This enables `BattleEye` on the server, which is a anti-cheat Defaults to `true`|
 
-## Example of Game.ini
+## Game.ini Example
 ::: tip
 You can add `#` in front of any lines to remove them without deleting them
 :::
