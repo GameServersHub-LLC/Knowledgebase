@@ -1,19 +1,19 @@
 <script setup lang="ts">
-import { useRoute } from 'vitepress'
-import { computed } from 'vue'
-import { useData } from '../composables/data'
-import { useSidebar } from '../composables/sidebar'
-import VPDocAside from './VPDocAside.vue'
-import VPDocFooter from './VPDocFooter.vue'
+import { useRoute } from "vitepress";
+import { computed } from "vue";
+import { useData } from "../composables/data";
+import { useSidebar } from "../composables/sidebar";
+import VPDocAside from "./VPDocAside.vue";
+import VPDocFooter from "./VPDocFooter.vue";
 
-const { theme } = useData()
+const { theme } = useData();
 
-const route = useRoute()
-const { hasSidebar, hasAside, leftAside } = useSidebar()
+const route = useRoute();
+const { hasSidebar, hasAside, leftAside } = useSidebar();
 
 const pageName = computed(() =>
-  route.path.replace(/[./]+/g, '_').replace(/_html$/, '')
-)
+  route.path.replace(/[./]+/g, "_").replace(/_html$/, "")
+);
 </script>
 
 <template>
@@ -23,17 +23,25 @@ const pageName = computed(() =>
   >
     <slot name="doc-top" />
     <div class="container">
-      <div v-if="hasAside" class="aside" :class="{'left-aside': leftAside}">
+      <div v-if="hasAside" class="aside" :class="{ 'left-aside': leftAside }">
         <div class="aside-curtain" />
         <div class="aside-container">
           <div class="aside-content">
             <VPDocAside>
               <template #aside-top><slot name="aside-top" /></template>
               <template #aside-bottom><slot name="aside-bottom" /></template>
-              <template #aside-outline-before><slot name="aside-outline-before" /></template>
-              <template #aside-outline-after><slot name="aside-outline-after" /></template>
-              <template #aside-ads-before><slot name="aside-ads-before" /></template>
-              <template #aside-ads-after><slot name="aside-ads-after" /></template>
+              <template #aside-outline-before
+                ><slot name="aside-outline-before"
+              /></template>
+              <template #aside-outline-after
+                ><slot name="aside-outline-after"
+              /></template>
+              <template #aside-ads-before
+                ><slot name="aside-ads-before"
+              /></template>
+              <template #aside-ads-after
+                ><slot name="aside-ads-after"
+              /></template>
             </VPDocAside>
           </div>
         </div>
@@ -47,12 +55,14 @@ const pageName = computed(() =>
               class="vp-doc"
               :class="[
                 pageName,
-                theme.externalLinkIcon && 'external-link-icon-enabled'
+                theme.externalLinkIcon && 'external-link-icon-enabled',
               ]"
             />
           </main>
           <VPDocFooter>
-            <template #doc-footer-before><slot name="doc-footer-before" /></template>
+            <template #doc-footer-before
+              ><slot name="doc-footer-before"
+            /></template>
           </VPDocFooter>
           <slot name="doc-after" />
         </div>
@@ -135,7 +145,10 @@ const pageName = computed(() =>
 .aside-container {
   position: fixed;
   top: 0;
-  padding-top: calc(var(--vp-nav-height) + var(--vp-layout-top-height, 0px) + var(--vp-doc-top-height, 0px) + 48px);
+  padding-top: calc(
+    var(--vp-nav-height) + var(--vp-layout-top-height, 0px) +
+      var(--vp-doc-top-height, 0px) + 48px
+  );
   width: 224px;
   height: 100vh;
   overflow-x: hidden;
@@ -159,7 +172,9 @@ const pageName = computed(() =>
 .aside-content {
   display: flex;
   flex-direction: column;
-  min-height: calc(100vh - (var(--vp-nav-height) + var(--vp-layout-top-height, 0px) + 48px));
+  min-height: calc(
+    100vh - (var(--vp-nav-height) + var(--vp-layout-top-height, 0px) + 48px)
+  );
   padding-bottom: 32px;
 }
 
@@ -188,6 +203,6 @@ const pageName = computed(() =>
 }
 
 .VPDoc.has-aside .content-container {
-  max-width: 688px;
+  max-width: 888px;
 }
 </style>
