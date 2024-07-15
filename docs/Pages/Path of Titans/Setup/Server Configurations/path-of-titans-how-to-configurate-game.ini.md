@@ -5,7 +5,10 @@
 [By creating a support ticket on our discord server, you can let us know how we can improve and serve you better](https://discord.gg/gsh)
 
 ---
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
 :::
@@ -14,7 +17,11 @@ Editing your configuration files using the official GameServersHub admin dashboa
 1.  Open the `File Managers` tab inside your admin dashboard.
 2.  Head to `PathOfTitans/Saved/Config/LinuxServer` and open the `Game.ini` file.
 3.  Make the edits and click `Save Content`; then, you can safely restart your game server to apply the changes.
+<<<<<<< HEAD
     Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
+=======
+Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 
 ## IGameSession Config
 
@@ -24,10 +31,17 @@ By not adding the line makes the line to the **default** setting
 :::
 |Config Name:|Description:|
 |-|-|
+<<<<<<< HEAD
 |`ServerName=Hosted by GSH`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: _GameServersHub runs Path of Titans on Linux Machines which don't require underscores._
 |`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
 |`ServerPassword=Password123`|Set a password for accessing the server to ensure authorized access only.|
 |`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server [Click to learn more](#).|
+=======
+|`ServerName=Hosted by GSH`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: *GameServersHub runs Path of Titans on Linux Machines which don't require underscores.*
+|`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
+|`ServerPassword=Password123`|Set a password for accessing the server to ensure authorized access only.|
+|`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server [Click to learn more]().|
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 |`bServerPaidUsersOnly=false`|Enable Free-to-Play Access: Determine whether the server permits users to join without payment.|
 |`bServerAllowChat=true`|Enhance Communication Control: Enable or disable text chat functionality for the entire server, granting you greater control over communication.|
 |`bServerGlobalChat=true`|Manage Global Chat: Toggle the availability of the global chat channel on the server, granting you the ability to enable or disable it as desired.|
@@ -51,15 +65,24 @@ By not adding the line makes the line to the **default** setting
 |`bDeathInfo=false`|Displays a textbox on the Character Select Screen that provides info about your dead character when `bPermaDeath` is enabled.|
 |`ServerDiscord=gsh`|This setting designates the linked community Discord server. You should only input the alphanumeric characters found after the discord.gg part of the server invite link. For instance, for the link [https://discord.gg/gsh](https://discord.gg/gsh), you should only use **gsh**. Please ensure to use a perpetual invite link to avoid expiration.|
 |`bServerAutoRestart=false`|This function facilitates the automatic rebooting of the server.|
+<<<<<<< HEAD
 |Configure Server Automatic Restart Times|Servers can be configured to automatically restart either at preset times or at preset intervals through the following options: `bServerAutoRestart`, `bUseScheduledRestartTimes`, `ScheduledRestartTimes`, `RestartLengthInSeconds`, `RestartNotificationTimestamps`. [learn how to adjust server restart behavior here](#).|
+=======
+|Configure Server Automatic Restart Times|Servers can be configured to automatically restart either at preset times or at preset intervals through the following options: `bServerAutoRestart`, `bUseScheduledRestartTimes`, `ScheduledRestartTimes`, `RestartLengthInSeconds`, `RestartNotificationTimestamps`. [learn how to adjust server restart behavior here]().|
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 |`ServerDeadBodyTime=0`|This setting indicates the duration, in seconds, for which a deceased character's body will remain. A value of 0 implies that the body will remain indefinitely.|
 |`ServerRespawnTime=45`|Amount of time (in minutes) a player must be alive before they can use the /respawn command to kill their dinosaur and respawn. It's suggested to keep this number relatively high to avoid players piling up corpses on your server and causing issues. Defaults to `45` minutes.|
 |`ServerFootprintLifetime=60`|Specifies the maximum time (in seconds) footprints will remain behind dinosaurs. Setting this to `0` will disable footprints entirely. Defaults to `60` seconds.|
 |`bServerAllowMap=true`|Enables or disables the full map for the entire server.|
 |`bServerAllowMinimap=true`|Enables or disables the minimap for the entire server.|
 |`bServerAllow3DMapMarkers=true`|Enables or disables the markers on the full map, and floating quest markers in the world. Defaults to `true`.|
+<<<<<<< HEAD
 |`AllowedCharacters=DinosaurName`|This setting turns off all dinosaurs except those specified in the list. You can find more details. [Click to learn more](#).|
 |`DisallowedCharacters=DinosaurName`|This setting disables the dinosaur specified in the list. You can find more details. [Click to learn more](#).|
+=======
+|`AllowedCharacters=DinosaurName`|This setting turns off all dinosaurs except those specified in the list. You can find more details. [Click to learn more]().|
+|`DisallowedCharacters=DinosaurName`|This setting disables the dinosaur specified in the list. You can find more details. [Click to learn more]().|
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 |`bServerWaystones=true`|Enables or disables Waystones on your server.|
 |`bServerHomeCaves=true`|This feature allows you to either activate or deactivate the home caves on your server.|
 |`bServerHomecaveCampingDebuff=true`|Enables or disables the Home Cave Camping debuff on your server.|
@@ -109,10 +132,19 @@ By not adding the line makes the line to the **default** setting
 |`bServerAllowAnselMultiplayerPausing=false`|Allows players to be able to use Nvidia Ansel on the server to take screenshots. Be mindful of allowing this, as players can technically use it to pause their game to investigate the location of hiding players or gain other gamplay advantages. Defaults to `false`.|
 |`ServerAnselCameraConstraintDistance=500`|The distance, in centimeters, the player can move their Nvidia Ansel camera away from their dinosaur in order to take screenshots. It's suggested to keep this a bit limited to avoid unfair gameplay advantages. Defaults to `500` (5 meters).|
 |`DefaultCreatorModeSave=CreatorName`|Specifies the default creator mode save file to load when the server starts. This is the name used to save the creator mode file. If the file does not exist, it will not load. (Currently has some limitations with loading saved modded items)|
+<<<<<<< HEAD
 |**Changing Login Debuff length and stats**|When a player logs in, they will have a Login Debuff applied to their character. You can adjust the length and stat changes of this buff by adding the following:<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffDuration",Values=(60))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffSpeedReduction",Values=(0.75))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffIncomingDamage",Values=(2))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffAttackDamage",Values=(0.4))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).|
 |**Changing Group Buff stats**|When players are grouped and near each other they gain increased movement speed and stamina regeneration. You can adjust these values by adding the following:<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffStaminaRecoveryMultiplier",Values=(1.1))`<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffSpeedMultiplier",Values=(1.05))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).|
 |**Changing Combat timer duration**|When players attack each other, they gain an "In Combat" status that prevents healing and logging out. You can change the duration of this state by adding the following:<br/> - `CurveOverrides=(CurveName="Global.InCombatDuration",Values=(30))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).|
 |**Changing Group Slot Sizes**|When players group up, their dino will fill a certain number of group slots. You can change the number of slots by adding the following for any desired dinosaur:<br/> - `GroupSlotSizeOverrides=(DinoAssetID="Allosaurus",GroupSize=5)`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).|
+=======
+|Changing Login Debuff length and stats|When a player logs in, they will have a Login Debuff applied to their character. You can adjust the length and stat changes of this buff by adding the following:<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffDuration",Values=(60))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffSpeedReduction",Values=(0.75))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffIncomingDamage",Values=(2))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffAttackDamage",Values=(0.4))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here]().|
+|Changing Group Buff stats|When players are grouped and near each other they gain increased movement speed and stamina regeneration. You can adjust these values by adding the following:<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffStaminaRecoveryMultiplier",Values=(1.1))`<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffSpeedMultiplier",Values=(1.05))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here]().|
+|Changing Combat timer duration|When players attack each other, they gain an "In Combat" status that prevents healing and logging out. You can change the duration of this state by adding the following:<br/> - `CurveOverrides=(CurveName="Global.InCombatDuration",Values=(30))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here]().|
+|Changing Group Slot Sizes|When players group up, their dino will fill a certain number of group slots. You can change the number of slots by adding the following for any desired dinosaur:<br/> - `GroupSlotSizeOverrides=(DinoAssetID="Allosaurus",GroupSize=5)`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here]().|
+
+
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 
 ## IGameMode Config
 
@@ -139,11 +171,17 @@ Only add this line if you want to set it to `false` as its set to `true` by defa
 |`bEnabled=true`|This enables `BattleEye` on the server, which is a anti-cheat Defaults to `true`|
 
 ## Game.ini Example
+<<<<<<< HEAD
 
 ::: tip
 You can add `#` in front of any lines to remove them without deleting them
 :::
 
+=======
+::: tip
+You can add `#` in front of any lines to remove them without deleting them
+:::
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 ```ini
 [/Script/PathOfTitans.IGameSession]
 ServerMap=Island
@@ -205,6 +243,7 @@ ServerError=""
 PlayerProfanity=""
 
 ```
+<<<<<<< HEAD
 
 ## [RCON Config](#)
 
@@ -224,5 +263,22 @@ Path of Titans Server Webhooks Config
 <span style="color: #ffd369;">07-07-2024 by Mike</span>
 :::
 
+=======
+## [RCON Config]()
+Path of Titans RCON Config
+
+[Link for `[SourceRCON]` configuration]()
+
+## [Server Webhooks Config]()
+Path of Titans Server Webhooks Config
+
+[Link for `[ServerWebhooks]` configuration]()
+
+
+---
+::: info LAST UPDATED
+<span style="color: #ffd369;">07-07-2024 by Mike</span>
+:::
+>>>>>>> 4b3a4d9677815287e253aabe8ec3de864fbc8686
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
