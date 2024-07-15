@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import { computed } from 'vue'
-import type { DefaultTheme } from 'vitepress/theme'
-import { useSidebarControl } from '../composables/sidebar'
-import VPLink from './VPLink.vue'
+import { computed } from "vue";
+import type { DefaultTheme } from "vitepress/theme";
+import { useSidebarControl } from "../composables/sidebar";
+import VPLink from "./VPLink.vue";
 
 const props = defineProps<{
-  item: DefaultTheme.SidebarItem
-  depth: number
-}>()
+  item: DefaultTheme.SidebarItem;
+  depth: number;
+}>();
 
 const {
   collapsed,
@@ -16,41 +16,41 @@ const {
   isActiveLink,
   hasActiveLink,
   hasChildren,
-  toggle
-} = useSidebarControl(computed(() => props.item))
+  toggle,
+} = useSidebarControl(computed(() => props.item));
 
-const sectionTag = computed(() => (hasChildren.value ? 'section' : `div`))
+const sectionTag = computed(() => (hasChildren.value ? "section" : `div`));
 
-const linkTag = computed(() => (isLink.value ? 'a' : 'div'))
+const linkTag = computed(() => (isLink.value ? "a" : "div"));
 
 const textTag = computed(() => {
   return !hasChildren.value
-    ? 'p'
+    ? "p"
     : props.depth + 2 === 7
-    ? 'p'
-    : `h${props.depth + 2}`
-})
+    ? "p"
+    : `h${props.depth + 2}`;
+});
 
-const itemRole = computed(() => (isLink.value ? undefined : 'button'))
+const itemRole = computed(() => (isLink.value ? undefined : "button"));
 
 const classes = computed(() => [
   [`level-${props.depth}`],
   { collapsible: collapsible.value },
   { collapsed: collapsed.value },
-  { 'is-link': isLink.value },
-  { 'is-active': isActiveLink.value },
-  { 'has-active': hasActiveLink.value }
-])
+  { "is-link": isLink.value },
+  { "is-active": isActiveLink.value },
+  { "has-active": hasActiveLink.value },
+]);
 
 function onItemInteraction(e: MouseEvent | Event) {
-  if ('key' in e && e.key !== 'Enter') {
-    return
+  if ("key" in e && e.key !== "Enter") {
+    return;
   }
-  !props.item.link && toggle()
+  !props.item.link && toggle();
 }
 
 function onCaretClick() {
-  props.item.link && toggle()
+  props.item.link && toggle();
 }
 </script>
 
