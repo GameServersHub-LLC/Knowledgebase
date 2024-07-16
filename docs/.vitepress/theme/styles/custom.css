@@ -1,0 +1,65 @@
+/**
+ * Layouts
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-layout-max-width: 1680px;
+}
+
+/**
+ * VPDoc.vue
+ * -------------------------------------------------------------------------- */
+
+.VPDoc.has-aside .content-container {
+  max-width: 888px !important;
+}
+
+/**
+ * VPSidebar.vue
+ * -------------------------------------------------------------------------- */
+
+.VPSidebar::-webkit-scrollbar {
+  width: 8px; /* Narrow scrollbar for a minimalistic look */
+}
+
+.VPSidebar::-webkit-scrollbar-track {
+  background: transparent; /* Keeps the track clean and unobtrusive */
+}
+
+.VPSidebar::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0); /* Initial state is fully transparent */
+  border-radius: 4px; /* Rounded corners for the thumb */
+  transition: background-color 0.8s cubic-bezier(0.33, 1, 0.68, 1); /* Smooth transition for background color changes */
+}
+
+.VPSidebar:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.2
+  ); /* Appears only on hover with semi-transparency */
+}
+
+.VPSidebar::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.4
+  ); /* Darker on thumb hover for better visibility */
+}
+
+/* Scrollbar styling for Firefox */
+.VPSidebar {
+  scrollbar-width: thin; /* 'auto' or 'thin' for minimal visual impact */
+  scrollbar-color: rgba(0, 0, 0, 0) transparent; /* Initially transparent, invisible scrollbar */
+}
+
+.VPSidebar:hover {
+  scrollbar-color: rgba(0, 0, 0, 0.2) transparent; /* Thumb appears on hover */
+}
+
+/**
+ * VPSidebarItem.vue
+ * -------------------------------------------------------------------------- */
