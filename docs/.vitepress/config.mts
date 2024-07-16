@@ -676,6 +676,18 @@ export default defineConfig({
                   },
                 ],
               },
+              {
+                text: "Player Roles",
+                link: "Pages/Path of Titans/Guides/player-roles",
+              },
+              {
+                text: "Server Admins",
+                link: "Pages/Path of Titans/Guides/server-admins",
+              },
+              {
+                text: "Enable/Disable Dinosaurs",
+                link: "Pages/Path of Titans/Guides/enable-disable-dinosaurs",
+              },
             ],
           },
           {
