@@ -67,7 +67,8 @@ This logs commands issued by an admin.
 This tracks instances where the server’s tick rate falls below acceptable levels, indicating potential performance issues.                                                           
 ### ServerError   
 This logs errors encountered by the server.                                                                                                                                          
-### PlayerProfanityThis records instances of a player using profanity in the game chat.                                                                                                                 
+### PlayerProfanity
+This records instances of a player using profanity in the game chat.                                                                                                                 
 
 ## Game.ini Example
 
