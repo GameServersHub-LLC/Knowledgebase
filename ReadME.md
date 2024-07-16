@@ -1,4 +1,4 @@
-# GameServersHub Knowledgebase
+# GameServersHub Knowledgebase:
 
 Welcome to the GameServersHub Knowledgebase! This repository is dedicated to hosting our comprehensive collection of guides, tutorials, and documentation to help you make the most out of our gaming server solutions. We use Vitepress, a modern static site generator, to provide an easy-to-navigate and user-friendly experience.
 
