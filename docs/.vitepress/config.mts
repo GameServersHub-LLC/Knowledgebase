@@ -688,7 +688,7 @@ export default defineConfig({
                 items: [
                   {
                     text: "Basic Game.ini Config",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-configurate-game.ini",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-configurate-game-ini",
                   },
                   {
                     text: "How To Install Mods",
