@@ -678,15 +678,15 @@ export default defineConfig({
               },
               {
                 text: "Player Roles",
-                link: "Pages/Path of Titans/Guides/player-roles",
+                link: "Pages/Path of Titans/Guides/path-of-titans-player-roles",
               },
               {
                 text: "Server Admins",
-                link: "Pages/Path of Titans/Guides/server-admins",
+                link: "Pages/Path of Titans/Guides/path-of-titans-server-admins",
               },
               {
                 text: "Enable/Disable Dinosaurs",
-                link: "Pages/Path of Titans/Guides/enable-disable-dinosaurs",
+                link: "Pages/Path of Titans/Guides/path-of-titans-enable-disable-dinosaurs",
               },
             ],
           },
@@ -710,8 +710,24 @@ export default defineConfig({
                     text: "Basic Webhooks Config",
                     link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-webhook-config",
                   },
+                  {
+                    text: "Auth Token Setup",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-auth-token-setup",
+                  },
+                  {
+                    text: "Server Password",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-server-password",
+                  },
                 ],
               },
+              {
+                text: "Delete Server Database",
+                link: "Pages/Path of Titans/Setup/path-of-titans-delete-server-database"
+              },
+              {
+                text: "MOTD Setup",
+                link: "Pages/Path of Titans/Setup/path-of-titans-MOTD-setup"
+              }
             ],
           },
         ],
