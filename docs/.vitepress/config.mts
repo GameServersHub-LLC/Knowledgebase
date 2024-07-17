@@ -8,6 +8,10 @@ export default defineConfig({
   sitemap: {
     hostname: "https://guides.gameservershub.com",
   },
+  rewrites: {
+    "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Achillobator":
+      "Pages/Path-of-Titans/Guides/Curve-Overrides/Alderons/Path-of-Titans-Achillobator",
+  },
   head: [
     [
       "script",
