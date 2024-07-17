@@ -24,6 +24,7 @@ export default defineConfig({
       gtag('js', new Date());
       gtag('config', 'G-0WCXTJZXEF');`,
     ],
+    ["link", { rel: "icon", href: "/favicon.ico" }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
