@@ -23,7 +23,7 @@ features:
         alt: Path Of Titans Background,
       }
     title: Path Of Titans Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Embark on epic quests in the central and eastern zones of Gondwa. Explore challenging locations like Sharptooth Marsh and Rainbow Hills, and strive to become the best.
   - icon:
       {
         src: /Rust - 667x260.webp,
@@ -41,7 +41,7 @@ features:
         alt: Palworld Background,
       }
     title: Palworld Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Fight, farm, build and work alongside mysterious creatures called “Pals” in this completely new multiplayer, open world survival and crafting game!
   - icon:
       {
         src: /7 Days To Die - 667x260.webp,
@@ -50,7 +50,7 @@ features:
         alt: 7 Days To Die Background,
       }
     title: 7 Days To Die Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!
   - icon:
       {
         src: /Soulmask - 667x260.webp,
@@ -59,7 +59,7 @@ features:
         alt: Soulmask Background,
       }
     title: Soulmask Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Explore and unveil the truths behind the enigmatic mask.
   - icon:
       {
         src: /V Rising - 667x260.webp,
@@ -68,7 +68,7 @@ features:
         alt: V Rising Background,
       }
     title: V Rising Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: In a world of conflict, only one vampire shall reign supreme. Dare you challenge the throne of Dracula?
   - icon:
       {
         src: /The Isle - 667x260.webp,
@@ -77,7 +77,7 @@ features:
         alt: The Isle Background,
       }
     title: The Isle (Evrima) Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Explore vast landscapes of dense forest and open plains, traverse treacherous mountains, and wade through dark swamps where horrors lurk.
   - icon:
       {
         src: /Satisfactory - 667x260.webp,
@@ -86,5 +86,5 @@ features:
         alt: Satisfactory Background,
       }
     title: Satisfactory Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Explore an alien planet, create multi-story factories, and enter conveyor belt heaven!
 ---
