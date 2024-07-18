@@ -692,6 +692,10 @@ export default defineConfig({
                 text: "Enable/Disable Dinosaurs",
                 link: "Pages/Path of Titans/Guides/path-of-titans-enable-disable-dinosaurs",
               },
+              {
+                text: "Reserved SlotS",
+                link: "Pages/Path of Titans/Guides/path-of-titans-reserved-slots",
+              },
             ],
           },
           {
