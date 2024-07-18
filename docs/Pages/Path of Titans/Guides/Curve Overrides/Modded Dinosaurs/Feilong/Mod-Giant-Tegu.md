@@ -1,4 +1,4 @@
-# Tegu
+# Giant Tegu
 ::: info LAST UPDATED
 <span style="color: #ffd369;">07-18-2024 by Mike</span>
 :::
