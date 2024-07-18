@@ -473,6 +473,10 @@ export default defineConfig({
                             text: "Beaked Pachycephalosaurus",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Mod-Armored-Beaked-Pachycephalosaurus",
                           },
+                          {
+                            text: "Giant Tegu",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Mod-Giant-Tegu",
+                          },
                         ],
                       },
                       {
