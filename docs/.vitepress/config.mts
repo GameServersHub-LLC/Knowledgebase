@@ -2,11 +2,11 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Gaming Guides",
+  title: "GSH Knowledgebase",
   description: "Knowledgebase for tutorials, guides, articles on GSH.",
   lastUpdated: true,
   sitemap: {
-    hostname: "https://guides.gameservershub.com",
+    hostname: "https://guides.gsh-servers.com",
   },
   head: [
     [
@@ -692,6 +692,10 @@ export default defineConfig({
               {
                 text: "Enable/Disable Dinosaurs",
                 link: "Pages/Path of Titans/Guides/path-of-titans-enable-disable-dinosaurs",
+              },
+              {
+                text: "Reserved SlotS",
+                link: "Pages/Path of Titans/Guides/path-of-titans-reserved-slots",
               },
             ],
           },
