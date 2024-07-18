@@ -86,7 +86,8 @@ export default defineConfig({
                 items: [
                   {
                     text: "Alderons",
-                    collapsed: true,
+                    link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Achillobator",
+                    // collapsed: true,
                     items: [
                       {
                         text: "Achillobator",
@@ -730,12 +731,12 @@ export default defineConfig({
               },
               {
                 text: "Delete Server Database",
-                link: "Pages/Path of Titans/Setup/path-of-titans-delete-server-database"
+                link: "Pages/Path of Titans/Setup/path-of-titans-delete-server-database",
               },
               {
                 text: "MOTD Setup",
-                link: "Pages/Path of Titans/Setup/path-of-titans-MOTD-setup"
-              }
+                link: "Pages/Path of Titans/Setup/path-of-titans-MOTD-setup",
+              },
             ],
           },
         ],
