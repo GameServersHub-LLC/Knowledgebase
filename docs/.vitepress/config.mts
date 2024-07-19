@@ -86,8 +86,8 @@ export default defineConfig({
                 items: [
                   {
                     text: "Alderons",
-                    link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Achillobator",
-                    // collapsed: true,
+                    link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/path-of-titans-alderon-co",
+                    collapsed: true,
                     items: [
                       {
                         text: "Achillobator",
@@ -516,6 +516,10 @@ export default defineConfig({
                           {
                             text: "Torvosaurus tanneri",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-Torvosaurus-tanneri",
+                          },
+                          {
+                            text: "Deltadromeus agilis",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-Deltadromeus-agilis"
                           },
                         ],
                       },
