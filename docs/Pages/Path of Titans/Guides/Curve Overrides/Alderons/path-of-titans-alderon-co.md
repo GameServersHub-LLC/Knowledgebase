@@ -16,4 +16,3 @@ Here you will find a full list of all Alderon default curve overrides
 [Ceratosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Ceratosaurus.html)
 [Concavenator](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Concavenator.html)
 [Daspletosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Daspletosaurus.html)
-[]()
