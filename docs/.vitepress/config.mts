@@ -87,6 +87,7 @@ export default defineConfig({
                 items: [
                   {
                     text: "Alderons",
+                    link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/path-of-titans-alderon-co",
                     collapsed: true,
                     items: [
                       {
@@ -517,6 +518,10 @@ export default defineConfig({
                             text: "Torvosaurus tanneri",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-Torvosaurus-tanneri",
                           },
+                          {
+                            text: "Deltadromeus agilis",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-Deltadromeus-agilis"
+                          },
                         ],
                       },
                       {
@@ -731,12 +736,12 @@ export default defineConfig({
               },
               {
                 text: "Delete Server Database",
-                link: "Pages/Path of Titans/Setup/path-of-titans-delete-server-database"
+                link: "Pages/Path of Titans/Setup/path-of-titans-delete-server-database",
               },
               {
                 text: "MOTD Setup",
-                link: "Pages/Path of Titans/Setup/path-of-titans-MOTD-setup"
-              }
+                link: "Pages/Path of Titans/Setup/path-of-titans-MOTD-setup",
+              },
             ],
           },
         ],

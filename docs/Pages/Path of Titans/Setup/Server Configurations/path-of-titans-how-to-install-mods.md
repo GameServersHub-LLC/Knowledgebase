@@ -227,6 +227,15 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
 |Torvosaurus tanneri|`UGC_M_YNR73VY081_SK`|`JFDTtanneri`|
+|Deltadromeus agilis|`UGC_M_W6178R10MD_SK`|`JFDDagilis`|
+
+## K23:
+
+::: details
+[Modder Discord](#) | [Curve Overrides Link](#) | [Others](#)
+:::
+|Mod Name:|Mod ID:|Game.ini Name:|
+|-|-|-|
 |Breenoc *deprecated|`UGC_M_634E5WJ08W_SK`|`Breenoc`|
 |Bwi|`UGC_M_NZK0JMQ012_SK`|`Bwi`|
 |Chisk *deprecated|`UGC_M_YNRE3QYE81_SK`|`Chisk`|
