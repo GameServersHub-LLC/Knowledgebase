@@ -1,9 +1,6 @@
 # Adlderon Default Curve Overrides
 
-Here you will find a full list of all Alderon default curve overrides
-
-
-
+Here you will find a full list of all Alderon creatures curve overrides with default vaules.
 
 ### [Achillobator](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Achillobator.html)
 ### [Albertaceratops](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Albertaceratops.html)

@@ -229,10 +229,12 @@ export default defineConfig({
                   },
                   {
                     text: "Modded Dinosaurs",
+                    link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Mod-Dino-CO",
                     collapsed: true,
                     items: [
                       {
                         text: "Absentia",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Absentia/Mod-Absentia",
                         collapsed: true,
                         items: [
                           {
@@ -243,6 +245,7 @@ export default defineConfig({
                       },
                       {
                         text: "Ancient Gods",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Gods/Mod-Ancient-Gods",
                         collapsed: true,
                         items: [
                           {
@@ -253,6 +256,7 @@ export default defineConfig({
                       },
                       {
                         text: "Ancient Monster",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Ancient-Monster",
                         collapsed: true,
                         items: [
                           {
@@ -287,6 +291,7 @@ export default defineConfig({
                       },
                       {
                         text: "Arazoa",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Arazoa/Mod-Arazoa",
                         collapsed: true,
                         items: [
                           {
@@ -297,6 +302,7 @@ export default defineConfig({
                       },
                       {
                         text: "Archetypes",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Archetypes/Mod-Archetypes",
                         collapsed: true,
                         items: [
                           {
@@ -315,6 +321,7 @@ export default defineConfig({
                       },
                       {
                         text: "Asylum",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Asylum/Mod-Asylum",
                         collapsed: true,
                         items: [
                           {
@@ -325,6 +332,7 @@ export default defineConfig({
                       },
                       {
                         text: "Cenozoic Timelines",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Cenozoic Timelines/Mod-Cenozoic-Timelines",
                         collapsed: true,
                         items: [
                           {
@@ -339,6 +347,7 @@ export default defineConfig({
                       },
                       {
                         text: "David Rosa",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/David Rosa/Mod-David-Rosa",
                         collapsed: true,
                         items: [
                           {
@@ -349,6 +358,7 @@ export default defineConfig({
                       },
                       {
                         text: "Divine Beasts",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Divine-Beasts",
                         collapsed: true,
                         items: [
                           {
@@ -415,6 +425,7 @@ export default defineConfig({
                       },
                       {
                         text: "Ex Argilla",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Ex-Argilla",
                         collapsed: true,
                         items: [
                           {
@@ -453,6 +464,7 @@ export default defineConfig({
                       },
                       {
                         text: "Extinction Mods",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Extinction Mods/Mod-Extinction-Mods",
                         collapsed: true,
                         items: [
                           {
@@ -463,6 +475,7 @@ export default defineConfig({
                       },
                       {
                         text: "Feilong",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Mod-Feilong",
                         collapsed: true,
                         items: [
                           {
@@ -481,6 +494,7 @@ export default defineConfig({
                       },
                       {
                         text: "Goliath",
+                        link: 'Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Goliath/Mod-Goliath',
                         collapsed: true,
                         items: [
                           {
@@ -491,6 +505,7 @@ export default defineConfig({
                       },
                       {
                         text: "Great",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Great/Mod-Great",
                         collapsed: true,
                         items: [
                           {
@@ -501,6 +516,7 @@ export default defineConfig({
                       },
                       {
                         text: "Isla Nycta",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Isla Nycta/Mod-Isla-Nycta",
                         collapsed: true,
                         items: [
                           {
@@ -511,6 +527,7 @@ export default defineConfig({
                       },
                       {
                         text: "JFD",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-JFD",
                         collapsed: true,
                         items: [
                           {
@@ -525,6 +542,7 @@ export default defineConfig({
                       },
                       {
                         text: "K-23",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Mod-K-23",
                         collapsed: true,
                         items: [
                           {
@@ -547,6 +565,7 @@ export default defineConfig({
                       },
                       {
                         text: "Krono",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Krono/Mod-Krono",
                         collapsed: true,
                         items: [
                           {
@@ -557,6 +576,7 @@ export default defineConfig({
                       },
                       {
                         text: "KTO",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Mod-KTO",
                         collapsed: true,
                         items: [
                           {
@@ -575,6 +595,7 @@ export default defineConfig({
                       },
                       {
                         text: "P&D's Menagerie",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/P&D's Menagerie/Mod-P&D's-Menagerie",
                         collapsed: true,
                         items: [
                           {
@@ -585,6 +606,7 @@ export default defineConfig({
                       },
                       {
                         text: "Primordial Tyrants",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Primordial-Tyrants",
                         collapsed: true,
                         items: [
                           {
@@ -659,6 +681,7 @@ export default defineConfig({
                       },
                       {
                         text: "The Crimson Isle",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/The Crimson Isle/Mod-The-Crimson-Isle",
                         collapsed: true,
                         items: [
                           {
@@ -669,6 +692,7 @@ export default defineConfig({
                       },
                       {
                         text: "Titanus Constructus",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Titanus Constructus/Mod-Titanus-Constructus",
                         collapsed: true,
                         items: [
                           {
