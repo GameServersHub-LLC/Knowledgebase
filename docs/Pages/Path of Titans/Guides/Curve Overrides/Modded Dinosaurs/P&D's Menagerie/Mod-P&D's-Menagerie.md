@@ -6,4 +6,4 @@ Introducing P&D's menagerie! While we do aim for accuracy, we as a team aim for 
 
 ## Current Mods
 
-### [Pentaceratops](http://localhost:5173/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/P&D's%20Menagerie/Mod-Pentaceratops.html)
+### [Pentaceratops](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/P&D's%20Menagerie/Mod-Pentaceratops.html)

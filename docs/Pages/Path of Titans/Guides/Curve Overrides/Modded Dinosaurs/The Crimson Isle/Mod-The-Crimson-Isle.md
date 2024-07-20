@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Cryolophosaurus](http://localhost:5173/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/The%20Crimson%20Isle/Mod-Cryolophosaurus.html)
+### [Cryolophosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/The%20Crimson%20Isle/Mod-Cryolophosaurus.html)
