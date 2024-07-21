@@ -280,16 +280,12 @@ export default defineConfig({
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-Golugore",
                           },
                           {
-                            text: "Madrehorn",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-Madrehorn",
-                          },
-                          {
                             text: "Moraquile",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMMoraquile",
                           },
                           {
                             text: "Thalasrex",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMMoraquile",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMThalasrex",
                           },
                           {
                             text: "Cerataspida",
@@ -453,10 +449,6 @@ export default defineConfig({
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-EADracoviper",
                           },
                           {
-                            text: "Ex Argilla Smilodon",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-Ex-Argilla-Smilodon",
-                          },
-                          {
                             text: "Griffin",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-EAGriffin",
                           },
@@ -552,18 +544,6 @@ export default defineConfig({
                           {
                             text: "Bwi",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Path-of-Titans-Bwi",
-                          },
-                          {
-                            text: "Gonari",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Path-of-Titans-Gonari",
-                          },
-                          {
-                            text: "Hannek",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Path-of-Titans-Hannek",
-                          },
-                          {
-                            text: "Hebubebu",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Path-of-Titans-Hebubebu",
                           },
                         ],
                       },
@@ -675,7 +655,7 @@ export default defineConfig({
                           },
                           {
                             text: "Yunnanosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTYunnanosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTYunnano",
                           },
                           {
                             text: "Yutyrannus",
@@ -745,7 +725,7 @@ export default defineConfig({
                   },
                   {
                     text: "How To Install Mods",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-ToInstall-Mods",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Install-Mods",
                   },
                   {
                     text: "Basic Webhooks Config",
