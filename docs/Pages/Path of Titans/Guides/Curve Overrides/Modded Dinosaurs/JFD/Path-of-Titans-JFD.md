@@ -6,5 +6,5 @@ Placeholder
 
 ## Current Mods
 
-### [Deltadromeus agilis](./Path-of-Titans-JFDDagilis)
-### [Torvosaurus tanneri](./Path-of-Titans-JFDTtanneri)
+### [Deltadromeus agilis](./Path-of-Titans-JFDDagilis.md)
+### [Torvosaurus tanneri](./Path-of-Titans-JFDTtanneri.md)

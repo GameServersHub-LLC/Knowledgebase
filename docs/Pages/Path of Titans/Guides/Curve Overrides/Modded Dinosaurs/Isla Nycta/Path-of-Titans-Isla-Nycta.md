@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Nyctatyrannus](./Path-of-Titans-Nyctatyrannus)
+### [Nyctatyrannus](./Path-of-Titans-Nyctatyrannus.md)

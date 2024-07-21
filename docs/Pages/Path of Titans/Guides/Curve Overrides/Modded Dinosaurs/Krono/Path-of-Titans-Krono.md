@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Bloop](./Path-of-Titans-Bloop)
+### [Bloop](./Path-of-Titans-Bloop.md)
