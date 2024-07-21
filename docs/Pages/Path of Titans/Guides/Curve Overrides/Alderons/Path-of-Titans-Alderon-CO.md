@@ -2,38 +2,70 @@
 
 Here you will find a full list of all Alderon creatures curve overrides with default vaules.
 
-### [Achillobator](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Achillobator.html)
-### [Albertaceratops](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Albertaceratops.html)
-### [Alioramus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Alioramus.html)
-### [Allosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Allosaurus.html)
-### [Amargasaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Amargasaurus.html)
-### [Anodontosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Anodontosaurus.html)
-### [Barsboldia](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Barsboldia.html)
-### [Camptosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Camptosaurus.html)
-### [Ceratosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Ceratosaurus.html)
-### [Concavenator](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Concavenator.html)
-### [Daspletosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Daspletosaurus.html)
-### [Deinocheirus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Deinocheirus.html)
-### [Deinoychus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Deinonychus.html)
-### [Eotriceratops](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Eotriceratops.html)
-### [Eurhinosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Eurhinosaurus.html)
-### [Hatzegopteryx](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Hatzegopteryx.html)
-### [Iguanadon](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Iguanodon.html)
-### [Kaiwhekea](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Kaiwhekea.html)
-### [Kentrosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Kentrosaurus.html)
-### [Lambeosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Lambeosaurus.html)
-### [Latenivenatrix](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Latenivenatrix.html)
-### [Megalania](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Megalania.html)
-### [Metriacanthosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Metriacanthosaurus.html)
-### [Pachycephalosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Pachycephalosaurus.html)
-### [Pycnonemosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Pycnonemosaurus.html)
-### [Rhamphorhynchus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Rhamphorhynchus.html)
-### [Sarcosuchus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Sarcosuchus.html)
-### [Spinosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Spinosaurus.html)
-### [Stegosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Stegosaurus.html)
-### [Struthiomimus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Struthiomimus.html)
-### [Styracosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Styracosaurus.html)
-### [Suchomimus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Suchomimus.html)
-### [Thalassodromeus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Thalassodromeus.html)
-### [Tyrannosaurus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Alderons/Path-of-Titans-Tyrannosaurus.html)
+### [Achillobator](./Path-of-Titans-Achillobator)
 
+### [Albertaceratops](./Path-of-Titans-Albertaceratops)
+
+### [Alioramus](./Path-of-Titans-Alioramus)
+
+### [Allosaurus](./Path-of-Titans-Allosaurus)
+
+### [Amargasaurus](./Path-of-Titans-Amargasaurus)
+
+### [Anodontosaurus](./Path-of-Titans-Anodontosaurus)
+
+### [Barsboldia](./Path-of-Titans-Barsboldia)
+
+### [Camptosaurus](./Path-of-Titans-Camptosaurus)
+
+### [Ceratosaurus](./Path-of-Titans-Ceratosaurus)
+
+### [Concavenator](./Path-of-Titans-Concavenator)
+
+### [Daspletosaurus](./Path-of-Titans-Daspletosaurus)
+
+### [Deinocheirus](./Path-of-Titans-Deinocheirus)
+
+### [Deinoychus](./Path-of-Titans-Deinonychus)
+
+### [Eotriceratops](./Path-of-Titans-Eotriceratops)
+
+### [Eurhinosaurus](./Path-of-Titans-Eurhinosaurus)
+
+### [Hatzegopteryx](./Path-of-Titans-Hatzegopteryx)
+
+### [Iguanadon](./Path-of-Titans-Iguanodon)
+
+### [Kaiwhekea](./Path-of-Titans-Kaiwhekea)
+
+### [Kentrosaurus](./Path-of-Titans-Kentrosaurus)
+
+### [Lambeosaurus](./Path-of-Titans-Lambeosaurus)
+
+### [Latenivenatrix](./Path-of-Titans-Latenivenatrix)
+
+### [Megalania](./Path-of-Titans-Megalania)
+
+### [Metriacanthosaurus](./Path-of-Titans-Metriacanthosaurus)
+
+### [Pachycephalosaurus](./Path-of-Titans-Pachycephalosaurus)
+
+### [Pycnonemosaurus](./Path-of-Titans-Pycnonemosaurus)
+
+### [Rhamphorhynchus](./Path-of-Titans-Rhamphorhynchus)
+
+### [Sarcosuchus](./Path-of-Titans-Sarcosuchus)
+
+### [Spinosaurus](./Path-of-Titans-Spinosaurus)
+
+### [Stegosaurus](./Path-of-Titans-Stegosaurus)
+
+### [Struthiomimus](./Path-of-Titans-Struthiomimus)
+
+### [Styracosaurus](./Path-of-Titans-Styracosaurus)
+
+### [Suchomimus](./Path-of-Titans-Suchomimus)
+
+### [Thalassodromeus](./Path-of-Titans-Thalassodromeus)
+
+### [Tyrannosaurus](./Path-of-Titans-Tyrannosaurus)
