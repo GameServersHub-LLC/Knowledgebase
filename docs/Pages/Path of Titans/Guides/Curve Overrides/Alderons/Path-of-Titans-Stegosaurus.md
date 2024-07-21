@@ -1,35 +1,35 @@
-# Spinosaurus
+# Stegosaurus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="Spinosaurus.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="Stegosaurus.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
 :::
 
-Listed below are the default stats for the following creature:`Spinosaurus`
+Listed below are the default stats for the following creature:`Stegosaurus`
 
 ## Attributes:
 ```cs
-Core.MaxHealth,Values=(300,475,650,825,1000))
+Core.MaxHealth,Values=(200,300,400,500,600))
 Core.MaxStamina,Values=(100,100,100,100,100))
-Core.CombatWeight,Values=(500,1200,2625,3900,6500))
+Core.CombatWeight,Values=(500,1100,2200,3325,5000))
 Core.Armor,Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier,Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier,Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier,Values=(1,1,1,1,1))
-Core.BodyFoodAmount,Values=(100,500,1000,1500,2000))
-Core.MaxHunger,Values=(50,237.5,425,700,1000))
-Core.MaxThirst,Values=(50,237.5,425,700,1000))
-Core.HungerDepletionRate,Values=(0.01,0.08,0.15,0.21,0.28))
-Core.ThirstDepletionRate,Values=(0.02,0.14,0.25,0.36,0.48))
+Core.BodyFoodAmount,Values=(100,375,650,925,1200))
+Core.MaxHunger,Values=(50,187.5,325,462.5,600))
+Core.MaxThirst,Values=(50,187.5,325,462.5,600))
+Core.HungerDepletionRate,Values=(0.03,0.1,0.18,0.26,0.33))
+Core.ThirstDepletionRate,Values=(0.03,0.1,0.18,0.26,0.33))
 Core.FoodConsumptionRate,Values=(20,50,75,100,120))
 Core.WaterConsumptionRate,Values=(20,50,75,100,120))
 Core.MaxOxygen,Values=(100,100,100,100,100))
-Core.OxygenDepletionRate,Values=(0.17,0.17,0.17,0.17,0.17))
+Core.OxygenDepletionRate,Values=(1.67,1.67,1.67,1.67,1.67))
 Core.OxygenRecoveryRate,Values=(5,5,5,5,5))
 Core.FallingLegDamage,Values=(10,50,50,50,50))
 Core.LegHealRate,Values=(1,1,1,1,1))
@@ -50,8 +50,8 @@ Core.ThirstDamage,Values=(0.2,0.2,0.2,0.2,0.2))
 Core.OxygenDamage,Values=(6,6,6,6,6))
 Core.LimpHealthThreshold,Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold,Values=(0.3,0.3,0.3,0.3,0.3))
-Core.HealthRecoveryRate,Values=(1.67,1.32,1.2,1.15,0.83))
-Core.StaminaRecoveryRate,Values=(1.6,1.2,0.8,0.5,0.4))
+Core.HealthRecoveryRate,Values=(1.11,1.05,1.03,1.01,1))
+Core.StaminaRecoveryRate,Values=(1.6,1.3,1,0.7,0.4))
 Core.JumpForceMultiplier,Values=(1,1.3,1,0,0))
 Core.GrowthPerSecond,Values=(1,1,1,1,1))
 Core.FallDeathSpeed,Values=(2000,2000,2000,2000,2000))
@@ -75,7 +75,7 @@ Core.KnockbackToDecarryThreshold,Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -277,71 +277,60 @@ Multiplier.IncomingDamage.FastDiving,Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Crouching,Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CrouchWalking,Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping,Values=(1,1,1,1,1))
-Multiplier.BulkySubSpecies.Armor,Values=(1.05,1.05,1.05,1.05,1.05))
-Multiplier.StandardSubSpecies.HealhRecoveryMultiplierBuff,Values=(0.1,0.1,0.1,0.1,0.1))
-Multiplier.SpeedySubSpecies.SwimSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-Multiplier.HydratedBlows.AttackDamage,Values=(1.2,1.2,1.2,1.2,1.2))
+Multiplier.BulkySubSpecies.Health,Values=(1.05,1.05,1.05,1.05,1.05))
+Multiplier.SpeedySubSpecies.Bleed,Values=(1.05,1.05,1.05,1.05,1.05))
+Multiplier.StandardSubSpecies.AttackDamage,Values=(1.03,1.03,1.03,1.03,1.03))
 BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
-BiteDamage,Values=(20,20,30,40,50))
+BiteDamage,Values=(10,20,30,30,30))
 BiteBoneBreakChance,Values=(0,0,0,0,0))
-BiteCooldown,Values=(1.5,1.5,1.5,1.5,1.5))
+BiteCooldown,Values=(1,1,1,1,1))
 BiteBleedAmount,Values=(0,0,0,0,0))
-ClawDamage,Values=(10,25,30,37,45))
-ClawBoneBreakChance,Values=(0,0,0,0,0))
-ClawCooldown,Values=(2,2,2,2,2))
-ClawBleedAmount,Values=(0,0,0,0,0))
-TailDamage,Values=(10,20,30,30,30))
+TailDamage,Values=(10,30,40,45,50))
 TailBoneBreakChance,Values=(0,0,0,0,0))
-TailCooldown,Values=(3,3,3,3,3))
-TailBleedAmount,Values=(0,0,0,0,0))
+TailCooldown,Values=(2.5,2.5,2.5,2.5,2.5))
+TailBleedAmount,Values=(0.25,0.25,0.25,0.25,0.25))
 StaminaTrotCostPerSecond,Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond,Values=(1.6,1.9,2.2,2.7,3))
-StaminaSwimgCostPerSecond,Values=(0,0,0,0,0))
-StaminaFastSwimCostPerSecond,Values=(0.2,0.25,0.3,0.35,0.4))
-StaminaDiveCostPerSecond,Values=(0,0,0,0,0))
-StaminaFastDiveCostPerSecond,Values=(0.2,0.25,0.3,0.35,0.4))
+StaminaSprintCostPerSecond,Values=(0.8,1,1.2,1.4,1.6))
+StaminaSwimgCostPerSecond,Values=(0.8,1,1.2,1.4,1.6))
+StaminaFastSwimCostPerSecond,Values=(1.6,1.9,2.2,2.7,3))
+StaminaDiveCostPerSecond,Values=(1.6,1.9,2.2,2.7,3))
+StaminaFastDiveCostPerSecond,Values=(0.8,1,1.2,1.4,1.6))
 StaminaJumpCost,Values=(5,5,5,5,5))
-SlipperyBuckingDrainBuff,Values=(0.3,0.3,0.3,0.3,0.3))
-CrushingBiteDamage,Values=(40,70,100,140,170))
-CrushingBiteBoneBreakChance,Values=(0,0,0,0,0))
-CrushingBiteBleedAmount,Values=(0,0,0,0,0))
-CrushingBiteCooldown,Values=(3,3,3,3,3))
-CrushingBiteStaminaCost,Values=(5,5,5,5,5))
-BreachCooldown,Values=(40,40,35,30,25))
-BreachCost,Values=(10,10,10,10,10))
-BreachStrength,Values=(2000,3000,4000,5000,6000))
-BreachRiseDuration,Values=(8,8,8,10,10))
-TailPaddleSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-TailPaddleSwimTurnSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-HideStreamlinedSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-HideStreamlinedSwimTurnSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-HideStreamlinedArmorDecrease,Values=(0.83,0.83,0.83,0.83,0.83))
-ToughScutesArmor,Values=(1.15,1.15,1.15,1.15,1.15))
+TailAttackDamage,Values=(10,30,50,70,80))
+TailAttackBoneBreakChance,Values=(0,0,0,0,0))
+TailAttackBleedAmount,Values=(0.25,0.25,0.25,0.25,0.25))
+TailAttackCooldown,Values=(2,2,2,2,2))
+TailAttackStaminaCost,Values=(0,0,0,0,0))
+BiteStaminaCost,Values=(0,0,0,0,0))
+TailWindUpAttackDamage,Values=(40,50,60,80,100))
+TailWindUpAttackCooldown,Values=(3,3,3,3,3))
+TailWindUpAttackStaminaCost,Values=(5,5,5,5,5))
+TailWindUpBleedAmount,Values=(1,1,1,1,1))
 TractionStaminaRecovery,Values=(0.7,0.7,0.7,0.7,0.7))
-TractionTurnRadius,Values=(1.1,1.1,1.1,1.1,1.1))
-StompDamage,Values=(40,60,80,100,120))
-StompCooldown,Values=(10,10,10,10,10))
-StompStaminaCost,Values=(10,10,10,10,10))
-StompRadius,Values=(220,240,450,500,550))
-StompForwardBackwardMod,Values=(130,160,190,220,250))
-StompLeftRightMod,Values=(10,20,30,40,50))
-StompUpDownMod,Values=(0,0,0,0,0))
+TractionTurnSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
+ResilientScalesBleedHeal,Values=(1.3,1.3,1.3,1.3,1.3))
+ResilientScalesVenomHeal,Values=(1.3,1.3,1.3,1.3,1.3))
+ToughScutesArmor,Values=(1.15,1.15,1.15,1.15,1.15))
+HideSolarPoweredStaminaRecovery,Values=(1.5,1.5,1.5,1.5,1.5))
+LongDistanceRunnerStamina,Values=(0.85,0.85,0.85,0.85,0.85))
 LoneSurvivorArmor,Values=(1.1,1.1,1.1,1.1,1.1))
 LoneSurvivorAcceleration,Values=(2,2,2,2,2))
 LoneSurvivorPreciseAcceleration,Values=(2,2,2,2,2))
-LoneSurvivorTurnRadius,Values=(1.05,1.05,1.05,1.05,1.05))
-PaddleSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-PaddleSwimTurnSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
+LoneSurvivorTurnRadius,Values=(1,1,1,1,1))
+FreshBloodBuffDamageMultiplier,Values=(1.1,1.1,1.1,1.1,1.1))
+FreshBloodBuffDuration,Values=(3,3,3,3,3))
+FreshBloodSearchRange,Values=(5000,5000,5000,5000,5000))
+FreshBloodCheckTargetIntervalTimer,Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

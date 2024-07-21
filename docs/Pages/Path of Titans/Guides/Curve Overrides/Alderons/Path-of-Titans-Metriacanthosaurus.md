@@ -1,22 +1,22 @@
-# Megalania
+# Metriacanthosaurus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="Megalania.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="Metriacanthosaurus.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
 :::
 
-Listed below are the default stats for the following creature:`Megalania`
+Listed below are the default stats for the following creature:`Metriacanthosaurus`
 
 ## Attributes:
 ```cs
-Core.MaxHealth,Values=(150,250,350,425,500))
+Core.MaxHealth,Values=(100,200,300,400,500))
 Core.MaxStamina,Values=(100,100,100,100,100))
-Core.CombatWeight,Values=(350,800,1100,2000,2700))
+Core.CombatWeight,Values=(200,800,1300,2300,3100))
 Core.Armor,Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier,Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier,Values=(1,1,1,1,1))
@@ -24,8 +24,8 @@ Core.TrottingSpeedMultiplier,Values=(1,1,1,1,1))
 Core.BodyFoodAmount,Values=(100,200,300,400,500))
 Core.MaxHunger,Values=(50,100,150,200,250))
 Core.MaxThirst,Values=(50,100,150,200,250))
-Core.HungerDepletionRate,Values=(0.03,0.07,0.1,0.13,0.17))
-Core.ThirstDepletionRate,Values=(0.03,0.07,0.1,0.13,0.17))
+Core.HungerDepletionRate,Values=(0.02,0.05,0.07,0.1,0.12))
+Core.ThirstDepletionRate,Values=(0.04,0.07,0.11,0.14,0.18))
 Core.FoodConsumptionRate,Values=(20,25,35,45,50))
 Core.WaterConsumptionRate,Values=(20,25,35,45,50))
 Core.MaxOxygen,Values=(100,100,100,100,100))
@@ -36,7 +36,7 @@ Core.LegHealRate,Values=(1,1,1,1,1))
 Core.BleedingRate,Values=(0,0,0,0,0))
 Core.BleedingHealRate,Values=(0.03,0.03,0.03,0.03,0.03))
 Core.PoisonRate,Values=(0,0,0,0,0))
-Core.PoisonHealRate,Values=(10,5,5,5,5))
+Core.PoisonHealRate,Values=(0.02,0.02,0.02,0.02,0.02))
 Core.VenomRate,Values=(0,0,0,0,0))
 Core.VenomHealRate,Values=(0.02,0.02,0.02,0.02,0.02))
 Core.ParalysisRate,Values=(0,0,0,0,0))
@@ -48,14 +48,13 @@ Core.MudHealRate,Values=(0,0,0,0,0))
 Core.HungerDamage,Values=(0.2,0.2,0.2,0.2,0.2))
 Core.ThirstDamage,Values=(0.2,0.2,0.2,0.2,0.2))
 Core.OxygenDamage,Values=(6,6,6,6,6))
-Core.PoisonDamage,Values=(0.2,0.2,0.2,0.2,0.2))
 Core.LimpHealthThreshold,Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold,Values=(0.3,0.3,0.3,0.3,0.3))
 Core.HealthRecoveryRate,Values=(0.83,1.19,1.46,1.67,1.83))
-Core.StaminaRecoveryRate,Values=(1.6,1.3,1,0.8,0.6))
+Core.StaminaRecoveryRate,Values=(1.6,1.3,1,0.7,0.6))
 Core.JumpForceMultiplier,Values=(0.6,0.7,0.8,0.9,1))
 Core.GrowthPerSecond,Values=(1,1,1,1,1))
-Core.FallDeathSpeed,Values=(2600,2600,2600,2600,2600))
+Core.FallDeathSpeed,Values=(3000,3000,3000,3000,3000))
 Core.TurnRadiusMultiplier,Values=(2,1.75,1.5,1.25,1))
 Core.TurnInPlaceRadiusMultiplier,Values=(1,1,1,1,1))
 Core.BuffDurationMultiplier,Values=(1,1,1,1,1))
@@ -76,7 +75,7 @@ Core.KnockbackToDecarryThreshold,Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold,Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -278,58 +277,73 @@ Multiplier.IncomingDamage.FastDiving,Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Crouching,Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CrouchWalking,Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping,Values=(1,1,1,1,1))
-Multiplier.BulkySubSpecies.VenomDamage,Values=(1.05,1.05,1.05,1.05,1.05))
-Multiplier.StandardSubSpecies.JumpForceMultiplier,Values=(1.25,1.25,1.25,1.25,1.25))
-Multiplier.SpeedySubSpecies.SwimSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
+Multiplier.BulkySubSpecies.Speed,Values=(0.95,0.95,0.95,0.95,0.95))
+Multiplier.BulkySubSpecies.IncomingDamage,Values=(0.9,0.9,0.9,0.9,0.9))
+Multiplier.SpeedySubSpecies.Speed,Values=(1.05,1.05,1.05,1.05,1.05))
+Multiplier.SpeedySubSpecies.IncomingDamage,Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond,Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
-BiteDamage,Values=(10,15,20,25,30))
-BoneBreakChance,Values=(0,0,0,0,0))
-BiteCooldown,Values=(1,1,1,1,1))
-BleedAmount,Values=(0,0,0,0,0))
-StaminaTrotCostPerSecond,Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond,Values=(0.4,0.5,0.6,0.7,0.8))
-StaminaSwimgCostPerSecond,Values=(0.7,0.8,0.95,1.1,1.3))
-StaminaFastSwimCostPerSecond,Values=(1.1,1.3,1.5,1.9,2.2))
-StaminaDiveCostPerSecond,Values=(1.1,1.3,1.5,1.9,2.2))
-StaminaFastDiveCostPerSecond,Values=(0.7,0.8,0.95,1.1,1.3))
-StaminaJumpCost,Values=(5,5,5,5,5))
-BiteBoneBreakChance,Values=(0,0,0,0,0))
-BiteVenomAmount,Values=(0.1,0.1,0.1,0.1,0.1))
-BiteStaminaCost,Values=(0,0,0,0,0))
-FetidScentDamageMultiplier,Values=(1.2,1.2,1.2,1.2,1.2))
-FetidScentRange,Values=(5000,5000,5000,5000,5000))
-VenomBiteDamage,Values=(25,40,45,60,70))
+BiteDamage,Values=(10,10,15,20,20))
+BiteCooldown,Values=(0.5,0.5,0.5,0.5,0.5))
+BiteVenomAmount,Values=(0.07,0.07,0.07,0.07,0.07))
+VenomBiteDamage,Values=(20,35,40,55,65))
 VenomBiteCooldown,Values=(10,10,10,10,10))
-VenomBiteVenomAmount,Values=(0,0,0,0,0))
-TailAttackDamage,Values=(10,20,30,30,30))
-TailAttackBoneBreakChance,Values=(0,0,0,0,0))
-TailAttackBleedAmount,Values=(0,0,0,0,0))
-TailAttackCooldown,Values=(2,2,2,2,2))
+VenomBiteVenomAmount,Values=(0.4,0.4,0.4,0.4,0.4))
+ClawDamage,Values=(10,20,30,35,35))
+ClawBoneBreakChance,Values=(0,0,0,0,0))
+ClawCooldown,Values=(1.1,1.1,1.1,1.1,1.1))
+ClawBleedAmount,Values=(0,0,0,0,0))
+TailDamage,Values=(10,10,20,20,20))
+TailCooldown,Values=(3,3,3,3,3))
+ViperStrikesBuffDamageMultiplier,Values=(1.1,1.1,1.1,1.1,1.1))
+ViperStrikesBuffDuration,Values=(3,3,3,3,3))
+ViperStrikesSearchRange,Values=(5000,5000,5000,5000,5000))
+ViperStrikesCheckTargetIntervalTimer,Values=(1,1,1,1,1))
+StaminaTrotCostPerSecond,Values=(0,0,0,0,0))
+StaminaSprintCostPerSecond,Values=(0.6,0.75,0.85,0.95,1.1))
+StaminaSwimgCostPerSecond,Values=(0.8,1,1.2,1.4,1.6))
+StaminaFastSwimCostPerSecond,Values=(1.6,1.9,2.2,2.7,3))
+StaminaDiveCostPerSecond,Values=(0.8,1,1.2,1.4,1.6))
+StaminaFastDiveCostPerSecond,Values=(1.6,1.9,2.2,2.7,3))
+StaminaJumpCost,Values=(5,5,5,5,5))
+TailAttackDamage,Values=(10,10,20,20,20))
+TailAttackCooldown,Values=(3,3,3,3,3))
 TailAttackStaminaCost,Values=(0,0,0,0,0))
+PutridScalesPoisonAmount,Values=(0.15,0.15,0.15,0.15,0.15))
+TailBalanceSpeed,Values=(1.05,1.05,1.05,1.05,1.05))
+IntimidatingScreechCooldown,Values=(300,300,300,300,300))
+IntimidatingScreechDuration,Values=(30,30,30,30,30))
 TwilightMenaceStaminaRegen,Values=(1.2,1.2,1.2,1.2,1.2))
-ToxicImmunityVenomMultiplier,Values=(0,0,0,0,0))
-ToxicImmunityPoisonMultiplier,Values=(0,0,0,0,0))
-ToxicImmunityIncomingDamageMultiplier,Values=(1.25,1.25,1.25,1.25,1.25))
-HideStreamlinedSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-HideStreamlinedSwimTurnSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-PaddleFeetSwimStaminaRecovery,Values=(0.8,0.8,0.8,0.8,0.8))
-PaddleFeetSwimSpeed,Values=(1.1,1.1,1.1,1.1,1.1))
-LeapJumpForce,Values=(1.5,1.5,1.5,1.5,1.5))
-LeapAirControl,Values=(3,3,3,3,3))
-LeapFallDamage,Values=(1.2,1.2,1.2,1.2,1.2))
+HideLightweightArmor,Values=(0.9,0.9,0.9,0.9,0.9))
+HideLightweightTurnSpeed,Values=(0.85,0.85,0.85,0.85,0.85))
+HideLightweightSpeed,Values=(1.05,1.05,1.05,1.05,1.05))
 ToxicScreamVenom,Values=(1.5,1.5,1.5,1.5,1.5))
-ToxicScreamDuration,Values=(30,30,30,30,30))
+ToxicScreamDuration,Values=(10,10,10,10,10))
 ToxicScreamCooldown,Values=(300,300,300,300,300))
+LoneHunterAttackDamage,Values=(1.1,1.1,1.1,1.1,1.1))
+GroupBuffHealMultiplier,Values=(3,3.5,4,4.5,5))
+GroupBuffHealRadius,Values=(3000,3000,3000,3000,3000))
+GroupBuffHealCost,Values=(20,20,20,20,20))
+GroupBuffHealCooldown,Values=(300,300,300,300,300))
+GroupBuffHealDuration,Values=(40,40,40,40,40))
+SoloBuffHealMultiplier,Values=(8,8,8,8,8))
+SoloBuffHealCost,Values=(20,20,20,20,20))
+SoloBuffHealCooldown,Values=(600,600,600,600,600))
+SoloBuffHealDuration,Values=(25,25,25,25,25))
+HustleSpeedMultiplier,Values=(1.2,1.2,1.2,1.2,1.2))
+HustleRadius,Values=(7500,7500,7500,7500,7500))
+HustleCost,Values=(10,10,10,10,10))
+HustleCooldown,Values=(300,300,300,300,300))
+HustleDuration,Values=(300,300,300,300,300))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
+<span style="color: #ffd369;">07-20-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
