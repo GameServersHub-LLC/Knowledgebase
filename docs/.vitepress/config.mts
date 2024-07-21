@@ -269,6 +269,10 @@ export default defineConfig({
                         collapsed: true,
                         items: [
                           {
+                            text: "Cerataspida",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMCerataspida",
+                          },
+                          {
                             text: "Dryptosaurus",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-DJCDryptosaurus",
                           },
@@ -287,10 +291,6 @@ export default defineConfig({
                           {
                             text: "Thalasrex",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMThalasrex",
-                          },
-                          {
-                            text: "Cerataspida",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMCerataspida",
                           },
                         ],
                       },
