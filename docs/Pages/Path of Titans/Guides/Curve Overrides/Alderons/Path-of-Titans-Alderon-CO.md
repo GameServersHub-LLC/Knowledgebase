@@ -1,4 +1,4 @@
-# Adlderon Default Curve Overrides
+# Alderon Default Curve Overrides
 
 Here you will find a full list of all Alderon creatures curve overrides with default vaules.
 
