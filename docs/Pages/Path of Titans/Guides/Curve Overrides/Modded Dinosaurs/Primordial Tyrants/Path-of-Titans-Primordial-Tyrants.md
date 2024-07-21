@@ -19,6 +19,6 @@ Placeholder
 ### [Sachicasaurus](./Path-of-Titans-PTSachicasaurus.md)
 ### [Therizinosaurus](./Path-of-Titans-PTTherizinosaurus.md)
 ### [Tyrannosaurus](./Path-of-Titans-PTTyrannosaurus.md)
-### [Utahraptor](./Path-of-Titans-PTUtahraptor..md)
+### [Utahraptor](#)
 ### [Yunnanosaurus](./Path-of-Titans-PTYunnano.md)
 ### [Yutyrannus](./Path-of-Titans-PTYutyrannus.md)
