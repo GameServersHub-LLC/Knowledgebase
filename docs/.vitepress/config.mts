@@ -87,7 +87,7 @@ export default defineConfig({
                 items: [
                   {
                     text: "Alderons",
-                    link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/path-of-titans-alderon-co",
+                    link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Alderon-CO",
                     collapsed: true,
                     items: [
                       {
@@ -183,6 +183,14 @@ export default defineConfig({
                         link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Metriacanthosaurus",
                       },
                       {
+                        text: "Microraptor",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Microraptor",
+                      },
+                      {
+                        text: "Miragaia",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Miragaia",
+                      },
+                      {
                         text: "Pachycephalosaurus",
                         link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Pachycephalosaurus",
                       },
@@ -230,455 +238,455 @@ export default defineConfig({
                   },
                   {
                     text: "Modded Dinosaurs",
+                    link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Path-of-Titans-Dino-CO",
                     collapsed: true,
                     items: [
                       {
                         text: "Absentia",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Absentia/Path-of-Titans-Absentia",
                         collapsed: true,
                         items: [
                           {
                             text: "Acrocanthosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Absentia/Mod-Acrocanthosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Absentia/Path-of-Titans-AbsentiaAcro",
                           },
                         ],
                       },
                       {
                         text: "Ancient Gods",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Gods/Path-of-Titans-Ancient-Gods",
                         collapsed: true,
                         items: [
                           {
                             text: "Camarasaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Gods/Mod-Camarasaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Gods/Path-of-Titans-Camarasaurus",
                           },
                         ],
                       },
                       {
                         text: "Ancient Monster",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-Ancient-Monster",
                         collapsed: true,
                         items: [
                           {
-                            text: "Dankanaptera",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Dankanaptera",
-                          },
-                          {
                             text: "Dryptosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Dryptosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-DJCDryptosaurus",
                           },
                           {
                             text: "Gigamandra",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Gigamandra",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-Gigamandra",
                           },
                           {
                             text: "Golugore",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Golugore",
-                          },
-                          {
-                            text: "Madrehorn",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Madrehorn",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-Golugore",
                           },
                           {
                             text: "Moraquile",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Moraquile",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMMoraquile",
                           },
                           {
                             text: "Thalasrex",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Mod-Thalasrex",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMThalasrex",
+                          },
+                          {
+                            text: "Cerataspida",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ancient Monster/Path-of-Titans-AMCerataspida",
                           },
                         ],
                       },
                       {
                         text: "Arazoa",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Arazoa/Path-of-Titans-Arazoa",
                         collapsed: true,
                         items: [
                           {
                             text: "Xiphactinus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Arazoa/Mod-Xiphactinus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Arazoa/Path-of-Titans-ArazoaXiph",
                           },
                         ],
                       },
                       {
                         text: "Archetypes",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Archetypes/Path-of-Titans-Archetypes",
                         collapsed: true,
                         items: [
                           {
                             text: "Dunkleosteus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Archetypes/Mod-Dunkleosteus",
-                          },
-                          {
-                            text: "Ocepech",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Archetypes/Mod-Ocepech",
-                          },
-                          {
-                            text: "Squalicorax",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Archetypes/Mod-Squalicorax",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Archetypes/Path-of-Titans-Dunkleosteus",
                           },
                         ],
                       },
                       {
                         text: "Asylum",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Asylum/Path-of-Titans-Asylum",
                         collapsed: true,
                         items: [
                           {
                             text: "Cougar",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Asylum/Mod-Cougar",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Asylum/Path-of-Titans-AsylumCougar",
                           },
                         ],
                       },
                       {
                         text: "Cenozoic Timelines",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Cenozoic Timelines/Path-of-Titans-Cenozoic-Timelines",
                         collapsed: true,
                         items: [
                           {
                             text: "Andrewsarchus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Cenozoic Timelines/Mod-Andrewsarchus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Cenozoic Timelines/Path-of-Titans-CTAndrewsarchus",
                           },
                           {
                             text: "Ankylorhiza",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Cenozoic Timelines/Mod-Ankylorhiza",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Cenozoic Timelines/Path-of-Titans-CTAnkylorhiza",
                           },
                         ],
                       },
                       {
                         text: "David Rosa",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/David Rosa/Path-of-Titans-David-Rosa",
                         collapsed: true,
                         items: [
                           {
                             text: "Kaprosuchus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/David Rosa/Mod-Kaprosuchus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/David Rosa/Path-of-Titans-DavidKaproNew",
+                          },
+                          {
+                            text: "Pachyrhinosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/David Rosa/Path-of-Titans-DavidRosaPachyrhino",
                           },
                         ],
                       },
                       {
                         text: "Divine Beasts",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-Divine-Beasts",
                         collapsed: true,
                         items: [
                           {
                             text: "Acrocanthosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Acrocanthosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineAcroRedux",
                           },
                           {
                             text: "Ampelosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Ampelosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineAmp",
                           },
                           {
                             text: "Carcharodontosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Carcharodontosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineCarchar",
                           },
                           {
                             text: "Compsognathus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Compsognathus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineCompy",
                           },
                           {
                             text: "Deinosuchus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Deinosuchus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineDeino",
                           },
                           {
                             text: "Dryosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Dryosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineDryo",
                           },
                           {
                             text: "Edmontosaurus Annectens",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Edmontosaurus-Annectens",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineAnnectens",
                           },
                           {
                             text: "Edmontosaurus Regalis",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Edmontosaurus-Regalis",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineRegalis",
                           },
                           {
                             text: "Giganotosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Giganotosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineGiga",
                           },
                           {
                             text: "Inostrancevia",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Inostrancevia",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineInos",
                           },
                           {
                             text: "Japanese Giant Salamander",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Japanese-Giant-Salamander",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-TGBsalamander",
                           },
                           {
                             text: "Kryptops",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Kryptops",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-CretaceousKryptops",
                           },
                           {
                             text: "Mosasaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Mosasaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineMosa",
                           },
                           {
                             text: "VelocciRaptor",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-VelocciRaptor",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-VelocciRaptor",
                           },
                           {
                             text: "Zhuchengtyrannus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Mod-Zhuchengtyrannus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineZhuch",
                           },
                         ],
                       },
                       {
                         text: "Ex Argilla",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-Ex-Argilla",
                         collapsed: true,
                         items: [
                           {
                             text: "Australovenator",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Australovenator",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-ExAAustralo",
                           },
                           {
                             text: "Beringia Mammuthus Columbi",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Beringia-Mammuthus-Columbi",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-Beringia-Mammuthus-Columbi",
                           },
                           {
                             text: "Beringia Smilodon",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Beringia-Smilodon",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-EASmilodon",
                           },
                           {
                             text: "Bistahieversor",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Bistahieversor",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-ExABista",
                           },
                           {
                             text: "Dracoviper",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Dracoviper",
-                          },
-                          {
-                            text: "Ex Argilla Smilodon",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Ex-Argilla-Smilodon",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-EADracoviper",
                           },
                           {
                             text: "Griffin",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Griffin",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-EAGriffin",
                           },
                           {
                             text: "Nasutoceratops",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Mod-Nasutoceratops",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-EANasuto",
                           },
                         ],
                       },
                       {
                         text: "Extinction Mods",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Extinction Mods/Path-of-Titans-Extinction-Mods",
                         collapsed: true,
                         items: [
                           {
                             text: "Chaos Triceratops",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Extinction Mods/Mod-Chaos-Triceratops",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Extinction Mods/Path-of-Titans-Chaos-Triceratops",
                           },
                         ],
                       },
                       {
                         text: "Feilong",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Path-of-Titans-Feilong",
                         collapsed: true,
                         items: [
                           {
                             text: "Armored Eotriceratops",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Mod-Armored-Eotriceratops",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Path-of-Titans-EoTLC",
                           },
                           {
                             text: "Beaked Pachycephalosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Mod-Armored-Beaked-Pachycephalosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Path-of-Titans-Armored-Beaked-Pachycephalosaurus",
                           },
                           {
                             text: "Giant Tegu",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Mod-Giant-Tegu",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Path-of-Titans-Giant-Tegu",
                           },
                         ],
                       },
                       {
                         text: "Goliath",
+                        link: 'Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Goliath/Path-of-Titans-Goliath',
                         collapsed: true,
                         items: [
                           {
                             text: "Dimetrodon",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Goliath/Mod-Dimetrodon",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Goliath/Path-of-Titans-Dimetrodon",
                           },
                         ],
                       },
                       {
                         text: "Great",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Great/Path-of-Titans-Great",
                         collapsed: true,
                         items: [
                           {
                             text: "Tenontosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Great/Mod-Tenontosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Great/Path-of-Titans-GTenontosaurus",
                           },
                         ],
                       },
                       {
                         text: "Isla Nycta",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Isla Nycta/Path-of-Titans-Isla-Nycta",
                         collapsed: true,
                         items: [
                           {
                             text: "Nyctatyrannus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Isla Nycta/Mod-Nyctatyrannus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Isla Nycta/Path-of-Titans-Nyctatyrannus",
                           },
                         ],
                       },
                       {
                         text: "JFD",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Path-of-Titans-JFD",
                         collapsed: true,
                         items: [
                           {
-                            text: "Torvosaurus tanneri",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-Torvosaurus-tanneri",
+                            text: "Deltadromeus agilis",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Path-of-Titans-JFDDagilis"
                           },
                           {
-                            text: "Deltadromeus agilis",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Mod-Deltadromeus-agilis"
+                            text: "Torvosaurus tanneri",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Path-of-Titans-JFDTtanneri",
                           },
                         ],
                       },
                       {
                         text: "K-23",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Path-of-Titans-K-23",
                         collapsed: true,
                         items: [
                           {
                             text: "Bwi",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Mod-Bwi",
-                          },
-                          {
-                            text: "Gonari",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Mod-Gonari",
-                          },
-                          {
-                            text: "Hannek",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Mod-Hannek",
-                          },
-                          {
-                            text: "Hebubebu",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Mod-Hebubebu",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/K-23/Path-of-Titans-Bwi",
                           },
                         ],
                       },
                       {
                         text: "Krono",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Krono/Path-of-Titans-Krono",
                         collapsed: true,
                         items: [
                           {
                             text: "Bloop",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Krono/Mod-Bloop",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Krono/Path-of-Titans-Bloop",
                           },
                         ],
                       },
                       {
                         text: "KTO",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Path-of-Titans-KTO",
                         collapsed: true,
                         items: [
                           {
                             text: "Deinosuchus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Mod-Deinosuchus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Path-of-Titans-KTODeino",
                           },
                           {
                             text: "Dryptosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Mod-Dryptosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Path-of-Titans-KTODrypto",
                           },
                           {
                             text: "Yangchuanosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Mod-Yangchuanosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/KTO/Path-of-Titans-KTOYang",
                           },
                         ],
                       },
                       {
                         text: "P&D's Menagerie",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/P&D's Menagerie/Path-of-Titans-P&D's-Menagerie",
                         collapsed: true,
                         items: [
                           {
                             text: "Pentaceratops",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/P&D's Menagerie/Mod-Pentaceratops",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/P&D's Menagerie/Path-of-Titans-PDPentaceratops",
                           },
                         ],
                       },
                       {
                         text: "Primordial Tyrants",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-Primordial-Tyrants",
                         collapsed: true,
                         items: [
                           {
                             text: "Argentinosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Argentinosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTArgent",
                           },
                           {
                             text: "Carnotaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Carnotaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTCarno",
                           },
                           {
                             text: "Dilophosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Dilophosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTDilophosaurus",
                           },
                           {
                             text: "Giganotosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Giganotosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTGiga",
                           },
                           {
                             text: "Kelenken",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Kelenken",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTKelenken",
                           },
                           {
                             text: "Maip",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Maip",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTMaip",
                           },
                           {
                             text: "Noviana",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Noviana",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-IgnisNoviana",
                           },
                           {
                             text: "Ophis",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Ophis",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-IgnisOphis",
                           },
                           {
                             text: "Parasaurolophus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Parasaurolophus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTParasaurolophus",
                           },
                           {
                             text: "Psittacosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Psittacosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTPsittacosaurus",
                           },
                           {
                             text: "Quetzalcoatlus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Quetzalcoatlus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTQuetzalcoatlus",
                           },
                           {
                             text: "Sachicasaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Sachicasaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTSachicasaurus",
                           },
                           {
                             text: "Therizinosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Therizinosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTTherizinosaurus",
                           },
                           {
                             text: "Tyrannosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Tyrannosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTTyrannosaurus",
                           },
                           {
                             text: "Utahraptor",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Utahraptor",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTUtahraptor",
                           },
                           {
                             text: "Yunnanosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Yunnanosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTYunnano",
                           },
                           {
                             text: "Yutyrannus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Mod-Yutyrannus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTYutyrannus",
                           },
                         ],
                       },
                       {
                         text: "The Crimson Isle",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/The Crimson Isle/Path-of-Titans-The-Crimson-Isle",
                         collapsed: true,
                         items: [
                           {
                             text: "Cryolophosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/The Crimson Isle/Mod-Cryolophosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/The Crimson Isle/Path-of-Titans-CrimsonCryo",
                           },
                         ],
                       },
                       {
                         text: "Titanus Constructus",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Titanus Constructus/Path-of-Titans-Titanus-Constructus",
                         collapsed: true,
                         items: [
                           {
                             text: "Ampelosaurus",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Titanus Constructus/Mod-Ampelosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Titanus Constructus/Path-of-Titans-Ampelosaurus",
                           },
                           {
                             text: "Citipati",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Titanus Constructus/Mod-Citipati",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Titanus Constructus/Path-of-Titans-TCCitipati",
                           },
                         ],
                       },
@@ -688,19 +696,19 @@ export default defineConfig({
               },
               {
                 text: "Player Roles",
-                link: "Pages/Path of Titans/Guides/path-of-titans-player-roles",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Player-Roles",
               },
               {
                 text: "Server Admins",
-                link: "Pages/Path of Titans/Guides/path-of-titans-server-admins",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Server-Admins",
               },
               {
                 text: "Enable/Disable Dinosaurs",
-                link: "Pages/Path of Titans/Guides/path-of-titans-enable-disable-dinosaurs",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Enable-Disable-Dinosaurs",
               },
               {
-                text: "Reserved SlotS",
-                link: "Pages/Path of Titans/Guides/path-of-titans-reserved-slots",
+                text: "Reserved Slots",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Reserved-Slots",
               },
             ],
           },
@@ -714,33 +722,33 @@ export default defineConfig({
                 items: [
                   {
                     text: "Basic Game.ini Config",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-configurate-game-ini",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Configurate-Game-ini",
                   },
                   {
                     text: "How To Install Mods",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-how-to-install-mods",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Install-Mods",
                   },
                   {
                     text: "Basic Webhooks Config",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-webhook-config",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-Webhook-Config",
                   },
                   {
                     text: "Auth Token Setup",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-auth-token-setup",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-Auth-Token-Setup",
                   },
                   {
                     text: "Server Password",
-                    link: "Pages/Path of Titans/Setup/Server Configurations/path-of-titans-server-password",
+                    link: "Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-Server-Password",
                   },
                 ],
               },
               {
                 text: "Delete Server Database",
-                link: "Pages/Path of Titans/Setup/path-of-titans-delete-server-database",
+                link: "Pages/Path of Titans/Setup/Path-of-Titans-Delete-Server-Database",
               },
               {
                 text: "MOTD Setup",
-                link: "Pages/Path of Titans/Setup/path-of-titans-MOTD-setup",
+                link: "Pages/Path of Titans/Setup/Path-of-Titans-MOTD-Setup",
               },
             ],
           },

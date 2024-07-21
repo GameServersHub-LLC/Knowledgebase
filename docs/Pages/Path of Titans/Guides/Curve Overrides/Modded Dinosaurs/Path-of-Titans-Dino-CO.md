@@ -1,0 +1,27 @@
+# Mod Dinosaurus Curve Overrides
+
+Here you will find a full list of all modded creatures curve overrides with default values.
+
+### [Absentia](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Absentia/Mod-Absentia.html)
+### [Ancient Gods](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Gods/Mod-Ancient-Gods.html)
+### [Ancient Monster](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Monster/Mod-Ancient-Monster.html)
+### [Arazoa](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Arazoa/Mod-Arazoa.html)
+### [Archetypes](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Archetypes/Mod-Archetypes.html)
+### [Asylum](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Asylum/Mod-Asylum.html)
+### [Cenozoic Timelines](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Cenozoic%20Timelines/Mod-Cenozoic-Timelines.html)
+### [David Rosa](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/David%20Rosa/Mod-David-Rosa.html)
+### [Divine Beasts](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Divine%20Beasts/Mod-Divine-Beasts.html)
+### [Ex Argilla](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Ex%20Argilla/Mod-Ex-Argilla.html)
+### [Extinction Mods](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Extinction%20Mods/Mod-Extinction-Mods.html)
+### [Feilong](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Feilong/Mod-Feilong.html)
+### [Goliath](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Goliath/Mod-Goliath.html)
+### [Great](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Great/Mod-Great.html)
+### [Isla Nycta](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Isla%20Nycta/Mod-Isla-Nycta.html)
+### [JFD](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/JFD/Mod-JFD.html)
+### [K-23](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/K-23/Mod-K-23.html)
+### [Krono](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Krono/Mod-Krono.html)
+### [KTO](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/KTO/Mod-KTO.html)
+### [P&D's Menagerie](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/P&D's%20Menagerie/Mod-P&D's-Menagerie.html)
+### [Primordial Tyrants](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Primordial%20Tyrants/Mod-Primordial-Tyrants.html)
+### [The Crimson Isle](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/The%20Crimson%20Isle/Mod-The-Crimson-Isle.html)
+### [Titanus Constructus](https://guides.gsh-servers.com/Pages/Path%20of%20Titans/Guides/Curve%20Overrides/Modded%20Dinosaurs/Titanus%20Constructus/Mod-Titanus-Constructus.html)
