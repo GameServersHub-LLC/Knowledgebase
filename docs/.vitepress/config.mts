@@ -528,7 +528,7 @@ export default defineConfig({
                         items: [
                           {
                             text: "Deltadromeus agilis",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Path-of-Titans-JFDDagilis"
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/JFD/Path-of-Titans-JFDDagilis",
                           },
                           {
                             text: "Torvosaurus tanneri",
