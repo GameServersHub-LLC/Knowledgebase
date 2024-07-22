@@ -83,6 +83,7 @@ export default defineConfig({
             items: [
               {
                 text: "Curve Overrides",
+                link: "Pages/Path of Titans/Guides/Curve Overrides/Path-of-Titans-Curve-Overrides",
                 collapsed: true,
                 items: [
                   {

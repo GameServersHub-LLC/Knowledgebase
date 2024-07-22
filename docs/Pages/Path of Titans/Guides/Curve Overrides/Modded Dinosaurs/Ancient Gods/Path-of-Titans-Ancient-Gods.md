@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Camarasaurus](./Path-of-Titans-Camarasaurus.md)
+### [Camarasaurus](./Path-of-Titans-Camarasaurus)
