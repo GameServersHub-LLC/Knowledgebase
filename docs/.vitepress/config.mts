@@ -711,6 +711,10 @@ export default defineConfig({
                 text: "Reserved Slots",
                 link: "Pages/Path of Titans/Guides/Path-of-Titans-Reserved-Slots",
               },
+              {
+                text: "MOTD Setup",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-MOTD-Setup",
+              },
             ],
           },
           {
@@ -748,8 +752,12 @@ export default defineConfig({
                 link: "Pages/Path of Titans/Setup/Path-of-Titans-Delete-Server-Database",
               },
               {
-                text: "MOTD Setup",
-                link: "Pages/Path of Titans/Setup/Path-of-Titans-MOTD-Setup",
+                text: "RCON Config",
+                link: "Pages/Path of Titans/Setup/Path-of-Titans-RCON-Config",
+              },
+              {
+                text: "Server Restart",
+                link: "Pages/Path of Titans/Setup/Path-of-Titans-Server-Restart",
               },
             ],
           },
@@ -757,8 +765,11 @@ export default defineConfig({
       },
       {
         text: "The Isle (Evrima)",
+        link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+        items: [
+
+        ],
       },
       {
         text: "Palworld",
@@ -766,24 +777,33 @@ export default defineConfig({
         items: [
           {
             text: "How To Edit Palworld Server Settings",
-            link: "Pages/Palword/palworld-server-settings",
+            link: "Pages/Palworld/Palworld-Server-Settings",
           },
         ],
       },
       {
         text: "V Rising",
+        link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+        items: [
+
+        ],
       },
       {
         text: "7 Days To Die",
+        link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+        items: [
+          
+        ],
       },
       {
         text: "Soulmask",
+        link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [{ text: "Markdown Examples", link: "/markdown-examples" }],
+        items: [
+          
+        ],
       },
     ],
 

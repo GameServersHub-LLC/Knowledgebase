@@ -27,7 +27,7 @@ By not adding the line makes the line to the **default** setting
 |`ServerName=Hosted by GSH`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: _GameServersHub runs Path of Titans on Linux Machines which don't require underscores._
 |`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
 |`ServerPassword=Password123`|Set a password for accessing the server to ensure authorized access only.|
-|`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server [Click to learn more](#). `added`|
+|`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server [Click to learn more](../../Guides/Path-of-Titans-Reserved-Slots). `added`|
 |`bServerPaidUsersOnly=false`|Enable Free-to-Play Access: Determine whether the server permits users to join without payment.|
 |`bServerAllowChat=true`|Enhance Communication Control: Enable or disable text chat functionality for the entire server, granting you greater control over communication.|
 |`bServerGlobalChat=true`|Manage Global Chat: Toggle the availability of the global chat channel on the server, granting you the ability to enable or disable it as desired.|
@@ -51,15 +51,15 @@ By not adding the line makes the line to the **default** setting
 |`bDeathInfo=false`|Displays a textbox on the Character Select Screen that provides info about your dead character when `bPermaDeath` is enabled.|
 |`ServerDiscord=gsh`|This setting designates the linked community Discord server. You should only input the alphanumeric characters found after the discord.gg part of the server invite link. For instance, for the link [https://discord.gg/gsh](https://discord.gg/gsh), you should only use **gsh**. Please ensure to use a perpetual invite link to avoid expiration.|
 |`bServerAutoRestart=false`|This function facilitates the automatic rebooting of the server.|
-|Configure Server Automatic Restart Times|Servers can be configured to automatically restart either at preset times or at preset intervals through the following options: `bServerAutoRestart`, `bUseScheduledRestartTimes`, `ScheduledRestartTimes`, `RestartLengthInSeconds`, `RestartNotificationTimestamps`. [learn how to adjust server restart behavior here](#).|
+|Configure Server Automatic Restart Times|Servers can be configured to automatically restart either at preset times or at preset intervals through the following options: `bServerAutoRestart`, `bUseScheduledRestartTimes`, `ScheduledRestartTimes`, `RestartLengthInSeconds`, `RestartNotificationTimestamps`. [learn how to adjust server restart behavior here](../Path-of-Titans-Server-Restart).|
 |`ServerDeadBodyTime=0`|This setting indicates the duration, in seconds, for which a deceased character's body will remain. A value of 0 implies that the body will remain indefinitely.|
 |`ServerRespawnTime=45`|Amount of time (in minutes) a player must be alive before they can use the /respawn command to kill their dinosaur and respawn. It's suggested to keep this number relatively high to avoid players piling up corpses on your server and causing issues. Defaults to `45` minutes.|
 |`ServerFootprintLifetime=60`|Specifies the maximum time (in seconds) footprints will remain behind dinosaurs. Setting this to `0` will disable footprints entirely. Defaults to `60` seconds.|
 |`bServerAllowMap=true`|Enables or disables the full map for the entire server.|
 |`bServerAllowMinimap=true`|Enables or disables the minimap for the entire server.|
 |`bServerAllow3DMapMarkers=true`|Enables or disables the markers on the full map, and floating quest markers in the world. Defaults to `true`.|
-|`AllowedCharacters=DinosaurName`|This setting turns off all dinosaurs except those specified in the list. You can find more details. [Click to learn more](#).`added`|
-|`DisallowedCharacters=DinosaurName`|This setting disables the dinosaur specified in the list. You can find more details. [Click to learn more](#).`added`|
+|`AllowedCharacters=DinosaurName`|This setting turns off all dinosaurs except those specified in the list. You can find more details. [Click to learn more](../../Guides/Path-of-Titans-Enable-Disable-Dinosaurs).`added`|
+|`DisallowedCharacters=DinosaurName`|This setting disables the dinosaur specified in the list. You can find more details. [Click to learn more](../../Guides/Path-of-Titans-Enable-Disable-Dinosaurs).`added`|
 |`bServerWaystones=true`|Enables or disables Waystones on your server.|
 |`bServerHomeCaves=true`|This feature allows you to either activate or deactivate the home caves on your server.|
 |`bServerHomecaveCampingDebuff=true`|Enables or disables the Home Cave Camping debuff on your server.|
@@ -109,9 +109,9 @@ By not adding the line makes the line to the **default** setting
 |`bServerAllowAnselMultiplayerPausing=false`|Allows players to be able to use Nvidia Ansel on the server to take screenshots. Be mindful of allowing this, as players can technically use it to pause their game to investigate the location of hiding players or gain other gamplay advantages. Defaults to `false`.|
 |`ServerAnselCameraConstraintDistance=500`|The distance, in centimeters, the player can move their Nvidia Ansel camera away from their dinosaur in order to take screenshots. It's suggested to keep this a bit limited to avoid unfair gameplay advantages. Defaults to `500` (5 meters).|
 |`DefaultCreatorModeSave=CreatorName`|Specifies the default creator mode save file to load when the server starts. This is the name used to save the creator mode file. If the file does not exist, it will not load. (Currently has some limitations with loading saved modded items)|
-|**Changing Login Debuff length and stats**|When a player logs in, they will have a Login Debuff applied to their character. You can adjust the length and stat changes of this buff by adding the following:<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffDuration",Values=(60))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffSpeedReduction",Values=(0.75))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffIncomingDamage",Values=(2))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffAttackDamage",Values=(0.4))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).|
-|**Changing Group Buff stats**|When players are grouped and near each other they gain increased movement speed and stamina regeneration. You can adjust these values by adding the following:<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffStaminaRecoveryMultiplier",Values=(1.1))`<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffSpeedMultiplier",Values=(1.05))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).`added`|
-|**Changing Combat timer duration**|When players attack each other, they gain an "In Combat" status that prevents healing and logging out. You can change the duration of this state by adding the following:<br/> - `CurveOverrides=(CurveName="Global.InCombatDuration",Values=(30))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](#).`added`|
+|**Changing Login Debuff length and stats**|When a player logs in, they will have a Login Debuff applied to their character. You can adjust the length and stat changes of this buff by adding the following:<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffDuration",Values=(60))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffSpeedReduction",Values=(0.75))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffIncomingDamage",Values=(2))`<br/> - `CurveOverrides=(CurveName="Global.LoginDebuffAttackDamage",Values=(0.4))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](../../Guides/Curve%20Overrides/Path-of-Titans-Curve-Overrides).|
+|**Changing Group Buff stats**|When players are grouped and near each other they gain increased movement speed and stamina regeneration. You can adjust these values by adding the following:<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffStaminaRecoveryMultiplier",Values=(1.1))`<br/> - `CurveOverrides=(CurveName="Global.GroupLeaderBuffSpeedMultiplier",Values=(1.05))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](../../Guides/Curve%20Overrides/Path-of-Titans-Curve-Overrides).|
+|**Changing Combat timer duration**|When players attack each other, they gain an "In Combat" status that prevents healing and logging out. You can change the duration of this state by adding the following:<br/> - `CurveOverrides=(CurveName="Global.InCombatDuration",Values=(30))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](../../Guides/Curve%20Overrides/Path-of-Titans-Curve-Overrides).`added`|
 |**Changing Group Slot Sizes**|When players group up, their dino will fill a certain number of group slots. You can change the number of slots by adding the following for any desired dinosaur:<br/> - `GroupSlotSizeOverrides=(DinoAssetID="Allosaurus",GroupSize=5)`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](../../Guides/Curve%20Overrides/Path-of-Titans-Curve-Overrides).`added`|
 
 ## IGameMode Config
@@ -168,7 +168,7 @@ bServerDynamicTimeOfDay=1
 ServerDayLength=240
 MaxGroupSize=10
 MaxGroupLeaderCommunicationDistance=50000
-; This is for loading Creator Modes on startup
+# This is for loading Creator Modes on startup
 DefaultCreatorModeSave=
 
 
@@ -206,17 +206,17 @@ PlayerProfanity=""
 
 ```
 
-## [RCON Config](#)
+## [RCON Config](../Path-of-Titans-RCON-Config)
 
 Path of Titans RCON Config
 
-[Link for `[SourceRCON]` configuration](#)
+[Link for `[SourceRCON]` configuration](../Path-of-Titans-RCON-Config)
 
-## [Server Webhooks Config](#)
+## [Server Webhooks Config](./Path-of-Titans-Webhook-Config)
 
 Path of Titans Server Webhooks Config
 
-[Link for `[ServerWebhooks]` configuration](#)
+[Link for `[ServerWebhooks]` configuration](./Path-of-Titans-Webhook-Config)
 
 ---
 
