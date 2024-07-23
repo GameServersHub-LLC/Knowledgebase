@@ -492,7 +492,7 @@ export default defineConfig({
                       },
                       {
                         text: "Goliath",
-                        link: 'Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Goliath/Path-of-Titans-Goliath',
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Goliath/Path-of-Titans-Goliath",
                         collapsed: true,
                         items: [
                           {
@@ -767,8 +767,7 @@ export default defineConfig({
         text: "The Isle (Evrima)",
         link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [
-        ],
+        items: [],
       },
       {
         text: "Palworld",
@@ -776,7 +775,7 @@ export default defineConfig({
         items: [
           {
             text: "How To Edit Palworld Server Settings",
-            link: "Pages/Palworld/Palworld-Server-Settings",
+            link: "Pages/Palworld/palworld-server-settings",
           },
         ],
       },
@@ -784,25 +783,19 @@ export default defineConfig({
         text: "V Rising",
         link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [
-
-        ],
+        items: [],
       },
       {
         text: "7 Days To Die",
         link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [
-          
-        ],
+        items: [],
       },
       {
         text: "Soulmask",
         link: "Pages/Coming-Soon",
         collapsed: true,
-        items: [
-          
-        ],
+        items: [],
       },
     ],
 
