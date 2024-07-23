@@ -2,7 +2,7 @@
 
 Placeholder
 
-[Discord Link](#)
+[Discord Link](https://discord.gg/vkugm46RCR)
 
 ## Current Mods
 
