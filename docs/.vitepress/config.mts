@@ -486,7 +486,7 @@ export default defineConfig({
                           },
                           {
                             text: "Giant Tegu",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Path-of-Titans-Giant-Tegu",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Feilong/Path-of-Titans-Tegu",
                           },
                         ],
                       },
