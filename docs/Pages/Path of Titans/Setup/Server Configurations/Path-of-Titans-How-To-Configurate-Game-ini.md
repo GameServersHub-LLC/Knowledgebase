@@ -119,7 +119,7 @@ By not adding the line makes the line to the **default** setting
 Below are settings that will work under the `[/Script/PathOfTitans.IGameMode]` header.
 |Config Name:|Description:|
 |-|-|
-|`ServerStartingTime=1380`|Specifies the time of day the server begins at after a restart. Time is scaled between `0-2300`. Example:`1000` = 1:00 AM, `1200` = 12:00 PM, and `1800` = 6:00 PM signifies 12:00 PM, and 5800 denotes 6:00 PM.|
+|`ServerStartingTime=1380`|Specifies the time of day the server begins at after a restart. Time is scaled between `0-2300`. Example:`100` = 1:00 AM, `1200` = 12:00 PM, and `1800` = 6:00 PM signifies 12:00 PM, and 1800 denotes 6:00 PM.|
 |`bServerDynamicTimeOfDay=1`|Specifies if the server uses a fixed (0) or dynamic (1) time of day. Fixed will use the ServerStartingTime.|
 |`bServerRestrictCarnivoreGrouping=false`|This feature determines whether the server limits the grouping of carnivores to those of the same species.|
 |`bServerRestrictHerbivoreGrouping=false`|Specifies if the server restricts carnivore grouping to the same species. (Revision 13324)|
