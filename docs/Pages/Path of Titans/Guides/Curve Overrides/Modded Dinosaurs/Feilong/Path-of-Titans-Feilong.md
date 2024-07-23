@@ -8,4 +8,4 @@ Placeholder
 
 ### [Armored Eotriceratops](./Path-of-Titans-EoTLC)
 ### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus)
-### [Giant Tegu](./Path-of-Titans-Giant-Tegu)
+### [Giant Tegu](./Path-of-Titans-Tegu.md)
