@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - property: "Path-of-Titans-Server-Restart:image"
+      content: "/GameServersHub.webp"
+---
+
 # Configure Server Restarts
 
 ::: warning
@@ -26,11 +33,13 @@ Each option must be on its own line or else they will not work.
 - `RestartLengthInSeconds=10800` -> Specifies the time between automatic server restarts in seconds.
 
 **Example Contents of Game.ini**
+
 ```ini
 [/Script/PathOfTitans.IGameSession]
 bServerAutoRestart=true
 RestartLengthInSeconds=10800
 ```
+
 ## Scheduled Restarts Configuration
 
 `bServerAutoRestart=true` -> Enables automatic server restarts.
@@ -44,6 +53,7 @@ RestartLengthInSeconds=10800
 `RestartNotificationTimestamps=xxxx` -> How many seconds before a restart should we warn players with a notification. (To add more than one notification time, just add as many lines as you need. See example)
 
 **Example Contents of Game.ini**
+
 ```ini
 [/Script/PathOfTitans.IGameSession]
 bServerAutoRestart=true
@@ -140,6 +150,7 @@ The defaults already are setup to notify every second during the last minute, th
 `RestartNotificationTimestamps=xxxx` -> How many seconds before a restart should we warn players with a notification. (To add more than one notification time, just add as many lines as you need. See example below.)
 
 **Example Contents of Game.ini**
+
 ```ini
 [/Script/PathOfTitans.IGameSession]
 bServerAutoRestart=true
