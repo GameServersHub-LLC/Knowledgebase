@@ -775,7 +775,7 @@ export default defineConfig({
         items: [
           {
             text: "How To Edit Palworld Server Settings",
-            link: "Pages/Palworld/Palworld-Server-Settings",
+            link: "Pages/Palworld/palworld-server-settings",
           },
         ],
       },
