@@ -768,7 +768,6 @@ export default defineConfig({
         link: "Pages/Coming-Soon",
         collapsed: true,
         items: [
-
         ],
       },
       {
