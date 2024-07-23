@@ -7,5 +7,7 @@ Placeholder
 ## Current Mods
 
 ### [Armored Eotriceratops](./Path-of-Titans-EoTLC.md)
-### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus.md)
 ### [Giant Tegu](./Path-of-Titans-Giant-Tegu.md)
+### [Armored Eotriceratops](./Path-of-Titans-EoTLC)
+<!-- ### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus) -->
+### [Giant Tegu](./Path-of-Titans-Tegu.md)
