@@ -15,6 +15,7 @@ We also have our own lore! As we progress in our development we will release new
 ### [Giganotosaurus](./Path-of-Titans-PTGiga)
 ### [Kelenken](./Path-of-Titans-PTKelenken)
 ### [Maip](./Path-of-Titans-PTMaip)
+### [Noviana](./Path-of-Titans-IgnisNoviana)
 ### [Ophis](./Path-of-Titans-IgnisOphis)
 ### [Parasaurolophus](./Path-of-Titans-PTParasaurolophus)
 ### [Psittacosaurus](./Path-of-Titans-PTPsittacosaurus)
