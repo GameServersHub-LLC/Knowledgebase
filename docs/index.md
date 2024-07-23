@@ -23,7 +23,7 @@ features:
         alt: Path Of Titans Background,
       }
     title: Path Of Titans Guides
-    details: Embark on epic quests in the central and eastern zones of Gondwa. Explore challenging locations like Sharptooth Marsh and Rainbow Hills, and strive to become the best.
+    details: Embark on epic quests in the central and eastern zones of Gondwa, and strive to become the best.
   - icon:
       {
         src: /Rust - 667x260.webp,
@@ -32,7 +32,7 @@ features:
         alt: Rust Background,
       }
     title: Rust Guides
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: The only aim in Rust is to survive. Everything wants you to die!
   - icon:
       {
         src: /Palworld - 667x260.webp,
@@ -41,7 +41,7 @@ features:
         alt: Palworld Background,
       }
     title: Palworld Guides
-    details: Fight, farm, build and work alongside mysterious creatures called “Pals” in this completely new multiplayer, open world survival and crafting game!
+    details: Fight, farm, build and work alongside mysterious creatures called “Pals” open world survival and crafting game!
   - icon:
       {
         src: /7 Days To Die - 667x260.webp,
