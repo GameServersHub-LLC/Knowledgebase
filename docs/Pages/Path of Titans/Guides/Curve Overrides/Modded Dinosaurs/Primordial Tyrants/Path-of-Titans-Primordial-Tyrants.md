@@ -20,11 +20,9 @@ We also have our own lore! As we progress in our development we will release new
 ### [Kelenken](./Path-of-Titans-PTKelenken)
 
 ### [Maip](./Path-of-Titans-PTMaip)
-<<<<<<< HEAD
 
-=======
 ### [Noviana](./Path-of-Titans-IgnisNoviana)
->>>>>>> 229f7f1432fff88590559e5a274646cbbcb509cf
+
 ### [Ophis](./Path-of-Titans-IgnisOphis)
 
 ### [Parasaurolophus](./Path-of-Titans-PTParasaurolophus)
@@ -38,13 +36,11 @@ We also have our own lore! As we progress in our development we will release new
 ### [Therizinosaurus](./Path-of-Titans-PTTherizinosaurus)
 
 ### [Tyrannosaurus](./Path-of-Titans-PTTyrannosaurus)
-<<<<<<< HEAD
 
 ### [Utahraptor](./Path-of-Titans-PTUtahraptor)
 
-=======
 ### [Utahraptor](./Path-of-Titans-PTUtahraptor)
->>>>>>> 229f7f1432fff88590559e5a274646cbbcb509cf
+
 ### [Yunnanosaurus](./Path-of-Titans-PTYunnano)
 
 ### [Yutyrannus](./Path-of-Titans-PTYutyrannus)
