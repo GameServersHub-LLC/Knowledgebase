@@ -23,11 +23,11 @@ Commands in this section do not require permission to use, and are available to 
 |/mapbug|`/mapbug`|-|:x:|Copies the current player position to the clipboard.|
 |/bugsnap|`/bugsnap`|-|:x:|Loads a dialogue for submitting a bug snapshot.|
 |/respawn|`/respawn`|-|:x:|Kills your character and respawns them at a standard spawn point. Useful if players somehow get stuck.|
-|/mute [user]|`/mute Jiggy`|-|:x:|Mutes the specified user. This only mutes them for the player, not the entire server.|
-|/unmute [user]|`/unmute Jiggy`|-|:x:|Unmutes the specified user. This only unmutes them for the player, not the entire server.|
+|/mute [user]|`/mute that411guy`|-|:x:|Mutes the specified user. This only mutes them for the player, not the entire server.|
+|/unmute [user]|`/unmute that411guy`|-|:x:|Unmutes the specified user. This only unmutes them for the player, not the entire server.|
 |/listplayers|`/listplayers`|-|:x:|Shows all players on the server.|
-|/whisper [username] [message]|`/whisper Jiggy Hello there`|-|:x:|Whispers a message to the specified player. If no player is specified, it will whisper to the last player you whispered to.|
-|/w [username] [message]|`/w Jiggy Hello there`|-|:x:|Shortcut for /whisper.|
+|/whisper [username] [message]|`/whisper that411guy Hello there`|-|:x:|Whispers a message to the specified player. If no player is specified, it will whisper to the last player you whispered to.|
+|/w [username] [message]|`/w that411guy Hello there`|-|:x:|Shortcut for /whisper.|
 |/whisperall [message]|`/whisperall Hello everyone`|-|:x:|Whispers a message to all players in the server.|
 
 ## Teleport Commands
@@ -36,4 +36,17 @@ Commands related to teleporting and bringing players to locations, POIs, and eve
 
 |Chat Command:|Example:|Permissions:|RCON Support:|Action:|
 |-|-|-|-|-|
+|/teleport (coordinates)|`/teleport (X=-91112,Y=-176182,Z=13156)`|+Permission=teleport|:heavy_check_mark:|Teleports yourself to the specified coordinates. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/teleport [user] (coordinates)|`/teleport that411guy (X=-91112,Y=-176182,Z=13156)`|+Permission=teleport|:heavy_check_mark:|Teleports the user to the specified coordinates. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/teleport [user] [user]|`/teleport Mike Josh`|+Permission=teleport|:heavy_check_mark:|Teleports the first user to the second user. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/teleport [POIname]|`/teleport talonspoint`|+Permission=teleport|:heavy_check_mark:|Teleports yourself to a point within the specified POI. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/teleport [user] [POIname]|`/teleport that411guy talonspoint`|+Permission=teleport|:heavy_check_mark:|Teleports the user to a point within the specified POI. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/bring [user]|`/bring that411guy`|+Permission=teleport|:x:|Brings the user to your location. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/goto [location]|`/goto talonspoint`|+Permission=teleport|:x:|Teleports you to the target location. The location can be either a username, a POI, or coordinates. 'unsafe' Optional parameter, use to change from a safe teleport to an unsafe teleport|
+|/teleportall [POIname]|`/teleportall talonspoint`|+Permission=teleportall|:heavy_check_mark:|Teleports all users on the server to a point within the specified POI.|
+|/teleportall (coordinates)|`/teleportall (X=-91112,Y=-176182,Z=13156)`|+Permission=teleportall|:heavy_check_mark:|Teleports all users on the server to the specified coordinates.|
+|/bringall|`/bringall`|+Permission=teleportall|:x:|Teleports all players to your location.|
 
+## Change Stats Commands
+
+Commands related to changing player stats, such as hunger, thirst, stamina, and many more.
