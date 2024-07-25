@@ -14,7 +14,7 @@ You can find this file in the following location:
 `PathofTitans/Saved/MOTD.txt`
 
 ::: tip
-If you specify a Discord server in your Server Config, a Discord button will appear on your MOTD as well, letting players join your community Discord server if clicked. More information here: [Server Configuration Options](#)
+If you specify a Discord server in your Server Config, a Discord button will appear on your MOTD as well, letting players join your community Discord server if clicked. More information here: [Server Configuration Options](../Setup/Server%20Configurations/Path-of-Titans-How-To-Configurate-Game-ini)
 :::
 
 ## Formatting

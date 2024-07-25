@@ -715,6 +715,14 @@ export default defineConfig({
                 text: "MOTD Setup",
                 link: "Pages/Path of Titans/Guides/Path-of-Titans-MOTD-Setup",
               },
+              {
+                text: "Server Rules",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Server-Rules",
+              },
+              {
+                text: "Whitelist",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Whitelist",
+              },
             ],
           },
           {
