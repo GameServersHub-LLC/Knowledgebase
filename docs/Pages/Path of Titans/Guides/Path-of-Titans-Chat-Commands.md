@@ -14,8 +14,8 @@ When creating player roles, the permission to allow any command is the name of t
 
 Commands in this section do not require permission to use, and are available to everyone. They are useful for bug reporting, general information, and more.
 
-### Test
-
-|Chat Command:|Example:|Permissions:|RCON Support:|
+::: details /rules
+list the servers rules
+|Example:|Chat Command|Permissions|RCON Support|
 |-|-|-|-|
-|/rules|/rules|-|:x:|
+|/rules|/rules|`-`|:x:|
