@@ -16,6 +16,6 @@ Commands in this section do not require permission to use, and are available to 
 
 
 list the servers rules
-|Example:|Chat Command:|Permissions:|RCON Support:|Action:|
+|Chat Command:|Example:|Permissions:|RCON Support:|Action:|
 |-|-|-|-|-|
 |/rules|/rules|-|:x:|List the servers rules|
