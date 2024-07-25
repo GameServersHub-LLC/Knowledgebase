@@ -23,14 +23,17 @@ Commands in this section do not require permission to use, and are available to 
 |/mapbug|`/mapbug`|-|:x:|Copies the current player position to the clipboard.|
 |/bugsnap|`/bugsnap`|-|:x:|Loads a dialogue for submitting a bug snapshot.|
 |/respawn|`/respawn`|-|:x:|Kills your character and respawns them at a standard spawn point. Useful if players somehow get stuck.|
-|/mute `<user>`|`/mute Jiggy`|-|:x:|Mutes the specified user. This only mutes them for the player, not the entire server.|
-|/unmute `<user>`|`/unmute Jiggy`|-|:x:|Unmutes the specified user. This only unmutes them for the player, not the entire server.|
+|/mute [user]|`/mute Jiggy`|-|:x:|Mutes the specified user. This only mutes them for the player, not the entire server.|
+|/unmute [user]|`/unmute Jiggy`|-|:x:|Unmutes the specified user. This only unmutes them for the player, not the entire server.|
 |/listplayers|`/listplayers`|-|:x:|Shows all players on the server.|
-|/whisper `<username> <message>`|`/whisper Jiggy Hello there`|-|:x:|Whispers a message to the specified player. If no player is specified, it will whisper to the last player you whispered to.|
-|/w `<username> <message>`|`/w Jiggy Hello there`|-|:x:|Shortcut for /whisper.|
-|whisperall `<message>`|`/whisperall Hello everyone`|-|:x:|Whispers a message to all players in the server.|
+|/whisper [username] [message]|`/whisper Jiggy Hello there`|-|:x:|Whispers a message to the specified player. If no player is specified, it will whisper to the last player you whispered to.|
+|/w [username] [message]|`/w Jiggy Hello there`|-|:x:|Shortcut for /whisper.|
+|/whisperall [message]|`/whisperall Hello everyone`|-|:x:|Whispers a message to all players in the server.|
 
 ## Teleport Commands
 
 Commands related to teleporting and bringing players to locations, POIs, and even other players.
+
+|Chat Command:|Example:|Permissions:|RCON Support:|Action:|
+|-|-|-|-|-|
 
