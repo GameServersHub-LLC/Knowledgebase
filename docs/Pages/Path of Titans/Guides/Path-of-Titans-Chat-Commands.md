@@ -18,4 +18,7 @@ Commands in this section do not require permission to use, and are available to 
 list the servers rules
 |Chat Command:|Example:|Permissions:|RCON Support:|Action:|
 |-|-|-|-|-|
-|/rules|/rules|-|:x:|List the servers rules|
+|/rules|`/rules`|-|:x:|List the server's rules|
+|/motd|`/motd`|-|:x:|Displays the server's Message of The Day.|
+|/help|`/help`|-|:x:|Lists all the commands that player has access to with a short description of each.|
+|/clear|`/clear`|-|:x:|Clears the current chat channel.|
