@@ -723,6 +723,10 @@ export default defineConfig({
                 text: "Whitelist",
                 link: "Pages/Path of Titans/Guides/Path-of-Titans-Whitelist",
               },
+              {
+                text: "Chat Commands",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Chat-Commands",
+              },
             ],
           },
           {
