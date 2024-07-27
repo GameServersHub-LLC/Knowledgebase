@@ -61,7 +61,10 @@ export default defineConfig({
       {
         text: "Welcome to our guides!",
         collapsed: false,
-        items: [{ text: "Introduction", link: "/welcome" }],
+        items: [
+          { text: "Introduction", link: "/welcome" },
+          { text: "General F.A.Q", link: "/F.A.Q"},
+        ],
       },
       {
         text: "Basic security 101",
