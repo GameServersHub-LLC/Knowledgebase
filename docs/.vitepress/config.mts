@@ -2,8 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "GSH Knowledgebase",
-  description: "Knowledgebase for tutorials, guides, articles on GSH.",
+  title: "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
+  description:
+    "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
   lastUpdated: true,
   sitemap: {
     hostname: "https://guides.gsh-servers.com",
@@ -24,7 +25,69 @@ export default defineConfig({
       gtag('js', new Date());
       gtag('config', 'G-0WCXTJZXEF');`,
     ],
-    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["meta", { name: "theme-color", content: "#fdc752" }],
+    ["link", { rel: "icon", href: "/favicon.ico", sizes: "any" }],
+    ["link", { rel: "icon", href: "/favicon.svg", type: "image/svg+xml" }],
+    [
+      "link",
+      { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#fdc752" },
+    ],
+    ["meta", { name: "author", content: "Mike Harrison" }],
+    [
+      "meta",
+      {
+        name: "keywords",
+        content:
+          "path of titans map, path of titans gondwa map, path of titans reddit, path of titans discord, path of titans gameplay, path of titans resource map",
+      },
+    ],
+    ["meta", { property: "og:type", content: "website" }],
+    [
+      "meta",
+      {
+        property: "og:title",
+        content:
+          "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
+      },
+    ],
+    ["meta", { property: "og:image", content: ogImage }],
+    [
+      "meta",
+      {
+        property: "og:description",
+        content:
+          "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
+      },
+    ],
+    ["meta", { property: "og:url", content: ogUrl }],
+    [
+      "meta",
+      {
+        name: "twitter:description",
+        content:
+          "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:title",
+        content:
+          "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
+      },
+    ],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:image", content: ogImage }],
+    ["meta", { name: "twitter:site", content: "@antfu7" }],
+    ["meta", { name: "twitter:url", content: ogUrl }],
+    [
+      "link",
+      {
+        rel: "apple-touch-icon",
+        href: "/apple-touch-icon.png",
+        sizes: "180x180",
+      },
+    ],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -63,7 +126,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "Introduction", link: "/welcome" },
-          { text: "General F.A.Q", link: "/F.A.Q"},
+          { text: "General F.A.Q", link: "/F.A.Q" },
         ],
       },
       {
