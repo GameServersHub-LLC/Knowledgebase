@@ -1,8 +1,8 @@
-# Welcome to GameServersHub! 
+# Welcome to GameServersHub!
 
 ## Your Ultimate Destination for Hosting your favorite games!
 
-What We Offer
+### What We Offer
 - **Seamless Game Hosting:** Easily host your own game servers with our user-friendly interface. Enjoy low-latency, high-performance servers that keep the action smooth and uninterrupted.
 - **Diverse Game Library:** Explore a wide variety of games across multiple genres. From action-packed adventures to strategic simulations, there's a game for every taste.
 - **Community & Collaboration:** Join our vibrant community of gamers. Participate in forums, join clans, and engage in events. Share your experiences and strategies with fellow enthusiasts.
