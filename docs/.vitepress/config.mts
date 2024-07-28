@@ -1,6 +1,8 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
+const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
+const ogImage = `${ogUrl}GameServersHub.com-Wiki-Page.webp`;
+
 export default defineConfig({
   title: "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
   description:
