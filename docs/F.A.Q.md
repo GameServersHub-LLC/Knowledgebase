@@ -4,8 +4,10 @@
 
 - Fix bugs and glitches:
   - Regular restarts can fix some bugs and glitches that might happen during gameplay. Also lets the game update if there one is available.
+
 - Prevent data loss:
   - Restarting can help prevent data loss by allowing the server to start fresh and delete any corrupted data.
+  
 - Flush RAM:
   - Restarting can flush the RAM and clear out temporary files and processes, which can help prevent "server cobwebs" from forming. This allows the server to run at peak performance.
 

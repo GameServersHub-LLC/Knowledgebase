@@ -4,7 +4,7 @@ const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
 const ogImage = `${ogUrl}GameServersHub.com-Wiki-Page.webp`;
 
 export default defineConfig({
-  title: "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
+  title: "GameServersHub",
   description:
     "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
   lastUpdated: true,
@@ -760,6 +760,69 @@ export default defineConfig({
                         ],
                       },
                     ],
+                  },
+                ],
+              },
+              {
+                text: "Maps Info",
+                link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Map-Info",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Aedis",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Aedis",
+                  },
+                  {
+                    text: "Avernus",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Avernus",
+                  },
+                  {
+                    text: "Cerulean Island",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-CeruleanIsland",
+                  },
+                  {
+                    text: "Etis",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Etis",
+                  },
+                  {
+                    text: "Gondwa",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Gondwa",
+                  },
+                  {
+                    text: "Infinita",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Infinita",
+                  },
+                  {
+                    text: "Jangwa",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Jangwa",
+                  },
+                  {
+                    text: "New Era",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-NewEra",
+                  },
+                  {
+                    text: "Panjura",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Panjura",
+                  },
+                  {
+                    text: "Paragon",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Paragon",
+                  },
+                  {
+                    text: "Savanna Grasslands",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Savanna",
+                  },
+                  {
+                    text: "Stoneclaw Highlands",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-StoneclawHighlands",
+                  },
+                  {
+                    text: "Teutonia",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-Teutonia",
+                  },
+                  {
+                    text: "The Grim Expanse",
+                    link: "Pages/Path of Titans/Guides/Maps Info/Path-of-Titans-TheGrimExpanse",
                   },
                 ],
               },
