@@ -50,3 +50,5 @@ Commands related to teleporting and bringing players to locations, POIs, and eve
 ## Change Stats Commands
 
 Commands related to changing player stats, such as hunger, thirst, stamina, and many more.
+
+**Being Made**
