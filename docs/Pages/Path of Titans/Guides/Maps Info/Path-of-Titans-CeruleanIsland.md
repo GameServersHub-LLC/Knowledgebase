@@ -1,6 +1,6 @@
 # Cerulean Island
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_YNR73P081V_SK`
 
 Map Game.ini Name `CeruleanIsland`

@@ -1,6 +1,6 @@
 # Etis
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_N597DNPEWQ_SK`
 
 Map Game.ini Name `Etis`

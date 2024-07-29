@@ -1,6 +1,6 @@
 # Teutonia
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_RD1EPJ9EXG_SK`
 
 Map Game.ini Name `Teutonia`

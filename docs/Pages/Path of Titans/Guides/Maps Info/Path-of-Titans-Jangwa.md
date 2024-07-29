@@ -1,6 +1,6 @@
 # Jangwa
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_5XN7VN2EPZ_SK`
 
 Map Game.ini Name `Jangwa`

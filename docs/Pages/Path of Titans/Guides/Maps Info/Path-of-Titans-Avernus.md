@@ -1,6 +1,6 @@
 # Avernus
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_K5G0ZN10PN_SK`
 
 Map Game.ini Name `Avernus`

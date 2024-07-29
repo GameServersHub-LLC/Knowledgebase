@@ -1,6 +1,6 @@
 # Stoneclaw Highlands
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_QM57NW7D3P_SK`
 
 Map Game.ini Name `StoneclawHighlands`
