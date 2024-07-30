@@ -1,6 +1,6 @@
 # Paragon
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_YZKE4MK09W_SK`
 
 Map Game.ini Name `Paragon`

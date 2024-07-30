@@ -1,6 +1,6 @@
 # The Grim Expanse
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_DYV7XYEGX2_SK`
 
 Map Game.ini Name `TheGrimExpanse`

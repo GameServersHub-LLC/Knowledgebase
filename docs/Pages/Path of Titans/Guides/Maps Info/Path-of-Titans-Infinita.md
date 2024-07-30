@@ -1,6 +1,6 @@
 # Infinita
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_JG1E9WXEQN_SK`
 
 Map Game.ini Name `Infinita`

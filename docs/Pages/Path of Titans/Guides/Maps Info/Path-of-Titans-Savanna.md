@@ -1,6 +1,6 @@
-# Sananna Grassland
+# Savanna Grassland
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_RD10PRZEXG_SK`
 
 Map Game.ini Name `Savanna`

@@ -1,6 +1,6 @@
 # Aedis
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_NZK0J6M712_SK`
 
 Map Game.ini Name `Aedis`

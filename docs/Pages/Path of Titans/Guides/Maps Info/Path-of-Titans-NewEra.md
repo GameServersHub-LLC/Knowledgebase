@@ -1,6 +1,6 @@
 # New Era
 
-::: details Aedis Mod Map Details
+::: details Mod Map Details
 Mod ID: `UGC_M_43G06350NR_SK`
 
 Map Game.ini Name `NewEra`
