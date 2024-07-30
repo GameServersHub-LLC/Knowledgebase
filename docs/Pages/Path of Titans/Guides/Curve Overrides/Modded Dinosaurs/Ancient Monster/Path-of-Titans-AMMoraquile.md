@@ -1,6 +1,6 @@
 # AMMoraquile
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -71,7 +71,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -425,7 +425,7 @@ Multiplier.StatHunter.FallDeathSpeed",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -458,8 +458,8 @@ AirKickBleedAmount",Values=(0.25,0.25,0.25,0.25,0.25))
 AirKickCooldown",Values=(10,10,10,10,10))
 AirKickStaminaCost",Values=(5,5,5,5,5))
 AirKickCarryStaminaCost",Values=(0.5,0.5,0.5,0.5,0.5))
-WingStabDamage",Values=(80,80,80,80,80))
-WingStabBleedAmount",Values=(1,1,1,1,1))
+WingStabDamage",Values=(50,50,50,50,50))
+WingStabBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
 WingStabCooldown",Values=(5,5,5,5,5))
 WingStabStaminaCost",Values=(0,0,0,0,0))
 SheildWingMultiplier",Values=(0.1,0.1,0.1,0.1,0.1))
@@ -497,9 +497,9 @@ KingoftheSkyDebuffs",Values=(0.9,0.9,0.9,0.9,0.9))
 KingoftheSkyMoraquileDebuff",Values=(0.95,0.95,0.95,0.95,0.95))
 KingoftheSkyDebuffsDuration",Values=(6,6,6,6,6))
 RazorWingDamage",Values=(10,10,10,10,10))
-RazorWingBleedAmount",Values=(1,1,1,1,1))
+RazorWingBleedAmount",Values=(0.5,0.5,0.5,0.5,0.5))
 RazorWingCooldown",Values=(5,5,5,5,5))
-RazorWingStaminaCost",Values=(0,0,0,0,0))
+RazorWingStaminaCost",Values=(5,5,5,5,5))
 RaptorianClawDamage",Values=(10,10,10,10,10))
 RaptorianClawBleedAmount",Values=(0.1,0.1,0.1,0.1,0.1))
 RaptorianClawCooldown",Values=(3,3,3,3,3))
@@ -511,12 +511,12 @@ BloodlossDebuffBleedResistanceDebuff",Values=(1.5,1.5,1.5,1.5,1.5))
 BloodlossDebuffStaminaRegenerationDebuff",Values=(0.5,0.5,0.5,0.5,0.5))
 VocalThunderBirdWrathsDamage",Values=(1,1,1,1,1))
 VocalThunderBirdWrathsRadius",Values=(7500,7500,7500,7500,7500))
-VocalThunderBirdWrathsForwardBackwardMod",Values=(100,200,300,400,500))
-VocalThunderBirdWrathsLeftRightMod",Values=(100,200,300,400,500))
-VocalThunderBirdWrathsUpDownMod",Values=(100,200,300,400,500))
+VocalThunderBirdWrathsForwardBackwardMod",Values=(7500,7500,7500,7500,7500))
+VocalThunderBirdWrathsLeftRightMod",Values=(7500,7500,7500,7500,7500))
+VocalThunderBirdWrathsUpDownMod",Values=(7500,7500,7500,7500,7500))
 VocalThunderBirdWrathsRange",Values=(7500,7500,7500,7500,7500))
 VocalThunderBirdWrathsDebuff",Values=(0,0,0,0,0))
-VocalThunderBirdWrathsDuration",Values=(2,2,2,2,2))
+VocalThunderBirdWrathsDuration",Values=(5,5,5,5,5))
 VocalThunderBirdWrathsCooldown",Values=(30,30,30,30,30))
 VocalThunderBirdWrathsCost",Values=(10,10,10,10,10))
 BeakClackCooldown",Values=(300,300,300,300,300))
@@ -525,7 +525,7 @@ BeakClackCost",Values=(0,0,0,0,0))
 BeakClackImmunityDuration",Values=(3,3,3,3,3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
