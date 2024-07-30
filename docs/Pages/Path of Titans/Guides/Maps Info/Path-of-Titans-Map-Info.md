@@ -6,7 +6,7 @@ Below you'll find a list of all maps **Path of Titans** offers!
 
 ## [Avernus](./Path-of-Titans-Avernus)
 
-[![Avernus](Avernus.webp)](./Path-of-Titans-Avernus.md)
+[![Avernus](Avernus.webp)](./Path-of-Titans-Avernus)
 
 <!-- ## [Beringia](./Path-of-Titans-Beringia.md) -->
 
