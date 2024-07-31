@@ -290,6 +290,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
+|Apatosaurus|`UGC_M_QM50NNJ0D3_SK`|`PTApatosaurus`|
 |Argentinosaurus|`UGC_M_Z857QJG02V_SK`|`PTArgent`|
 |Carnotaurus|`UGC_M_YZK04PD79W_SK`|`PTCarno`|
 |Dilophosaurus|`UGC_M_DYVEXZ57GX_SK`|`PTDilophosaurus`|
@@ -301,6 +302,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Quetzalcoatlus|`UGC_M_5XNEV187PZ_SK`|`PTQuetzalcoatlus`|
 |Sachicasaurus|`UGC_M_RD10PP20XG_SK`|`PTSachicasaurus`|
 |Therizinosaurus|`UGC_M_Y250GPQ0VZ_SK`|`PTTherizinosaurus`|
+|Torvosaurus|`UGC_M_DYV0X96EGX_SK`|`PTTorvosaurus`|
 |Tyrannosaurus|`UGC_M_NV57RRW7JD_SK`|`PTTyrannosaurus`|
 |Utahraptor|`UGC_M_5XN7VXW0PZ_SK`|`PTUtahraptor`|
 |Yunnanosaurus|`UGC_M_Y25EGXK7VZ_SK`|`PTYunnano`|
