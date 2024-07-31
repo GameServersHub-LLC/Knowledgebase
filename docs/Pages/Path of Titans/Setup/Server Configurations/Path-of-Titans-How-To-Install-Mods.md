@@ -124,7 +124,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Beringia Smilodon|`UGC_M_W6108VG0MD_SK`|`BeringiaSmilodon`|
 |Bistahieversor|`UGC_M_K5G7Z2Y0PN_SK`|`ExABista`|
 |Ex Argilla Smilodon|`UGC_M_JG1E9D97QN_SK`|`EASmilodon`|
-|Dracoviper|`UGC_M_5XN0VZ87PZ_SK`|`Dracoviper`|
+|Dracoviper|`UGC_M_W610844EMD_SK`|`EADracoviper`|
 |Griffin|`UGC_M_12GEW9PEWK_SK`|`EAGriffin`|
 |Nasutoceratops|`UGC_M_6GWEYR373Z_SK`|`EANasuto`|
 
