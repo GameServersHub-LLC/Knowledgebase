@@ -126,7 +126,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Ex Argilla Smilodon|`UGC_M_JG1E9D97QN_SK`|`EASmilodon`|
 |Dracoviper|`UGC_M_5XN0VZ87PZ_SK`|`Dracoviper`|
 |Griffin|`UGC_M_12GEW9PEWK_SK`|`EAGriffin`|
-|Nasutoceratops|`UGC_M_6GWEYR373Z_SK`|`EAGriffin`|
+|Nasutoceratops|`UGC_M_6GWEYR373Z_SK`|`EANasuto`|
 
 ## The Crimson Isle:
 

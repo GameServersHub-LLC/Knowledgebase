@@ -1,6 +1,6 @@
 # AbsentiaAcro
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -69,7 +69,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -278,7 +278,7 @@ Multiplier.SpeedySubSpecies.IncomingDamage",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1.67))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -322,7 +322,7 @@ StompLeftRightMod",Values=(10,20,30,40,50))
 StompUpDownMod",Values=(0,0,0,0,0))
 ChargeSpeedIncrease",Values=(400,700,1200,1500,1700))
 ChargeCost",Values=(0,0,0,0,0))
-ChargeDamage",Values=(40,45,50,55,55))
+ChargeDamage",Values=(35,35,35,35,35))
 ChargeCooldown",Values=(3,3,3,3,3))
 HeadbuttBuffDuration",Values=(8,8,8,8,8))
 HeadbuttDamageMitigation",Values=(1.1,1.1,1.1,1.1,1.1))
@@ -337,7 +337,7 @@ ParryDamageReduction",Values=(0.2,0.2,0.2,0.2,0.2))
 ParryTurnBuff",Values=(1.25,1.25,1.25,1.25,1.25))
 ParryAttackBuff",Values=(1.25,1.25,1.25,1.25,1.25))
 ParryTurnDuration",Values=(5,5,5,5,5))
-LowClawDamage",Values=(5,10,20,30,70))
+LowClawDamage",Values=(30,40,50,60,80))
 LowClawBleed",Values=(0,0,0,0,0))
 LowClawCooldown",Values=(5,5,5,5,5))
 LowClawStaminaReduction",Values=(25,25,25,25,25))
@@ -346,10 +346,10 @@ CarnageBleed",Values=(1.25,1.25,1.25,1.25,1.25))
 CarnageDuration",Values=(60,60,60,60,60))
 CarnageCooldown",Values=(180,180,180,180,180))
 CarnageStaminaCost",Values=(20,20,20,20,20))
-QuarryCooldownReduction",Values=(0.5,0.5,0.5,0.5,0.5))
+QuarryCooldownReduction",Values=(0.6,0.6,0.6,0.6,0.6))
 QuarryCooldownEnemy",Values=(1.2,1.2,1.2,1.2,1.2))
-QuarryDuration",Values=(30,30,30,30,30))
-QuarryCooldown",Values=(220,220,220,220,220))
+QuarryDuration",Values=(20,20,20,20,20))
+QuarryCooldown",Values=(340,340,340,340,340))
 QuarryStaminaCost",Values=(15,15,15,15,15))
 QuarryDamageReduction",Values=(0.2,0.2,0.2,0.2,0.2))
 QuarryDamageReductionDuration",Values=(5,5,5,5,5))
@@ -361,6 +361,9 @@ EldersStaminaCost",Values=(10,10,10,10,10))
 CarnivoreWaterDepletion",Values=(0.4,0.4,0.4,0.4,0.4))
 CarnivoreHungerDepletion",Values=(0.4,0.4,0.4,0.4,0.4))
 CarnivoreArmor",Values=(1.05,1.05,1.05,1.05,1.05))
+GorgeWaterDepletion",Values=(0.6,0.6,0.6,0.6,0.6))
+GorgeHungerDepletion",Values=(0.3,0.3,0.3,0.3,0.3))
+GorgeHunger",Values=(1.25,1.25,1.25,1.25,1.25))
 ScavengerWaterDepletion",Values=(1.1,1.1,1.1,1.1,1.1))
 ScavengerHungerDepletion",Values=(1.1,1.1,1.1,1.1,1.1))
 ScavengerStaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
@@ -389,9 +392,13 @@ NobleSenseVenomResistance",Values=(0.65,0.65,0.65,0.65,0.65))
 NobleSenseKBReduction",Values=(0.65,0.65,0.65,0.65,0.7))
 RavagerBleed",Values=(1.3,1.3,1.3,1.3,1.3))
 RavagerSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
+ParryNewActivationCost",Values=(1,1,1,1,1))
+ParryNewOngoingCost",Values=(1,1,1,1,1))
+ParryNewCooldown",Values=(3,3,3,3,3))
+ParryNewScalar",Values=(0,0,0,0,0))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-24-2024 by Mike</span>
+<span style="color: #ffd369;">07-30-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

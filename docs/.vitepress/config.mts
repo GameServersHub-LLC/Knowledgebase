@@ -204,6 +204,10 @@ export default defineConfig({
                         link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Daspletosaurus",
                       },
                       {
+                        text: "Default",
+                        link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Default",
+                      },
+                      {
                         text: "Deinocheirus",
                         link: "Pages/Path of Titans/Guides/Curve Overrides/Alderons/Path-of-Titans-Deinocheirus",
                       },
