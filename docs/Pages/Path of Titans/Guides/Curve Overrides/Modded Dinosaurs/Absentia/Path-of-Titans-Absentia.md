@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Acrocanthosaurus](./Path-of-Titans-Absentia)
+### [Acrocanthosaurus](./Path-of-Titans-AbsentiaAcro.md)

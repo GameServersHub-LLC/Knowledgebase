@@ -7,10 +7,10 @@ The Ancient Monster Mod team is a Modding group dedicated to bring speculative e
 ## Current Mods
 
 ### [Cerataspida](./Path-of-Titans-AMCerataspida)
-### [Dankanaptera](#)
+<!-- ### [Dankanaptera](#) -->
 ### [Gigamandra](./Path-of-Titans-Gigamandra)
 ### [Golugore](./Path-of-Titans-Golugore)
-### [Madrehorn](#)
+<!-- ### [Madrehorn](#) -->
 ### [Moraquile](./Path-of-Titans-AMMoraquile)
 ### [Thalasrex](./Path-of-Titans-AMThalasrex)
 ### [Docjay Creation Dryptosaurus](./Path-of-Titans-DJCDryptosaurus)

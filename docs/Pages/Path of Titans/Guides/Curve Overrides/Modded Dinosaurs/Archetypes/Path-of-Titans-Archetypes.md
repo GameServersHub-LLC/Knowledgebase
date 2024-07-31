@@ -7,5 +7,5 @@ Placeholder
 ## Current Mods
 
 ### [Dunkleosteus](./Path-of-Titans-Dunkleosteus)
-### [Ocepech](#)
-### [Squalicorax](#)
+<!-- ### [Ocepech](#) -->
+<!-- ### [Squalicorax](#) -->

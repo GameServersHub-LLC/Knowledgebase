@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Tenontosaurus](./Path-of-Titans-Great)
+### [Tenontosaurus](./Path-of-Titans-GTenontosaurus.md)

@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Chaos Triceratops](#)
+<!-- ### [Chaos Triceratops](#) -->
