@@ -668,6 +668,10 @@ export default defineConfig({
                         collapsed: true,
                         items: [
                           {
+                            text: "Apatosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTApatosaurus",
+                          },
+                          {
                             text: "Argentinosaurus",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTArgent",
                           },
@@ -718,6 +722,10 @@ export default defineConfig({
                           {
                             text: "Therizinosaurus",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTTherizinosaurus",
+                          },
+                          {
+                            text: "Torvosaurus",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Primordial Tyrants/Path-of-Titans-PTTorvosaurus",
                           },
                           {
                             text: "Tyrannosaurus",

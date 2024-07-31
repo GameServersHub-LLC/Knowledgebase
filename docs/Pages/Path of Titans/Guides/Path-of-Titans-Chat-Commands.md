@@ -51,4 +51,6 @@ Commands related to teleporting and bringing players to locations, POIs, and eve
 
 Commands related to changing player stats, such as hunger, thirst, stamina, and many more.
 
-**Being Made**
+|Chat Command:|Example:|Permissions:|RCON Support:|Action:|
+|-|-|-|-|-|
+|/setmarks [number]|`/setmarks 900`|+Permission=setmarks|:heavy_check_mark:|Sets your marks to the specified number.|

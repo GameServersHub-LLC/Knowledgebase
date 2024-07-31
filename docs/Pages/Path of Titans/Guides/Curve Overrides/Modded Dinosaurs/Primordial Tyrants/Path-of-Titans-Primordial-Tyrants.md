@@ -9,6 +9,7 @@ We also have our own lore! As we progress in our development we will release new
 
 ## Current Mods
 
+### [Apatosaurus](./Path-of-Titans-PTApatosaurus)
 ### [Argentinosaurus](./Path-of-Titans-PTArgent)
 ### [Carnotaurus](./Path-of-Titans-PTCarno)
 ### [Dilophosaurus](./Path-of-Titans-PTDilophosaurus)
@@ -22,6 +23,7 @@ We also have our own lore! As we progress in our development we will release new
 ### [Quetzalcoatlus](./Path-of-Titans-PTQuetzalcoatlus)
 ### [Sachicasaurus](./Path-of-Titans-PTSachicasaurus)
 ### [Therizinosaurus](./Path-of-Titans-PTTherizinosaurus)
+### [Torvosaurus](./Path-of-Titans-PTTorvosaurus)
 ### [Tyrannosaurus](./Path-of-Titans-PTTyrannosaurus)
 ### [Utahraptor](./Path-of-Titans-PTUtahraptor)
 ### [Yunnanosaurus](./Path-of-Titans-PTYunnano)
