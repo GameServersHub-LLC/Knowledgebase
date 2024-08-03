@@ -1,6 +1,6 @@
 # PTTorvosaurus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-31-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -16,7 +16,7 @@ Listed below are the default stats for the following creature:`PTTorvosaurus`
 ```cs
 Core.MaxHealth",Values=(100,200,300,400,700))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(300,1100,2000,3000,4000))
+Core.CombatWeight",Values=(300,1100,2000,3250,4500))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -69,7 +69,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-31-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -277,7 +277,7 @@ Multiplier.DamageSubSpecies.Damage",Values=(1.05,1.05,1.05,1.05,1.05))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-31-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -300,14 +300,14 @@ StaminaJumpCost",Values=(5,5,5,5,5))
 PrimerDamage",Values=(40,40,40,40,40))
 PrimerCooldown",Values=(8,8,8,8,8))
 PrimerStaminaCost",Values=(0,0,0,0,0))
-PrimerDebuffDuration",Values=(5,5,5,5,5))
+PrimerDebuffDuration",Values=(7,7,7,7,7))
 DetonatorDamage",Values=(40,40,40,40,40))
 DetonatorCooldown",Values=(8,8,8,8,8))
 DetonatorStaminaCost",Values=(0,0,0,0,0))
 DetonationDamage",Values=(100,100,100,100,100))
 DetonationDebuffDuration",Values=(5,5,5,5,5))
 CompetitiveStrikeDamage",Values=(20,25,30,40,50))
-CompetitiveStrikeCooldown",Values=(8,8,8,8,8))
+CompetitiveStrikeCooldown",Values=(6,6,6,6,6))
 CompetitiveStrikeCost",Values=(5,5,5,5,5))
 CompetitiveStrikeSpeedDebuff",Values=(0.95,0.95,0.95,0.95,0.95))
 CompetitiveStrikeBuffDuration",Values=(10,10,10,10,10))
@@ -318,6 +318,10 @@ ShoveCost",Values=(5,5,5,5,5))
 RallyCall",Values=(30,30,30,30,30))
 RallyCallCooldown",Values=(180,180,180,180,180))
 RallyCallCost",Values=(5,5,5,5,5))
+ClawAttackDamage",Values=(45,45,45,45,45))
+ClawAttackBleed",Values=(0,0,0,0,0))
+ClawAttackCooldown",Values=(2,2,2,2,2))
+ClawAttackCost",Values=(0,0,0,0,0))
 LoneHunter",Values=(1.1,1.1,1.1,1.1,1.1))
 PugilistDuration",Values=(10,10,10,10,10))
 PugilistEffect",Values=(1.02,1.02,1.02,1.02,1.02))
@@ -339,9 +343,13 @@ LongDistanceStaminaReduction",Values=(0.85,0.85,0.85,0.85,0.85))
 TractionStaminaRecoveryReduction",Values=(0.7,0.7,0.7,0.7,0.7))
 TractionTurnRadiusBonus",Values=(1.1,1.1,1.1,1.1,1.1))
 BalancedTailTurnRadiusBonus",Values=(1.1,1.1,1.1,1.1,1.1))
+PressurePointRadius",Values=(3500,3500,3500,3500,3500))
+PressurePointTurnIncrease",Values=(1.15,1.15,1.15,1.15,1.15))
+PressurePointIntervalTimer",Values=(1,1,1,1,1))
+PressurePointBuffDuration",Values=(3,3,3,3,3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-31-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

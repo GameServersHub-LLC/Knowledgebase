@@ -7,7 +7,7 @@ Placeholder
 ## Current Mods
 
 ### [Australovenator](./Path-of-Titans-ExAAustralo)
-### [Beringia Mammuthus Columbi](./Path-of-Titans-Beringia-Mammuthus-Columbi)
+### [Beringia Mammuthus Columbi](./Path-of-Titans-BeringiaMammothC)
 ### [Bistahieversor](./Path-of-Titans-ExABista)
 ### [Dracoviper](./Path-of-Titans-EADracoviper)
 ### [Smilodon](./Path-of-Titans-EASmilodon)

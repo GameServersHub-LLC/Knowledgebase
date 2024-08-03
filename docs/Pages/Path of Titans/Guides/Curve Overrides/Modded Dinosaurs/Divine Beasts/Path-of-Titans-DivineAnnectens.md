@@ -1,6 +1,6 @@
 # DivineAnnectens
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -14,9 +14,9 @@ Listed below are the default stats for the following creature:`DivineAnnectens`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(350,650,750,850,1000))
+Core.MaxHealth",Values=(350,650,750,900,1200))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(500,1850,5000,7500,9000))
+Core.CombatWeight",Values=(500,1850,5000,6800,8125))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1.1,1))
@@ -45,7 +45,7 @@ Core.OxygenDamage",Values=(3,3,3,3,3))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
 Core.HealthRecoveryRate",Values=(0.88,0.88,0.88,0.88,0.88))
-Core.StaminaRecoveryRate",Values=(2.5,2,1.7,1.2,0.75))
+Core.StaminaRecoveryRate",Values=(2.5,2,1.7,1.2,0.6))
 Core.JumpForceMultiplier",Values=(1,1.25,1,0,0))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(2000,2000,2000,2000,2000))
@@ -69,7 +69,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -278,23 +278,29 @@ Multiplier.StandardSubspecies.Stamina",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
 StaminaSprintCostPerSecond",Values=(0.4,0.6,1,1.9,2.5))
-StaminaSwimgCostPerSecond",Values=(1.4,1.4,1.4,1.4,1.4))
+StaminaSwimgCostPerSecond",Values=(2.23,2.23,2.23,2.23,2.23))
 StaminaFastSwimCostPerSecond",Values=(2.5,2.5,2.5,2.5,2.5))
-StaminaDiveCostPerSecond",Values=(1.4,1.4,1.4,1.4,1.4))
+StaminaDiveCostPerSecond",Values=(2.23,2.23,2.23,2.23,2.23))
 StaminaFastDiveCostPerSecond",Values=(2.5,2.5,2.5,2.5,2.5))
 StaminaJumpCost",Values=(1,2,3,10,15))
-BiteDamage",Values=(20,30,35,40,50))
+BiteDamage",Values=(18,20,22,23,25))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteStaminaCost",Values=(0,0,0,0,0))
 BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 BiteBleedAmount",Values=(0,0,0,0,0))
+HeadbuttDamage",Values=(48,50,50,55,60))
+HeadbuttBoneBreakChance",Values=(0,0,0,0,0))
+HeadbuttBoneBreakAmount",Values=(0,0,0,0,0))
+HeadbuttStaminaCost",Values=(0,0,0,0,0))
+HeadbuttCooldown",Values=(2.5,2.5,2.5,2.5,2.5))
+HeadbuttBleedAmount",Values=(0,0,0,0,0))
 LeftKickDamage",Values=(40,50,60,70,80))
 LeftKickBoneBreakChance",Values=(0,0,0,0,0))
 LeftKickCooldown",Values=(3,3,3,3,3))
@@ -312,14 +318,14 @@ StompBoneBreakChance",Values=(1,1,1,1,1))
 StompBoneBreakAmount",Values=(2,2,2,2,2))
 StompCooldown",Values=(10,10,10,10,10))
 StompBleedAmount",Values=(0,0,0,0,0))
-StompStaminaCost",Values=(22,22,22,22,22))
+StompStaminaCost",Values=(10,10,10,10,10))
 StompRadius",Values=(420,450,480,500,550))
 StompForwardAndBackwardMod",Values=(130,130,135,140,150))
 StompUpDownMod",Values=(0,0,0,0,0))
 StompLeftRightMod",Values=(0,0,0,0,0))
 LoneSurvivorArmor",Values=(1.1,1.1,1.1,1.1,1.1))
-LoneSurvivorAcceleration",Values=(2.5,2.5,2.5,2.5,2.5))
-LoneSurvivorPreciseAcceleration",Values=(2.5,2.5,2.5,2.5,2.5))
+LoneSurvivorAcceleration",Values=(2,2,2,2,2))
+LoneSurvivorPreciseAcceleration",Values=(2,2,2,2,2))
 LoneSurvivorTurnRadiusMultiplier",Values=(1.05,1.05,1.05,1.05,1.05))
 TailAttackDamage",Values=(10,20,25,32,40))
 TailAttackCooldown",Values=(3,3,3,3,3))
@@ -334,7 +340,7 @@ BuffCallDuration",Values=(60,60,60,60,60))
 BuffCallHealBuff",Values=(1.25,1.25,1.25,1.25,1.25))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

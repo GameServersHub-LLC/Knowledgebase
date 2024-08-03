@@ -1,6 +1,6 @@
 # DivineMosa
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -71,7 +71,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -334,7 +334,7 @@ Multiplier.SuperSpeedySubSpecies.Stamina",Values=(0.9,0.9,0.9,0.9,0.9))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,0.5))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -348,7 +348,7 @@ StaminaDiveCostPerSecond",Values=(0,0,0,0,0))
 StaminaFastDiveCostPerSecond",Values=(1,1,1,1,1))
 StaminaTrotDiveCostPerSecond",Values=(0,0,0,0,0))
 StaminaJumpCost",Values=(10,10,10,10,10))
-BiteDamage",Values=(25,35,45,60,70))
+BiteDamage",Values=(45,55,65,60,75))
 BiteRoot",Values=(0,0,0,0,0))
 BiteStaminaCost",Values=(0,0,0,0,0))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
@@ -377,9 +377,9 @@ TailAttackStaminaCost",Values=(0,0,0,0,0))
 SurgeDamage",Values=(55,65,70,95,125))
 SurgeCooldown",Values=(14,14,14,14,14))
 SurgeStaminaCost",Values=(15,15,15,15,15))
-SurgeSpeed",Values=(2400,2500,2600,2800,3000))
+SurgeSpeed",Values=(2400,2500,2600,2800,2800))
 SurgeDuration",Values=(6,6,6,6,6))
-SurgeTurn",Values=(1.5,1.5,1.5,1.5,1.5))
+SurgeTurn",Values=(1.2,1.2,1.2,1.2,1.2))
 SurgeOxygenSap",Values=(10,15,17,18,20))
 RipperBleedAdd",Values=(30,30,30,30,30))
 RipperBoneBreakChance",Values=(0,0,0,0,0))
@@ -401,13 +401,12 @@ EnduranceSpeedNerf",Values=(0.9,0.9,0.9,0.9,0.9))
 BeachcomberGroundMovementBuff",Values=(2,2,2,2,2))
 BeachComberStaminaRecoveryRate",Values=(1.5,1.5,1.5,1.5,1.5))
 BeachComberThirstDepletionrate",Values=(0.5,0.5,0.5,0.5,0.5))
-LightFlippersStaminaBuff",Values=(1.08,1.08,1.08,1.08,1.08))
+LightFlippersStaminaBuff",Values=(1.1,1.1,1.1,1.1,1.1))
 LightFlippersSpeedNerf",Values=(0.95,0.95,0.95,0.95,0.95))
-LightFlippersTurnNerf",Values=(0.95,0.95,0.95,0.95,0.95))
 HeavyFlippersSpeedbuff",Values=(1.05,1.05,1.05,1.05,1.05))
 HeavyFlippersTurnBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 HeavyFlippersStaminaNerf",Values=(0.93,0.93,0.93,0.93,0.93))
-SwiftTailSpeedbuff",Values=(1.05,1.05,1.05,1.05,1.05))
+LargeLungsOxygen",Values=(1.2,1.2,1.2,1.2,1.2))
 KingOfTheSea",Values=(1.15,1.15,1.15,1.15,1.15))
 BreachStaminaCost",Values=(5,5,5,5,5))
 BreachCooldown",Values=(7,7,7,7,7))
@@ -415,7 +414,7 @@ BreachStrength",Values=(1600,1700,1900,1950,2250))
 BreachRiseDuration",Values=(4,4,4,4,4))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">07-30-2024 by Mike</span>
+<span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

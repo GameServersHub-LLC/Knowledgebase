@@ -472,6 +472,10 @@ export default defineConfig({
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineGiga",
                           },
                           {
+                            text: "Helicoprion",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineHeli",
+                          },
+                          {
                             text: "Inostrancevia",
                             link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Divine Beasts/Path-of-Titans-DivineInos",
                           },
@@ -508,7 +512,7 @@ export default defineConfig({
                           },
                           {
                             text: "Beringia Mammuthus Columbi",
-                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-Beringia-Mammuthus-Columbi",
+                            link: "Pages/Path of Titans/Guides/Curve Overrides/Modded Dinosaurs/Ex Argilla/Path-of-Titans-BeringiaMammothC",
                           },
                           {
                             text: "Beringia Smilodon",

@@ -1,5 +1,7 @@
 # Primordial Tyrants
 
+![alt text](<PT Header.webp>)
+
 Primordial Tyrants is an ambitious mod and gaming community. 
 Our mods consists of a vast variety of additional dinosaurs, new skins, and fictional dinosaurs. 
 
@@ -13,7 +15,7 @@ We also have our own lore! As we progress in our development we will release new
 ### [Argentinosaurus](./Path-of-Titans-PTArgent)
 ### [Carnotaurus](./Path-of-Titans-PTCarno)
 ### [Dilophosaurus](./Path-of-Titans-PTDilophosaurus)
-### [Giganotosaurus](./Path-of-Titans-PTGiga)
+### [Giganotsaurus](./Path-of-Titans-PTGiga)
 ### [Kelenken](./Path-of-Titans-PTKelenken)
 ### [Maip](./Path-of-Titans-PTMaip)
 ### [Noviana](./Path-of-Titans-IgnisNoviana)
