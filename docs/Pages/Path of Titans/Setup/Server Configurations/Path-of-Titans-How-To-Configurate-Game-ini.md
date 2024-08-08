@@ -46,6 +46,7 @@ By not adding the line makes the line to the **default** setting
 |`bOverrideMaxCompleteQuestsInLocation=false`|Enables or disables the ability to change the `MaxCompleteQuestsInLocation`. Defaults to `false`. If set to true you must also set `MaxCompleteQuestsInLocation` (below).|
 |`MaxCompleteQuestsInLocation=3`|Determines how many quests must be completed within a POI before it is 'completed'. Default|
 |`WeatherLengthVariation=(X=10,Y=20)`|The amount of time (in minutes) that any 1 weather type will be active for. This is specified as a minimum (X) and maxium (y) time that will be randomly selected between. By default, a weather type will persist for between `10` to `20` minutes before changing to the next weather type.|
+|`WeatherBlendVariation=(X=1,Y=2)`|The duration of time (in minutes) that will take for weather types to transition to the next. This is specified as a minimum (X) and maxium (y) time that will be randomly selected between. By default, it will take between `1` to `2` minutes for the weather to transition to the next type.|
 |`bServerFallDamage=true`|This feature allows you to either activate or deactivate fall damage for all participants on the server.|
 |`bPermaDeath=false`|Activates permanent death on the server. Deceased characters will show up as corpses on the Character Selection Menu. Defaults to `false`.|
 |`bDeathInfo=false`|Displays a textbox on the Character Select Screen that provides info about your dead character when `bPermaDeath` is enabled.|
@@ -74,6 +75,7 @@ By not adding the line makes the line to the **default** setting
 |`HatchlingCaveExitGrowth=0.25`|Specifies the growth a player will have when they exit the Hatchling Caves. `0` denotes a hatchling and is the default value.|
 |`bServerHungerThirstInCaves=false`|Enables/Disables Hunger and Thirst in caves. If disabled, Dinosaurs will not lose hunger or thirst in caves and will take no damage if they have no food or water.|
 |`bServerGrowth=true`|This feature gives you the control to turn on or off the Growth function on your server. If turned off, all dinosaurs will appear as adults upon spawning, and all existing characters will be instantly matured into adults.|
+|`MinGrowthAfterDeath=0.5`|The minimum growth a player can be rolled back to if they die. Defaults to `0.5`|
 |`GlobalPassiveGrowthPerMinute=0.005`|This feature allows adding extra passive growth per second to all dinosaurs. Remember that the total growth = `1`, so a suitable value might be 0.005. This means it would take a player 200 minutes (or 3.3 hours) to reach adulthood. The growth amount is uniformly applied to all dinosaurs. Setting this value to 0 turns off passive growth.|
 |`QuestGrowthMultiplier=1`|This feature lets you modify the growth rate players gain when they finish quests. If you wish to turn off growth from quests, set this value to `0`.|
 |`QuestMarksMultiplier=1.0`|Specifies the multiplier used when rewarding marks for quest completion.|
@@ -93,7 +95,9 @@ By not adding the line makes the line to the **default** setting
 |`bTrophyQuests=true`|Enable or disable Trophy Quests on the server. Defaults to `true`|
 |`bOverrideTrophyQuestCooldown=false`|Flags whether you want to override the `TrophyQuestCooldown`. If set to true you must also then specify the `TrophyQuestCooldown` (below). Default to `false`.|
 |`TrophyQuestCooldown=1800`|Time (in seconds) between a player being able to handin another Trophy quest. Defaults to `1800` (30 minutes).|
-|`ChangeSubspeciesGrowthPenaltyPercent=10`|Percent growth stage lost when changing sub species Default `10`|
+|`ChangeSubspeciesGrowthPenaltyPercent=25`|Specifies the growth penalty percent for changing subspecies. Note that `bLoseGrowthPastGrowthStages=true` may have to be active for anything `25` and above.|
+|`bServerAllowChangeSubspecies=true`|Allows players to change their subspecies. Defaults to `true`.|
+|`bServerCombatTimerAppliesToGroup=true`|Specifies whether players that are grouped up all share the same combat timer. If set to `false`, players will only receive the combat timer if they personally attack/are attacked. Defaults to `true`.|
 |`AFKDisconnectTime=600`|Specifies the amount of time in seconds before a player will be automatically disconnected from the server if they are idle/AFK. Useful to prevent idle players from filling your server. Default `600` seconds (10 minutes). If set to `0`, no players will ever be kicked for being idle.|
 |`MaxClientPingMs=0`|Specifies the maximum ms ping before auto-disconnecting the player. `0` will disable this option. Use to prevent high-ping players causing issues for your server.|
 |`MaxClientPingDuration=0`|Specifies the duration of time in seconds the player's ms ping must be above the `MaxClientPingMs` before being disconnected.|
@@ -127,6 +131,7 @@ Below are settings that will work under the `[/Script/PathOfTitans.IGameMode]` h
 |`ServerNightLength=240`|Specified the length (in minutes) of a full night cycle. (Revision 29073)|
 |`MaxGroupSize=10`|This feature establishes the limit for the number of slots available for player groups.|
 |`MaxGroupLeaderCommunicationDistance=250000`|Max radius for randomly picking a spawn point from the furthest spawn location from other players. Defaults to `250000` (2.5km).|
+|`FurthestSpawnInclusionRadius=250000`|Max radius for randomly picking a spawn point from the furthest spawn location from other players. Defaults to `250000` (2.5km).|
 
 ## BattleEye Config
 
