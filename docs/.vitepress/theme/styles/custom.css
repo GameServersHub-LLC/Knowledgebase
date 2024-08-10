@@ -63,3 +63,91 @@
 /**
  * VPSidebarItem.vue
  * -------------------------------------------------------------------------- */
+
+ul.breadcrumbs[data-v-1536bbb2] {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 25px 0 0;
+  padding: 0;
+  font-size: 0px;
+  line-height: 0px;
+}
+
+ul.breadcrumbs li[data-v-1536bbb2] {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-image: none;
+  display: inline-block;
+  zoom: 1;
+  vertical-align: top;
+  border-left: 1px solid var(--custom-breadcrumb-border-color);
+  transition: 0.3s ease;
+  max-width: 300px;
+}
+
+ul.breadcrumbs li:hover a[data-v-1536bbb2] {
+  cursor: default;
+}
+
+ul.breadcrumbs li[data-v-1536bbb2]:before {
+  content: "";
+  position: absolute;
+  right: -9px;
+  top: -1px;
+  z-index: 10;
+  border-left: 10px solid var(--custom-breadcrumb-background-color);
+  border-top: 22px solid transparent;
+  border-bottom: 22px solid transparent;
+  transition: 0.3s ease;
+}
+
+ul.breadcrumbs li[data-v-1536bbb2]:after {
+  content: "";
+  position: absolute;
+  right: -10px;
+  top: -1px;
+  z-index: 5;
+  border-left: 10px solid var(--custom-breadcrumb-border-color);
+  border-top: 22px solid transparent;
+  border-bottom: 22px solid transparent;
+}
+
+ul.breadcrumbs li.first[data-v-1536bbb2] {
+  border-left: none;
+}
+
+ul.breadcrumbs li.first a[data-v-1536bbb2] {
+  font-size: 18px;
+  padding-left: 20px;
+  border-radius: 5px 0 0 5px;
+}
+
+ul.breadcrumbs li.last[data-v-1536bbb2]:before {
+  display: none;
+}
+
+ul.breadcrumbs li.last[data-v-1536bbb2]:after {
+  display: none;
+}
+
+ul.breadcrumbs li.last span[data-v-1536bbb2] {
+  padding-right: 20px;
+  border-radius: 0 40px 40px 0;
+}
+
+ul.breadcrumbs li span[data-v-1536bbb2] {
+  display: block;
+  font-size: 14px;
+  line-height: 40px;
+  color: var(--custom-breadcrumb-text-color);
+  padding: 0 10px 0 20px;
+  text-decoration: none;
+  background: var(--custom-breadcrumb-background-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 200px;
+  transition: 0.3s ease;
+}
