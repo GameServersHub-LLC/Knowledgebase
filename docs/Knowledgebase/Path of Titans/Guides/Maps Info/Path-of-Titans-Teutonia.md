@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Teutonia
 ---
 
 # Path of Titans Teutonia

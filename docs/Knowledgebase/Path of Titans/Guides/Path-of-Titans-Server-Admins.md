@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Server Admins
 ---
 
 # Path of Titans Server Admins

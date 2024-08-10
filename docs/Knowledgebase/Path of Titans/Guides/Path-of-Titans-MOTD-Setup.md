@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Message of the Day Setup
 ---
 
 # Path of Titans Message of the Day Setup

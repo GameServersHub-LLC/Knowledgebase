@@ -1,10 +1,6 @@
 ---
-title: PlaceHolder
+title: Creator Mode
 ---
-
----
-
-## title: PlaceHolder
 
 # Path of Titans Creator Mode
 

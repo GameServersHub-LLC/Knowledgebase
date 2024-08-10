@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Aedis
 ---
 
 # Path of Titans Aedis

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Infinita
 ---
 
 # Path of Titans Infinita

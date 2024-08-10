@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Cerulean Island
 ---
 
 # Path of Titans Cerulean Island

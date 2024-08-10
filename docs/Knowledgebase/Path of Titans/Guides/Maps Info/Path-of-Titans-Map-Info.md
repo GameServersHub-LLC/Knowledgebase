@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Map Info
 ---
 
 # Path of Titans Path of Titans Map Info

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Gondwa
 ---
 
 # Path of Titans Gondwa

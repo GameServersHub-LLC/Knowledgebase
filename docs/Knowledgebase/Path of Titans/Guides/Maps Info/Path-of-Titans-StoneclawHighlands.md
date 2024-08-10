@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Stoneclaw Highlands
 ---
 
 # Path of Titans Stoneclaw Highlands

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Jangwa
 ---
 
 # Path of Titans Jangwa

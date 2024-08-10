@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Grim Expanse
 ---
 
 # Path of Titans The Grim Expanse

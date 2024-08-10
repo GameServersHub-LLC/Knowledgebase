@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Savanna Grassland
 ---
 
 # Path of Titans Savanna Grassland

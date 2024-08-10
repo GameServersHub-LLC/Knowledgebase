@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Player Management
 ---
 
 # Path of Titans Player Management

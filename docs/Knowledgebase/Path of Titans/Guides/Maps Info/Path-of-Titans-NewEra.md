@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: New Era
 ---
 
 # Path of Titans New Era

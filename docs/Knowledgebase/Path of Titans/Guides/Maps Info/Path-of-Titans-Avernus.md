@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Avernus
 ---
 
 # Path of Titans Avernus

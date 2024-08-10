@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Panjura
 ---
 
 # Path of Titans Panjura

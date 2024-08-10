@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Reserved Slots
 ---
 
 # Path of Titans Reserved Slots

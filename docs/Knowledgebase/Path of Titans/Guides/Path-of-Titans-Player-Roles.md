@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Player Roles
 ---
 
 # Path of Titans Player Roles

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Paragon
 ---
 
 # Path of Titans Paragon

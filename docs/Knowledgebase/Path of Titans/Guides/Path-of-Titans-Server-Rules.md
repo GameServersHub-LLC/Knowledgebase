@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Server Rules
 ---
 
 # Path of Titans Server Rules

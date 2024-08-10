@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Etis
 ---
 
 # Path of Titans Etis

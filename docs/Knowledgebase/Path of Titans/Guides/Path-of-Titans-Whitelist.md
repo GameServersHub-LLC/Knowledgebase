@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Whitelisting
 ---
 
 # Path of Titans Whitelisting

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Dinosaurs Enable/Disable
 ---
 
 # Path of Titans Enabling/Disabling Dinosaurs
