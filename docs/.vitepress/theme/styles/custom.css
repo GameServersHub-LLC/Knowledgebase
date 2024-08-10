@@ -73,6 +73,8 @@ html.dark {
  * VPSidebarItem.vue
  * -------------------------------------------------------------------------- */
 
+/* Everything under this comment is for the "HTML" banners on the markdown pages */
+
 ul.breadcrumbs[data-v-1536bbb2] {
   display: flex;
   flex-wrap: wrap;
