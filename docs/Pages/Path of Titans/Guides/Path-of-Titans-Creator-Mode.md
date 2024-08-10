@@ -63,7 +63,9 @@ You can use these commands in your chat to manage your creator mode profiles, as
 |/ReplenishCreatorMode|`/replenishcreatormode`|+Permission=replenishcreatormode|:heavy_check_mark:|Replenishes all items on the map, excluding water.|
 
 ## Config
-Creator mode can automatically load a saved state when a server starts by defining DefaultCreatorModeSave in Game.ini. The state can be saved via the command /SaveCreatorMode [SaveName].
+Creator mode can automatically load a saved state when a server starts by defining DefaultCreatorModeSave in `Game.ini`. The state can be saved via the command `/SaveCreatorMode [SaveName]`.
 
+```ini
 [/Script/PathOfTitans.IGameMode]
 DefaultCreatorModeSave=""
+```
