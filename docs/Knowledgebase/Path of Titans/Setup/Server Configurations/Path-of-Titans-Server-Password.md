@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Setup Server Password
 ---
 
 # Path of Titans Server Password

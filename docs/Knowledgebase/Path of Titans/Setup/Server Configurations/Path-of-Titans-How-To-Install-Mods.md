@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Adding Server Mods
 ---
 
 # Path of Titans Adding Mods to your Path of Titans Server:

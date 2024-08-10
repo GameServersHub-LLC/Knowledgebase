@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Authentication Tokens
 ---
 
 # Path of Titans Authentication Token

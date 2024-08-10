@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Delete Databases
 ---
 
 # Path of Titans Deleting / Resetting Server Database

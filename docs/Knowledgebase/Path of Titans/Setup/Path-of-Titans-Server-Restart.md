@@ -1,13 +1,6 @@
 ---
-head:
-  - - meta
-    - property: "Path-of-Titans-Server-Restart:image"
-      content: "/GameServersHub.webp"
+title: Server Restarts
 ---
-
----
-
-## title: PlaceHolder
 
 # Path of Titans Configure Server Restarts
 

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Game INI Configs
 ---
 
 # Path of Titans Game.ini Server Configuration

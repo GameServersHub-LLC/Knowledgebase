@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Webhook Configs
 ---
 
 # Path of Titans Webhook Configuration

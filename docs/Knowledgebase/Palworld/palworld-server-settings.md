@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Server Settings
 ---
 
 # Palworld Server Settings: How to set up the Palworld configuration file.
