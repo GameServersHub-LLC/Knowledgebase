@@ -9,7 +9,7 @@ head:
 title: RCON Configuration
 ---
 
-# Path of Titans Path of Titans RCON Configuration
+# Path of Titans RCON Configuration
 
 You can use Source RCON protocol to help moderate your server. You can configure and setup RCON with the following steps.
 
