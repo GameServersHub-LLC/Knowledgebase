@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Kaprosuchus](./Path-of-Titans-DavidKaproNew.md)
+### [Kaprosuchus](./Path-of-Titans-DavidKaproNew)

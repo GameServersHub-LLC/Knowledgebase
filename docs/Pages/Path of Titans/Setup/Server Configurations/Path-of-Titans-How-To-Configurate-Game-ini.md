@@ -217,7 +217,7 @@ Path of Titans RCON Config
 
 [Link for `[SourceRCON]` configuration](../Path-of-Titans-RCON-Config)
 
-## [Server Webhooks Config](./Path-of-Titans-Webhook-Config.md)
+## [Server Webhooks Config](./Path-of-Titans-Webhook-Config)
 
 Path of Titans Server Webhooks Config
 

@@ -6,5 +6,5 @@ Placeholder
 
 ## Current Mods
 
-### [Ampelosaurus](./Path-of-Titans-Ampelosaurus.md)
-### [Citipati](./Path-of-Titans-TCCitipati.md)
+### [Ampelosaurus](./Path-of-Titans-Ampelosaurus)
+### [Citipati](./Path-of-Titans-TCCitipati)

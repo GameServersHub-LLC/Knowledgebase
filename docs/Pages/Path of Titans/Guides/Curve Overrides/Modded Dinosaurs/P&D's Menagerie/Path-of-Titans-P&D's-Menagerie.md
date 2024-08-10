@@ -6,4 +6,4 @@ Introducing P&D's menagerie! While we do aim for accuracy, we as a team aim for 
 
 ## Current Mods
 
-### [Pentaceratops](./Path-of-Titans-PDPentaceratops.md)
+### [Pentaceratops](./Path-of-Titans-PDPentaceratops)

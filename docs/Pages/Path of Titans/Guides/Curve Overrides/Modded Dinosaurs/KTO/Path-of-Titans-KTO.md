@@ -6,6 +6,6 @@ Placeholder
 
 ## Current Mods
 
-### [Deinosuchus](./Path-of-Titans-KTODeino.md)
-### [Dryptosaurus](./Path-of-Titans-KTODrypto.md)
-### [Yangchuanosaurus](./Path-of-Titans-KTOYang.md)
+### [Deinosuchus](./Path-of-Titans-KTODeino)
+### [Dryptosaurus](./Path-of-Titans-KTODrypto)
+### [Yangchuanosaurus](./Path-of-Titans-KTOYang)

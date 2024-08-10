@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Xiphactinus](./Path-of-Titans-ArazoaXiph.md)
+### [Xiphactinus](./Path-of-Titans-ArazoaXiph)

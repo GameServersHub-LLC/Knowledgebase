@@ -6,5 +6,5 @@ Placeholder
 
 ## Current Mods
 
-### [Andrewsarchus](./Path-of-Titans-CTAndrewsarchus.md)
-### [Ankylorhiza](./Path-of-Titans-CTAnkylorhiza.md)
+### [Andrewsarchus](./Path-of-Titans-CTAndrewsarchus)
+### [Ankylorhiza](./Path-of-Titans-CTAnkylorhiza)

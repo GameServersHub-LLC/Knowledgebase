@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Cryolophosaurus](./Path-of-Titans-CrimsonCryo.md)
+### [Cryolophosaurus](./Path-of-Titans-CrimsonCryo)

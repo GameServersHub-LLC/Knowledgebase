@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Cougar](./Path-of-Titans-AsylumCougar.md)
+### [Cougar](./Path-of-Titans-AsylumCougar)

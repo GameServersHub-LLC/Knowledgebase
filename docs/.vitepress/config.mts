@@ -843,6 +843,10 @@ export default defineConfig({
                 ],
               },
               {
+                text: "Creator Mode",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Creator-Mode",
+              },
+              {
                 text: "Player Roles",
                 link: "Pages/Path of Titans/Guides/Path-of-Titans-Player-Roles",
               },

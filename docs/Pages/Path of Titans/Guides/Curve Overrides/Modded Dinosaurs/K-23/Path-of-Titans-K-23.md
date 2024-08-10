@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Bwi](./Path-of-Titans-Bwi.md)
+### [Bwi](./Path-of-Titans-Bwi)

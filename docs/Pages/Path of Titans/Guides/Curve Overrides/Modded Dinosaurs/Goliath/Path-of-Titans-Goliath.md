@@ -6,4 +6,4 @@ Placeholder
 
 ## Current Mods
 
-### [Dimetrodon](./Path-of-Titans-Dimetrodon.md)
+### [Dimetrodon](./Path-of-Titans-Dimetrodon)
