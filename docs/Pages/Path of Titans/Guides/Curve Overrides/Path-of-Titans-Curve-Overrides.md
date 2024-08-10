@@ -12,6 +12,7 @@ To edit dinosaur stats, you must edit the `Game.ini` file. You can find this fil
 
 ::: info
 `LinuxServer` is the folder name for Linux servers. If you are using a different operating system, the folder name will be different but the other folders will be the same.
+:::
 
 ## Editing Dinosaur Stats
 

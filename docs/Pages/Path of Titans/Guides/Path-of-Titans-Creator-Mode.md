@@ -11,7 +11,7 @@ This game mode essentially puts a player into the role of a Dungeon Master typic
 Creator Mode can be modded to add new item and food types. This allows you to create small community areas on your server without the need to mod in an entirely new map. You can download and mod in new spectator camera models as well. You can find more information below.
 
 
-<!-- insert youtube video https://youtu.be/r1KtJ25ylz8 -->
+<iframe width="100%" height="540" src="https://www.youtube-nocookie.com/embed/r1KtJ25ylz8?si=Nb4GVBIIJjI_xyG2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Enabling Creator Mode

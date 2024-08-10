@@ -22,6 +22,7 @@ Below are settings that will work under the `[/Script/PathOfTitans.IGameSession]
 ::: tip
 By not adding the line makes the line to the **default** setting
 :::
+
 |Config Name:|Description:|
 |-|-|
 |`ServerName=Hosted by GSH`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: _GameServersHub runs Path of Titans on Linux Machines which don't require underscores._
