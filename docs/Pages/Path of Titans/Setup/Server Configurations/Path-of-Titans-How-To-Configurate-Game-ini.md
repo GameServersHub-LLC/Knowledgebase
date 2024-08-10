@@ -16,6 +16,8 @@ Editing your configuration files using the official GameServersHub admin dashboa
 3.  Make the edits and click `Save Content`; then, you can safely restart your game server to apply the changes.
     Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
 
+<ul class="breadcrumbs" data-v-1536bbb2=""><!--[--><li class="" data-v-1536bbb2=""><span data-v-1536bbb2=""><i class="fas fa-folder" data-v-1536bbb2=""></i> PathOfTitans</span></li><li class="" data-v-1536bbb2=""><span data-v-1536bbb2=""><i class="fas fa-folder" data-v-1536bbb2=""></i> Saved</span></li><li class="" data-v-1536bbb2=""><span data-v-1536bbb2=""><i class="fas fa-folder" data-v-1536bbb2=""></i> Config</span></li><li class="" data-v-1536bbb2=""><span data-v-1536bbb2=""><i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer</span></li><li class="last" data-v-1536bbb2=""><span data-v-1536bbb2=""><i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini</span></li><!--]--></ul>
+
 ## IGameSession Config
 
 Below are settings that will work under the `[/Script/PathOfTitans.IGameSession]` header.
