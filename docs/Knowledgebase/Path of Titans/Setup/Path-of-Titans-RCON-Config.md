@@ -1,4 +1,8 @@
-# RCON Configuration
+---
+title: RCON Configuration
+---
+
+# Path of Titans RCON Configuration
 
 You can use Source RCON protocol to help moderate your server. You can configure and setup RCON with the following steps.
 
@@ -21,6 +25,7 @@ Underneath the `[SourceRCON]` header, create the entries specified in the below 
 Example for `GameServersHub` Servers only, as GSH doesn't require additional lines.
 
 ### GSH Example Game.ini
+
 ```ini
 [SourceRCON]
 bEnabled=true
@@ -29,6 +34,7 @@ Password=password
 ```
 
 ### Other Providers Example Game.ini
+
 ```ini
 [SourceRCON]
 bEnabled=true
