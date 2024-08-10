@@ -10,9 +10,9 @@
 }
 
 html.dark {
-  --custom-breadcrumb-background-color: #21282c;
+  --custom-breadcrumb-background-color: #272a2f;
   --custom-breadcrumb-text-color: #fff;
-  --custom-breadcrumb-border-color: #aab1f9;
+  --custom-breadcrumb-border-color: #ffd368;
 }
 
 /**
@@ -78,7 +78,8 @@ html.dark {
 ul.breadcrumbs[data-v-1536bbb2] {
   display: flex;
   flex-wrap: wrap;
-  margin: 25px 0 0;
+  justify-content: center; /* Center the breadcrumbs container */
+  margin: 25px auto 0; /* Center horizontally by setting auto margins */
   padding: 0;
   font-size: 0px;
   line-height: 0px;
@@ -93,7 +94,6 @@ ul.breadcrumbs li[data-v-1536bbb2] {
   display: inline-block;
   zoom: 1;
   vertical-align: top;
-  border-left: 1px solid var(--custom-breadcrumb-border-color);
   transition: 0.3s ease;
   max-width: 300px;
 }
@@ -146,19 +146,26 @@ ul.breadcrumbs li.last[data-v-1536bbb2]:after {
 ul.breadcrumbs li.last span[data-v-1536bbb2] {
   padding-right: 20px;
   border-radius: 0 40px 40px 0;
+  border-right: 2px solid var(--custom-breadcrumb-border-color);
+}
+
+ul.breadcrumbs li.first span[data-v-1536bbb2] {
+  padding-right: 20px;
+  border-radius: 20px 0 0 20px;
+  border-left: 2px solid var(--custom-breadcrumb-border-color);
 }
 
 ul.breadcrumbs li span[data-v-1536bbb2] {
   display: block;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 40px;
   color: var(--custom-breadcrumb-text-color);
-  padding: 0 10px 0 20px;
+  padding: 2px 30px 2px 30px;
   text-decoration: none;
   background: var(--custom-breadcrumb-background-color);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  max-width: 200px;
+  /* max-width: 200px; */
   transition: 0.3s ease;
 }

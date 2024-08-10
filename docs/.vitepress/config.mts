@@ -1,5 +1,8 @@
 import { defineConfig } from "vitepress";
 
+// Import lightbox plugin
+import lightbox from "vitepress-plugin-lightbox";
+
 const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
 const ogImage = `${ogUrl}GameServersHub.com-Wiki-Page.webp`;
 
@@ -8,6 +11,7 @@ export default defineConfig({
   description:
     "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
   lastUpdated: true,
+  cleanUrls: true,
   sitemap: {
     hostname: "https://guides.gsh-servers.com",
   },
@@ -976,5 +980,11 @@ export default defineConfig({
       { icon: "x", link: "https://twitter.com/GameServersHub" },
       { icon: "github", link: "https://github.com/ServersHub" },
     ],
+  },
+  markdown: {
+    config: (md) => {
+      // Use lightbox plugin
+      md.use(lightbox, {});
+    },
   },
 });
