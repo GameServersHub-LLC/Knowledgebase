@@ -69,17 +69,6 @@ ScheduledRestartTimes=1500
 ScheduledRestartTimes=1900
 ScheduledRestartTimes=2300
 
----
-head:
-  - - meta
-    - name: description
-      content: Placeholder
-  - - meta
-    - name: keywords
-      content: Path Of Titans
-title: PlaceHolder
----
-
 # Path of Titans Notification at: 2,1 hours - 30,10,5,1 minutes - 10,5,4,3,2,1 seconds before restart
 RestartNotificationTimestamps=7200
 RestartNotificationTimestamps=3600

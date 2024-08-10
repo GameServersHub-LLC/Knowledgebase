@@ -47,9 +47,9 @@ ServerAdmins=456-103-789
 
 You can also add and remove server admins via the in-game chat commands Promote or Demote. This can be used while your server is running. [More information here.](#)
 
-| Code                          | Explanation                                                                                                      |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| `/promote <user> <adminrole>` | Example: `/promote that411guy dinomaster` Promotes the player to the specified admin role. `+Permission=promote` |
-| `/demote <user>`              | Example: `/demote that411guy` Removes all admin roles of that player. `+Permission=promote`                      |
+|Code|Explanation|
+|-|-|
+|`/promote <user> <adminrole>`|Example: `/promote that411guy dinomaster` Promotes the player to the specified admin role. `+Permission=promote`|
+|`/demote <user>`|Example: `/demote that411guy` Removes all admin roles of that player. `+Permission=promote`|
 
 If you want to create different admin roles, see this article: [Add or Remove Player Roles](#)

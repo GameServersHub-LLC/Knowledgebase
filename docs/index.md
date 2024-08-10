@@ -94,4 +94,5 @@ features:
       }
     title: Satisfactory Guides
     details: Explore an alien planet, create multi-story factories, and enter conveyor belt heaven!
+    link: "#"
 ---

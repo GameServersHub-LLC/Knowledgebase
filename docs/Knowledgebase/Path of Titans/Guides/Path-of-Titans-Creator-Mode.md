@@ -60,15 +60,15 @@ Another setting you can change is the rotation of the item. You can change the r
 
 You can use these commands in your chat to manage your creator mode profiles, assuming you have the correct permissions.
 
-| Chat Command:                 | Example:                       | Permissions:                     | RCON Support:      | Action:                                                                                                                 |
-| ----------------------------- | ------------------------------ | -------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| /ClearCreatorObjects          | `/clearcreatorobjects`         | +Permission=clearcreatorobjects  | :heavy_check_mark: | Removes and refunds all placed Creator Mode Objects on the server.                                                      |
-| /LoadCreatorMode [SaveName]   | `/loadcreatormode rockworld`   | +Permission=loadcreatormode      | :heavy_check_mark: | Loads the saved Creator Mode data from the specified save slot.                                                         |
-| /SaveCreatorMode [SaveName]   | `/savecreatormode rockworld`   | +Permission=savecreatormode      | :heavy_check_mark: | Saves the Creator Mode data to the specified save slot.                                                                 |
-| /ResetCreatorMode             | `/resetcreatormode`            | +Permission=resetcreatormode     | :heavy_check_mark: | Resets Creator Mode Objects to their default, removing placed objects and changing map objects to their original state. |
-| /RemoveCreatorMode [SaveName] | `/removecreatormode rockworld` | +Permission=removecreatormode    | :heavy_check_mark: | Removes the Creator Move data from the specified save slot.                                                             |
-| /ListCreatorMode              | `/listcreatormode`             | +Permission=listcreatormode      | :heavy_check_mark: | Lists the saved Creator Mode saves.                                                                                     |
-| /ReplenishCreatorMode         | `/replenishcreatormode`        | +Permission=replenishcreatormode | :heavy_check_mark: | Replenishes all items on the map, excluding water.                                                                      |
+|Chat Command:|Example:|Permissions:|RCON Support:|Action:|
+|-|-|-|-|-|
+|/ClearCreatorObjects|`/clearcreatorobjects`|+Permission=clearcreatorobjects|:heavy_check_mark:|Removes and refunds all placed Creator Mode Objects on the server.|
+|/LoadCreatorMode [SaveName]|`/loadcreatormode rockworld`|+Permission=loadcreatormode|:heavy_check_mark:|Loads the saved Creator Mode data from the specified save slot.|
+|/SaveCreatorMode [SaveName]|`/savecreatormode rockworld`|+Permission=savecreatormode|:heavy_check_mark:|Saves the Creator Mode data to the specified save slot.|
+|/ResetCreatorMode|`/resetcreatormode`|+Permission=resetcreatormode|:heavy_check_mark:|Resets Creator Mode Objects to their default, removing placed objects and changing map objects to their original state.|
+|/RemoveCreatorMode [SaveName]|`/removecreatormode rockworld`|+Permission=removecreatormode|:heavy_check_mark:|Removes the Creator Move data from the specified save slot.|
+|/ListCreatorMode|`/listcreatormode`|+Permission=listcreatormode|:heavy_check_mark:|Lists the saved Creator Mode saves.|
+|/ReplenishCreatorMode|`/replenishcreatormode`|+Permission=replenishcreatormode|:heavy_check_mark:|Replenishes all items on the map, excluding water.|
 
 ## Config
 
