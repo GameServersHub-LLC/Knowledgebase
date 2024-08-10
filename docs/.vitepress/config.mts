@@ -878,6 +878,10 @@ export default defineConfig({
                 text: "Chat Commands",
                 link: "Pages/Path of Titans/Guides/Path-of-Titans-Chat-Commands",
               },
+              {
+                text: "Manage Players",
+                link: "Pages/Path of Titans/Guides/Path-of-Titans-Manage-Players",
+              },
             ],
           },
           {
