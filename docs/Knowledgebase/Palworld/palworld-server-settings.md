@@ -2,7 +2,7 @@
 title: PlaceHolder
 ---
 
-# Path of Titans Palworld Server Settings: How to set up the Palworld configuration file.
+# Palworld Server Settings: How to set up the Palworld configuration file.
 
 ## Locating the Configuration File
 
