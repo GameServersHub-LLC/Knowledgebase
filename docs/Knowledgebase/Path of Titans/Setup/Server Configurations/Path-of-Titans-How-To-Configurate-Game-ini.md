@@ -56,7 +56,6 @@ Editing your configuration files using the official GameServersHub admin dashboa
 </li>
 <!--]-->
 </ul>
->>>>>>> 0c2c75d03436112ee445966f4543887044827530:docs/Knowledgebase/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Configurate-Game-ini.md
 
 ## IGameSession Config
 
