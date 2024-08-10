@@ -36,8 +36,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ---
 
-## title: PlaceHolder
-
 # Path of Titans All Dino Mods ID's, and `Game.ini` names are listed below:
 
 ::: info LAST UPDATED
