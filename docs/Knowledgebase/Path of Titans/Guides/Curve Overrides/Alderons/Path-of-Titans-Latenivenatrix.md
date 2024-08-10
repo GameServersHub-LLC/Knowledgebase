@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Latenivenatrix
 ---
 
 # Path of Titans Latenivenatrix

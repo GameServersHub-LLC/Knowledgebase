@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Daspletosaurus
 ---
 
 # Path of Titans Daspletosaurus

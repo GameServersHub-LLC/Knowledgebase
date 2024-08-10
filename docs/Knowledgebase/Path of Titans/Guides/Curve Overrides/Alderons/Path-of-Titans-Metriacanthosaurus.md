@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Metriacanthosaurus
 ---
 
 # Path of Titans Metriacanthosaurus

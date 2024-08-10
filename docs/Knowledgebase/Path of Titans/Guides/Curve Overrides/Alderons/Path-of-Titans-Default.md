@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Default
 ---
 
 # Path of Titans Default

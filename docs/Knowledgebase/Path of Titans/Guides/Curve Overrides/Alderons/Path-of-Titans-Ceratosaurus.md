@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Ceratosaurus
 ---
 
 # Path of Titans Ceratosaurus

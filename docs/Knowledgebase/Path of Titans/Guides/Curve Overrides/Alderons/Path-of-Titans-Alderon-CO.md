@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Default Curve Overrides
 ---
 
 # Path of Titans Alderon Default Curve Overrides

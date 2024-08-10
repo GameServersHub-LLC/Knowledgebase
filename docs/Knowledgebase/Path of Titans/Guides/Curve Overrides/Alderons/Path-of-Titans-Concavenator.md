@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Concavenator
 ---
 
 # Path of Titans Concavenator

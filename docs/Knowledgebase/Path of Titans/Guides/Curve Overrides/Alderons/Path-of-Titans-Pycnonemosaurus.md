@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Pycnonemosaurus
 ---
 
 # Path of Titans Pycnonemosaurus

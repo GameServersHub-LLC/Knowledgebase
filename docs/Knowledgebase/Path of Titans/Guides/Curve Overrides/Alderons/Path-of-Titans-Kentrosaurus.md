@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Kentrosaurus
 ---
 
 # Path of Titans Kentrosaurus

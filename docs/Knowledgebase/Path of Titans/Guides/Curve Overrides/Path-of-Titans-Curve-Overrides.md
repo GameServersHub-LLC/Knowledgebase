@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Global Dinosaur Stats
 ---
 
 # Path of Titans Edit Dinosaur and Global Stats

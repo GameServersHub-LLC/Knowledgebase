@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Stegosaurus
 ---
 
 # Path of Titans Stegosaurus

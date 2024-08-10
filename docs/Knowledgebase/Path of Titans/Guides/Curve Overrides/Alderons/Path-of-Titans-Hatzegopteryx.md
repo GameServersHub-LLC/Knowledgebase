@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Hatzegopteryx
 ---
 
 # Path of Titans Hatzegopteryx

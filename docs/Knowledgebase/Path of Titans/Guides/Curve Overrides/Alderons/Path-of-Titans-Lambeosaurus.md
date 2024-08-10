@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Lambeosaurus
 ---
 
 # Path of Titans Lambeosaurus

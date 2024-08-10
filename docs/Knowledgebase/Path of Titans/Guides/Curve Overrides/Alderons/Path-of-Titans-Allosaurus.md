@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Allosaurus
 ---
 
 # Path of Titans Allosaurus

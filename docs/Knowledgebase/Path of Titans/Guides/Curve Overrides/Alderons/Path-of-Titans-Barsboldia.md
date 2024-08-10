@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Barsboldia
 ---
 
 # Path of Titans Barsboldia

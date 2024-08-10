@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Kaiwhekea
 ---
 
 # Path of Titans Kaiwhekea

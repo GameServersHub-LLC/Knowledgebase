@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Thalassodromeus
 ---
 
 # Path of Titans Thalassodromeus

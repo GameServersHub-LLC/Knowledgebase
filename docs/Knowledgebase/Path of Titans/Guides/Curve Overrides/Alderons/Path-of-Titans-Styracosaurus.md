@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Styracosaurus
 ---
 
 # Path of Titans Styracosaurus

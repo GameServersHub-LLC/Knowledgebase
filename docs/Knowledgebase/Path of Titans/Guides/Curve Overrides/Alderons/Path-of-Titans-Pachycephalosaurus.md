@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Pachycephalosaurus
 ---
 
 # Path of Titans Pachycephalosaurus

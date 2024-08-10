@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Anodontosaurus
 ---
 
 # Path of Titans Anodontosaurus

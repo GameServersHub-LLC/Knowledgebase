@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Eotriceratops
 ---
 
 # Path of Titans Eotriceratops

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Eurhinosaurus
 ---
 
 # Path of Titans Eurhinosaurus

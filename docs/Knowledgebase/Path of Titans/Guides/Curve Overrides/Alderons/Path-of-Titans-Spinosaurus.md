@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Spinosaurus
 ---
 
 # Path of Titans Spinosaurus

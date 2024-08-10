@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Suchomimus
 ---
 
 # Path of Titans Suchomimus

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Struthiomimus
 ---
 
 # Path of Titans Struthiomimus

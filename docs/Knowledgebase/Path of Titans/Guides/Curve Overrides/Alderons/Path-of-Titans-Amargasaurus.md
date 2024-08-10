@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Amargasaurus
 ---
 
 # Path of Titans Amargasaurus

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Alioramus
 ---
 
 # Path of Titans Alioramus

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Miragaia
 ---
 
 # Path of Titans Miragaia

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Deinocheirus
 ---
 
 # Path of Titans Deinocheirus
