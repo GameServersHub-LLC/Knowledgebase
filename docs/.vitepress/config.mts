@@ -77,9 +77,18 @@ export default defineConfig({
       {
         text: "Extra",
         items: [
-          { text: "Articles / Blogs", link: "/articles" },
-          { text: "Forums / Marketplace", link: "/forums/resources" },
-          { text: "Dedicated Server Rentals", link: "/hosting" },
+          {
+            text: "Articles / Blogs",
+            link: "https://gameservershub.com/articles",
+          },
+          {
+            text: "Forums / Marketplace",
+            link: "https://gameservershub.com/forums/resources",
+          },
+          {
+            text: "Dedicated Server Rentals",
+            link: "https://gameservershub.com/hosting",
+          },
         ],
       },
     ],
@@ -118,7 +127,7 @@ export default defineConfig({
       // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
       // removePrefixAfterOrdering: false,
       // prefixSeparator: '.',
-      // excludeFiles: ['first.md', 'secret.md'],
+      excludeFiles: ["team.md", "welcome.md"],
       // excludeFilesByFrontmatterFieldName: 'exclude',
       // excludeFolders: ['secret-folder'],
       // includeDotFiles: false,
