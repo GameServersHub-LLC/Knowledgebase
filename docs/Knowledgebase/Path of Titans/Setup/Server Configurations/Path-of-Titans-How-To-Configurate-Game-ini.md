@@ -20,7 +20,7 @@ Below you'll find a list of references of what each **Game.ini** value represent
 <!--[-->
 <li class="first" data-v-1536bbb2="">
 <span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Path of Titans
+<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
 </span>
 </li>
 <li class="" data-v-1536bbb2="">
@@ -35,7 +35,7 @@ Below you'll find a list of references of what each **Game.ini** value represent
 </li>
 <li class="" data-v-1536bbb2="">
 <span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Linux Server
+<i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
 </span>
 </li>
 <li class="last" data-v-1536bbb2="">
@@ -58,7 +58,7 @@ By not adding the line makes the line to the **default** setting
 |`ServerName=Hosted by GSH`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: _GameServersHub runs Path of Titans on Linux Machines which don't require underscores._|
 |`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
 |`ServerPassword=Password123`|Set a password for accessing the server to ensure authorized access only.|
-|`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server [Click to learn more](../../Guides/Path-of-Titans-Reserved-Slots). `added`|
+|`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server [Click to learn more](../../Guides/Path-of-Titans-Reserved-Slots).|
 |`bServerPaidUsersOnly=false`|Enable Free-to-Play Access: Determine whether the server permits users to join without payment.|
 |`bServerAllowChat=true`|Enhance Communication Control: Enable or disable text chat functionality for the entire server, granting you greater control over communication.|
 |`bServerGlobalChat=true`|Manage Global Chat: Toggle the availability of the global chat channel on the server, granting you the ability to enable or disable it as desired.|
