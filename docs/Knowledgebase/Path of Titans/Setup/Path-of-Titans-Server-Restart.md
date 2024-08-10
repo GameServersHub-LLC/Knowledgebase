@@ -1,4 +1,11 @@
 ---
+head:
+  - - meta
+    - name: description
+      content: Placeholder
+  - - meta
+    - name: keywords
+      content: Path Of Titans
 title: Server Restarts
 ---
 
@@ -63,6 +70,13 @@ ScheduledRestartTimes=1900
 ScheduledRestartTimes=2300
 
 ---
+head:
+  - - meta
+    - name: description
+      content: Placeholder
+  - - meta
+    - name: keywords
+      content: Path Of Titans
 title: PlaceHolder
 ---
 

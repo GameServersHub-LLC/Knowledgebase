@@ -1,4 +1,11 @@
 ---
+head:
+  - - meta
+    - name: description
+      content: Placeholder
+  - - meta
+    - name: keywords
+      content: Path Of Titans
 title: Game INI Configs
 ---
 
@@ -209,6 +216,13 @@ ServerDayLength=240
 MaxGroupSize=10
 MaxGroupLeaderCommunicationDistance=50000
 ---
+head:
+  - - meta
+    - name: description
+      content: Placeholder
+  - - meta
+    - name: keywords
+      content: Path Of Titans
 title: PlaceHolder
 ---
 

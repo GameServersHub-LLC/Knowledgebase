@@ -1,4 +1,11 @@
 ---
+head:
+  - - meta
+    - name: description
+      content: Placeholder
+  - - meta
+    - name: keywords
+      content: Path Of Titans
 title: Reserved Slots
 ---
 
