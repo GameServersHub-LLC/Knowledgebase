@@ -46,49 +46,9 @@ export default defineConfig({
       { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#fdc752" },
     ],
     ["meta", { name: "author", content: "Mike Harrison" }],
-    [
-      "meta",
-      {
-        name: "keywords",
-        content:
-          "path of titans map, path of titans gondwa map, path of titans reddit, path of titans discord, path of titans gameplay, path of titans resource map",
-      },
-    ],
     ["meta", { property: "og:type", content: "website" }],
-    [
-      "meta",
-      {
-        property: "og:title",
-        content:
-          "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
-      },
-    ],
     ["meta", { property: "og:image", content: ogImage }],
-    [
-      "meta",
-      {
-        property: "og:description",
-        content:
-          "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
-      },
-    ],
     ["meta", { property: "og:url", content: ogUrl }],
-    [
-      "meta",
-      {
-        name: "twitter:description",
-        content:
-          "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
-      },
-    ],
-    [
-      "meta",
-      {
-        name: "twitter:title",
-        content:
-          "GameServersHub: Path of Titans Guides, Path of Titan Tutorials, etc",
-      },
-    ],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
     ["meta", { name: "twitter:image", content: ogImage }],
     ["meta", { name: "twitter:site", content: "@antfu7" }],
