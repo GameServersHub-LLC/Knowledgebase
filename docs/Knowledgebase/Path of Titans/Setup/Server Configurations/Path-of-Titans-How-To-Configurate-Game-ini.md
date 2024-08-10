@@ -51,7 +51,7 @@ Editing your configuration files using the official GameServersHub admin dashboa
 </li>
 <li class="last" data-v-1536bbb2="">
 <span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i> GameUserSettings.ini
+<i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini
 </span>
 </li>
 <!--]-->
