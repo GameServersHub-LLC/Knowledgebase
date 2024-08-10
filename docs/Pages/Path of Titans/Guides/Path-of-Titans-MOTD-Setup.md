@@ -65,4 +65,5 @@ Here is an example of way to edit the font and colors
 
 <blue>Join our Discord click the link bottom left or https://discord.gg/gsh</>
 ```
-![alt text](<MOTD Screenshot.webp>)
+
+![Path of Titans Message of the Day](<MOTD Screenshot.webp>)
