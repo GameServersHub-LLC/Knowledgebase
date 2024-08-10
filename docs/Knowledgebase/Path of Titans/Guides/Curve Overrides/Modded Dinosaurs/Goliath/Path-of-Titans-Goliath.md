@@ -1,4 +1,8 @@
-# Goliath
+---
+title: PlaceHolder
+---
+
+# Path of Titans Goliath
 
 Placeholder
 

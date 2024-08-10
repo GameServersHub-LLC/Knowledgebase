@@ -1,4 +1,8 @@
-# Archetypes
+---
+title: PlaceHolder
+---
+
+# Path of Titans Archetypes
 
 Placeholder
 
@@ -7,5 +11,6 @@ Placeholder
 ## Current Mods
 
 ### [Dunkleosteus](./Path-of-Titans-Dunkleosteus)
+
 <!-- ### [Ocepech](#) -->
 <!-- ### [Squalicorax](#) -->

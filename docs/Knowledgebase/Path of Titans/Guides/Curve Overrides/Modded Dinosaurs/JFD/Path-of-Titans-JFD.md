@@ -1,4 +1,8 @@
-# JFD
+---
+title: PlaceHolder
+---
+
+# Path of Titans JFD
 
 Placeholder
 
@@ -7,4 +11,5 @@ Placeholder
 ## Current Mods
 
 ### [Deltadromeus agilis](./Path-of-Titans-JFDDagilis)
+
 ### [Torvosaurus tanneri](./Path-of-Titans-JFDTtanneri)

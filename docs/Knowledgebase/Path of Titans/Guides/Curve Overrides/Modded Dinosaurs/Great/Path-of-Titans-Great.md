@@ -1,4 +1,8 @@
-# Great
+---
+title: PlaceHolder
+---
+
+# Path of Titans Great
 
 Placeholder
 

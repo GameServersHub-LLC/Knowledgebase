@@ -1,4 +1,8 @@
-# Krono
+---
+title: PlaceHolder
+---
+
+# Path of Titans Krono
 
 Placeholder
 

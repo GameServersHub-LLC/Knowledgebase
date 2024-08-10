@@ -1,4 +1,8 @@
-# Stoneclaw Highlands
+---
+title: PlaceHolder
+---
+
+# Path of Titans Stoneclaw Highlands
 
 ::: details Mod Map Details
 Mod ID: `UGC_M_QM57NW7D3P_SK`
@@ -14,27 +18,26 @@ This 4km x 4km map is perfect for a smaller group of players that enjoy wide ope
 
 ## Point of Interest
 
-| Name | Name | Name |
-| --- | --- | --- |
+| Name       | Name        | Name          |
+| ---------- | ----------- | ------------- |
 | CenterLake | JumpoffPond | StoneclawPeak |
-| RockyField | Stonehenge | RunoffPond |
+| RockyField | Stonehenge  | RunoffPond    |
 
 ## Quest
 
 | Name | Name | Name |
-| --- | --- | --- |
-| | | |
+| ---- | ---- | ---- |
+|      |      |      |
 
 ## Waters
 
-| Name | Name | Name |
-| --- | --- | --- |
+| Name        | Name        | Name        |
+| ----------- | ----------- | ----------- |
 | CenterLake3 | LittleStone | CenterLake2 |
-| JumpoffPond | CenterLake | |
+| JumpoffPond | CenterLake  |             |
 
 ## Waystones
 
-| Name | Name | Name |
-| --- | --- | --- |
-| RockyFieldWaystone | StonehengeWaystone | |
-
+| Name               | Name               | Name |
+| ------------------ | ------------------ | ---- |
+| RockyFieldWaystone | StonehengeWaystone |      |

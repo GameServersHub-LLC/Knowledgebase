@@ -1,4 +1,8 @@
-# K-23
+---
+title: PlaceHolder
+---
+
+# Path of Titans K-23
 
 Placeholder
 

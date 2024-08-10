@@ -1,4 +1,8 @@
-# Titanus Constructus
+---
+title: PlaceHolder
+---
+
+# Path of Titans Titanus Constructus
 
 Placeholder
 
@@ -7,4 +11,5 @@ Placeholder
 ## Current Mods
 
 ### [Ampelosaurus](./Path-of-Titans-Ampelosaurus)
+
 ### [Citipati](./Path-of-Titans-TCCitipati)

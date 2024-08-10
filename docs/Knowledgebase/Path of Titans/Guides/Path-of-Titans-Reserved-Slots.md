@@ -1,4 +1,8 @@
-# Reserved Slots
+---
+title: PlaceHolder
+---
+
+# Path of Titans Reserved Slots
 
 You can adjust and change the number of reserved slots on your server, and change what server roles can use reserved slots. We highly suggest adding your server's admin roles to use reserved slots to ensure you can have admins login and moderate even if the server is full.
 
@@ -23,6 +27,7 @@ You must add this line in your `Game.ini` file. You can find this file in the fo
 And add the following line under the `[/Script/PathOfTitans.IGameSession]` header as such:
 
 ### Example contents of Game.ini
+
 ```ini
 [/Script/PathOfTitans.IGameSession]
 ReservedSlots=20
@@ -47,6 +52,7 @@ You must edit your `Commands.ini` file to enable reserved slots on your admin ro
 Add the `ReservedSlot=True` line under each role you want to have access to reserved slots.
 
 ### Example contents of Commands.ini
+
 ```ini
 [Role:Teleporter]
 +Permission=teleport

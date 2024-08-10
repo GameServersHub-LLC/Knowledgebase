@@ -1,4 +1,9 @@
-# Deleting / Resetting Server Database
+---
+title: PlaceHolder
+---
+
+# Path of Titans Deleting / Resetting Server Database
+
 If you want to delete the database of saved character and downloaded mods on your server, follow this tutorial. Please make sure you keep a backup of these files in case you want to restore your saved characters/mods. To make a backup, simply copy these folders to a secure location elsewhere. If you want to restore these files, move the folders back into their correct locations.
 
 :: warning

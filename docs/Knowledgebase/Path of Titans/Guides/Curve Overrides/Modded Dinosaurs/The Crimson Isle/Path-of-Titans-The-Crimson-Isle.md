@@ -1,4 +1,8 @@
-# The Crimson Isle
+---
+title: PlaceHolder
+---
+
+# Path of Titans The Crimson Isle
 
 Placeholder
 

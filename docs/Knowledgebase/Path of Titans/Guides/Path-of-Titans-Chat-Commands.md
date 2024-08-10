@@ -2,7 +2,11 @@
 title: Chat Commands
 ---
 
-# Path of Titans Chat Commands
+---
+
+## title: PlaceHolder
+
+# Path of Titans Path of Titans Chat Commands
 
 To use these commands, simply log into your server and open the text chat in-game. Type your command and hit **"Enter"** to execute the command. Text commands can also be used when in Spectator Mode.
 

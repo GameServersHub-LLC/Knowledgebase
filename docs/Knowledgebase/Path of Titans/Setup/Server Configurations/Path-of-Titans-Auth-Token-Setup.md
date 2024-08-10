@@ -1,6 +1,10 @@
-# Authentication Token
+---
+title: PlaceHolder
+---
 
-Both `AlderonGamesCmd` and `PathOfTitansServer` will need user authentication to the Alderon Games Platform, this can be any account that has access to the game. If you want to hive the database of two or more servers together using a `Remote` Database, they will need to the same account.  These are specified in the examples as a email and password, however you can also optionally specify `-AuthToken=` for `PathOfTitansServer` by using the token generated via this page here after signing in.
+# Path of Titans Authentication Token
+
+Both `AlderonGamesCmd` and `PathOfTitansServer` will need user authentication to the Alderon Games Platform, this can be any account that has access to the game. If you want to hive the database of two or more servers together using a `Remote` Database, they will need to the same account. These are specified in the examples as a email and password, however you can also optionally specify `-AuthToken=` for `PathOfTitansServer` by using the token generated via this page here after signing in.
 
 Due to Windows having a 1024 character limit on command line argument and it being a Json Web Token which is fairly long, we have added the ability to specify it via Process Environment Variable instead. You can use the environment variable `AG_AUTH_TOKEN` instead.
 

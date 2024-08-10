@@ -1,11 +1,14 @@
-# Server Password
+---
+title: PlaceHolder
+---
+
+# Path of Titans Server Password
 
 Setting up a password on your server is encouraged if you intend to play with just your friends or with a closed community.
 
 ::: tip
-This line isn't required  for `GSH Servers` and should a password be required, please update the `Startup` tab with the password!
+This line isn't required for `GSH Servers` and should a password be required, please update the `Startup` tab with the password!
 :::
-
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.

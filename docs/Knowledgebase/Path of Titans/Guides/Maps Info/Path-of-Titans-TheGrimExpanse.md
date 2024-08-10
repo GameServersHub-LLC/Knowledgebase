@@ -1,4 +1,8 @@
-# The Grim Expanse
+---
+title: PlaceHolder
+---
+
+# Path of Titans The Grim Expanse
 
 ::: details Mod Map Details
 Mod ID: `UGC_M_DYV7XYEGX2_SK`
@@ -16,34 +20,33 @@ This is an example mod map to test modding functionality, and is an example of w
 
 ## Point of Interest
 
-| Name | Name | Name |
-| --- | --- | --- |
-| NorthEastRuins | SouthWestRuins | CenterOasis |
-| AbandonedPit | TwoStoneRefuge | DesertPeak |
-| EastOasis | NorthWestOasis | TunnelRuins |
-| FarOffRuins | SandsEdgePool | SandstoneHollow |
-| SouthOasis | SandsEdgeRuins | HighriseRuins |
-| BrushForest | CenterRuins | WestWaystone |
+| Name           | Name           | Name            |
+| -------------- | -------------- | --------------- |
+| NorthEastRuins | SouthWestRuins | CenterOasis     |
+| AbandonedPit   | TwoStoneRefuge | DesertPeak      |
+| EastOasis      | NorthWestOasis | TunnelRuins     |
+| FarOffRuins    | SandsEdgePool  | SandstoneHollow |
+| SouthOasis     | SandsEdgeRuins | HighriseRuins   |
+| BrushForest    | CenterRuins    | WestWaystone    |
 
 ## Quest
 
 | Name | Name | Name |
-| --- | --- | --- |
-|  | | |
+| ---- | ---- | ---- |
+|      |      |      |
 
 ## Waters
 
-| Name | Name | Name |
-| --- | --- | --- |
-| Temple4 | Oasis5 | Temple2 |
-| Temple5 | Temple6 | Oasis2 |
-| Temple3 | Oasis | Oasis3 |
-| Oasis4 | Temple | |
+| Name    | Name    | Name    |
+| ------- | ------- | ------- |
+| Temple4 | Oasis5  | Temple2 |
+| Temple5 | Temple6 | Oasis2  |
+| Temple3 | Oasis   | Oasis3  |
+| Oasis4  | Temple  |         |
 
 ## Waystones
 
-| Name | Name | Name |
-| --- | --- | --- |
-| EastWaystone | SouthWaystone | WestWaystone |
-| CenterWaystone | NorthWaystone | |
-
+| Name           | Name          | Name         |
+| -------------- | ------------- | ------------ |
+| EastWaystone   | SouthWaystone | WestWaystone |
+| CenterWaystone | NorthWaystone |              |

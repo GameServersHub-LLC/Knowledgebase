@@ -1,4 +1,8 @@
-# Arazoa
+---
+title: PlaceHolder
+---
+
+# Path of Titans Arazoa
 
 Placeholder
 

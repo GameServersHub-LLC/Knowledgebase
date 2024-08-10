@@ -1,10 +1,15 @@
-# JFDTtanneri
+---
+title: PlaceHolder
+---
+
+# Path of Titans JFDTtanneri
+
 ::: info LAST UPDATED
 <span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="JFDTtanneri.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+> Please be sure to add `CurveOverrides=(CurveName="JFDTtanneri.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
@@ -13,6 +18,7 @@ The server must be stopped while editing server files. You must save your edits 
 Listed below are the default stats for the following creature:`JFDTtanneri`
 
 ## Attributes:
+
 ```cs
 Core.MaxHealth",Values=(150,275,375,600,775))
 Core.MaxStamina",Values=(100,100,100,100,100))
@@ -55,11 +61,13 @@ Core.KnockbackToDelatchThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
+
 ::: info LAST UPDATED
 <span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Multipliers:
+
 ```cs
 Multiplier.HealthRecovery.Resting",Values=(1.4,1.4,1.4,1.4,1.4))
 Multiplier.HealthRecovery.Sleeping",Values=(2,2,2,2,2))
@@ -321,11 +329,13 @@ Multiplier.IncomingDamage.Flying",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.FastFlying",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
+
 ::: info LAST UPDATED
 <span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
 
 ## Combat:
+
 ```cs
 BiteDamage",Values=(20,25,30,40,50))
 BoneBreakChance",Values=(0,0,0,0,0))
@@ -397,8 +407,10 @@ TailDisableCooldown",Values=(4.5,4.5,4.5,4.5,4.5))
 TailDisableStaminaCost",Values=(0,0,0,0,0))
 ShakeOff",Values=(6,7,8,9,10))
 ```
+
 ::: info LAST UPDATED
 <span style="color: #ffd369;">08-02-2024 by Mike</span>
 :::
+
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

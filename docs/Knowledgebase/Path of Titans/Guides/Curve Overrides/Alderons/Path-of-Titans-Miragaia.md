@@ -1,4 +1,8 @@
-# Miragaia
+---
+title: PlaceHolder
+---
+
+# Path of Titans Miragaia
 
 ## Coming Soon
 

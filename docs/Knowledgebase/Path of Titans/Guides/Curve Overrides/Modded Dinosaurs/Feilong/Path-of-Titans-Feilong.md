@@ -1,4 +1,8 @@
-# Feilong
+---
+title: PlaceHolder
+---
+
+# Path of Titans Feilong
 
 Placeholder
 
@@ -7,5 +11,7 @@ Placeholder
 ## Current Mods
 
 ### [Armored Eotriceratops](./Path-of-Titans-EoTLC)
+
 <!-- ### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus) -->
+
 ### [Giant Tegu](./Path-of-Titans-Tegu)

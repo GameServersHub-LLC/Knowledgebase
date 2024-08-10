@@ -1,4 +1,8 @@
-# Adding Mods to your Path of Titans Server:
+---
+title: PlaceHolder
+---
+
+# Path of Titans Adding Mods to your Path of Titans Server:
 
 Here's a simplified guide to editing server files and enabling mods in "**Path of Titans**":
 
@@ -30,7 +34,11 @@ Under the `[/Script/PathOfTitans.IGameSession]` header, add the line `ServerMap=
 Certain mods may disrupt the functioning of the custom map. Include only the custom map mod ID in the GameUserSettings.ini config, and specify the exact file name of the custom map for the server map config variable in the Game.ini file. Test it in-game to make sure it works. Then, add each mod individually, testing each time to ensure the custom map still loads.
 :::
 
-# All Dino Mods ID's, and `Game.ini` names are listed below:
+---
+
+## title: PlaceHolder
+
+# Path of Titans All Dino Mods ID's, and `Game.ini` names are listed below:
 
 ::: info LAST UPDATED
 <span style="color: #ffd369;">07-07-2024 by Mike</span>

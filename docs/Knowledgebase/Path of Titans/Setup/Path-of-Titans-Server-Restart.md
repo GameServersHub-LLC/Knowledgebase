@@ -5,7 +5,11 @@ head:
       content: "/GameServersHub.webp"
 ---
 
-# Configure Server Restarts
+---
+
+## title: PlaceHolder
+
+# Path of Titans Configure Server Restarts
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
@@ -65,7 +69,11 @@ ScheduledRestartTimes=1500
 ScheduledRestartTimes=1900
 ScheduledRestartTimes=2300
 
-# Notification at: 2,1 hours - 30,10,5,1 minutes - 10,5,4,3,2,1 seconds before restart
+---
+title: PlaceHolder
+---
+
+# Path of Titans Notification at: 2,1 hours - 30,10,5,1 minutes - 10,5,4,3,2,1 seconds before restart
 RestartNotificationTimestamps=7200
 RestartNotificationTimestamps=3600
 RestartNotificationTimestamps=3000

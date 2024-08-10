@@ -1,4 +1,8 @@
-# Message of the Day Setup
+---
+title: PlaceHolder
+---
+
+# Path of Titans Message of the Day Setup
 
 Setting up a Message of the Day is useful for letting your players know what's happening and current events. Unlike the Rules, which will not display again once the player closes the window, the MOTD will appear every single time a player logs into the server.
 

@@ -1,7 +1,10 @@
-# Player Management
+---
+title: PlaceHolder
+---
+
+# Path of Titans Player Management
 
 Managing players on your server is an important part of running a community server. This guide will show you how to manage players on your server using the in-game chat commands and the Spectator Tool.
-
 
 ## Kicking Users
 
@@ -22,5 +25,3 @@ Kick a given user with the optional reason. You can leave the kick reason blank 
 > Kick a given user with the optional reason.
 
 #### Via Spectation Tool
-
-

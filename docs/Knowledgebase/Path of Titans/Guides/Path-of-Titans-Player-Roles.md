@@ -1,4 +1,8 @@
-# Player Roles
+---
+title: PlaceHolder
+---
+
+# Path of Titans Player Roles
 
 This guide will show you how to setup player roles on your community server. These roles can be used to give players access to specific commands, and give them unique colors in chat!
 
@@ -23,13 +27,13 @@ You must edit the `Commands.ini` to modify player roles. You can find this file 
 4. Assign your new role to a player. You can do this by creating a new section `[PlayerRoles]`, and underneath, you can enter the Alderon Games ID (AGID) of the player, followed by `=`, followed by the role name. Alternatively, as a server admin, you can use the command `/promote (playername) (rolename)` and `/demote (playername)` in-game to assign or unassign player roles.
 5. There is additional customization you can add to your player role. To use them, add any of following lines under your player role section and set their value:
 
-|Code|Explanation|
-|-|-|
-|`OverrideAdminChatColor=True/False`|Set to True to allow the specific player role chat color to override the default whitelisted admin chat color. Default value = `False`.|
-|`AllowSpectatorAccess=True/False`|Set to True to allow the specific player role to access the "Spectator" mode and the admin panel. Default value = `False`.|
-|`ReservedSlot=True/False`|Set to True to allow the specific player role to have a reserved slot in the server. Default value = `False`.|
-|`CreatorModeAccess=True/False`|Set to True to allow creator mode access for a player. Default value = `False`.|
-|`Hierarchy=0`|Determines the hierarchy of player roles. A lower role cannot do specific commands on a higher role. Default value = `0`.|
+| Code                                | Explanation                                                                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `OverrideAdminChatColor=True/False` | Set to True to allow the specific player role chat color to override the default whitelisted admin chat color. Default value = `False`. |
+| `AllowSpectatorAccess=True/False`   | Set to True to allow the specific player role to access the "Spectator" mode and the admin panel. Default value = `False`.              |
+| `ReservedSlot=True/False`           | Set to True to allow the specific player role to have a reserved slot in the server. Default value = `False`.                           |
+| `CreatorModeAccess=True/False`      | Set to True to allow creator mode access for a player. Default value = `False`.                                                         |
+| `Hierarchy=0`                       | Determines the hierarchy of player roles. A lower role cannot do specific commands on a higher role. Default value = `0`.               |
 
 ::: tip
 Some of the commands use hierarchy, such as: `ban`, `kick`, `promote`, `demote`.

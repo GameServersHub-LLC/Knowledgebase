@@ -1,4 +1,8 @@
-# Isla Nycta
+---
+title: PlaceHolder
+---
+
+# Path of Titans Isla Nycta
 
 Placeholder
 

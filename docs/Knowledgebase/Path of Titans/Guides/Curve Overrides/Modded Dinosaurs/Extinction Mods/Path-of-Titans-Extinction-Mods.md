@@ -1,4 +1,8 @@
-# Extinction Mods
+---
+title: PlaceHolder
+---
+
+# Path of Titans Extinction Mods
 
 Placeholder
 

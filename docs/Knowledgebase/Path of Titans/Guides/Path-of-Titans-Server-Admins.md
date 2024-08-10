@@ -1,4 +1,9 @@
-# Server Admins
+---
+title: PlaceHolder
+---
+
+# Path of Titans Server Admins
+
 You can add admins to your server two ways, either by turning off your server and editing the Game.ini file, or by logging into your server and using some chat commands. If you plan on bulk adding many users, we suggest editing your `Game.ini` file.
 
 ## Adding Admins to Game.ini
@@ -32,11 +37,12 @@ ServerAdmins=456-103-789
 ```
 
 ## Add with Chat Command
+
 You can also add and remove server admins via the in-game chat commands Promote or Demote. This can be used while your server is running. [More information here.](#)
 
-|Code|Explanation|
-|-|-|
-|`/promote <user> <adminrole>`|Example: `/promote that411guy dinomaster` Promotes the player to the specified admin role. `+Permission=promote`|
-|`/demote <user>`|Example: `/demote that411guy` Removes all admin roles of that player. `+Permission=promote`|
+| Code                          | Explanation                                                                                                      |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `/promote <user> <adminrole>` | Example: `/promote that411guy dinomaster` Promotes the player to the specified admin role. `+Permission=promote` |
+| `/demote <user>`              | Example: `/demote that411guy` Removes all admin roles of that player. `+Permission=promote`                      |
 
 If you want to create different admin roles, see this article: [Add or Remove Player Roles](#)

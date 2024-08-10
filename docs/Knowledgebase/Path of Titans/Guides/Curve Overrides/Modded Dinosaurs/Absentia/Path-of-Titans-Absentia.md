@@ -1,4 +1,8 @@
-# Absentia
+---
+title: PlaceHolder
+---
+
+# Path of Titans Absentia
 
 Placeholder
 
@@ -7,4 +11,3 @@ Placeholder
 ## Current Mods
 
 ### [Acrocanthosaurus](./Path-of-Titans-AbsentiaAcro)
-

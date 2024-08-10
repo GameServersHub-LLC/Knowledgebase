@@ -1,4 +1,8 @@
-# P&D's Menagerie
+---
+title: PlaceHolder
+---
+
+# Path of Titans P&D's Menagerie
 
 Introducing P&D's menagerie! While we do aim for accuracy, we as a team aim for our creatures to provide a unique experience, typically with more fantastical approach to their playstyles!
 

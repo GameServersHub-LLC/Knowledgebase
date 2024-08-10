@@ -1,4 +1,8 @@
-# Server Rules
+---
+title: PlaceHolder
+---
+
+# Path of Titans Server Rules
 
 Setting up Rules is useful for letting your players know the rules for your server. The rules popup will appear the first time a player logs into your server. They must click the "I Accept" button in order to continue playing on your server, otherwise they will be disconnected.
 
@@ -71,4 +75,5 @@ Here is an example of way to edit the font and colors
 
 <large>Thanks, and have fun!</>
 ```
+
 ![alt text](Rules.webp)

@@ -1,4 +1,8 @@
-# Enabling/Disabling Dinosaurs
+---
+title: PlaceHolder
+---
+
+# Path of Titans Enabling/Disabling Dinosaurs
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.

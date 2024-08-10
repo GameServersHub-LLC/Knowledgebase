@@ -1,4 +1,12 @@
-# Creator Mode
+---
+title: PlaceHolder
+---
+
+---
+
+## title: PlaceHolder
+
+# Path of Titans Creator Mode
 
 This guide will teach you how to use Creator Mode on your server and how to configure it.
 
@@ -10,9 +18,7 @@ This game mode essentially puts a player into the role of a Dungeon Master typic
 
 Creator Mode can be modded to add new item and food types. This allows you to create small community areas on your server without the need to mod in an entirely new map. You can download and mod in new spectator camera models as well. You can find more information below.
 
-
 <iframe width="100%" height="540" src="https://www.youtube-nocookie.com/embed/r1KtJ25ylz8?si=Nb4GVBIIJjI_xyG2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ## Enabling Creator Mode
 
@@ -28,7 +34,6 @@ If you do not have a player role assigned to you with Creator Mode permissions, 
 6. On the Admin Panel, click the "Creator Mode" checkbox.
 
 You will now have Creator Mode enabled. To disable creator mode, simply uncheck the "Creator Mode" checkbox in the Admin panel.
-
 
 ## Using Creator Mode
 
@@ -52,17 +57,18 @@ Another setting you can change is the rotation of the item. You can change the r
 
 You can use these commands in your chat to manage your creator mode profiles, assuming you have the correct permissions.
 
-|Chat Command:|Example:|Permissions:|RCON Support:|Action:|
-|-|-|-|-|-|
-|/ClearCreatorObjects|`/clearcreatorobjects`|+Permission=clearcreatorobjects|:heavy_check_mark:|Removes and refunds all placed Creator Mode Objects on the server.|
-|/LoadCreatorMode [SaveName]|`/loadcreatormode rockworld`|+Permission=loadcreatormode|:heavy_check_mark:|Loads the saved Creator Mode data from the specified save slot.|
-|/SaveCreatorMode [SaveName]|`/savecreatormode rockworld`|+Permission=savecreatormode|:heavy_check_mark:|Saves the Creator Mode data to the specified save slot.|
-|/ResetCreatorMode|`/resetcreatormode`|+Permission=resetcreatormode|:heavy_check_mark:|Resets Creator Mode Objects to their default, removing placed objects and changing map objects to their original state.|
-|/RemoveCreatorMode [SaveName]|`/removecreatormode rockworld`|+Permission=removecreatormode|:heavy_check_mark:|Removes the Creator Move data from the specified save slot.|
-|/ListCreatorMode|`/listcreatormode`|+Permission=listcreatormode|:heavy_check_mark:|Lists the saved Creator Mode saves.|
-|/ReplenishCreatorMode|`/replenishcreatormode`|+Permission=replenishcreatormode|:heavy_check_mark:|Replenishes all items on the map, excluding water.|
+| Chat Command:                 | Example:                       | Permissions:                     | RCON Support:      | Action:                                                                                                                 |
+| ----------------------------- | ------------------------------ | -------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| /ClearCreatorObjects          | `/clearcreatorobjects`         | +Permission=clearcreatorobjects  | :heavy_check_mark: | Removes and refunds all placed Creator Mode Objects on the server.                                                      |
+| /LoadCreatorMode [SaveName]   | `/loadcreatormode rockworld`   | +Permission=loadcreatormode      | :heavy_check_mark: | Loads the saved Creator Mode data from the specified save slot.                                                         |
+| /SaveCreatorMode [SaveName]   | `/savecreatormode rockworld`   | +Permission=savecreatormode      | :heavy_check_mark: | Saves the Creator Mode data to the specified save slot.                                                                 |
+| /ResetCreatorMode             | `/resetcreatormode`            | +Permission=resetcreatormode     | :heavy_check_mark: | Resets Creator Mode Objects to their default, removing placed objects and changing map objects to their original state. |
+| /RemoveCreatorMode [SaveName] | `/removecreatormode rockworld` | +Permission=removecreatormode    | :heavy_check_mark: | Removes the Creator Move data from the specified save slot.                                                             |
+| /ListCreatorMode              | `/listcreatormode`             | +Permission=listcreatormode      | :heavy_check_mark: | Lists the saved Creator Mode saves.                                                                                     |
+| /ReplenishCreatorMode         | `/replenishcreatormode`        | +Permission=replenishcreatormode | :heavy_check_mark: | Replenishes all items on the map, excluding water.                                                                      |
 
 ## Config
+
 Creator mode can automatically load a saved state when a server starts by defining DefaultCreatorModeSave in `Game.ini`. The state can be saved via the command `/SaveCreatorMode [SaveName]`.
 
 ```ini

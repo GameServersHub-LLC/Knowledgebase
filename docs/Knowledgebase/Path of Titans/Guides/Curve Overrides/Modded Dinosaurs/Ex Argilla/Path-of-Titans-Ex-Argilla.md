@@ -1,4 +1,8 @@
-# Ex Argilla
+---
+title: PlaceHolder
+---
+
+# Path of Titans Ex Argilla
 
 Placeholder
 
@@ -7,9 +11,15 @@ Placeholder
 ## Current Mods
 
 ### [Australovenator](./Path-of-Titans-ExAAustralo)
+
 ### [Beringia Mammuthus Columbi](./Path-of-Titans-BeringiaMammothC)
+
 ### [Bistahieversor](./Path-of-Titans-ExABista)
+
 ### [Dracoviper](./Path-of-Titans-EADracoviper)
+
 ### [Smilodon](./Path-of-Titans-EASmilodon)
+
 ### [Griffin](./Path-of-Titans-EAGriffin)
+
 ### [Nasutoceratops](./Path-of-Titans-EANasuto)

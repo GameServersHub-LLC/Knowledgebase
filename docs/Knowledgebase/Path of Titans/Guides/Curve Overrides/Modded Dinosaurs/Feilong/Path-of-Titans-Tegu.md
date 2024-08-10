@@ -1,4 +1,8 @@
-# Giant Tegu
+---
+title: PlaceHolder
+---
+
+# Path of Titans Giant Tegu
 
 ## Coming Soon
 

@@ -1,10 +1,15 @@
-# Whitelisting
+---
+title: PlaceHolder
+---
+
+# Path of Titans Whitelisting
 
 ## About Whitelisting
 
 If you have a private server and only want specific players to join, you can create a Whitelist. This is more secure than using a password, as a password can be leaked or shared.
 
 You can use the `bEnforceWhitelist=true` option in your `Game.ini` file to enable the whitelist without kicking users until you are done.
+
 - If you don't have a whitelist file, or the file is empty, the whitelist will not be enabled.
 - The moment you add a user ID to the whitelist text file, the whitelist will come into effect.
 
@@ -26,6 +31,7 @@ Here is the format for the `whitelist.txt` file:
 Add the Alderon Games ID (AGID) of each whitelisted user on a new line. You can find a player's AGID by using the Admin Chat Commands or the Spectator Tool.
 
 ### Example whitelist.txt
+
 ```txt
 123-456-963
 455-789-426

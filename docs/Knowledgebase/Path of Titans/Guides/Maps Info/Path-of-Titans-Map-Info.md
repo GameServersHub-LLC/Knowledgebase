@@ -1,4 +1,8 @@
-# Path of Titans Map Info
+---
+title: PlaceHolder
+---
+
+# Path of Titans Path of Titans Map Info
 
 Below you'll find a list of all maps **Path of Titans** offers!
 
