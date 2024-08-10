@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Primordial Tyrants
 ---
 
 # Path of Titans Primordial Tyrants

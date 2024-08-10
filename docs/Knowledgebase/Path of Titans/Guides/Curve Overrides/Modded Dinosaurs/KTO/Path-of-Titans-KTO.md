@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: KTO
 ---
 
 # Path of Titans KTO

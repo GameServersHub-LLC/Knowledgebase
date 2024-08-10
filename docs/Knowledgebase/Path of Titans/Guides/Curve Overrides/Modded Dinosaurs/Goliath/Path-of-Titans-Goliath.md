@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Goliath
 ---
 
 # Path of Titans Goliath

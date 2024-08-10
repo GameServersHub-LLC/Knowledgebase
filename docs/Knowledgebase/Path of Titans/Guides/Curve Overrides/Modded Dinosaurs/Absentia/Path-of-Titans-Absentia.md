@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Absentia
 ---
 
 # Path of Titans Absentia

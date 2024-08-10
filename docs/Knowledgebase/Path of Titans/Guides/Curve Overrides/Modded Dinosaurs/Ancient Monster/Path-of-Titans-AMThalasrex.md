@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: AMThalasrex
 ---
 
 # Path of Titans AMThalasrex

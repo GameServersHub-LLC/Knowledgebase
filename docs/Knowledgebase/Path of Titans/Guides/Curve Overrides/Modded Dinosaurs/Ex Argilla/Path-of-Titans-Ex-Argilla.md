@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Ex Argilla
 ---
 
 # Path of Titans Ex Argilla

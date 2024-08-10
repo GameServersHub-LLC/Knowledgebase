@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: AsylumCougar
 ---
 
 # Path of Titans AsylumCougar

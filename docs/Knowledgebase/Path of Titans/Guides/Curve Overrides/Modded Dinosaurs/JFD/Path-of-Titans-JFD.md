@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: JFD
 ---
 
 # Path of Titans JFD

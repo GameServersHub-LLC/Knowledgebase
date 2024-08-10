@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: ArazoaXiph
 ---
 
 # Path of Titans ArazoaXiph

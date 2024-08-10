@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Giant Tegu
 ---
 
 # Path of Titans Giant Tegu

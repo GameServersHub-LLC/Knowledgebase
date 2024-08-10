@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Asylum
 ---
 
 # Path of Titans Asylum

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: AbsentiaAcro
 ---
 
 # Path of Titans AbsentiaAcro

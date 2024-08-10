@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: GTenontosaurus
 ---
 
 # Path of Titans GTenontosaurus

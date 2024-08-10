@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: KTODrypto
 ---
 
 # Path of Titans KTODrypto

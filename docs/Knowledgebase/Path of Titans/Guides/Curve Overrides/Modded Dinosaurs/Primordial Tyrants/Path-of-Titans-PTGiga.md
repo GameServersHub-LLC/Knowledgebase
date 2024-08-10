@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTGiga
 ---
 
 # Path of Titans PTGiga

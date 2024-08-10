@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Gigamandra
 ---
 
 # Path of Titans Gigamandra

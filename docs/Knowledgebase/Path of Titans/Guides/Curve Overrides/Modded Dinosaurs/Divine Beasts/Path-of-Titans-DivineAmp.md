@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineAmp
 ---
 
 # Path of Titans DivineAmp

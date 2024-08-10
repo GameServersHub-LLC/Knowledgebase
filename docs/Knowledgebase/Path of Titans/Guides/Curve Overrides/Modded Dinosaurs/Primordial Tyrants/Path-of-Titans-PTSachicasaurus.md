@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTSachicasaurus
 ---
 
 # Path of Titans PTSachicasaurus

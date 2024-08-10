@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: EASmilodon
 ---
 
 # Path of Titans EASmilodon

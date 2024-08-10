@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: ExABista
 ---
 
 # Path of Titans ExABista

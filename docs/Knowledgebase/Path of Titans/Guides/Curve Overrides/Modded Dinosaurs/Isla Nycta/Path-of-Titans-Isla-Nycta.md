@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Isla Nycta
 ---
 
 # Path of Titans Isla Nycta

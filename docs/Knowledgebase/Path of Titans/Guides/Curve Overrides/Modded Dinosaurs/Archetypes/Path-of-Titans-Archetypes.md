@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Archetypes
 ---
 
 # Path of Titans Archetypes

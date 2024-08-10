@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineAnnectens
 ---
 
 # Path of Titans DivineAnnectens

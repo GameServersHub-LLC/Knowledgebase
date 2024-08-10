@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: K-23
 ---
 
 # Path of Titans K-23

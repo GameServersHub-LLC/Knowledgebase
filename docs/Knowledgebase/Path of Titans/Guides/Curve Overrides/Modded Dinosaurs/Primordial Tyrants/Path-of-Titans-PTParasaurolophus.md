@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTParasaurolophus
 ---
 
 # Path of Titans PTParasaurolophus

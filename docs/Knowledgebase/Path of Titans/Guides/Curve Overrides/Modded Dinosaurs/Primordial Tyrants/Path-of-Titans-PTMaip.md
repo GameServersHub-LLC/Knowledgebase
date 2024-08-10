@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTMaip
 ---
 
 # Path of Titans PTMaip

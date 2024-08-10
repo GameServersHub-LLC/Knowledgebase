@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: David Rosa
 ---
 
 # Path of Titans David Rosa

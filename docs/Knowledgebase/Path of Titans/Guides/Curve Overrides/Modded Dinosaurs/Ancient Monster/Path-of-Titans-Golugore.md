@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Golugore
 ---
 
 # Path of Titans Golugore

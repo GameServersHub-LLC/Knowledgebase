@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: TCCitipati
 ---
 
 # Path of Titans TCCitipati

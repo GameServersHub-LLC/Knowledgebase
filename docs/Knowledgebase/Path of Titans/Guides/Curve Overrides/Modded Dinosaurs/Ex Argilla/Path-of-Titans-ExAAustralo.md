@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: ExAAustralo
 ---
 
 # Path of Titans ExAAustralo

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: IgnisNoviana
 ---
 
 # Path of Titans IgnisNoviana

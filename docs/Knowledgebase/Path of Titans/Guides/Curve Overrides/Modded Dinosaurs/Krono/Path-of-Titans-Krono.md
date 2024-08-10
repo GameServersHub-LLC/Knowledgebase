@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Krono
 ---
 
 # Path of Titans Krono

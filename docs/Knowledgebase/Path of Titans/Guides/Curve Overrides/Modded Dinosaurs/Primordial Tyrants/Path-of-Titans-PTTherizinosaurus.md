@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTTherizinosaurus
 ---
 
 # Path of Titans PTTherizinosaurus

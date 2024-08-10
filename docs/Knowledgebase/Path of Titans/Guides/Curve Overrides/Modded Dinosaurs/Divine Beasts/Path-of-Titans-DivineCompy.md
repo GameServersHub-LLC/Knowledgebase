@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineCompy
 ---
 
 # Path of Titans DivineCompy

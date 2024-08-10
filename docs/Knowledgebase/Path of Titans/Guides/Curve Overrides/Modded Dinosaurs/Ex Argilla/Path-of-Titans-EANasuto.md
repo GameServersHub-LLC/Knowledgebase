@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: EANasuto
 ---
 
 # Path of Titans EANasuto

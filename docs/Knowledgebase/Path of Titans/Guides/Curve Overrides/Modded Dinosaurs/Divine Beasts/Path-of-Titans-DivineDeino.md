@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineDeino
 ---
 
 # Path of Titans DivineDeino

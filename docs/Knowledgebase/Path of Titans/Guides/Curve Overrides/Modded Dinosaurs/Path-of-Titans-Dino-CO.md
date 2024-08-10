@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Dinosaurus Curve Overrides
 ---
 
 # Path of Titans Mod Dinosaurus Curve Overrides

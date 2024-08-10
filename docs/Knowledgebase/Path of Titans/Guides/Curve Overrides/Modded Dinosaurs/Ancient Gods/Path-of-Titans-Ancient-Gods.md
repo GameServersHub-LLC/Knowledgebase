@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Ancient Gods
 ---
 
 # Path of Titans Ancient Gods

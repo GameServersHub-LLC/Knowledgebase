@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Great
 ---
 
 # Path of Titans Great

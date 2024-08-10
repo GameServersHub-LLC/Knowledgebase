@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Nyctatyrannus
 ---
 
 # Path of Titans Nyctatyrannus

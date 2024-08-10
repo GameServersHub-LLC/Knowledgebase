@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: EoTLC
 ---
 
 # Path of Titans EoTLC

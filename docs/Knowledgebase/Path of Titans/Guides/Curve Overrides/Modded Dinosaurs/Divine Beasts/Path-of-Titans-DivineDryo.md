@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineDryo
 ---
 
 # Path of Titans DivineDryo

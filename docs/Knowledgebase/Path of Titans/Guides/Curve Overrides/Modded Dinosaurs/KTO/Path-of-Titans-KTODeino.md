@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: KTODeino
 ---
 
 # Path of Titans KTODeino

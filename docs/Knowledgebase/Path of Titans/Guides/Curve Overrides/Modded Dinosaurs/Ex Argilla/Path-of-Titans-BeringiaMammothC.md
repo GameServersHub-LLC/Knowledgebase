@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: BeringiaMammothC
 ---
 
 # Path of Titans BeringiaMammothC

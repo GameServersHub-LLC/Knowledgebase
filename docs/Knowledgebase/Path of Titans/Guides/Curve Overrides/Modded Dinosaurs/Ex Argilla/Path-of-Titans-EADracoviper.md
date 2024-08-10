@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: EADracoviper
 ---
 
 # Path of Titans EADracoviper

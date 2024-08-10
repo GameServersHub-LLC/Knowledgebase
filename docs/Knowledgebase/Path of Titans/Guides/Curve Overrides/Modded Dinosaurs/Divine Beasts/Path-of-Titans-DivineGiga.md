@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineGiga
 ---
 
 # Path of Titans DivineGiga

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: CretaceousKryptops
 ---
 
 # Path of Titans CretaceousKryptops

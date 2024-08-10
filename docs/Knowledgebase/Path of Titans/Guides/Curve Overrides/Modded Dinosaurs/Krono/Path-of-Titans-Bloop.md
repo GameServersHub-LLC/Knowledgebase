@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Bloop
 ---
 
 # Path of Titans Bloop

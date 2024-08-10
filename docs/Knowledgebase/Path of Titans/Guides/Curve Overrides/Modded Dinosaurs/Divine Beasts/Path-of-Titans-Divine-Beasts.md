@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Divine Beasts
 ---
 
 # Path of Titans Divine Beasts

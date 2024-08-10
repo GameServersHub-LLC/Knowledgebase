@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineHeli
 ---
 
 # Path of Titans DivineHeli

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Dunkleosteus
 ---
 
 # Path of Titans Dunkleosteus

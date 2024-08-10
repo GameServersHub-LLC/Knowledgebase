@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: The Crimson Isle
 ---
 
 # Path of Titans The Crimson Isle

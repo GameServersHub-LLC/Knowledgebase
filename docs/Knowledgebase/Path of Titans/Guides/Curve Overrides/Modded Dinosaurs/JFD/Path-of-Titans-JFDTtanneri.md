@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: JFDTtanneri
 ---
 
 # Path of Titans JFDTtanneri

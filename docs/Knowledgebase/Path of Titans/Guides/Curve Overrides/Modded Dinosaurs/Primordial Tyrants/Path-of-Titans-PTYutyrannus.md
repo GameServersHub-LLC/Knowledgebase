@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTYutyrannus
 ---
 
 # Path of Titans PTYutyrannus

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Ancient Monster
 ---
 
 # Path of Titans Ancient Monster

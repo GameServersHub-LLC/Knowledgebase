@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: CrimsonCryo
 ---
 
 # Path of Titans CrimsonCryo

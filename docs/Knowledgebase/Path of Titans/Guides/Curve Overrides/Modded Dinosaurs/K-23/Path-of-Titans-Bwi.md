@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Bwi
 ---
 
 # Path of Titans Bwi

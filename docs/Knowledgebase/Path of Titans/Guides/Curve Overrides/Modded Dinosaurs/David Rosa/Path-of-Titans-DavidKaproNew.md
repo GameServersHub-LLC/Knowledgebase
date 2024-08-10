@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DavidKaproNew
 ---
 
 # Path of Titans DavidKaproNew

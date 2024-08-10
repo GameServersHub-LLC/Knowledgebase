@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTArgent
 ---
 
 # Path of Titans PTArgent

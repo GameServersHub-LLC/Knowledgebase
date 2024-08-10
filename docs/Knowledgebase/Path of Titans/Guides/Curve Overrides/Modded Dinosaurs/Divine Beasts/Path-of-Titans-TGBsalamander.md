@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: TGBsalamander
 ---
 
 # Path of Titans TGBsalamander

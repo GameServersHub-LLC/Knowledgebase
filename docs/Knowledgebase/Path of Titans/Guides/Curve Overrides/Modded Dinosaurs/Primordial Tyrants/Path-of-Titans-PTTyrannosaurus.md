@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTTyrannosaurus
 ---
 
 # Path of Titans PTTyrannosaurus

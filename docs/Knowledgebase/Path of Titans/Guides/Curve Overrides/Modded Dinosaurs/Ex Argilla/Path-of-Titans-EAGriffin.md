@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: EAGriffin
 ---
 
 # Path of Titans EAGriffin

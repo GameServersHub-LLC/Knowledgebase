@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DJCDryptosaurus
 ---
 
 # Path of Titans DJCDryptosaurus

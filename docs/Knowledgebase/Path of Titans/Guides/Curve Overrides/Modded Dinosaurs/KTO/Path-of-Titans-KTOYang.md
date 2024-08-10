@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: KTOYang
 ---
 
 # Path of Titans KTOYang

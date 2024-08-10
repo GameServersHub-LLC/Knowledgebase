@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: IgnisOphis
 ---
 
 # Path of Titans IgnisOphis

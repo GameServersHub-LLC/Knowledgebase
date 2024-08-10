@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: JFDDagilis
 ---
 
 # Path of Titans JFDDagilis

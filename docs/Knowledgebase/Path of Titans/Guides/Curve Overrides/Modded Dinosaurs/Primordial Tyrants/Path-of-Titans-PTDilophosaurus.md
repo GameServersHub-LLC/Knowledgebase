@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTDilophosaurus
 ---
 
 # Path of Titans PTDilophosaurus

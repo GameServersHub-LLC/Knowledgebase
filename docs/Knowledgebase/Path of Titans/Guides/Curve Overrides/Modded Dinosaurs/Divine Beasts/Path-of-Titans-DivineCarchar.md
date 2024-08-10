@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineCarchar
 ---
 
 # Path of Titans DivineCarchar

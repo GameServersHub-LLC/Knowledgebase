@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: P&D's Menagerie
 ---
 
 # Path of Titans P&D's Menagerie

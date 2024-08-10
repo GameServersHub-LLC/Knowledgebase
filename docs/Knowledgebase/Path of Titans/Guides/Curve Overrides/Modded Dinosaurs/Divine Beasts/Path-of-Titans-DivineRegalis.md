@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineRegalis
 ---
 
 # Path of Titans DivineRegalis

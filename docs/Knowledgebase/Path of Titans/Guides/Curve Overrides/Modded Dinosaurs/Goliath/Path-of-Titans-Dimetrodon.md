@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Dimetrodon
 ---
 
 # Path of Titans Dimetrodon

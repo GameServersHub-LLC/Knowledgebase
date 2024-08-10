@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PDPentaceratops
 ---
 
 # Path of Titans PDPentaceratops

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Ampelosaurus
 ---
 
 # Path of Titans Ampelosaurus

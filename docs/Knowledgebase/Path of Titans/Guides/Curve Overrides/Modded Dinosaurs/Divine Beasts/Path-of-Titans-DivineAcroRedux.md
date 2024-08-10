@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineAcroRedux
 ---
 
 # Path of Titans DivineAcroRedux

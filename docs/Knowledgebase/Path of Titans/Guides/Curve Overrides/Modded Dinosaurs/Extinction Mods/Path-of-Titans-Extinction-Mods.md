@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: Extinction Mods
 ---
 
 # Path of Titans Extinction Mods

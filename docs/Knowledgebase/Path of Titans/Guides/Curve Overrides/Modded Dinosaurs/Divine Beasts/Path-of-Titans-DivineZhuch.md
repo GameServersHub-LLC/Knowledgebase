@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: DivineZhuch
 ---
 
 # Path of Titans DivineZhuch

@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: AMMoraquile
 ---
 
 # Path of Titans AMMoraquile

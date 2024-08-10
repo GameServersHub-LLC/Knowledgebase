@@ -1,5 +1,5 @@
 ---
-title: PlaceHolder
+title: PTQuetzalcoatlus
 ---
 
 # Path of Titans PTQuetzalcoatlus
