@@ -4,6 +4,15 @@
 
 :root {
   --vp-layout-max-width: 1680px;
+  --custom-breadcrumb-background-color: #f6f6f7;
+  --custom-breadcrumb-text-color: #000;
+  --custom-breadcrumb-border-color: #425bc5;
+}
+
+html.dark {
+  --custom-breadcrumb-background-color: #21282c;
+  --custom-breadcrumb-text-color: #fff;
+  --custom-breadcrumb-border-color: #aab1f9;
 }
 
 /**
