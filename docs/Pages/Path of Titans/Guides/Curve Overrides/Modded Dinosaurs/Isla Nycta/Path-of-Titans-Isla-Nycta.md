@@ -1,9 +1,0 @@
-# Isla Nycta
-
-Placeholder
-
-[Discord Link](#)
-
-## Current Mods
-
-### [Nyctatyrannus](./Path-of-Titans-Nyctatyrannus.md)

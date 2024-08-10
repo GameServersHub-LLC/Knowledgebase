@@ -24,6 +24,7 @@ features:
       }
     title: Path Of Titans Guides
     details: Embark on epic quests in the central and eastern zones of Gondwa, and strive to become the best.
+    link: "/Knowledgebase/Path of Titans/Setup/Path-of-Titans-RCON-Config"
   - icon:
       {
         src: /Rust - 667x260.webp,
@@ -33,6 +34,7 @@ features:
       }
     title: Rust Guides
     details: The only aim in Rust is to survive. Everything wants you to die!
+    link: "#"
   - icon:
       {
         src: /Palworld - 667x260.webp,
@@ -42,6 +44,7 @@ features:
       }
     title: Palworld Guides
     details: Fight, farm, build and work alongside mysterious creatures called “Pals” open world survival and crafting game!
+    link: "/Knowledgebase/Palworld/palworld-server-settings"
   - icon:
       {
         src: /7 Days To Die - 667x260.webp,
@@ -51,6 +54,7 @@ features:
       }
     title: 7 Days To Die Guides
     details: Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!
+    link: "#"
   - icon:
       {
         src: /Soulmask - 667x260.webp,
@@ -60,6 +64,7 @@ features:
       }
     title: Soulmask Guides
     details: Explore and unveil the truths behind the enigmatic mask.
+    link: "#"
   - icon:
       {
         src: /V Rising - 667x260.webp,
@@ -69,6 +74,7 @@ features:
       }
     title: V Rising Guides
     details: In a world of conflict, only one vampire shall reign supreme. Dare you challenge the throne of Dracula?
+    link: "#"
   - icon:
       {
         src: /The Isle - 667x260.webp,
@@ -78,6 +84,7 @@ features:
       }
     title: The Isle (Evrima) Guides
     details: Explore vast landscapes of dense forest and open plains, traverse treacherous mountains, and wade through dark swamps where horrors lurk.
+    link: "#"
   - icon:
       {
         src: /Satisfactory - 667x260.webp,
@@ -87,4 +94,5 @@ features:
       }
     title: Satisfactory Guides
     details: Explore an alien planet, create multi-story factories, and enter conveyor belt heaven!
+    link: "#"
 ---
