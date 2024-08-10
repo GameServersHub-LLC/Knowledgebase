@@ -130,9 +130,9 @@ This records instances of a player using profanity in the game chat.
 ```ini
 [ServerWebhooks]
 bEnabled=true
-; Set this to true if you want the server to call webhooks
+# Set this to true if you want the server to call webhooks
 Format="Discord"
-; Discord or General
+# Discord or General
 PlayerReport="https://discord-webhook-url-here/"
 PlayerLogin=""
 PlayerLogout=""
