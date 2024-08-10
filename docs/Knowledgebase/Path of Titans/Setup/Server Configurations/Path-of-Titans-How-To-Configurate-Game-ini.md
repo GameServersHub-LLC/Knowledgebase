@@ -22,11 +22,6 @@ The server must be stopped while editing server files. You must save your edits 
 :::
 Editing your configuration files using the official GameServersHub admin dashboard is easy. Follow the steps below to edit your configuration files efficiently.
 
-<<<<<<< HEAD:docs/Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Configurate-Game-ini.md
-You can find your `Game.ini` file in the following location:
-
-![alt text](gameini.webp)
-=======
 1. Open the `File Managers` tab inside your admin dashboard.
 2. Head to `PathOfTitans/Saved/Config/LinuxServer` and open the `Game.ini` file.
 3. Make the edits and click `Save Content`; then, you can safely restart your game server to apply the changes.
@@ -72,23 +67,6 @@ By not adding the line makes the line to the **default** setting
 
 |Config Name:|Description:|
 |-|-|
-<<<<<<< HEAD:docs/Pages/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Configurate-Game-ini.md
-|`ServerName=Hosted by GSH`|Setting the public name of your ServerName is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note:** *GameServersHub runs Path of Titans on Linux Machines which don't require underscores.*|
-|`MaxPlayers=100`|Sets the max number of players on a server.|
-|`ServerPassword=Password123`|Sets a password to enter the server.|
-|`ReservedSlots=20`|Specifies the number of reserved slots allowed on your server. [Learn more about reserved slots here.](../../Guides/Path-of-Titans-Reserved-Slots)|
-|`bServerPaidUsersOnly=false`|Specifies if the server allows free-to-play users to join.|
-|`bServerAllowChat=true`|Enables or disables text chat for the entire server.|
-|`bServerGlobalChat=true`|Enables or disables the global chat channel on the server.|
-|`bServerNameTags=false`|Enables or disables the ability for ALL players on the server to see player nametags. Defaults to `false`.|
-|`bServerFish=true`|Enables or disables fish spawning.|
-|`bServerWaterQualitySystem=true`|Enables or disables the water quality system.|
-|`bOverrideWaterRegeneration=false`|Enabled or disables overriding water regeneration. If set to false, it will use the default values.|
-|`bEnableWaterRegeneration=true`|Sets whether water will naturally regenerate over time. If this is disabled, please ensure you have water restoration quests on the map you are hosting, otherwise you will eventually run out of water.|
-|`WaterRegenerationRateMultiplierUpdate=180`|The water regeneration rate multiplier update.|
-|`WaterRegenerationRate=60`|Amount of time in seconds before water applies a regeneration amount. Setting this value too low makes the server update water more frequently and can cause lag.|
-|`WaterRegenerationValue=10`|Amount of water regenerated every cycle. This scales depending on how large the body of water is.|
-=======
 |`ServerName=Hosted by GSH`|Setting the public name of your `ServerName` is a crucial step to ensure accessibility and effective communication within your network. To add spaces to your Server Name, you can include an underscore `_`, which will act as syntax spacing. **Note**: _GameServersHub runs Path of Titans on Linux Machines which don't require underscores._|
 |`MaxPlayers=100`|Specifies the maximum number of players allowed on the server|
 |`ServerPassword=Password123`|Set a password for accessing the server to ensure authorized access only.|
@@ -104,7 +82,6 @@ By not adding the line makes the line to the **default** setting
 |`WaterRegenerationRateMultiplierUpdate=180`|This involves updating the multiplier for the water regeneration rate.|
 |`WaterRegenerationRate=60`|This refers to the duration, in seconds, before water begins to regenerate. Setting this value too low prompts the server to update water levels more frequently, which could potentially lead to server lag.|
 |`WaterRegenerationValue=10`|This refers to the volume of water replenished during each cycle. The actual amount scales based on the size of the water body.|
->>>>>>> 0c2c75d03436112ee445966f4543887044827530:docs/Knowledgebase/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Configurate-Game-ini.md
 |`WaterRainRegenerationIncrement=20.0`|Multiplier that increases the amount of water restored when it rains.|
 |`bServerWaystoneCooldownRemoval=true`|Enables or disables the ability for players to spend marks to insta-cooldown Waystones.|
 |`OverrideWaystoneCooldown=-1`|Overrides the cooldown timer for Waystones in seconds. `-1` will use the default cooldown timer.|
