@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
   - - meta
     - name: keywords
       content: Path Of Titans
@@ -52,7 +52,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Absentia:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Absentia/Path-of-Titans-Absentia)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Absentia/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -61,7 +61,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Ancient Gods:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Gods/Path-of-Titans-Ancient-Gods)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Gods/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -70,7 +70,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Ancient Monster:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Monster/Path-of-Titans-Ancient-Monster)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Monster/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -86,7 +86,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Archetypes:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Archetypes/Path-of-Titans-Archetypes)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Archetypes/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -97,7 +97,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Arazoa:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Arazoa/Path-of-Titans-Arazoa)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Arazoa/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -110,7 +110,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Asylum:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Asylum/Path-of-Titans-Asylum)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Asylum/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -119,7 +119,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## David Rosa's:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/David%20Rosa/Path-of-Titans-David-Rosa)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/David%20Rosa/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -128,7 +128,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Ex Argilla:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ex%20Argilla/Path-of-Titans-Ex-Argilla)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ex%20Argilla/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -144,7 +144,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## The Crimson Isle:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/The%20Crimson%20Isle/Path-of-Titans-The-Crimson-Isle)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/The%20Crimson%20Isle/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -153,7 +153,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Cenozoic Timelines:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Cenozoic%20Timelines/Path-of-Titans-Cenozoic-Timelines)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Cenozoic%20Timelines/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -163,7 +163,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Extinction Mods:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Extinction%20Mods/Path-of-Titans-Extinction-Mods)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Extinction%20Mods/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -172,7 +172,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Divine Beasts:
 
 ::: details
-[Modder Discord](https://discord.gg/divinebeasts)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Divine%20Beasts/Path-of-Titans-Divine-Beasts)|[Others](#)
+[Modder Discord](https://discord.gg/divinebeasts)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Divine%20Beasts/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -199,7 +199,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Feilong:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Feilong/Path-of-Titans-Feilong)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Feilong/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -209,7 +209,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Goliath:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Goliath/Path-of-Titans-Goliath)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Goliath/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -218,7 +218,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Great:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Great/Path-of-Titans-Great)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Great/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -227,7 +227,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Isla Nycta:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Isla%20Nycta/Path-of-Titans-Isla-Nycta)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Isla%20Nycta/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -236,7 +236,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## JFD:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/JFD/Path-of-Titans-JFD)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/JFD/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -246,7 +246,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## K23:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/K-23/Path-of-Titans-K-23)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/K-23/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -279,7 +279,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## KTO:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/KTO/Path-of-Titans-KTO)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/KTO/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -290,7 +290,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## P&D's Menagerie:
 
 ::: details
-[Modder Discord](https://discord.gg/3mUVxVhSXW)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/P&D's%20Menagerie/Path-of-Titans-P&D's-Menagerie)|[Others](#)
+[Modder Discord](https://discord.gg/3mUVxVhSXW)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/P&D's%20Menagerie/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -299,7 +299,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Primordial Tyrants:
 
 ::: details
-[Modder Discord](https://discord.gg/primordialtyrants)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Primordial%20Tyrants/Path-of-Titans-Primordial-Tyrants)|[Others](#)
+[Modder Discord](https://discord.gg/primordialtyrants)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Primordial%20Tyrants/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -326,7 +326,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Titanus Constructus:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Titanus%20Constructus/Path-of-Titans-Titanus-Constructus)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Titanus%20Constructus/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -336,7 +336,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Krono:
 
 ::: details
-[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Krono/Path-of-Titans-Krono)|[Others](#)
+[Modder Discord](#)|[Curve Overrides Link](../../Guides/Curve%20Overrides/Modded%20Dinosaurs/Krono/index)|[Others](#)
 :::
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
@@ -348,37 +348,37 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## Mod Maps:
 
-|Mod Name:|Mod ID:|Discord Link|
-|------------------|---------------------|:-----------------------------------:|
-|Avernus|`UGC_M_K5G0ZN10PN_SK`|[Link](https://discord.gg/hhZnYsPT)|
-|StoneclawHighlands|`UGC_M_QM57NW7D3P_SK`|[Link](#)|
-|Teutonia|`UGC_M_RD1EPJ9EXG_SK`|[Link](#)|
-|TheGrimExpanse|`UGC_M_DYV7XYEGX2_SK`|[Link](#)|
-|NewEra|`UGC_M_43G06350NR_SK`|[Link](#)|
-|Jangwa|`UGC_M_5XN7VN2EPZ_SK`|[Link](#)|
-|Infinita|`UGC_M_JG1E9WXEQN_SK`|[Link](#)|
-|Etis|`UGC_M_N597DNPEWQ_SK`|[Link](#)|
-|CeruleanIsland|`UGC_M_YNR73P081V_SK`|[Link](#)|
-|Aedis|`UGC_M_NZK0J6M712_SK`|[Link](#)|
-|Paragon|`UGC_M_YZKE4MK09W_SK`|[Link](#)|
-|Savanna|`UGC_M_RD10PRZEXG_SK`|[Link](https://discord.gg/ynQzQJJexq)|
+| Mod Name:          | Mod ID:               |             Discord Link              |
+| ------------------ | --------------------- | :-----------------------------------: |
+| Avernus            | `UGC_M_K5G0ZN10PN_SK` |  [Link](https://discord.gg/hhZnYsPT)  |
+| StoneclawHighlands | `UGC_M_QM57NW7D3P_SK` |               [Link](#)               |
+| Teutonia           | `UGC_M_RD1EPJ9EXG_SK` |               [Link](#)               |
+| TheGrimExpanse     | `UGC_M_DYV7XYEGX2_SK` |               [Link](#)               |
+| NewEra             | `UGC_M_43G06350NR_SK` |               [Link](#)               |
+| Jangwa             | `UGC_M_5XN7VN2EPZ_SK` |               [Link](#)               |
+| Infinita           | `UGC_M_JG1E9WXEQN_SK` |               [Link](#)               |
+| Etis               | `UGC_M_N597DNPEWQ_SK` |               [Link](#)               |
+| CeruleanIsland     | `UGC_M_YNR73P081V_SK` |               [Link](#)               |
+| Aedis              | `UGC_M_NZK0J6M712_SK` |               [Link](#)               |
+| Paragon            | `UGC_M_YZKE4MK09W_SK` |               [Link](#)               |
+| Savanna            | `UGC_M_RD10PRZEXG_SK` | [Link](https://discord.gg/ynQzQJJexq) |
 
 ## Skin Packs & Others:
 
-|Mod Name:|Mod ID:|Discord Link|
-|---------------------------------|---------------------|:----------:|
-|Ordinary Prehistoric Skin Mod|`UGC_M_Y250G4KEVZ_SK`|[Link](#)|
-|IoA Realism Skins|`UGC_M_12G0WJNEWK_SK`|[Link](#)|
-|Isle of Asylum Skins|`UGC_M_N2R01R03DQ_SK`|[Link](#)|
-|Radical Rocks|`UGC_M_YZK74KD09W_SK`|[Link](#)|
-|Rainbow Dinos|`UGC_M_6YJ023758N_SK`|[Link](#)|
-|Simple Skins|`UGC_M_N59EDWP0WQ_SK`|[Link](#)|
-|CMIPlus|`UGC_M_63475MJ78W_SK`|[Link](#)|
-|Crazy Items|`UGC_M_K5G0ZGQEPN_SK`|[Link](#)|
-|Diet Mod|`UGC_M_12G7WQN7WK_SK`|[Link](#)|
-|The Jurassic Savannah Skins [TJS]|`UGC_M_43GE695ENR_SK`|[Link](#)|
-|Arazoa Creator|`UGC_M_43G06W60NR_SK`|[Link](#)|
-|Veneer|`UGC_M_YZK743K09W_SK`|[Link](#)|
+| Mod Name:                         | Mod ID:               | Discord Link |
+| --------------------------------- | --------------------- | :----------: |
+| Ordinary Prehistoric Skin Mod     | `UGC_M_Y250G4KEVZ_SK` |  [Link](#)   |
+| IoA Realism Skins                 | `UGC_M_12G0WJNEWK_SK` |  [Link](#)   |
+| Isle of Asylum Skins              | `UGC_M_N2R01R03DQ_SK` |  [Link](#)   |
+| Radical Rocks                     | `UGC_M_YZK74KD09W_SK` |  [Link](#)   |
+| Rainbow Dinos                     | `UGC_M_6YJ023758N_SK` |  [Link](#)   |
+| Simple Skins                      | `UGC_M_N59EDWP0WQ_SK` |  [Link](#)   |
+| CMIPlus                           | `UGC_M_63475MJ78W_SK` |  [Link](#)   |
+| Crazy Items                       | `UGC_M_K5G0ZGQEPN_SK` |  [Link](#)   |
+| Diet Mod                          | `UGC_M_12G7WQN7WK_SK` |  [Link](#)   |
+| The Jurassic Savannah Skins [TJS] | `UGC_M_43GE695ENR_SK` |  [Link](#)   |
+| Arazoa Creator                    | `UGC_M_43G06W60NR_SK` |  [Link](#)   |
+| Veneer                            | `UGC_M_YZK743K09W_SK` |  [Link](#)   |
 
 ::: info LAST UPDATED
 <span style="color: #ffd369;">07-07-2024 by Mike</span>

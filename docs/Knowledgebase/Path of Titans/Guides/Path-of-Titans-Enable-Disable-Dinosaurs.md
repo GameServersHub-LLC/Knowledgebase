@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
   - - meta
     - name: keywords
       content: Path Of Titans
@@ -33,7 +33,7 @@ You must use the format `AllowedCharacters=DinosaurName` where `DinosaurNam`e is
 
 Or if you want to disable specific dinosaurs, you can use the format `DisallowedCharacters=DinosaurName` where `DinosaurName` is the name of the dinosaur you want to disable.
 
-For modded dinosaurs, [here the list of all names](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Path-of-Titans-Dino-CO) `added`
+For modded dinosaurs, [here the list of all names](../Guides/Curve%20Overrides/Modded%20Dinosaurs/index) `added`
 
 ## Example Game.ini
 
