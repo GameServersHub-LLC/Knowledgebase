@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
   - - meta
     - name: keywords
       content: Path Of Titans
@@ -13,9 +13,9 @@ title: Delete Databases
 
 If you want to delete the database of saved character and downloaded mods on your server, follow this tutorial. Please make sure you keep a backup of these files in case you want to restore your saved characters/mods. To make a backup, simply copy these folders to a secure location elsewhere. If you want to restore these files, move the folders back into their correct locations.
 
-:: warning
+::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
-::
+:::
 
 Resetting / deleting the database is a two-step process. You have to delete the database cache, then delete the save games. The order of these steps is not important.
 

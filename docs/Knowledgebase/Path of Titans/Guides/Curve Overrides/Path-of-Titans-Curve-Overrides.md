@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
   - - meta
     - name: keywords
       content: Path Of Titans
@@ -28,9 +28,9 @@ To edit dinosaur stats, you must edit the `Game.ini` file. You can find this fil
 ## Editing Dinosaur Stats
 
 ::: details Here a list for all Alderon Dinos & Mod Dinos
-[Alderon Dinos](./Alderons/Path-of-Titans-Alderon-CO)
+[Alderon Dinos](./Alderons/index)
 
-[Mod Dinos](./Modded%20Dinosaurs/Path-of-Titans-Dino-CO)
+[Mod Dinos](./Modded%20Dinosaurs/index)
 
 These listed are the default vaules curve overrides.
 :::
