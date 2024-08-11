@@ -24,7 +24,7 @@ features:
       }
     title: Path Of Titans Guides
     details: Embark on epic quests in the central and eastern zones of Gondwa, and strive to become the best.
-    link: "./Knowledgebase/Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Install-Mods"
+    link: "./Path of Titans/Setup/Server Configurations/Path-of-Titans-How-To-Install-Mods"
   - icon:
       {
         src: /Rust - 667x260.webp,
@@ -44,7 +44,7 @@ features:
       }
     title: Palworld Guides
     details: Fight, farm, build and work alongside mysterious creatures called “Pals” open world survival and crafting game!
-    link: "/Knowledgebase/Palworld/palworld-server-settings"
+    link: "./Palworld/palworld-server-settings"
   - icon:
       {
         src: /7 Days To Die - 667x260.webp,
