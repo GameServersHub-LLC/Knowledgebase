@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: description
-      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+      content: Explore GameServersHub's Gaming Wiki for in-depth info on Palworld. Discover details on gameplay, features, and updates for the ultimate creature-collecting adventure!
   - - meta
     - name: keywords
       content: Palworld
