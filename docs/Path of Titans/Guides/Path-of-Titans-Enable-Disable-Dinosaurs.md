@@ -29,11 +29,11 @@ To enable/disable dinosaurs you must edit the `Game.ini` file on your server, an
 
 Dinosaur names for the `AllowedCharacters` are spelled exactly the same as seen in-game. For example: `Albertaceratops`, `Tyrannosaurus`, `Latenivenatrix` etc. For a full list of all the dinosaurs you can enable, please open the game and view them in the character creation menu.
 
-You must use the format `AllowedCharacters=DinosaurName` where `DinosaurNam`e is the name of the dinosaur you want to enable.
+You must use the format `AllowedCharacters=DinosaurName` where `DinosaurName` is the name of the dinosaur you want to enable.
 
 Or if you want to disable specific dinosaurs, you can use the format `DisallowedCharacters=DinosaurName` where `DinosaurName` is the name of the dinosaur you want to disable.
 
-For modded dinosaurs, [here the list of all names](../Guides/Curve%20Overrides/Modded%20Dinosaurs/index) `added`
+For modded dinosaurs, [here the list of all names](../Guides/Curve%20Overrides/Modded%20Dinosaurs/index)
 
 ## Example Game.ini
 
