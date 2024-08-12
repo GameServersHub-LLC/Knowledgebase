@@ -41,14 +41,6 @@ Under the `[/Script/PathOfTitans.IGameSession]` header, add the line `ServerMap=
 Certain mods may disrupt the functioning of the custom map. Include only the custom map mod ID in the GameUserSettings.ini config, and specify the exact file name of the custom map for the server map config variable in the Game.ini file. Test it in-game to make sure it works. Then, add each mod individually, testing each time to ensure the custom map still loads.
 :::
 
----
-
-# Path of Titans All Dino Mods ID's, and `Game.ini` names are listed below:
-
-::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
-:::
-
 ## Absentia:
 
 ::: details
@@ -102,10 +94,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Mod Name:|Mod ID:|Game.ini Name:|
 |-|-|-|
 |Xiphactinus|`UGC_M_6YJ72ZYE58_SK`|`ArazoaXiph`|
-
-::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
-:::
 
 ## Asylum:
 
@@ -192,10 +180,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |Velocciraptor|`UGC_M_43G069Q0NR_SK`|`Velocciraptor`|
 |Zhuchengtyrannus|`UGC_M_6GW0YYP03Z_SK`|`DivineZhuch`|
 
-::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
-:::
-
 ## Feilong:
 
 ::: details
@@ -272,10 +256,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |-|-|-|
 |Susecdurus|`UGC_M_W6108317MD_SK`|`Susecdurus`|
 
-::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
-:::
-
 ## KTO:
 
 ::: details
@@ -342,10 +322,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |-|-|-|
 |Bloop|`UGC_M_VJKEM8KER3_SK`|`Bloop`|
 
-::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
-:::
-
 ## Mod Maps:
 
 | Mod Name:          | Mod ID:               |             Discord Link              |
@@ -379,10 +355,6 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | The Jurassic Savannah Skins [TJS] | `UGC_M_43GE695ENR_SK` |  [Link](#)   |
 | Arazoa Creator                    | `UGC_M_43G06W60NR_SK` |  [Link](#)   |
 | Veneer                            | `UGC_M_YZK743K09W_SK` |  [Link](#)   |
-
-::: info LAST UPDATED
-<span style="color: #ffd369;">07-07-2024 by Mike</span>
-:::
 
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
