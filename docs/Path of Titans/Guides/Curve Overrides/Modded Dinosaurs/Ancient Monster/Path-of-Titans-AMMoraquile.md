@@ -1,6 +1,16 @@
+---
+head:
+  - - meta
+    - name: description
+      content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+  - - meta
+    - name: keywords
+      content: Path Of Titans
+title: AMMoraquile
+---
 # AMMoraquile
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-11-2024 by Mike</span>
+<span style="color: #ffd369;">08-12-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -14,9 +24,9 @@ Listed below are the default stats for the following creature:`AMMoraquile`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(200,250,300,400,600))
+Core.MaxHealth",Values=(200,200,400,600,800))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(250,1000,2100,3200,4100))
+Core.CombatWeight",Values=(450,1200,2500,3500,5000))
 Core.Armor",Values=(0.1,0.3,0.6,0.8,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(2,1.5,1.25,1,1))
@@ -45,7 +55,7 @@ Core.OxygenDamage",Values=(6,6,6,6,6))
 Core.PoisonDamage",Values=(6,6,6,6,6))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
-Core.HealthRecoveryRate",Values=(1.67,1.32,1.2,1.15,0.83))
+Core.HealthRecoveryRate",Values=(1.67,1.05,0.95,0.75,0.65))
 Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.7,0.4))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(4000,4000,4000,4000,4000))
@@ -71,13 +81,13 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-11-2024 by Mike</span>
+<span style="color: #ffd369;">08-12-2024 by Mike</span>
 :::
 
 ## Multipliers:
 ```cs
-Multiplier.HealthRecovery.Resting",Values=(2,2,2,2,2))
-Multiplier.HealthRecovery.Sleeping",Values=(4,4,4,4,4))
+Multiplier.HealthRecovery.Resting",Values=(1.5,1.5,1.5,1.5,1.5))
+Multiplier.HealthRecovery.Sleeping",Values=(3,3,3,3,3))
 Multiplier.HealthRecovery.Standing",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.Walking",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.Trotting",Values=(1,1,1,1,1))
@@ -425,7 +435,7 @@ Multiplier.StatHunter.FallDeathSpeed",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-11-2024 by Mike</span>
+<span style="color: #ffd369;">08-12-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -443,9 +453,9 @@ StaminaFastSwimCostPerSecond",Values=(0.1,0.1,0.25,1,3))
 StaminaDiveCostPerSecond",Values=(1,1,1,1,1))
 StaminaFastDiveCostPerSecond",Values=(2,2,2,2,2))
 StaminaTrotDiveCostPerSecond",Values=(1.5,1.5,1.5,1.5,1.5))
-StaminaJumpCost",Values=(2,2,2,2,2))
-StaminaFlyCostPerSecond",Values=(2,1,0.75,0.5,0.25))
-StaminaFastFlyCostPerSecond",Values=(2.5,2,1.5,1,0.5))
+StaminaJumpCost",Values=(5,5,5,5,5))
+StaminaFlyCostPerSecond",Values=(2,1,0.75,0.5,0))
+StaminaFastFlyCostPerSecond",Values=(2.5,2,1.5,1,0.65))
 StaminaLatchCostPerSecond",Values=(1,1,1,1,1))
 BreachStaminaCost",Values=(15,15,12,10,9))
 BreachCooldown",Values=(35,35,30,25,25))
@@ -457,11 +467,11 @@ AirKickBoneBreakChance",Values=(0,0,0.01,0.03,0.05))
 AirKickBleedAmount",Values=(0.25,0.25,0.25,0.25,0.25))
 AirKickCooldown",Values=(10,10,10,10,10))
 AirKickStaminaCost",Values=(5,5,5,5,5))
-AirKickCarryStaminaCost",Values=(0.5,0.5,0.5,0.5,0.5))
-WingStabDamage",Values=(50,50,50,50,50))
+AirKickCarryStaminaCost",Values=(0.2,0.2,0.2,0.2,0.2))
+WingStabDamage",Values=(5,5,5,5,5))
 WingStabBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
 WingStabCooldown",Values=(5,5,5,5,5))
-WingStabStaminaCost",Values=(0,0,0,0,0))
+WingStabStaminaCost",Values=(5,5,5,5,5))
 SheildWingMultiplier",Values=(0.1,0.1,0.1,0.1,0.1))
 SheildWingStaminaCost",Values=(10,10,10,10,10))
 SheildWingDuration",Values=(2.5,2.5,2.5,2.5,2.5))
@@ -484,13 +494,13 @@ SenseSolarWingSpeedIncrease",Values=(1.25,1.25,1.25,1.25,1.25))
 SenseSolarWingStamineDrain",Values=(0.5,0.5,0.5,0.5,0.5))
 SenseNightHunterStaminaRecovery",Values=(1.5,1.5,1.5,1.5,1.5))
 SenseLoneHunterAttackDamage",Values=(1.1,1.1,1.1,1.1,1.1))
-SavageRipoffDamage",Values=(80,80,80,80,80))
+SavageRipoffDamage",Values=(2,2,2,2,2))
 SavageRipoffBoneBreakChance",Values=(0,0,0,0,0))
 SavageRipoffBleedAmount",Values=(0,0,0,0,0))
 SavageRipoffCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 SavageRipoffStaminaCost",Values=(2,2,2,2,2))
-SavageRipoffCarryStaminaCost",Values=(0.1,0.1,0.1,0.1,0.1))
-RippingBiteDamage",Values=(100,100,100,100,100))
+SavageRipoffCarryStaminaCost",Values=(0.5,0.5,0.5,0.5,0.5))
+RippingBiteDamage",Values=(85,85,85,85,85))
 RippingBiteCooldown",Values=(8,8,8,8,8))
 RippingBiteStaminaCost",Values=(0,0,0,0,0))
 KingoftheSkyDebuffs",Values=(0.9,0.9,0.9,0.9,0.9))
@@ -525,7 +535,7 @@ BeakClackCost",Values=(0,0,0,0,0))
 BeakClackImmunityDuration",Values=(3,3,3,3,3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-11-2024 by Mike</span>
+<span style="color: #ffd369;">08-12-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
