@@ -19,6 +19,38 @@ The server must be stopped while editing server files. You must save your edits 
 
 It would help if you listed every mod you plan to use in the `GameUserSettings.ini` file.
 
+Path:
+
+<ul class="breadcrumbs" data-v-1536bbb2="">
+<!--[-->
+<li class="first" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Config
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
+</span>
+</li>
+<li class="last" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-file" data-v-1536bbb2=""></i> GameUserSettings.ini
+</span>
+</li>
+<!--]-->
+</ul>
+
 Under the `[PathOfTitans.Mods]` header, add the lines:
 
 `EnabledMods=UGC_M_DYV7XYEGX2_SK` - where `UGC_M_DYV7XYEGX2_SK` represents the Mod ID you wish to enable on your server. This unique MOD ID will prompt the mod to be downloaded and enabled upon server restart. You can add more lines to enable multiple mods simultaneously.

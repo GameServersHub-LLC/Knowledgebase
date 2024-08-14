@@ -25,7 +25,35 @@ Each option must be on its own line or else they will not work. The options migh
 
 You can find your `Game.ini` file in the following location:
 
-**`PathofTitans/Saved/Config/LinuxServer/Game.ini`**
+<ul class="breadcrumbs" data-v-1536bbb2="">
+<!--[-->
+<li class="first" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Config
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
+</span>
+</li>
+<li class="last" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini
+</span>
+</li>
+<!--]-->
+</ul>
 
 ## Creating Discord Webhooks
 
