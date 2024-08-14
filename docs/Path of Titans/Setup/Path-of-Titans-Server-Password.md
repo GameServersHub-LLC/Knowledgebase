@@ -23,7 +23,35 @@ The server must be stopped while editing server files. You must save your edits 
 
 To add a password you must add the `ServerPassword` line in your `Game.ini` file, under the `[/Script/PathOfTitans.IGameSession]` header. You can find this file in the following location:
 
-`PathofTitans/Saved/Config/LinuxServer/Game.ini`
+<ul class="breadcrumbs" data-v-1536bbb2="">
+<!--[-->
+<li class="first" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Config
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
+</span>
+</li>
+<li class="last" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini
+</span>
+</li>
+<!--]-->
+</ul>
 
 ::: info
 `LinuxServer` is the folder name for Linux servers. If you are using a different operating system, the folder name will be different but the other folders will be the same.

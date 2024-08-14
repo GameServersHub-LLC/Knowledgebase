@@ -20,12 +20,15 @@ title: Game INI Configs
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
 :::
+
 Editing your configuration files using the official GameServersHub admin dashboard is easy. Follow the steps below to edit your configuration files efficiently.
 
 1. Open the `File Managers` tab inside your admin dashboard.
 2. Head to `PathOfTitans/Saved/Config/LinuxServer` and open the `Game.ini` file.
 3. Make the edits and click `Save Content`; then, you can safely restart your game server to apply the changes.
    Below you'll find a list of references of what each **Game.ini** value represents, and the best strategy to edit them is given in context.
+
+Path:
 
 <ul class="breadcrumbs" data-v-1536bbb2="">
 <!--[-->

@@ -23,7 +23,25 @@ Resetting / deleting the database is a two-step process. You have to delete the 
 
 Path:
 
-`PathofTitans/Saved/DataBaseCache`
+<ul class="breadcrumbs" data-v-1536bbb2="">
+<!--[-->
+<li class="first" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+</span>
+</li>
+<li class="" data-v-1536bbb2="">
+<span data-v-1536bbb2="">
+<i class="fas fa-folder" data-v-1536bbb2=""></i> DataBaseCache
+</span>
+</li>
+<!--]-->
+</ul>
 
 Delete this `DatabaseCache` folder.
 
