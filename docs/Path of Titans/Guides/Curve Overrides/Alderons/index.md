@@ -59,6 +59,10 @@ Here you will find a full list of all Alderon creatures curve overrides with def
 
 ### [Metriacanthosaurus](./Path-of-Titans-Metriacanthosaurus)
 
+### [Microraptor](./Path-of-Titans-Microraptor)
+
+### [Miragaia](./Path-of-Titans-Miragaia)
+
 ### [Pachycephalosaurus](./Path-of-Titans-Pachycephalosaurus)
 
 ### [Pycnonemosaurus](./Path-of-Titans-Pycnonemosaurus)
