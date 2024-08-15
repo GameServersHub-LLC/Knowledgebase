@@ -10,7 +10,7 @@ title: Pachycephalosaurus
 ---
 # Pachycephalosaurus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -26,7 +26,7 @@ Listed below are the default stats for the following creature:`Pachycephalosauru
 ```cs
 Core.MaxHealth",Values=(100,200,300,400,500))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(300,750,1100,1400,1600))
+Core.CombatWeight",Values=(300,750,1300,1700,2000))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -86,7 +86,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -294,7 +294,7 @@ Multiplier.SpeedySubSpecies.JumpForceMultiplier",Values=(1.25,1.25,1.25,1.25,1.2
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -310,14 +310,14 @@ StaminaFastSwimCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaFastDiveCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaJumpCost",Values=(5,5,5,5,5))
-HeadbuttDamage",Values=(20,20,30,40,50))
+HeadbuttDamage",Values=(20,30,40,50,60))
 HeadbuttBoneBreakChance",Values=(0,0,0,0,0))
 HeadbuttBleedAmount",Values=(0,0,0,0,0))
 HeadbuttCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 HeadbuttStaminaCost",Values=(0,0,0,0,0))
 ChargeSpeedIncrease",Values=(400,700,1000,1200,1500))
 ChargeCost",Values=(20,20,20,20,20))
-ChargeDamage",Values=(40,40,40,40,40))
+ChargeDamage",Values=(100,100,100,100,100))
 ChargeCooldown",Values=(15,15,15,15,15))
 ChargeDuration",Values=(10,10,10,10,10))
 ChargeAccelerationIncrease",Values=(1.5,1.5,1.5,1.5,1.5))
@@ -344,7 +344,7 @@ LeapFallHeight",Values=(1.5,1.5,1.5,1.5,1.5))
 LongDistanceRunnerStamina",Values=(0.85,0.85,0.85,0.85,0.85))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
