@@ -16,4 +16,4 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 [Discord Link](#)
 
 ## Acrocanthosaurus
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1080/conversions/Absentiaicon4-icon.jpg "Acrocanthosaurus")](./Path-of-Titans-AbsentiaAcro)
+<a href='./Path-of-Titans-AbsentiaAcro' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1080/conversions/Absentiaicon4-icon.jpg' /> </a>
