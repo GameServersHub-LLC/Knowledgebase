@@ -10,7 +10,7 @@ title: Kentrosaurus
 ---
 # Kentrosaurus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +293,7 @@ Multiplier.SpeedySubSpecies.SpikesDamage",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -354,12 +354,53 @@ LoneSurvivorTurnRadius",Values=(1.05,1.05,1.05,1.05,1.05))
 VaultHeight",Values=(0,0,0.7,1.1,1.1))
 VaultFallDeathSpeed",Values=(1.15,1.15,1.15,1.15,1.15))
 ShoulderCheckDamage",Values=(10,15,15,15,20))
+ShoulderCheckBleedDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 ShoulderCheckSpeed",Values=(200,200,200,200,200))
 ShoulderCheckCooldown",Values=(5,5,5,5,5))
 ShoulderCheckCost",Values=(5,5,5,5,5))
+CounterTurnBuffDuration",Values=(20,20,20,20,20))
+CounterTurnBuffTurnRadiusMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
+CounterTurnCooldown",Values=(180,180,180,180,180))
+DetonateDamage",Values=(15,15,15,15,15))
+DetonateCooldown",Values=(8,8,8,8,8))
+DetonateCost",Values=(1,1,1,1,1))
+DetonateStatusDamageRatio",Values=(100,100,100,100,100))
+DetonateCombatWeightThresholdDivider",Values=(4000,4000,4000,4000,4000))
+DetonateMinimumRatioMultiplier",Values=(0.25,0.25,0.25,0.25,0.25))
+DetonateMaximumRatioMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
+DetonateBleedingMultiplier",Values=(1,1,1,1,1))
+DetonateRadius",Values=(300,300,300,300,300))
+BracedLegsFallDamageReduction",Values=(1.1,1.1,1.1,1.1,1.1))
+ThickHornsHealthRecoveryBuff",Values=(0.5,0.5,0.5,0.5,0.5))
+ResilientSpikesBleedingHealRateMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
+ResilientSpikesLegHealRateMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
+ResilientSpikesVenomHealRateMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
+ResilientSpikesPoisonHealRateMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
+ResilientSpikesToxinHealRateMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
+FreshBloodBuffDamageMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
+FreshBloodBuffDuration",Values=(3,3,3,3,3))
+FreshBloodSearchRange",Values=(5000,5000,5000,5000,5000))
+FreshBloodCheckTargetIntervalTimer",Values=(1,1,1,1,1))
+BloodlustDamageMutliplier",Values=(0.75,0.75,0.75,0.75,0.75))
+BloodlustBleedMultiplier",Values=(1.25,1.25,1.25,1.25,1.25))
+PunctureDebuffDuration",Values=(60,60,60,60,60))
+PunctureDebuffBleedingAmountMutliplier",Values=(1.05,1.05,1.05,1.05,1.05))
+PunctureDebuffVenomAmountMutliplier",Values=(1.05,1.05,1.05,1.05,1.05))
+PunctureSpentPunctureDuration",Values=(60,60,60,60,60))
+PunctureSpentPunctureAttackDamageDebuff",Values=(0.05,0.05,0.05,0.05,0.05))
+PunctureCost",Values=(0,0,0,0,0))
+PunctureCooldown",Values=(0,0,0,0,0))
+RegenerativeSpikesDurationMultiplier",Values=(0.75,0.75,0.75,0.75,0.75))
+RegenerativeSpikesMaximumHealthDebuff",Values=(0.1,0.1,0.1,0.1,0.1))
+JukeCooldown",Values=(10,10,10,10,10))
+JukeCost",Values=(5,5,5,5,5))
+SpitRange",Values=(500,500,500,500,500))
+SpitCost",Values=(5,5,5,5,5))
+SpitCooldown",Values=(60,60,60,60,60))
+SpitHalfAngle",Values=(45,45,45,45,45))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

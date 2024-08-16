@@ -10,7 +10,7 @@ title: Albertaceratops
 ---
 # Albertaceratops
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -60,7 +60,7 @@ Core.ThirstDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 Core.OxygenDamage",Values=(6,6,6,6,6))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
-Core.HealthRecoveryRate",Values=(0.83,0.96,1.03,1.06,1.08))
+Core.HealthRecoveryRate",Values=(1.08,1.2,1.3,1.4,1.5))
 Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.8,0.6))
 Core.JumpForceMultiplier",Values=(1,1.3,1,0,0))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +293,7 @@ Multiplier.SpeedySubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.StandardSubSpecies.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -302,7 +302,7 @@ BiteDamage",Values=(30,30,30,30,30))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 BiteBleedAmount",Values=(0.2,0.2,0.2,0.2,0.2))
-HeadbuttDamage",Values=(20,25,30,40,40))
+HeadbuttDamage",Values=(20,25,30,40,45))
 HeadbuttBoneBreakChance",Values=(0,0,0.01,0.03,0.05))
 HeadbuttCooldown",Values=(1.25,1.25,1.25,1.25,1.25))
 HeadbuttBleedAmount",Values=(0,0,0,0,0))
@@ -317,17 +317,17 @@ ChargeCooldown",Values=(30,30,30,30,30))
 ChargeCost",Values=(20,20,20,20,20))
 ChargeDamage",Values=(120,120,120,120,120))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond",Values=(0.4,0.5,0.6,0.7,0.8))
+StaminaSprintCostPerSecond",Values=(0.4,0.6,0.8,1,1.2))
 StaminaSwimgCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaFastSwimCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaFastDiveCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaJumpCost",Values=(5,5,5,5,5))
-HeadSlamDamage",Values=(60,60,60,60,60))
+HeadSlamDamage",Values=(75,75,75,75,75))
 HeadSlamBoneBreakChance",Values=(0,0,0,0,0))
 HeadSlamBleedAmount",Values=(0,0,0,0,0))
 HeadSlamCooldown",Values=(2,2,2,2,2))
-HeadSlamStaminaCost",Values=(5,5,5,5,5))
+HeadSlamStaminaCost",Values=(3,3,3,3,3))
 BackKickDamage",Values=(70,70,70,70,70))
 BackKickBoneBreakChance",Values=(0,0,0,0,0))
 BackKickBleedAmount",Values=(0,0,0,0,0))
@@ -336,7 +336,7 @@ BackKickStaminaCost",Values=(7,7,7,7,7))
 BackKickSpeedIncrease",Values=(200,200,200,200,200))
 VaultHeight",Values=(0,0.2,2,1.7,1.5))
 VaultFallDeathSpeed",Values=(1.15,1.15,1.15,1.15,1.15))
-StompDamage",Values=(30,40,50,55,60))
+StompDamage",Values=(70,70,70,70,70))
 StompCooldown",Values=(3,3,3,3,3))
 StompStaminaCost",Values=(10,10,10,10,10))
 StompRadius",Values=(50,100,150,250,350))
@@ -359,7 +359,7 @@ EnrageCooldown",Values=(80,80,80,80,80))
 EnrageStaminaCost",Values=(5,5,5,5,5))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
