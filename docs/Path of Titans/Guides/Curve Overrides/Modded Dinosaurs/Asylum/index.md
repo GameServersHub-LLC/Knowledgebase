@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Cougar](./Path-of-Titans-AsylumCougar)
+## [Cougar](./Path-of-Titans-AsylumCougar)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/856/conversions/2023_April_KaiModIcons_ModIcon-icon.jpg "AsylumCougar")](./Path-of-Titans-AsylumCougar)

@@ -13,6 +13,8 @@ title: Camarasaurus
 <span style="color: #ffd369;">08-15-2024 by Mike</span>
 :::
 
+![Path Of Titans](https://web-cdn.alderongames.com/files/945/conversions/AGCCamara_Cover2-icon.jpg "Camarasaurus")
+
 > [!IMPORTANT]
 >Please be sure to add `CurveOverrides=(CurveName="Camarasaurus.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
 

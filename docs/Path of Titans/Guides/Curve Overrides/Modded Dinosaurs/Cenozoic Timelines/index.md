@@ -15,8 +15,7 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
+## [Andrewsarchus](./Path-of-Titans-CTAndrewsarchus)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/901/conversions/Andrewsarchus-Mod-Icon-icon.jpg "CTAndrewsarchus")](./Path-of-Titans-CTAndrewsarchus)
 
-### [Andrewsarchus](./Path-of-Titans-CTAndrewsarchus)
-
-### [Ankylorhiza](./Path-of-Titans-CTAnkylorhiza)
+## [Ankylorhiza](./Path-of-Titans-CTAnkylorhiza)

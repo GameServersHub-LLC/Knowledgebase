@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Acrocanthosaurus](./Path-of-Titans-AbsentiaAcro)
+## Acrocanthosaurus
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1080/conversions/Absentiaicon4-icon.jpg "Acrocanthosaurus")](./Path-of-Titans-AbsentiaAcro)

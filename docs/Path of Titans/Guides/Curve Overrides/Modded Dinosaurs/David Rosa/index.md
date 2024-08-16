@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Kaprosuchus](./Path-of-Titans-DavidKaproNew)
+## [Kaprosuchus](./Path-of-Titans-DavidKaproNew)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1081/conversions/DavidRosaKrpo-icon.jpg "DavidKaproNew")](./Path-of-Titans-DavidKaproNew)

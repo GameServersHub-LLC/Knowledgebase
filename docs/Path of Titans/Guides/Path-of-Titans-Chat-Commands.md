@@ -117,7 +117,7 @@ Please only give these permissions to a role/user that you can trust. You will b
 |/WaterQuality [tag] [0-100%]|`/waterquality swampyreservoir 50`|+Permission=waterquality|:heavy_check_mark:|Sets the water body of the tag specified to a percentage quality.|
 |/WaystoneCooldown [tag] [0-100%]|`/waystonecooldown centralwaystone 50`|+Permission=waystonecooldown|:heavy_check_mark:|Sets the waystone of the tag specified to a percentage cooldown remaining.|
 |/PlayerInfo [username/AGID]|`/playerinfo 123-456-789`|+Permission=playerinfo|:heavy_check_mark:|Shows player info.|
-|/ServerMute [username/AGID] [time] [admin reason] [user reason]|`/servermute 123-456-789 20m 'reason for admin' 'reason for player'|+Permission=servermute|:heavy_check_mark:|Mutes a player server-wide. Time is specified in minutes, hours, or days. e.g., 20m, 4h, or 1d. If 0 is given for time, it will be forever.|
+|/ServerMute [username/AGID] [time] [admin reason] [user reason]|`/servermute 123-456-789 20m 'reason for admin' 'reason for player'`|+Permission=servermute|:heavy_check_mark:|Mutes a player server-wide. Time is specified in minutes, hours, or days. e.g., 20m, 4h, or 1d. If 0 is given for time, it will be forever.|
 |/ServerUnmute [username/AGID]|`/serverunmute 123-456-789`|+Permission=serverunmute|:heavy_check_mark:|Removes a server-wide mute for a player.|
 |/Whitelist [username/AGID]|`/whitelist 123-456-789`|+Permission=whitelist|:heavy_check_mark:|Adds a player to the whitelist for the server.|
 |/DelWhitelist [username/AGID]|`/delwhitelist 123-456-789`|+Permission=delwhitelist|:heavy_check_mark:|Removes a player from the server whitelist.|

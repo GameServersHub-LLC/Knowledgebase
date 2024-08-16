@@ -15,20 +15,24 @@ The Ancient Monster Mod team is a Modding group dedicated to bring speculative e
 
 [Discord Link](https://discord.gg/WyqmaNqPKb)
 
-## Current Mods
-
-### [Cerataspida](./Path-of-Titans-AMCerataspida)
+## Cerataspida
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1186/conversions/Cerata_modpage-icon.jpg "Cerataspida")](./Path-of-Titans-AMCerataspida)
 
 <!-- ### [Dankanaptera](#) -->
 
-### [Gigamandra](./Path-of-Titans-Gigamandra)
+## [Gigamandra](./Path-of-Titans-Gigamandra)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1083/conversions/Gigamandra_Modpage-icon.jpg "Gigamandra")](./Path-of-Titans-Gigamandra)
 
-### [Golugore](./Path-of-Titans-Golugore)
+## [Golugore](./Path-of-Titans-Golugore)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/822/conversions/Golugore_icon-icon.jpg "Golugore")](./Path-of-Titans-Golugore)
 
 <!-- ### [Madrehorn](#) -->
 
-### [Moraquile](./Path-of-Titans-AMMoraquile)
+## [Moraquile](./Path-of-Titans-AMMoraquile)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/892/conversions/Moraquile_icon-icon.jpg "AMMoraquile")](./Path-of-Titans-AMMoraquile)
 
-### [Thalasrex](./Path-of-Titans-AMThalasrex)
+## [Thalasrex](./Path-of-Titans-AMThalasrex)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1104/conversions/thalasrex_modpage-icon.jpg "AMThalasrex")](./Path-of-Titans-AMThalasrex)
 
-### [Docjay Creation Dryptosaurus](./Path-of-Titans-DJCDryptosaurus)
+## [Docjay Creation Dryptosaurus](./Path-of-Titans-DJCDryptosaurus)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/963/conversions/modpageicon-icon.jpg "DJCDryptosaurus")](./Path-of-Titans-DJCDryptosaurus)

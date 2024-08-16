@@ -15,8 +15,7 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](https://discord.gg/vkugm46RCR)
 
-## Current Mods
-
-### [Armored Eotriceratops](./Path-of-Titans-EoTLC)
+## [Armored Eotriceratops](./Path-of-Titans-EoTLC)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1171/conversions/EoThumbnail1-icon.jpg "EoTLC")](./Path-of-Titans-EoTLC)
 
 <!-- ### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus) -->

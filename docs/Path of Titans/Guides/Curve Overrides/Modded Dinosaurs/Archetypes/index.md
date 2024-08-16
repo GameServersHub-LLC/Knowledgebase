@@ -15,9 +15,8 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Dunkleosteus](./Path-of-Titans-Dunkleosteus)
+## [Dunkleosteus](./Path-of-Titans-Dunkleosteus)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/940/conversions/dunkleicon-icon.jpg "Dunkleosteus")](./Path-of-Titans-Dunkleosteus)
 
 <!-- ### [Ocepech](#) -->
 <!-- ### [Squalicorax](#) -->
