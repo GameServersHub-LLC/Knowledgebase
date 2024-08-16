@@ -11,7 +11,7 @@ title: Default Curve Overrides
 
 # Path of Titans Alderon Default Curve Overrides
 
-Here you will find a full list of all Alderon creatures curve overrides with default vaules.
+## Here you will find a full list of all Alderon creatures curve overrides with default vaules.
 
 ### [Achillobator](./Path-of-Titans-Achillobator)
 
