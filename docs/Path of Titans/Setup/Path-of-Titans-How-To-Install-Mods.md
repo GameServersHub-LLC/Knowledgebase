@@ -357,7 +357,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Mod Maps:
 
 | Mod Name:                       | Mod ID:               |             Discord Link              | Trello Link:                                        |
-| ------------------              | --------------------- | :-----------------------------------: | --------------------------------------------------- |
+| ------------------              | --------------------- | :-----------------------------------: | :-------------------------------------------------: |
 | Avernus                         | `UGC_M_K5G0ZN10PN_SK` |  [Link](https://discord.gg/hhZnYsPT)  | [Link](#)                                           |
 | StoneclawHighlands              | `UGC_M_QM57NW7D3P_SK` |               [Link](#)               | [Link](#)                                           |
 | Teutonia                        | `UGC_M_RD1EPJ9EXG_SK` |               [Link](#)               | [Link](#)                                           |
