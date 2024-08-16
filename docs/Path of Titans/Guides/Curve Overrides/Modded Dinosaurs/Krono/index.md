@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Bloop](./Path-of-Titans-Bloop)
+## [Bloop](./Path-of-Titans-Bloop)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/998/conversions/BloopCover1-icon.jpg "Bloop")](./Path-of-Titans-Bloop)

@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Camarasaurus](./Path-of-Titans-Camarasaurus)
+## Camarasaurus
+[![Path of Titans](https://web-cdn.alderongames.com/files/945/conversions/AGCCamara_Cover2-icon.jpg "Camarasaurus")](./Path-of-Titans-Camarasaurus)

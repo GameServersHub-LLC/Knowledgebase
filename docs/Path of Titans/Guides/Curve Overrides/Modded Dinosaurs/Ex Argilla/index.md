@@ -15,18 +15,17 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
+## [Australovenator](./Path-of-Titans-ExAAustralo)
+[![alt text](https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg "ExAAustralo")](./Path-of-Titans-ExAAustralo)
 
-### [Australovenator](./Path-of-Titans-ExAAustralo)
+## [Beringia Mammuthus Columbi](./Path-of-Titans-BeringiaMammothC)
 
-### [Beringia Mammuthus Columbi](./Path-of-Titans-BeringiaMammothC)
+## [Bistahieversor](./Path-of-Titans-ExABista)
 
-### [Bistahieversor](./Path-of-Titans-ExABista)
+## [Dracoviper](./Path-of-Titans-EADracoviper)
 
-### [Dracoviper](./Path-of-Titans-EADracoviper)
+## [Smilodon](./Path-of-Titans-EASmilodon)
 
-### [Smilodon](./Path-of-Titans-EASmilodon)
+## [Griffin](./Path-of-Titans-EAGriffin)
 
-### [Griffin](./Path-of-Titans-EAGriffin)
-
-### [Nasutoceratops](./Path-of-Titans-EANasuto)
+## [Nasutoceratops](./Path-of-Titans-EANasuto)

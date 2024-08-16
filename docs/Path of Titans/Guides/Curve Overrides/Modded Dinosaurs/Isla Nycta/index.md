@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Nyctatyrannus](./Path-of-Titans-Nyctatyrannus)
+## [Nyctatyrannus](./Path-of-Titans-Nyctatyrannus)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/695/conversions/IslaNyctaModBanner_v5-icon.jpg "Nyctatyrannus")](./Path-of-Titans-Nyctatyrannus)

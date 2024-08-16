@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](https://discord.gg/tcititans)
 
-## Current Mods
-
-### [Cryolophosaurus](./Path-of-Titans-CrimsonCryo)
+## [Cryolophosaurus](./Path-of-Titans-CrimsonCryo)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/1112/conversions/TCI_Cryo_Larger_Logo-icon.jpg "CrimsonCryo")](./Path-of-Titans-CrimsonCryo)

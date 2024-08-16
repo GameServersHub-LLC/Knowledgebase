@@ -15,6 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## Current Mods
-
-### [Tenontosaurus](./Path-of-Titans-GTenontosaurus)
+## [Tenontosaurus](./Path-of-Titans-GTenontosaurus)
+[![Path Of Titans](https://web-cdn.alderongames.com/files/978/conversions/image-54-icon.jpg "GTenontosaurus")](./Path-of-Titans-GTenontosaurus)
