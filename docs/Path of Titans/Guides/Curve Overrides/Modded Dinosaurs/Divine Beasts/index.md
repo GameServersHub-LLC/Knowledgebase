@@ -15,47 +15,47 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Acrocanthosaurus](./Path-of-Titans-DivineAcroRedux)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1169/conversions/AcroReduxThumbnailDone-icon.jpg "DivineAcroRedux")](./Path-of-Titans-DivineAcroRedux)
+## Acrocanthosaurus
+<a href='./Path-of-Titans-DivineAcroRedux' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1169/conversions/AcroReduxThumbnailDone-icon.jpg' /> </a>
 
-## [Ampelosaurus](./Path-of-Titans-DivineAmp)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/849/conversions/Ampelo-Photo-icon.jpg "DivineAmp")](./Path-of-Titans-DivineAmp)
+## Ampelosaurus
+<a href='./Path-of-Titans-DivineAmp' target='_blank'> <img src='https://web-cdn.alderongames.com/files/849/conversions/Ampelo-Photo-icon.jpg' /> </a>
 
-## [Carcharodontosaurus](./Path-of-Titans-DivineCarchar)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/724/conversions/Carchar_Thumbnail-icon.jpg "DivineCarchar")](./Path-of-Titans-DivineCarchar)
+## Carcharodontosaurus
+<a href='./Path-of-Titans-DivineCarchar' target='_blank'> <img src='https://web-cdn.alderongames.com/files/724/conversions/Carchar_Thumbnail-icon.jpg' /> </a>
 
-## [Compsognathus](./Path-of-Titans-DivineCompy)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/798/conversions/Compy_Thumbnail-icon.jpg "DivineCompy")](./Path-of-Titans-DivineCompy)
+## Compsognathus
+<a href='./Path-of-Titans-DivineCompy' target='_blank'> <img src='https://web-cdn.alderongames.com/files/798/conversions/Compy_Thumbnail-icon.jpg' /> </a>
 
-## [Deinosuchus](./Path-of-Titans-DivineDeino)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/847/conversions/Deino-Photo-icon.jpg "DivineDeino")](./Path-of-Titans-DivineDeino)
+## Deinosuchus
+<a href='./Path-of-Titans-DivineDeino' target='_blank'> <img src='https://web-cdn.alderongames.com/files/847/conversions/Deino-Photo-icon.jpg' /> </a>
 
-## [Dryosaurus](./Path-of-Titans-DivineDryo)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/965/conversions/Dryo_Thumbnail-icon.jpg "DivineDryo")](./Path-of-Titans-DivineDryo)
+## Dryosaurus
+<a href='./Path-of-Titans-DivineDryo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/965/conversions/Dryo_Thumbnail-icon.jpg' /> </a>
 
-## [Edmontosaurus Annectens](./Path-of-Titans-DivineAnnectens)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/826/conversions/Annectens-photo-icon.jpg "DivineAnnectens")](./Path-of-Titans-DivineAnnectens)
+## Edmontosaurus Annectens
+<a href='./Path-of-Titans-DivineAnnectens' target='_blank'> <img src='https://web-cdn.alderongames.com/files/826/conversions/Annectens-photo-icon.jpg' /> </a>
 
-## [Edmontosaurus Regalis](./Path-of-Titans-DivineRegalis)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/829/conversions/Regalis-Photo-icon.jpg "DivineRegalis")](./Path-of-Titans-DivineRegalis)
+## Edmontosaurus Regalis
+<a href='./Path-of-Titans-DivineRegalis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/829/conversions/Regalis-Photo-icon.jpg' /> </a>
 
-## [Giganotosaurus](./Path-of-Titans-DivineGiga)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1076/conversions/giganotosaurus_photo-icon.jpg "DivineGiga")](./Path-of-Titans-DivineGiga)
+## Giganotosaurus
+<a href='./Path-of-Titans-DivineGiga' target='_blank'> <img src='https://web-cdn.alderongames.com/files/829/conversions/Regalis-Photo-icon.jpg' /> </a>
 
-## [Inostrancevia](./Path-of-Titans-DivineInos)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/934/conversions/Inostra_new_thumbnail-icon.jpg "DivineInos")](./Path-of-Titans-DivineInos)
+## Inostrancevia
+<a href='./Path-of-Titans-DivineInos' target='_blank'> <img src='https://web-cdn.alderongames.com/files/934/conversions/Inostra_new_thumbnail-icon.jpg' /> </a>
 
-## [Japanese Giant Salamander](./Path-of-Titans-TGBsalamander)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1170/conversions/Salamander_Mod_Pic_TGBM_V2-icon.jpg "TGBsalamander")](./Path-of-Titans-TGBsalamander)
+## Japanese Giant Salamander
+<a href='./Path-of-Titans-TGBsalamander' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1170/conversions/Salamander_Mod_Pic_TGBM_V2-icon.jpg' /> </a>
 
-## [Kryptops](./Path-of-Titans-CretaceousKryptops)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/852/conversions/Kryptops-photo-icon.jpg "CretaceousKryptops")](./Path-of-Titans-CretaceousKryptops)
+## Kryptops
+<a href='./Path-of-Titans-CretaceousKryptops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/852/conversions/Kryptops-photo-icon.jp' /> </a>
 
-## [Mosasaurus](./Path-of-Titans-DivineMosa)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/993/conversions/Mosasaurus_Thumbnail-icon.jpg "DivineMosa")](./Path-of-Titans-DivineMosa)
+## Mosasaurus
+<a href='./Path-of-Titans-DivineMosa' target='_blank'> <img src='https://web-cdn.alderongames.com/files/993/conversions/Mosasaurus_Thumbnail-icon.jpg' /> </a>
 
-## [VelocciRaptor](./Path-of-Titans-VelocciRaptor)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/430/conversions/Tumb-icon.jpg "VelocciRaptor")](./Path-of-Titans-VelocciRaptor)
+## VelocciRaptor
+<a href='./Path-of-Titans-VelocciRaptor' target='_blank'> <img src='https://web-cdn.alderongames.com/files/430/conversions/Tumb-icon.jpg' /> </a>
 
-## [Zhuchengtyrannus](./Path-of-Titans-DivineZhuch)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/723/conversions/Zhucheng_Thumbnail-icon.jpg "DivineZhuch")](./Path-of-Titans-DivineZhuch)
+## Zhuchengtyrannus
+<a href='./Path-of-Titans-DivineZhuch' target='_blank'> <img src='https://web-cdn.alderongames.com/files/723/conversions/Zhucheng_Thumbnail-icon.jpg' /> </a>

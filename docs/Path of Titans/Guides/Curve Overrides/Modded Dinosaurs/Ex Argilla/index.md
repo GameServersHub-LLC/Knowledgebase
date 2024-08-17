@@ -15,8 +15,8 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Australovenator](./Path-of-Titans-ExAAustralo)
-[![alt text](https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg "ExAAustralo")](./Path-of-Titans-ExAAustralo)
+## Australovenator
+<a href='./Path-of-Titans-ExAAustralo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg' /> </a>
 
 ## [Beringia Mammuthus Columbi](./Path-of-Titans-BeringiaMammothC)
 

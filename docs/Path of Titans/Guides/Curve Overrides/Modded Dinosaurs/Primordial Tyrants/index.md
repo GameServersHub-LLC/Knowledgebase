@@ -20,59 +20,59 @@ We also have our own lore! As we progress in our development we will release new
 
 [Discord Link](https://discord.gg/primordialtyrants)
 
-## [Apatosaurus](./Path-of-Titans-PTApatosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1211/conversions/PT_Apatosaurus_mod_icon-icon.jpg "PTApatosaurus")](./Path-of-Titans-PTApatosaurus)
+## Apatosaurus
+<a href='./Path-of-Titans-PTApatosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1211/conversions/PT_Apatosaurus_mod_icon-icon.jpg' /> </a>
 
-## [Argentinosaurus](./Path-of-Titans-PTArgent)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/391/conversions/PT_argent_mod_Icon-icon.jpg "PTArgent")](./Path-of-Titans-PTArgent)
+## Argentinosaurus
+<a href='./Path-of-Titans-PTArgent' target='_blank'> <img src='https://web-cdn.alderongames.com/files/391/conversions/PT_argent_mod_Icon-icon.jpg' /> </a>
 
-## [Carnotaurus](./Path-of-Titans-PTCarno)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/282/conversions/PT_carno_mod_Icon-icon.jpg "PTCarno")](./Path-of-Titans-PTCarno)
+## Carnotaurus
+<a href='./Path-of-Titans-PTCarno' target='_blank'> <img src='https://web-cdn.alderongames.com/files/282/conversions/PT_carno_mod_Icon-icon.jpg' /> </a>
 
-## [Dilophosaurus](./Path-of-Titans-PTDilophosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1243/conversions/PT_dilo_mod_icon-icon.jpg "PTDilophosaurus")](./Path-of-Titans-PTDilophosaurus)
+## Dilophosaurus
+<a href='./Path-of-Titans-PTDilophosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1243/conversions/PT_dilo_mod_icon-icon.jpg' /> </a>
 
-## [Giganotsaurus](./Path-of-Titans-PTGiga)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/862/conversions/PT_Giganoto_mod_icon-icon.jpg "PTGiga")](./Path-of-Titans-PTGiga)
+## Giganotsaurus
+<a href='./Path-of-Titans-PTGiga' target='_blank'> <img src='https://web-cdn.alderongames.com/files/862/conversions/PT_Giganoto_mod_icon-icon.jpg' /> </a>
 
-## [Kelenken](./Path-of-Titans-PTKelenken)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/949/conversions/PT_kelenken_mod_icon-icon.jpg "PTKelenken")](./Path-of-Titans-PTKelenken)
+## [Kelenken
+<a href='./Path-of-Titans-PTKelenken' target='_blank'> <img src='https://web-cdn.alderongames.com/files/949/conversions/PT_kelenken_mod_icon-icon.jpg' /> </a>
 
-## [Maip](./Path-of-Titans-PTMaip)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/913/conversions/PT_Maip_mod_icon-icon.jpg "PTMaip")](./Path-of-Titans-PTMaip)
+## Maip
+<a href='./Path-of-Titans-PTMaip' target='_blank'> <img src='https://web-cdn.alderongames.com/files/913/conversions/PT_Maip_mod_icon-icon.jpg' /> </a>
 
-## [Noviana](./Path-of-Titans-IgnisNoviana)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/861/conversions/novania_mod_icon-icon.jpg "IgnisNoviana")](./Path-of-Titans-IgnisNoviana)
+## Noviana
+<a href='./Path-of-Titans-IgnisNoviana' target='_blank'> <img src='https://web-cdn.alderongames.com/files/861/conversions/novania_mod_icon-icon.' /> </a>
 
-## [Ophis](./Path-of-Titans-IgnisOphis)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/464/conversions/Ophis_Mod_Icon-icon.jpg "IgnisOphis")](./Path-of-Titans-IgnisOphis)
+## Ophis
+<a href='./Path-of-Titans-IgnisOphis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/464/conversions/Ophis_Mod_Icon-icon.jpg' /> </a>
 
-## [Parasaurolophus](./Path-of-Titans-PTParasaurolophus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/761/conversions/PT_para_mod_icon-icon.jpg "PTParasaurolophus")](./Path-of-Titans-PTParasaurolophus)
+## Parasaurolophus
+<a href='./Path-of-Titans-PTParasaurolophus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/761/conversions/PT_para_mod_icon-icon.jpg' /> </a>
 
-## [Psittacosaurus](./Path-of-Titans-PTPsittacosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1065/conversions/PT_Psittaco_mod_icon-icon.jpg "PTPsittacosaurus")](./Path-of-Titans-PTPsittacosaurus)
+## Psittacosaurus
+<a href='./Path-of-Titans-PTPsittacosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1065/conversions/PT_Psittaco_mod_icon-icon.jpg' /> </a>
 
-## [Quetzalcoatlus](./Path-of-Titans-PTQuetzalcoatlus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/816/conversions/PT_Quetz_mod_icon-icon.jpg "PTQuetzalcoatlus")](./Path-of-Titans-PTQuetzalcoatlus)
+## Quetzalcoatlus
+<a href='./Path-of-Titans-PTQuetzalcoatlus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/816/conversions/PT_Quetz_mod_icon-icon.jpg' /> </a>
 
-## [Sachicasaurus](./Path-of-Titans-PTSachicasaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/795/conversions/PT_Sachi_mod_icon-icon.jpg "PTSachicasaurus")](./Path-of-Titans-PTSachicasaurus)
+## Sachicasaurus
+<a href='./Path-of-Titans-PTSachicasaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/795/conversions/PT_Sachi_mod_icon-icon.jpg' /> </a>
 
-## [Therizinosaurus](./Path-of-Titans-PTTherizinosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/706/conversions/PT_theri_mod_icon-icon.jpg "PTTherizinosaurus")](./Path-of-Titans-PTTherizinosaurus)
+## Therizinosaurus
+<a href='./Path-of-Titans-PTTherizinosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/706/conversions/PT_theri_mod_icon-icon.jpg' /> </a>
 
-## [Torvosaurus](./Path-of-Titans-PTTorvosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1210/conversions/PT_Torvosaurus_mod_icon-icon.jpg "PTTorvosaurus")](./Path-of-Titans-PTTorvosaurus)
+## Torvosaurus
+<a href='./Path-of-Titans-PTTorvosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1210/conversions/PT_Torvosaurus_mod_icon-icon.jpg' /> </a>
 
-## [Tyrannosaurus](./Path-of-Titans-PTTyrannosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/878/conversions/PT_Rex_mod_icon-icon.jpg "PTTyrannosaurus")](./Path-of-Titans-PTTyrannosaurus)
+## Tyrannosaurus
+<a href='./Path-of-Titans-PTTyrannosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/878/conversions/PT_Rex_mod_icon-icon.jpg' /> </a>
 
-## [Utahraptor](./Path-of-Titans-PTUtahraptor)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1129/conversions/PT_utah_mod_Icon-icon.jpg "PTUtahraptor")](./Path-of-Titans-PTUtahraptor)
+## Utahraptor
+<a href='./Path-of-Titans-PTUtahraptor' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1129/conversions/PT_utah_mod_Icon-icon.jpg' /> </a>
 
-## [Yunnanosaurus](./Path-of-Titans-PTYunnano)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/872/conversions/PT_yunn_mod_Icon-icon.jpg "PTYunnano")](./Path-of-Titans-PTYunnano)
+## Yunnanosaurus
+<a href='./Path-of-Titans-PTYunnano' target='_blank'> <img src='https://web-cdn.alderongames.com/files/872/conversions/PT_yunn_mod_Icon-icon.jpg' /> </a>
 
-## [Yutyrannus](./Path-of-Titans-PTYutyrannus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/845/conversions/PT_Yuty_mod_icon-icon.jpg "PTYutyrannus")](./Path-of-Titans-PTYutyrannus)
+## Yutyrannus
+<a href='./Path-of-Titans-PTYutyrannus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/845/conversions/PT_Yuty_mod_icon-icon.jpg' /> </a>

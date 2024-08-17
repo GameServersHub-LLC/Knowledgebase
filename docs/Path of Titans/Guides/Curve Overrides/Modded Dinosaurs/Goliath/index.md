@@ -15,5 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Dimetrodon](./Path-of-Titans-Dimetrodon)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/977/conversions/Logo-icon.jpg "Dimetrodon")](./Path-of-Titans-Dimetrodon)
+## Dimetrodon
+<a href='./Path-of-Titans-Dimetrodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/977/conversions/Logo-icon.jpg' /> </a>

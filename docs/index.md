@@ -24,7 +24,7 @@ features:
       }
     title: Path Of Titans Guides
     details: Embark on epic quests in the central and eastern zones of Gondwa, and strive to become the best.
-    link: "./Path of Titans/Setup/Path-of-Titans-How-To-Install-Mods"
+    link: "./Path of Titans/Setup/Path-of-Titans-How-To-Configurate-Game-ini"
   - icon:
       {
         src: /Rust - 667x260.webp,

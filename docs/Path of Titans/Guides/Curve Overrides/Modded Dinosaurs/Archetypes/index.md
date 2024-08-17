@@ -15,8 +15,8 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Dunkleosteus](./Path-of-Titans-Dunkleosteus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/940/conversions/dunkleicon-icon.jpg "Dunkleosteus")](./Path-of-Titans-Dunkleosteus)
+## Dunkleosteus
+<a href='./Path-of-Titans-Dunkleosteus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/940/conversions/dunkleicon-icon.jpg' /> </a>
 
 <!-- ### [Ocepech](#) -->
 <!-- ### [Squalicorax](#) -->

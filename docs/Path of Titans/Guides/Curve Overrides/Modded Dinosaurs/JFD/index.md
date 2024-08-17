@@ -15,8 +15,8 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Deltadromeus agilis](./Path-of-Titans-JFDDagilis)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1130/conversions/JFD_Dagilis-icon.jpg "JFDDagilis")](./Path-of-Titans-JFDDagilis)
+## Deltadromeus agilis
+<a href='./Path-of-Titans-JFDDagilis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1130/conversions/JFD_Dagilis-icon.jpg' /> </a>
 
-## [Torvosaurus tanneri](./Path-of-Titans-JFDTtanneri)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/898/conversions/JFD_Ttanneri-icon.jpg "JFDTtanneri")](./Path-of-Titans-JFDTtanneri)
+## Torvosaurus tanneri
+<a href='./Path-of-Titans-JFDTtanneri' target='_blank'> <img src='https://web-cdn.alderongames.com/files/898/conversions/JFD_Ttanneri-icon.jpg' /> </a>

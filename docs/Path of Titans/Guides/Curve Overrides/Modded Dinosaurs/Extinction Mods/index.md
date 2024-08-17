@@ -17,4 +17,4 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 ## Current Mods
 
-<!-- ### [Chaos Triceratops](#) -->
+### [Chaos Triceratops](./Path-of-Titans-Chaos-Triceratops) *Not Updated

@@ -15,5 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Nyctatyrannus](./Path-of-Titans-Nyctatyrannus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/695/conversions/IslaNyctaModBanner_v5-icon.jpg "Nyctatyrannus")](./Path-of-Titans-Nyctatyrannus)
+## Nyctatyrannus
+<a href='./Path-of-Titans-Nyctatyrannus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/695/conversions/IslaNyctaModBanner_v5-icon.jpg' /> </a>

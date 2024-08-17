@@ -15,5 +15,5 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](#)
 
-## [Xiphactinus](./Path-of-Titans-ArazoaXiph)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1077/conversions/Xiph-Logo-icon.jpg "ArazoaXiph")](./Path-of-Titans-ArazoaXiph)
+## Xiphactinus
+<a href='./Path-of-Titans-ArazoaXiph' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1077/conversions/Xiph-Logo-icon.jpg' /> </a>

@@ -16,23 +16,23 @@ The Ancient Monster Mod team is a Modding group dedicated to bring speculative e
 [Discord Link](https://discord.gg/WyqmaNqPKb)
 
 ## Cerataspida
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1186/conversions/Cerata_modpage-icon.jpg "Cerataspida")](./Path-of-Titans-AMCerataspida)
+<a href='./Path-of-Titans-AMCerataspida' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1186/conversions/Cerata_modpage-icon.jpg' /> </a>
 
 <!-- ### [Dankanaptera](#) -->
 
-## [Gigamandra](./Path-of-Titans-Gigamandra)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1083/conversions/Gigamandra_Modpage-icon.jpg "Gigamandra")](./Path-of-Titans-Gigamandra)
+## Gigamandra
+<a href='./Path-of-Titans-Gigamandra' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1083/conversions/Gigamandra_Modpage-icon.jpg' /> </a>
 
-## [Golugore](./Path-of-Titans-Golugore)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/822/conversions/Golugore_icon-icon.jpg "Golugore")](./Path-of-Titans-Golugore)
+## Golugore
+<a href='./Path-of-Titans-Golugore' target='_blank'> <img src='https://web-cdn.alderongames.com/files/822/conversions/Golugore_icon-icon.jpg' /> </a>
 
 <!-- ### [Madrehorn](#) -->
 
-## [Moraquile](./Path-of-Titans-AMMoraquile)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/892/conversions/Moraquile_icon-icon.jpg "AMMoraquile")](./Path-of-Titans-AMMoraquile)
+## Moraquile
+<a href='./Path-of-Titans-AMMoraquile' target='_blank'> <img src='https://web-cdn.alderongames.com/files/892/conversions/Moraquile_icon-icon.jpg' /> </a>
 
-## [Thalasrex](./Path-of-Titans-AMThalasrex)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1104/conversions/thalasrex_modpage-icon.jpg "AMThalasrex")](./Path-of-Titans-AMThalasrex)
+## Thalasrex
+<a href='./Path-of-Titans-AMThalasrex' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1104/conversions/thalasrex_modpage-icon.jpg' /> </a>
 
-## [Docjay Creation Dryptosaurus](./Path-of-Titans-DJCDryptosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/963/conversions/modpageicon-icon.jpg "DJCDryptosaurus")](./Path-of-Titans-DJCDryptosaurus)
+## Docjay Creation Dryptosaurus
+<a href='./Path-of-Titans-DJCDryptosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/963/conversions/modpageicon-icon.jpg' /> </a>

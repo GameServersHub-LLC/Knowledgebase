@@ -15,7 +15,7 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 [Discord Link](https://discord.gg/vkugm46RCR)
 
-## [Armored Eotriceratops](./Path-of-Titans-EoTLC)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1171/conversions/EoThumbnail1-icon.jpg "EoTLC")](./Path-of-Titans-EoTLC)
+## Armored Eotriceratops
+<a href='./Path-of-Titans-EoTLC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1171/conversions/EoThumbnail1-icon.jpg' /> </a>
 
-<!-- ### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus) -->
+### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus) *Not Updated
