@@ -11,7 +11,7 @@ title: Ancient Monster
 
 # Path of Titans Ancient Monster
 
-The Ancient Monster Mod team is a Modding group dedicated to bring speculative evolved Monster to the games of Path of titans and ark
+The Ancient Monster mod team is a Modding group dedicated to bring speculative evolved Monster to the games of Path of Titans.
 
 [Discord Link](https://discord.gg/WyqmaNqPKb)
 

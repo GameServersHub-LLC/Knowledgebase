@@ -59,6 +59,8 @@ title: Default Curve Overrides
 
 ### [Metriacanthosaurus](./Path-of-Titans-Metriacanthosaurus)
 
+### [Miragaia](./Path-of-Titans-Miragaia)
+
 ### [Pachycephalosaurus](./Path-of-Titans-Pachycephalosaurus)
 
 ### [Pycnonemosaurus](./Path-of-Titans-Pycnonemosaurus)

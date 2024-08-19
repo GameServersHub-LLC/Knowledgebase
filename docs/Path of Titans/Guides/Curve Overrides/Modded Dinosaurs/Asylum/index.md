@@ -11,9 +11,12 @@ title: Asylum
 
 # Path of Titans Asylum
 
+
 Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
 
-[Discord Link](#)
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh) 
+
+Modder's [Discord Link](#)
 
 ## Cougar
 <a href='./Path-of-Titans-AsylumCougar' target='_blank'> <img src='https://web-cdn.alderongames.com/files/856/conversions/2023_April_KaiModIcons_ModIcon-icon.jpg' /> </a>

@@ -11,9 +11,12 @@ title: Krono
 
 # Path of Titans Krono
 
+
 Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
 
-[Discord Link](#)
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh) 
+
+Modder's [Discord Link](#)
 
 ## Bloop
-<a href='./Path-of-Titans-Bloop' target='_blank'> <img src='https://web-cdn.alderongames.com/files/998/conversions/BloopCover1-icon.jpgg' /> </a>
+<a href='./Path-of-Titans-Bloop' target='_blank'> <img src='https://web-cdn.alderongames.com/files/998/conversions/BloopCover1-icon.jpg' /> </a>

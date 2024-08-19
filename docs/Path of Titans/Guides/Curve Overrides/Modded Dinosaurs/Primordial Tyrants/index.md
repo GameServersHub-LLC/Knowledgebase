@@ -42,7 +42,7 @@ We also have our own lore! As we progress in our development we will release new
 <a href='./Path-of-Titans-PTMaip' target='_blank'> <img src='https://web-cdn.alderongames.com/files/913/conversions/PT_Maip_mod_icon-icon.jpg' /> </a>
 
 ## Noviana
-<a href='./Path-of-Titans-IgnisNoviana' target='_blank'> <img src='https://web-cdn.alderongames.com/files/861/conversions/novania_mod_icon-icon.' /> </a>
+<a href='./Path-of-Titans-IgnisNoviana' target='_blank'> <img src='https://web-cdn.alderongames.com/files/861/conversions/novania_mod_icon-icon.jpg' /> </a>
 
 ## Ophis
 <a href='./Path-of-Titans-IgnisOphis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/464/conversions/Ophis_Mod_Icon-icon.jpg' /> </a>

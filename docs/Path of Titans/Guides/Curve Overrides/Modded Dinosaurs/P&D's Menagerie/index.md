@@ -15,6 +15,5 @@ Introducing P&D's menagerie! While we do aim for accuracy, we as a team aim for 
 
 [Discord Link](https://discord.com/invite/bZnEpPKGtd)
 
-## Current Mods
-
-### [Pentaceratops](./Path-of-Titans-PDPentaceratops)
+## Pentaceratops
+<a href='./Path-of-Titans-PDPentaceratops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1165/conversions/Penta_Icon_New-icon.jpg' /> </a>

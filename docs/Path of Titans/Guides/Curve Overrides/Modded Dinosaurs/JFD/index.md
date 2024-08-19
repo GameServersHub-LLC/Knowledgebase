@@ -11,9 +11,12 @@ title: JFD
 
 # Path of Titans JFD
 
+
 Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
 
-[Discord Link](#)
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh) 
+
+Modder's [Discord Link](#)
 
 ## Deltadromeus agilis
 <a href='./Path-of-Titans-JFDDagilis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1130/conversions/JFD_Dagilis-icon.jpg' /> </a>

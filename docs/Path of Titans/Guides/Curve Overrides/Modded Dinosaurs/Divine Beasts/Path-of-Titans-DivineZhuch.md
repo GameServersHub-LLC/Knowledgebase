@@ -10,11 +10,11 @@ title: DivineZhuch
 ---
 # DivineZhuch
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="DivineZhuch.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="DivineZhuch.` in front of every line in the `Game.ini` under `[/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
@@ -26,7 +26,7 @@ Listed below are the default stats for the following creature:`DivineZhuch`
 ```cs
 Core.MaxHealth",Values=(100,200,300,700,800))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(200,1100,2000,3000,5500))
+Core.CombatWeight",Values=(200,1100,2000,3000,5400))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -49,6 +49,12 @@ Core.PoisonRate",Values=(0,0,0,0,0))
 Core.PoisonHealRate",Values=(0.02,0.02,0.02,0.02,0.02))
 Core.VenomRate",Values=(0,0,0,0,0))
 Core.VenomHealRate",Values=(0.02,0.02,0.02,0.02,0.02))
+Core.ParalysisRate",Values=(0,0,0,0,0))
+Core.ParalysisHealRate",Values=(0,0.01,0.01,0.01,0.01))
+Core.ToxinRate",Values=(0,0,0,0,0))
+Core.ToxinHealRate",Values=(0,0.01,0.01,0.01,0.01))
+Core.MudRate",Values=(0,0,0,0,0))
+Core.MudHealRate",Values=(0,0,0,0,0))
 Core.HungerDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 Core.ThirstDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 Core.OxygenDamage",Values=(6,6,6,6,6))
@@ -62,7 +68,7 @@ Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(2000,2000,2000,2000,2000))
 Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
-Core.CarryCapacity",Values=(1000,1000,1500,2400,2650))
+Core.CarryCapacity",Values=(1000,1000,1500,2400,3000))
 Core.BuffDurationMultiplier",Values=(1,1,1,1,1))
 Core.SpikeDamageMultiplier",Values=(1,1,1,1,1))
 Core.KnockbackMultiplier",Values=(1,1,1,1,1))
@@ -81,7 +87,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -295,7 +301,7 @@ Multiplier.SpecialSpeedySubSpecies.Attack",Values=(1.03,1.03,1.03,1.03,1.03))
 BodyFoodDecayPerSecond",Values=(0.5,0.6,0.7,0.8,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -368,7 +374,7 @@ ThrashingStaminaCost",Values=(20,20,20,20,20))
 ThrashingCooldown",Values=(3,3,3,3,3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

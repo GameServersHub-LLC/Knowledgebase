@@ -10,11 +10,11 @@ title: DavidKaproNew
 ---
 # DavidKaproNew
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="DavidKaproNew.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="DavidKaproNew.` in front of every line in the `Game.ini` under `[/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
@@ -26,7 +26,7 @@ Listed below are the default stats for the following creature:`DavidKaproNew`
 ```cs
 Core.MaxHealth",Values=(200,350,400,500,600))
 Core.MaxStamina",Values=(150,130,110,100,100))
-Core.CombatWeight",Values=(350,800,1100,2000,2300))
+Core.CombatWeight",Values=(500,1000,1500,2000,2400))
 Core.Armor",Values=(1.1,1.1,1.1,1.1,1.1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -55,7 +55,7 @@ Core.OxygenDamage",Values=(6,6,6,6,6))
 Core.PoisonDamage",Values=(0.2,0.2,0.2,0.2,0.2))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
-Core.HealthRecoveryRate",Values=(1.75,1.6,1.65,1.55,1.35))
+Core.HealthRecoveryRate",Values=(1.75,1.6,1.65,1.55,1.25))
 Core.StaminaRecoveryRate",Values=(1.5,1.2,1.1,1,0.8))
 Core.JumpForceMultiplier",Values=(1,1,1,1,1))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
@@ -81,7 +81,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -321,7 +321,7 @@ Multiplier.SpeedySubSpecies.IncomingDamage",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1.4))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -335,14 +335,14 @@ TailBoneBreakChance",Values=(0,0,0,0,0))
 TailCooldown",Values=(1,1,1,1,1))
 TailBleedAmount",Values=(0,0,0,0,0))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond",Values=(0.7,0.7,0.7,0.7,0.95))
+StaminaSprintCostPerSecond",Values=(0.7,0.7,0.7,0.7,0.97))
 StaminaSwimgCostPerSecond",Values=(0.75,0.75,0.75,1,2))
 StaminaTrotSwimCostPerSecond",Values=(0.5,0.5,0.5,0.5,1.5))
 StaminaFastSwimCostPerSecond",Values=(0.2,0.2,0.2,0.2,0.4))
 StaminaDiveCostPerSecond",Values=(0.75,0.75,0.75,0.75,1.1))
 StaminaTrotDiveCostPerSecond",Values=(0.5,0.5,0.5,0.5,0.7))
 StaminaFastDiveCostPerSecond",Values=(0.2,0.2,0.2,0.2,0.4))
-StaminaJumpCost",Values=(10,10,10,10,10))
+StaminaJumpCost",Values=(5,5,5,5,5))
 BiteLungeDamage",Values=(20,50,100,120,140))
 BiteLungeBoneBreakChance",Values=(0,0,0,0,0))
 BiteLungeBleedAmount",Values=(0,0,0,0,0))
@@ -356,10 +356,11 @@ HideThinSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
 HideThinHealthRecovery",Values=(1.15,1.15,1.15,1.15,1.15))
 StreamlinedHideBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 StreamlinedHideTurnBuff",Values=(1.1,1.1,1.1,1.1,1.1))
-BiteTearDamage",Values=(20,25,30,50,60))
+StreamlinedScalesWetnessDuration",Values=(2,2,2,2,2))
+BiteTearDamage",Values=(20,25,30,50,65))
 BiteTearBoneBreakChance",Values=(0,0,0,0,0))
 BiteTearBleedAmount",Values=(0,0,0,0,0))
-BiteTearCooldown",Values=(5,5,5,5,3.5))
+BiteTearCooldown",Values=(3,3,3,3,3.5))
 BiteTearStaminaCost",Values=(0,0,0,0,0))
 BiteTearArmorReductionDuration",Values=(10,10,10,10,10))
 BiteTearArmorReduction",Values=(0.95,0.95,0.95,0.95,0.95))
@@ -412,7 +413,7 @@ WetBoostAccelBuff",Values=(1.75,1.75,1.75,1.75,1.75))
 FirmGripTurnRadius",Values=(1.05,1.05,1.05,1.05,1.05))
 WebbedFeetSpeedBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 WebbedFeetTurnBuff",Values=(1.15,1.15,1.15,1.15,1.15))
-CrushingBiteDamage",Values=(50,55,60,60,60))
+CrushingBiteDamage",Values=(50,50,50,50,50))
 CrushingBiteBoneBreakChance",Values=(0,0,0,0,0))
 CrushingBoneBreakAmount",Values=(0,0,0,0,0))
 CrushingBiteCooldown",Values=(5,5,5,5,5))
@@ -456,9 +457,10 @@ LiquidationDamage",Values=(20,25,30,35,40))
 LiquidationFullDamage",Values=(60,75,90,105,120))
 LiquidationCooldown",Values=(7,7,7,7,7))
 LiquidationStaminaCost",Values=(0,0,0,0,0))
+PassiveBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

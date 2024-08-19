@@ -11,12 +11,15 @@ title: Titanus Constructus
 
 # Path of Titans Titanus Constructus
 
+
 Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
 
-[Discord Link](#)
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh) 
 
-## [Ampelosaurus](./Path-of-Titans-Ampelosaurus)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/790/conversions/Ampelo_Mod_Icon-icon.jpg "Ampelosaurus")](./Path-of-Titans-Ampelosaurus)
+Modder's [Discord Link](#)
 
-## [Citipati](./Path-of-Titans-TCCitipati)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1046/conversions/Citipati_Mod_Icon-icon.jpg "TCCitipati")](./Path-of-Titans-TCCitipati)
+## Ampelosaurus
+<a href='./Path-of-Titans-Ampelosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/790/conversions/Ampelo_Mod_Icon-icon.jpg' /> </a>
+
+## Citipati
+<a href='./Path-of-Titans-TCCitipati' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1046/conversions/Citipati_Mod_Icon-icon.jpg' /> </a>

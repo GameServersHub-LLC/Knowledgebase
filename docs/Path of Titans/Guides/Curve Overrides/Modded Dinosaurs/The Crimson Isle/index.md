@@ -11,9 +11,12 @@ title: The Crimson Isle
 
 # Path of Titans The Crimson Isle
 
+
 Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh) 
 
 [Discord Link](https://discord.gg/tcititans)
 
-## [Cryolophosaurus](./Path-of-Titans-CrimsonCryo)
-[![Path Of Titans](https://web-cdn.alderongames.com/files/1112/conversions/TCI_Cryo_Larger_Logo-icon.jpg "CrimsonCryo")](./Path-of-Titans-CrimsonCryo)
+## Cryolophosaurus
+<a href='./Path-of-Titans-CrimsonCryo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1112/conversions/TCI_Cryo_Larger_Logo-icon.jpg' /> </a>

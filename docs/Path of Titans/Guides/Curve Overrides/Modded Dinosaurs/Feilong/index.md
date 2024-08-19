@@ -11,7 +11,10 @@ title: Feilong
 
 # Path of Titans Feilong
 
-Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
+
+Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh)
 
 [Discord Link](https://discord.gg/vkugm46RCR)
 

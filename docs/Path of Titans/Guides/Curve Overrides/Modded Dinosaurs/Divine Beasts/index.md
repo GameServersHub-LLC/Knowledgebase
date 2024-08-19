@@ -11,9 +11,12 @@ title: Divine Beasts
 
 # Path of Titans Divine Beasts
 
-Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
 
-[Discord Link](#)
+Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
+
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh)
+
+Modder's [Discord Link](#)
 
 ## Acrocanthosaurus
 <a href='./Path-of-Titans-DivineAcroRedux' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1169/conversions/AcroReduxThumbnailDone-icon.jpg' /> </a>

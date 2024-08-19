@@ -10,11 +10,11 @@ title: DivineCompy
 ---
 # DivineCompy
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="DivineCompy.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="DivineCompy.` in front of every line in the `Game.ini` under `[/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
@@ -24,8 +24,8 @@ Listed below are the default stats for the following creature:`DivineCompy`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(300,350,400,450,500))
-Core.MaxStamina",Values=(100,100,100,100,100))
+Core.MaxHealth",Values=(200,250,300,350,400))
+Core.MaxStamina",Values=(150,150,150,150,150))
 Core.CombatWeight",Values=(100,205,330,375,400))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
@@ -34,7 +34,7 @@ Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.BodyFoodAmount",Values=(25,45,50,75,90))
 Core.MaxHunger",Values=(25,38,45,67,100))
 Core.MaxThirst",Values=(25,38,45,67,100))
-Core.HungerDepletionRate",Values=(0.01,0.02,0.03,0.04,0.04))
+Core.HungerDepletionRate",Values=(0.01,0.02,0.03,0.04,0.08))
 Core.ThirstDepletionRate",Values=(0.01,0.02,0.03,0.04,0.04))
 Core.FoodConsumptionRate",Values=(10,13,15,17,20))
 Core.WaterConsumptionRate",Values=(10,13,15,17,20))
@@ -49,6 +49,12 @@ Core.PoisonRate",Values=(0,0,0,0,0))
 Core.PoisonHealRate",Values=(0.02,0.02,0.02,0.02,0.02))
 Core.VenomRate",Values=(0,0,0,0,0))
 Core.VenomHealRate",Values=(0.02,0.02,0.02,0.02,0.02))
+Core.ParalysisRate",Values=(0,0,0,0,0))
+Core.ParalysisHealRate",Values=(0,0.01,0.01,0.01,0.01))
+Core.ToxinRate",Values=(0,0,0,0,0))
+Core.ToxinHealRate",Values=(0,0.01,0.01,0.01,0.01))
+Core.MudRate",Values=(0,0,0,0,0))
+Core.MudHealRate",Values=(0,0,0,0,0))
 Core.HungerDamage",Values=(0.15,0.15,0.15,0.15,0.15))
 Core.ThirstDamage",Values=(0.15,0.15,0.15,0.15,0.15))
 Core.OxygenDamage",Values=(6,6,6,6,6))
@@ -79,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +299,7 @@ Multiplier.AttackSubSpecies.IncomingDamage",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,0.33))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -345,7 +351,7 @@ AttachStaminaDrainPerSecond",Values=(1,1,1,1,1))
 KnockbackDelatchThreshold",Values=(200,200,200,200,200))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">08-18-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

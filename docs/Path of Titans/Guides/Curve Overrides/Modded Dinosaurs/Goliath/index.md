@@ -11,9 +11,12 @@ title: Goliath
 
 # Path of Titans Goliath
 
+
 Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure! 
 
-[Discord Link](#)
+This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh) 
+
+Modder's [Discord Link](#)
 
 ## Dimetrodon
 <a href='./Path-of-Titans-Dimetrodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/977/conversions/Logo-icon.jpg' /> </a>
