@@ -21,14 +21,22 @@ Modder's [Discord Link](#)
 ## Australovenator
 <a href='./Path-of-Titans-ExAAustralo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg' /> </a>
 
-## [Beringia Mammuthus Columbi](./Path-of-Titans-BeringiaMammothC)
+## Allosaurus
+<a href='./Path-of-Titans-ExAAllo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1145/conversions/AlloIcon-icon.jpg' /> </a>
 
-## [Bistahieversor](./Path-of-Titans-ExABista)
+## Beringia Mammuthus Columbi
+<a href='./Path-of-Titans-BeringiaMammothC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>
 
-## [Dracoviper](./Path-of-Titans-EADracoviper)
+## Bistahieversor *Not Updated
 
-## [Smilodon](./Path-of-Titans-EASmilodon)
+## Dracoviper
+<a href='./Path-of-Titans-EADracoviper' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1178/conversions/Draco_icon-icon.jpg' /> </a>
 
-## [Griffin](./Path-of-Titans-EAGriffin)
+## Smilodon
+<a href='./Path-of-Titans-EASmilodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1001/conversions/Smilodon_icon-icon.jpg' /> </a>
 
-## [Nasutoceratops](./Path-of-Titans-EANasuto)
+## Griffin
+<a href='./Path-of-Titans-EAGriffin' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1133/conversions/griffin_icon-icon.jpg' /> </a>
+
+## Nasutoceratops
+<a href='./Path-of-Titans-EANasuto' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1098/conversions/nasutoModIcon-icon.jpg' /> </a>

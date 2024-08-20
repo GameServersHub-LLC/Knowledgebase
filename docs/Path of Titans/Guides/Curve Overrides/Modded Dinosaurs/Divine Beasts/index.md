@@ -43,7 +43,7 @@ Modder's [Discord Link](#)
 <a href='./Path-of-Titans-DivineRegalis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/829/conversions/Regalis-Photo-icon.jpg' /> </a>
 
 ## Giganotosaurus
-<a href='./Path-of-Titans-DivineGiga' target='_blank'> <img src='https://web-cdn.alderongames.com/files/829/conversions/Regalis-Photo-icon.jpg' /> </a>
+<a href='./Path-of-Titans-DivineGiga' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1076/conversions/giganotosaurus_photo-icon.jpg' /> </a>
 
 ## Inostrancevia
 <a href='./Path-of-Titans-DivineInos' target='_blank'> <img src='https://web-cdn.alderongames.com/files/934/conversions/Inostra_new_thumbnail-icon.jpg' /> </a>

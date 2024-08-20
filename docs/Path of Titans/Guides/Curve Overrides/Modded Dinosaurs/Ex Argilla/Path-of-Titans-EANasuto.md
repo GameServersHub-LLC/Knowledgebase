@@ -10,7 +10,7 @@ title: EANasuto
 ---
 # EANasuto
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-18-2024 by Mike</span>
+<span style="color: #ffd369;">08-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -81,7 +81,7 @@ Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 Core.JumpForceMultiplier",Values=(1,1.3,1,0,0))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-18-2024 by Mike</span>
+<span style="color: #ffd369;">08-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -430,7 +430,7 @@ Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,0.95))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-18-2024 by Mike</span>
+<span style="color: #ffd369;">08-19-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -517,7 +517,7 @@ ThrashDamage",Values=(10,20,20,35,35))
 ThrashCooldown",Values=(6,6,6,6,6))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-18-2024 by Mike</span>
+<span style="color: #ffd369;">08-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

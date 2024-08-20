@@ -35,7 +35,7 @@ We also have our own lore! As we progress in our development we will release new
 ## Giganotsaurus
 <a href='./Path-of-Titans-PTGiga' target='_blank'> <img src='https://web-cdn.alderongames.com/files/862/conversions/PT_Giganoto_mod_icon-icon.jpg' /> </a>
 
-## [Kelenken
+## Kelenken
 <a href='./Path-of-Titans-PTKelenken' target='_blank'> <img src='https://web-cdn.alderongames.com/files/949/conversions/PT_kelenken_mod_icon-icon.jpg' /> </a>
 
 ## Maip
