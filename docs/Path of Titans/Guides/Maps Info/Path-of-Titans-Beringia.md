@@ -17,6 +17,14 @@ Mod ID: `UGC_M_YNR03ZY081_SK`
 Map Game.ini Name `Beringia`
 :::
 
+Author: **Marteus**
+
+A pleistocene subarctic landscape. Explore Beringia during the last Ice Age, 15,000 years ago.
+
+If you want to know more about background lore, or want to support the development of the Ex Argilla maps by reporting bugs or with suggestions and ideas, consider joining our [Discord](https://discord.gg/GfSEk9FkGT).
+
+My special thanks to Oida for a lot of invaluable counsel!
+
 Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
 
 ## Point of Interest

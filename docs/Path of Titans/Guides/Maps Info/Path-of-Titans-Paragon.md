@@ -17,11 +17,11 @@ Mod ID: `UGC_M_YZKE4MK09W_SK`
 Map Game.ini Name `Paragon`
 :::
 
-Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
-
 Author: **Noa**
 
 2x2 map
+
+Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
 
 ## Point of Interest
 

@@ -17,13 +17,13 @@ Mod ID: `UGC_M_DYV7XYEGX2_SK`
 Map Game.ini Name `TheGrimExpanse`
 :::
 
-Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
-
 Author: **Jiggy**
 
 This 8km x 8km map is set in a sprawling, arid desert, littered with abandoned ruins and freshwater oasises. You can expect a difficult time surviving on this map, with water being scarce and predators being able to see you from far distances.
 
 This is an example mod map to test modding functionality, and is an example of what you can do!
+
+Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
 
 ## Point of Interest
 

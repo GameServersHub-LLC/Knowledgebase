@@ -6,10 +6,10 @@ head:
   - - meta
     - name: keywords
       content: Path Of Titans
-title: Savanna Grassland
+title: Tropical Savannah
 ---
 
-# Path of Titans Savanna Grassland
+# Path of Titans Tropical Savannah
 
 ::: details Mod Map Details
 Mod ID: `UGC_M_RD10PRZEXG_SK`
@@ -17,11 +17,9 @@ Mod ID: `UGC_M_RD10PRZEXG_SK`
 Map Game.ini Name `Savanna`
 :::
 
-Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
-
 Author: **BlueSucho**
 
-Welcome to Tropical Savanna a new map in a tropical environment.
+Welcome to Tropical Savannah a new map in a tropical environment.
 
 ::: warning
 Turn your effects on high or lower otherwise the ocean will be just darkness
@@ -32,7 +30,9 @@ PC: `O`
 Console: `LB` + `X` double click
 
 - The map is still WIP!
-  Bug Reports & Feedback on our Discord
+  Bug Reports & Feedback on our [Discord](https://discord.gg/ynQzQJJexq)
+
+Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
 
 ## Point of Interest
 

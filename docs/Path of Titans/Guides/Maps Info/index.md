@@ -13,40 +13,41 @@ title: Map Info
 
 Below you'll find a list of all maps **Path of Titans** offers!
 
-<!-- ## [Aedis](./Path-of-Titans-Aedis) -->
+## Aedis *Not Updated
 
-## [Avernus](./Path-of-Titans-Avernus)
-[![Path of Titans Avernus](Avernus.webp)](./Path-of-Titans-Avernus)
+## Avernus *Not Updated
 
-## [Beringia](./Path-of-Titans-Beringia)
+## Beringia
+<a href='./Path-of-Titans-Beringia' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1184/conversions/BeringiaIcon-icon.jpg' /> </a>
 
-## Cerulean Island *discontinued
+## Cerulean Island *Discontinued
 
-<!-- ## [Etis](./Path-of-Titans-Etis) -->
+## Etis *Not Updated
 
-## [Gondwa](./Path-of-Titans-Gondwa)
-[![Path of Titans Gondwa](Gondwa.webp)](./Path-of-Titans-Gondwa)
+## Gondwa
+<a href='./Path-of-Titans-Gondwa' target='_blank'> <img src='https://cdn.discordapp.com/attachments/1153788245524619364/1276078532996366388/gondwa.webp?ex=66c8383e&is=66c6e6be&hm=7734887c63e670164f03f9e469d5375d66fba4378b6d9d70ff4625463a14e2c9&' /> </a>
 
-<!-- ## [Infinita](./Path-of-Titans-Infinita) -->
+## Infinita *Not Updated
 
-## [Maplewood](./Path-of-Titans-Maplewood)
+## Maplewood
+<a href='./Path-of-Titans-Maplewood' target='_blank'> <img src='https://web-cdn.alderongames.com/files/888/conversions/icon-icon.jpg' /> </a>
 
-## [New Era](./Path-of-Titans-NewEra)
-[![Path of Titans New Era](Era.webp)](./Path-of-Titans-NewEra)
+## New Era
+<a href='./Path-of-Titans-NewEra' target='_blank'> <img src='https://web-cdn.alderongames.com/files/690/conversions/NewEra-icon.jpg' /> </a>
 
-## [Panjura](./Path-of-Titans-Panjura)
-[![Path of Titans Panjura](Panjura.webp)](./Path-of-Titans-Panjura)
+## Panjura
+<a href='./Path-of-Titans-Panjura' target='_blank'> <img src='https://cdn.discordapp.com/attachments/1153788245524619364/1276078532774203413/Panjura.webp?ex=66c8383e&is=66c6e6be&hm=22dcabf6150e894bb64abc36d7b3bfcf4fa71670c4c894f09bcf73a649fdac9f&' /> </a>
 
-## [Paragon](./Path-of-Titans-Paragon)
-[![Path of Titans Paragon](Paragon.webp)](./Path-of-Titans-Paragon)
+## Paragon
+<a href='./Path-of-Titans-Paragon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/788/conversions/Thumbnail-icon.jpg' /> </a>
 
-## [Savanna Grassland](./Path-of-Titans-Savanna)
-[![Path of Titans Savanna Grassland](Savanna.webp)](./Path-of-Titans-Savanna)
+## Tropical Savannah
+<a href='./Path-of-Titans-Savanna' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1162/conversions/New-Project-icon.jpg' /> </a>
 
-## [Stoneclaw Highlands](./Path-of-Titans-StoneclawHighlands)
-[![Path of Titans Stoneclaw Highlands](stone.webp)](./Path-of-Titans-StoneclawHighlands)
+## Stoneclaw Highlands
+<a href='./Path-of-Titans-StoneclawHighlands' target='_blank'> <img src='https://web-cdn.alderongames.com/files/75/daf3eeae9d3aeb5bdf9a2b9f86ba8bab.jpg' /> </a>
 
-<!-- ## [Teutonia](./Path-of-Titans-Teutonia) -->
+## Teutonia *Not Updated
 
-## [The Grim Expanse](./Path-of-Titans-TheGrimExpanse)
-[![Path of Titans The Grim Expanse](grim.webp)](./Path-of-Titans-TheGrimExpanse)
+## The Grim Expanse
+<a href='./Path-of-Titans-TheGrimExpanse' target='_blank'> <img src='https://web-cdn.alderongames.com/files/962/conversions/ac2064af78d714ae2ff45c00bc9d007f-icon.jpg' /> </a>

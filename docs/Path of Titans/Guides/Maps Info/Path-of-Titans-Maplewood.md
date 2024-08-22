@@ -17,6 +17,14 @@ Mod ID: `UGC_M_JG179QX7QN_SK`
 Map Game.ini Name `Maplewood`
 :::
 
+**Psycho Dodo Clan presents: Maplewood**
+
+A great 10x10 expanse of forest, grasslands, marsh/wetlands/sloughs, and lakes/rivers! Look for information signs, learn about the park!
+
+High alritude brings great fog! Computer weather control (single player only, so far) =  Hit tab, press the `o` key, while holding they key, use the mouse to adjust weather to your liking.
+
+**PHOTOSENSATIVITY WARNING: THIS MAP HAS LIGHTNING!** Special thanks to Fortress (FBTH) for helping me out with some aspects of the map!
+
 Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
 
 ## Point of Interest

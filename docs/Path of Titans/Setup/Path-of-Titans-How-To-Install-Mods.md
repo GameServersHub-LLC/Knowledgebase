@@ -372,8 +372,8 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Mod Name:                           | Mod ID:                   |             Discord Link              | Trello Link:                                        |
 | ----------------------------------- | ------------------------- | :-----------------------------------: | :-------------------------------------------------: |
 | Aedis *not updated                  | ~~`UGC_M_NZK0J6M712_SK`~~ |               [Link](#)               | [Link](#)                                           |
-| Avernus                             | `UGC_M_K5G0ZN10PN_SK`     |  [Link](https://discord.gg/hhZnYsPT)  | [Link](#)                                           |
-| Beringia                            | `UGC_M_YNR03ZY081_SK`     |               [Link](#)               | [Link](#)                                           |
+| Avernus                             | `UGC_M_K5G0ZN10PN_SK`     | [Link](https://discord.gg/hhZnYsPT)   | [Link](#)                                           |
+| Beringia                            | `UGC_M_YNR03ZY081_SK`     | [Link](https://discord.gg/GfSEk9FkGT) | [Link](#)                                           |
 | Etis *not updated                   | ~~`UGC_M_N597DNPEWQ_SK`~~ |               [Link](#)               | [Link](#)                                           |
 | Infinita *not updated               | ~~`UGC_M_JG1E9WXEQN_SK`~~ |               [Link](#)               | [Link](#)                                           |
 | Jangwa *not updated                 | ~~`UGC_M_5XN7VN2EPZ_SK`~~ |               [Link](#)               | [Link](#)                                           |

@@ -17,11 +17,11 @@ Mod ID: `UGC_M_QM57NW7D3P_SK`
 Map Game.ini Name `StoneclawHighlands`
 :::
 
-Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
-
 Author: **Jiggy**
 
 This 4km x 4km map is perfect for a smaller group of players that enjoy wide open spaces and rolling hillsides. Discover hidden secrets and stories on this Scotland-inspired lush landscape.
+
+Below is a list of all the POI's, Quest, Water and Waystones names for the current map.
 
 ## Point of Interest
 
