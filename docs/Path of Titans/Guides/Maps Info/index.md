@@ -13,21 +13,26 @@ title: Map Info
 
 Below you'll find a list of all maps **Path of Titans** offers!
 
-## Aedis *Not Updated
+## Aedis
+Not currently updated to the latest version of Path of Titans
 
-## Avernus *Not Updated
+## Avernus
+Not currently updated to the latest version of Path of Titans
 
 ## Beringia
 <a href='./Path-of-Titans-Beringia' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1184/conversions/BeringiaIcon-icon.jpg' /> </a>
 
 ## Cerulean Island *Discontinued
+This map will not be updated going forward
 
-## Etis *Not Updated
+## Etis
+Not currently updated to the latest version of Path of Titans
 
 ## Gondwa
 <a href='./Path-of-Titans-Gondwa' target='_blank'> <img src='https://cdn.discordapp.com/attachments/1153788245524619364/1276078532996366388/gondwa.webp?ex=66c8383e&is=66c6e6be&hm=7734887c63e670164f03f9e469d5375d66fba4378b6d9d70ff4625463a14e2c9&' /> </a>
 
-## Infinita *Not Updated
+## Infinita
+Not currently updated to the latest version of Path of Titans
 
 ## Maplewood
 <a href='./Path-of-Titans-Maplewood' target='_blank'> <img src='https://web-cdn.alderongames.com/files/888/conversions/icon-icon.jpg' /> </a>
@@ -47,7 +52,8 @@ Below you'll find a list of all maps **Path of Titans** offers!
 ## Stoneclaw Highlands
 <a href='./Path-of-Titans-StoneclawHighlands' target='_blank'> <img src='https://web-cdn.alderongames.com/files/75/daf3eeae9d3aeb5bdf9a2b9f86ba8bab.jpg' /> </a>
 
-## Teutonia *Not Updated
+## Teutonia
+Not currently updated to the latest version of Path of Titans
 
 ## The Grim Expanse
 <a href='./Path-of-Titans-TheGrimExpanse' target='_blank'> <img src='https://web-cdn.alderongames.com/files/962/conversions/ac2064af78d714ae2ff45c00bc9d007f-icon.jpg' /> </a>
