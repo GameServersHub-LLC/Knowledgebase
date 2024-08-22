@@ -188,9 +188,9 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Extinction%20Mods/index) | [Others](#)
 :::
- |Mod Name:                      | Mod ID:               | Game.ini Name: |
-|--------------------------------|-----------------------|----------------|
-| Chaos Triceratops *not updated | `UGC_M_5XN7VP87PZ_SK` | `ChaosTrike`   |
+ |Mod Name:                      | Mod ID:                   | Game.ini Name: |
+|--------------------------------|---------------------------|----------------|
+| Chaos Triceratops *not updated | ~~`UGC_M_5XN7VP87PZ_SK`~~ | `ChaosTrike`   |
 
 ## Divine Beasts:
 
@@ -220,10 +220,10 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Feilong/index) | [Others](#)
 :::
-| Mod Name:                                      | Mod ID:               | Game.ini Name: |
-|------------------------------------------------|-----------------------|----------------|
-| Armored Eotriceratops                          | `UGC_M_NV5ER12EJD_SK` | `EoTLC`        |
-| Beaked Pachycephalosaurus Variant *not updated | `UGC_M_JG1E9XX0QN_SK` | `Beaky`        |
+| Mod Name:                                      | Mod ID:                   | Game.ini Name: |
+|------------------------------------------------|---------------------------|----------------|
+| Armored Eotriceratops                          | `UGC_M_NV5ER12EJD_SK`     | `EoTLC`        |
+| Beaked Pachycephalosaurus Variant *not updated | ~~`UGC_M_JG1E9XX0QN_SK`~~ | `Beaky`        |
 
 ## Goliath:
 
@@ -369,23 +369,23 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 
 ## Mod Maps:
 
-| Mod Name:                                    | Mod ID:                   |             Discord Link              | Trello Link:                                        |
-| -------------------------------------------- | ------------------------- | :-----------------------------------: | :-------------------------------------------------: |
-| Aedis *not updated                           | `UGC_M_NZK0J6M712_SK`     |               [Link](#)               | [Link](#)                                           |
-| Avernus                                      | `UGC_M_K5G0ZN10PN_SK`     |  [Link](https://discord.gg/hhZnYsPT)  | [Link](#)                                           |
-| Beringia                                     | `UGC_M_YNR03ZY081_SK`     |               [Link](#)               | [Link](#)                                           |
-| Etis *not updated                            | `UGC_M_N597DNPEWQ_SK`     |               [Link](#)               | [Link](#)                                           |
-| Infinita *not updated                        | `UGC_M_JG1E9WXEQN_SK`     |               [Link](#)               | [Link](#)                                           |
-| Jangwa *not updated                          | `UGC_M_5XN7VN2EPZ_SK`     |               [Link](#)               | [Link](#)                                           |
-| Maplewood                                    | `UGC_M_JG179QX7QN_SK`     |               [Link](#)               | [Link](#)                                           |
-| NewEra                                       | `UGC_M_43G06350NR_SK`     |               [Link](#)               | [Link](#)                                           |
-| Paragon                                      | `UGC_M_YZKE4MK09W_SK`     |               [Link](#)               | [Link](#)                                           |
-| Savanna                                      | `UGC_M_RD10PRZEXG_SK`     | [Link](https://discord.gg/ynQzQJJexq) | [Link](https://trello.com/b/rzJc9Q3E/isle-of-myths) |
-| StoneclawHighlands                           | `UGC_M_QM57NW7D3P_SK`     |               [Link](#)               | [Link](#)                                           |
-| Teutonia *not updated                        | `UGC_M_RD1EPJ9EXG_SK`     |               [Link](#)               | [Link](#)                                           |
-| TheGrimExpanse                               | `UGC_M_DYV7XYEGX2_SK`     |               [Link](#)               | [Link](#)                                           |
-| CeruleanIsland *discontinued                 | ~~`UGC_M_YNR73P081V_SK`~~ |               [Link](#)               | [Link](#)                                           |
-| Eyrie *Exclusive                             | `UGC_M_NZK7J8Q712_SK`     |               [Link](#)               | [Link](#)                                           |
+| Mod Name:                           | Mod ID:                   |             Discord Link              | Trello Link:                                        |
+| ----------------------------------- | ------------------------- | :-----------------------------------: | :-------------------------------------------------: |
+| Aedis *not updated                  | ~~`UGC_M_NZK0J6M712_SK`~~ |               [Link](#)               | [Link](#)                                           |
+| Avernus                             | `UGC_M_K5G0ZN10PN_SK`     |  [Link](https://discord.gg/hhZnYsPT)  | [Link](#)                                           |
+| Beringia                            | `UGC_M_YNR03ZY081_SK`     |               [Link](#)               | [Link](#)                                           |
+| Etis *not updated                   | ~~`UGC_M_N597DNPEWQ_SK`~~ |               [Link](#)               | [Link](#)                                           |
+| Infinita *not updated               | ~~`UGC_M_JG1E9WXEQN_SK`~~ |               [Link](#)               | [Link](#)                                           |
+| Jangwa *not updated                 | ~~`UGC_M_5XN7VN2EPZ_SK`~~ |               [Link](#)               | [Link](#)                                           |
+| Maplewood                           | `UGC_M_JG179QX7QN_SK`     |               [Link](#)               | [Link](#)                                           |
+| NewEra                              | `UGC_M_43G06350NR_SK`     |               [Link](#)               | [Link](#)                                           |
+| Paragon                             | `UGC_M_YZKE4MK09W_SK`     |               [Link](#)               | [Link](#)                                           |
+| Savanna                             | `UGC_M_RD10PRZEXG_SK`     | [Link](https://discord.gg/ynQzQJJexq) | [Link](https://trello.com/b/rzJc9Q3E/isle-of-myths) |
+| StoneclawHighlands                  | `UGC_M_QM57NW7D3P_SK`     |               [Link](#)               | [Link](#)                                           |
+| Teutonia *not updated               | ~~`UGC_M_RD1EPJ9EXG_SK`~~ |               [Link](#)               | [Link](#)                                           |
+| TheGrimExpanse                      | `UGC_M_DYV7XYEGX2_SK`     |               [Link](#)               | [Link](#)                                           |
+| CeruleanIsland *discontinued        | ~~`UGC_M_YNR73P081V_SK`~~ |               [Link](#)               | [Link](#)                                           |
+| Eyrie *Exclusive                    | ~~`UGC_M_NZK7J8Q712_SK`~~ |               [Link](#)               | [Link](#)                                           |
 
 ## Skin Packs & Others:
 
