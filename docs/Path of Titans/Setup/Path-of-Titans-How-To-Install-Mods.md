@@ -112,11 +112,13 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Archetypes/index) | [Others](#)
 :::
-| Mod Name:    | Mod ID:               | Game.ini Name: |
-|--------------|-----------------------|----------------|
-| Dunkleosteus | `UGC_M_4RMEK5W7ZY_SK` | `Dunkleosteus` |
-| Ocepechelon  | `UGC_M_4RM0K8QEZY_SK` | `Ocepech`      |
-| Squalicorax  | `UGC_M_6YJ72NJE58_SK` | `Squalicorax`  |
+| Mod Name:     | Mod ID:               | Game.ini Name:  |
+|---------------|-----------------------|-----------------|
+| Dunkleosteus  | `UGC_M_4RMEK5W7ZY_SK` | `Dunkleosteus`  |
+| Gigantoraptor | `UGC_M_K5GEZ9YEPN_SK` | `Gigantoraptor` |
+| Hibber        | `UGC_M_6YJ7243058_SK` | `Hibber`        |
+| Ocepechelon   | `UGC_M_4RM0K8QEZY_SK` | `Ocepech`       |
+| Squalicorax   | `UGC_M_6YJ72NJE58_SK` | `Squalicorax`   |
 
 ## Arazoa:
 

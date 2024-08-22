@@ -10,7 +10,7 @@ title: SpearcrestNew
 ---
 # SpearcrestNew
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -24,10 +24,10 @@ Listed below are the default stats for the following creature:`SpearcrestNew`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(400,525,750,975,1300))
+Core.MaxHealth",Values=(400,525,750,975,1150))
 Core.MaxStamina",Values=(100,100,100,100,100))
 Core.CombatWeight",Values=(450,1200,3500,5500,6300))
-Core.Armor",Values=(1,1,1,1,1))
+Core.Armor",Values=(1,1,1,1,1.2))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -69,7 +69,7 @@ Core.GroundPreciseAccelerationMultiplier",Values=(1,1,1,1,1))
 Core.KnockbackTractionMultiplier",Values=(1,1,1,1,1))
 Core.SwimmingAccelerationMultiplier",Values=(1,1,1,1,1))
 Core.StaminaJumpCostMultiplier",Values=(1,1,1,1,1))
-Core.StaminaSprintCostMultiplier",Values=(1,1,1,3,2.5))
+Core.StaminaSprintCostMultiplier",Values=(1,1,1,2,3.3))
 Core.StaminaFastSwimCostMultiplier",Values=(1,1,1,1,1))
 Core.StaminaFastDiveCostMultiplier",Values=(1,1,1,1,1))
 Core.StaminaFlyCostMultiplier",Values=(1,1,1,1,1))
@@ -79,13 +79,13 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 
 ## Multipliers:
 ```cs
 Multiplier.HealthRecovery.Resting",Values=(1.15,1.15,1.15,1.15,1.2))
-Multiplier.HealthRecovery.Sleeping",Values=(1.5,1.5,1.5,1.9,3))
+Multiplier.HealthRecovery.Sleeping",Values=(1.5,1.5,2.5,2.9,3.5))
 Multiplier.HealthRecovery.Standing",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.Walking",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.Trotting",Values=(1,1,1,1,1))
@@ -98,7 +98,7 @@ Multiplier.HealthRecovery.Crouching",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.Jumping",Values=(1,1,1,1,1))
 Multiplier.StaminaRecovery.Resting",Values=(3,3,3,3,3))
-Multiplier.StaminaRecovery.Sleeping",Values=(6,6,6,6,6))
+Multiplier.StaminaRecovery.Sleeping",Values=(4,4,4,4,4))
 Multiplier.StaminaRecovery.Standing",Values=(1,1,1,1,1.5))
 Multiplier.StaminaRecovery.Walking",Values=(0.9,0.9,0.9,0.9,0.9))
 Multiplier.StaminaRecovery.Trotting",Values=(0.75,0.75,0.75,0.75,0.75))
@@ -292,32 +292,32 @@ Multiplier.HydratedBlows.AttackDamage",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
-BiteDamage",Values=(10,20,30,35,40))
+BiteDamage",Values=(10,20,25,30,35))
 BiteBoneBreakChance",Values=(0,0,0.01,0.03,0.05))
 BiteCooldown",Values=(1,1,1,1,1))
 BiteBleedAmount",Values=(0,0,0,0,0))
 BiteTearDamage",Values=(15,15,30,38,50))
 BiteTearBoneBreakChance",Values=(0,0,0,0,0.5))
-BiteTearCooldown",Values=(4,4,4,4,4))
+BiteTearCooldown",Values=(8,8,8,8,8))
 BiteTearBleedAmount",Values=(0.5,0.5,0.5,0.8,1.1))
 BiteTearStaminaCost",Values=(5,5,5,5,5))
-ClawDamage",Values=(15,35,55,60,65))
+ClawDamage",Values=(15,35,55,60,62))
 ClawStaminaCost",Values=(1,1,1,1,1))
 ClawBoneBreakChance",Values=(0,0,0,0,0))
-ClawCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
-ClawBleedAmount",Values=(0.5,0.5,0.5,0.8,1.2))
+ClawCooldown",Values=(1.5,1.5,1.5,3,3))
+ClawBleedAmount",Values=(0.5,0.5,0.5,0.8,1.7))
 ClawBarrageDamage",Values=(8,8,8,8,8))
 ClawBarrageCooldown",Values=(1,1,1,1,1))
 ClawBarrageDamageBuff",Values=(2,2,2,2,2))
 ClawBarrageDamageBuffCooldown",Values=(10,10,10,10,10))
 ClawBarrageStaminaCost",Values=(0,0,0,0,0))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond",Values=(0.8,1,1.2,1.4,1.4))
+StaminaSprintCostPerSecond",Values=(0.8,1,1.2,1.4,2.5))
 StaminaSwimgCostPerSecond",Values=(0.2,0.25,0.3,0.35,0.4))
 StaminaFastSwimCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaDiveCostPerSecond",Values=(0.2,0.25,0.3,0.35,0.4))
@@ -327,11 +327,11 @@ ChargeSpeedIncrease",Values=(400,700,1000,1200,1300))
 ChargeCost",Values=(25,25,25,25,25))
 ChargeDamage",Values=(35,35,35,50,60))
 ChargeCooldown",Values=(15,15,15,15,15))
-ChargeDuration",Values=(20,20,20,20,20))
-TailAttackDamage",Values=(10,20,20,20,22))
-TailAttackCooldown",Values=(3,3,3,3,3))
+ChargeDuration",Values=(20,20,20,20,15))
+TailAttackDamage",Values=(10,20,20,25,35))
+TailAttackCooldown",Values=(3,3,3,3,4))
 TailAttackStaminaCost",Values=(0,0,0,0,0))
-TailVenomAmount",Values=(0.07,0.07,0.07,0.07,1.2))
+TailVenomAmount",Values=(0.07,0.07,0.07,0.07,1.3))
 TyrantRoarCooldown",Values=(120,120,120,120,120))
 TyrantRoarInterruptedCooldown",Values=(3,3,3,3,3))
 TyrantRoarDamageBuff",Values=(1.11,1.11,1.11,1.11,1.11))
@@ -347,10 +347,14 @@ LoneSurvivorArmor",Values=(1.1,1.1,1.1,1.1,1.2))
 LoneSurvivorAcceleration",Values=(2,2,2,2,2))
 LoneSurvivorPreciseAcceleration",Values=(2,2,2,2,2))
 LoneSurvivorTurnRadius",Values=(1.05,1.05,1.05,1.05,1.05))
-LoneHunterAttackDamage",Values=(1.3,1.3,1.3,1.3,1.3))
+LoneHunterAttackDamage",Values=(1.4,1.4,1.4,1.4,1.4))
+PutridScalesPoisonAmount",Values=(0.01,0.02,0.03,0.04,0.05))
+PutridScalesSpikeDamage",Values=(12,12,12,12,12))
+BleedScalesBleedAmount",Values=(0.01,0.02,0.03,0.05,0.08))
+BleedScalesSpikeDamage",Values=(13,13,13,13,13))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

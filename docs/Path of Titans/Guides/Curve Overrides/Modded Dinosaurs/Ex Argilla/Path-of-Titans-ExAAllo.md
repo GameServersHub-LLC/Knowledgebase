@@ -10,7 +10,7 @@ title: ExAAllo
 ---
 # ExAAllo
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -58,7 +58,7 @@ Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
 Core.HealthRecoveryRate",Values=(1.11,1.05,1.03,1.01,1))
 Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.8,0.6))
-Core.GrowthPerSecond",Values=(0,0,0,0,0))
+Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(1900,1900,1900,1900,1900))
 Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
@@ -82,7 +82,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -431,7 +431,7 @@ Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -463,7 +463,7 @@ HatchetBiteCooldown",Values=(5,5,5,5,5))
 KillingBlowDamage",Values=(10,15,20,30,40))
 KillingBlowCooldown",Values=(15,15,15,15,15))
 KillingBlowStaminaCost",Values=(6,6,6,6,6))
-BattleAxeDamage",Values=(27,45,75,100,150))
+BattleAxeDamage",Values=(27,45,75,90,125))
 BattleAxeBleedDamage",Values=(0.3,0.3,0.3,0.3,0.3))
 BattleAxeStaminaCost",Values=(3,3,3,3,3))
 BattleAxeCooldown",Values=(8,8,8,8,8))
@@ -473,15 +473,15 @@ HeavyClawStaminaCost",Values=(7,7,7,7,7))
 ClawFuryDamage",Values=(3,6,9,12,15))
 ClawFuryCooldown",Values=(12,12,12,12,12))
 ClawFuryStaminaCost",Values=(5,5,5,5,5))
-ShoulderBashDamage",Values=(18,32,53,78,90))
+ShoulderBashDamage",Values=(18,32,53,60,70))
 ShoulderBashDamageToSelf",Values=(0.22,0.22,0.22,0.22,0.22))
-ShoulderBashCooldown",Values=(5,5,5,5,5))
+ShoulderBashCooldown",Values=(7,7,7,7,7))
 ShoulderBashStaminaCost",Values=(3,3,3,3,3))
 ShoulderBashSpeed",Values=(600,600,600,600,600))
 SubstatsAttackBuff",Values=(1.1,1.1,1.1,1.1,1.1))
 SubstatsAttackDebuff",Values=(0.9,0.9,0.9,0.9,0.9))
 SubstatsDefenseBuff",Values=(1.1,1.1,1.1,1.1,1.1))
-SubstatsDefenseDebuff",Values=(0.95,0.95,0.95,0.95,0.95))
+SubstatsDefenseDebuff",Values=(0.97,0.97,0.97,0.97,0.97))
 SubstatsBleedBuff",Values=(1.25,1.25,1.25,1.25,1.25))
 SubstatsBleedDebuff",Values=(0.9,0.9,0.9,0.9,0.9))
 DistanceRunnerStaminaDrain",Values=(0.85,0.85,0.85,0.85,0.85))
@@ -514,9 +514,9 @@ SlickBuckingDrainBuff",Values=(0.3,0.3,0.3,0.3,0.3))
 ScorchedEarthAttack",Values=(1.05,1.05,1.05,1.05,1.05))
 ScorchedEarthStatuses",Values=(1.3,1.3,1.3,1.3,1.3))
 ScorchedEarthDamage",Values=(1.1,1.1,1.1,1.1,1.1))
-DeepeningWoundsDamage",Values=(1,2,3,4,5))
+DeepeningWoundsDamage",Values=(5,10,15,20,25))
 DeepeningWoundsBleedDamage",Values=(0.1,0.1,0.1,0.1,0.1))
-DeepeningWoundsMultiplier",Values=(1.05,1.05,1.05,1.05,1.05))
+DeepeningWoundsMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
 DeepeningWoundsCooldown",Values=(0.75,0.75,0.75,0.75,0.75))
 DeepeningWoundsCost",Values=(0.75,0.75,0.75,0.75,0.75))
 DeepeningWoundsDuration",Values=(10,10,10,10,10))
@@ -545,11 +545,11 @@ DemoralizingHowlArmor",Values=(0.9,0.9,0.9,0.9,0.9))
 DemoralizingHowlBleedRate",Values=(0.8,0.8,0.8,0.8,0.8))
 DemoralizingHowlRange",Values=(4500,4500,4500,4500,4500))
 ShreddingSlamDamage",Values=(30,45,65,80,90))
-ShreddingSlamCooldown",Values=(25,25,25,25,25))
+ShreddingSlamCooldown",Values=(12,12,12,12,12))
 ShreddingSlamBleed",Values=(0.5,0.5,0.5,0.5,0.5))
 ShreddingSlamSpeed",Values=(700,700,700,700,700))
 ShreddingSlamDamageToSelf",Values=(0.11,0.11,0.11,0.11,0.11))
-ShreddingSlamCost",Values=(10,10,10,10,10))
+ShreddingSlamCost",Values=(5,5,5,5,5))
 InbredStatsIncomingDamage",Values=(1.1,1.1,1.1,1.1,1.1))
 InbredStatsAttack",Values=(0.9,0.9,0.9,0.9,0.9))
 InbredStatsSpeed",Values=(0.9,0.9,0.9,0.9,0.9))
@@ -563,7 +563,7 @@ BuckingCooldown",Values=(2,2,2,2,2))
 SlipperyDrainMultiplier",Values=(1.3,1.3,1.3,1.3,1.3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-19-2024 by Mike</span>
+<span style="color: #ffd369;">08-22-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
