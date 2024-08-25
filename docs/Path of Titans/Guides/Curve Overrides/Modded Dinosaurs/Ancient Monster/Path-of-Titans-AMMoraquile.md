@@ -10,7 +10,7 @@ title: AMMoraquile
 ---
 # AMMoraquile
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -24,9 +24,9 @@ Listed below are the default stats for the following creature:`AMMoraquile`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(200,200,400,600,800))
+Core.MaxHealth",Values=(200,200,400,600,700))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(450,1200,2500,3500,5000))
+Core.CombatWeight",Values=(450,1000,2000,3000,4000))
 Core.Armor",Values=(0.1,0.3,0.6,0.8,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(2,1.5,1.25,1,1))
@@ -81,7 +81,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -435,7 +435,7 @@ Multiplier.StatHunter.FallDeathSpeed",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -454,7 +454,7 @@ StaminaDiveCostPerSecond",Values=(1,1,1,1,1))
 StaminaFastDiveCostPerSecond",Values=(2,2,2,2,2))
 StaminaTrotDiveCostPerSecond",Values=(1.5,1.5,1.5,1.5,1.5))
 StaminaJumpCost",Values=(5,5,5,5,5))
-StaminaFlyCostPerSecond",Values=(2,1,0.75,0.5,0))
+StaminaFlyCostPerSecond",Values=(2,1,0.75,0.5,0.4))
 StaminaFastFlyCostPerSecond",Values=(2.5,2,1.5,1,0.65))
 StaminaLatchCostPerSecond",Values=(1,1,1,1,1))
 BreachStaminaCost",Values=(15,15,12,10,9))
@@ -533,9 +533,13 @@ BeakClackCooldown",Values=(300,300,300,300,300))
 BeakClackRange",Values=(1000,1000,1000,1000,1000))
 BeakClackCost",Values=(0,0,0,0,0))
 BeakClackImmunityDuration",Values=(3,3,3,3,3))
+SenseFreshBloodRange",Values=(5000,5000,5000,5000,5000))
+SenseFreshBloodCheckTargetIntervalTime",Values=(1,1,1,1,1))
+SenseFreshBloodBuffDuration",Values=(3,3,3,3,3))
+SenseFreshBloodDamageMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

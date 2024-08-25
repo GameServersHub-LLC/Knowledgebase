@@ -10,7 +10,7 @@ title: DavidRosaPachyrhino
 ---
 # DavidRosaPachyrhino
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +293,7 @@ Multiplier.SpeedySubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.StandardSubSpecies.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -305,23 +305,26 @@ StaminaFastSwimCostPerSecond",Values=(0.6,1.2,1.5,1.7,2))
 StaminaDiveCostPerSecond",Values=(0.4,1,1.2,1.4,1.66))
 StaminaFastDiveCostPerSecond",Values=(0.6,1.2,1.5,1.7,2))
 StaminaJumpCost",Values=(5,5,5,5,5))
-BiteDamage",Values=(20,20,30,35,35))
+BiteDamage",Values=(25,25,25,30,30))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteCooldown",Values=(2,2,2,2,2))
 BiteDamageIncrease",Values=(1.05,1.05,1.05,1.05,1.05))
 BiteDamageIncreaseDuration",Values=(10,10,10,10,10))
 FrostbittenSmashMovement",Values=(200,250,300,350,350))
 FrostbittenSmashDamage",Values=(20,25,30,75,80))
-FrostbittenSmashBoneBreakChance",Values=(0,0,0.01,0.03,0.05))
 FrostbittenSmashCooldown",Values=(3.5,3.5,3.5,3.5,3.25))
 FrostbittenSmashCooldownEnemyIncrease",Values=(1.2,1.2,1.2,1.2,1.2))
 FrostbittenSmashCooldownEnemyDuration",Values=(15,15,15,15,15))
 FrostbittenSmashStaminaCost",Values=(0,0,0,0,0))
 FrostbittenSmashSelfDamagePercent",Values=(0.2,0.2,0.2,0.2,0.2))
+FrostbittenSmashBoneBreakChance",Values=(0,0,0,0,0))
+FrostbittenSmashBoneBreakAmount",Values=(0,0,0,0,0))
 MeteorCrusherDamage",Values=(55,60,70,80,90))
 MeteorCrusherSelfDamagePercent",Values=(0.33,0.33,0.33,0.33,0.33))
 MeteorCrusherCooldown",Values=(7,7,7,7,7))
 MeteorCrusherStaminaCost",Values=(5,5,5,5,5))
+MeteorCrusherBoneBreakChance",Values=(0,0,0,0,0))
+MeteorCrusherBoneBreakAmount",Values=(0,0,0,0,0))
 WinterBarricadeArmorUp",Values=(1.1,1.1,1.1,1.1,1.1))
 WinterBarricadeSelfArmorUp",Values=(1.05,1.05,1.05,1.05,1.05))
 WinterBarricadeDuration",Values=(60,60,60,60,60))
@@ -337,7 +340,7 @@ ArmouredParryActivationCost",Values=(1,1,1,1,1))
 ArmouredParryOngoingCost",Values=(1,1,1,1,1))
 ArmouredParrySelfArmorUp",Values=(1.05,1.05,1.05,1.05,1.05))
 ArmouredParryEnemyArmorDown",Values=(0.95,0.95,0.95,0.95,0.95))
-ArmouredParryCooldown",Values=(4,4,4,4,4))
+ArmouredParryCooldown",Values=(9,9,9,9,9))
 ArmouredParryDuration",Values=(10,10,10,10,10))
 ArmouredParryScalar",Values=(0.01,0.01,0.01,0.01,0.01))
 StampedeDamageIncrease",Values=(1.02,1.02,1.02,1.02,1.02))
@@ -350,19 +353,19 @@ ThickScales",Values=(1.15,1.15,1.15,1.15,1.15))
 ArmouredFrill",Values=(1.6,1.6,1.6,1.6,1.6))
 DeepenedSlumberHealthRegen",Values=(1.2,1.2,1.2,1.2,1.2))
 DeepenedSlumberStaminaRegen",Values=(1.2,1.2,1.2,1.2,1.2))
-BullSmashKickDamage",Values=(50,60,65,70,75))
+BullSmashKickDamage",Values=(50,60,65,70,70))
 BullSmashBreakChance",Values=(0,0,0.01,0.03,0.05))
-BullSmashCooldown",Values=(8.5,8.5,8.5,8.5,8.5))
+BullSmashCooldown",Values=(10,10,10,10,10))
 BullSmashAmount",Values=(0,0,0,0,0))
-BullSmashStompDamage",Values=(50,60,75,80,85))
+BullSmashStompDamage",Values=(50,60,75,75,75))
 BullSmashStaminaCost",Values=(10,10,10,10,10))
 StompRadius",Values=(100,200,350,400,500))
 BullSmashStompForwardBackwardMod",Values=(0,0,0,0,0))
 BullSmashStompLeftRightMod",Values=(0,0,0,0,0))
 BullSmashStompUpDownMod",Values=(0,0,0,0,0))
-ChargeSpeedIncrease",Values=(400,600,800,1000,1200))
+ChargeSpeedIncrease",Values=(600,800,800,1000,1000))
 ChargeAccelerationIncrease",Values=(1.5,1.5,1.5,1.5,1.5))
-ChargeTurnReduction",Values=(0.75,0.75,0.75,0.75,0.75))
+ChargeTurnReduction",Values=(0.67,0.67,0.67,0.67,0.67))
 ChargeDuration",Values=(10,10,10,10,10))
 ChargeCooldown",Values=(45,45,45,45,45))
 ChargeCost",Values=(10,10,10,10,10))
@@ -393,7 +396,7 @@ CanadensisBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 PerotorumBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

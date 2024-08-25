@@ -10,7 +10,7 @@ title: Gigantoraptor
 ---
 # Gigantoraptor
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -24,9 +24,9 @@ Listed below are the default stats for the following creature:`Gigantoraptor`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(120,400,500,650,850))
+Core.MaxHealth",Values=(100,225,350,550,675))
 Core.MaxStamina",Values=(50,100,100,100,100))
-Core.CombatWeight",Values=(250,900,2200,3200,4000))
+Core.CombatWeight",Values=(500,1100,2400,3600,4000))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -59,7 +59,7 @@ Core.StaminaRecoveryRate",Values=(0.4,0.4,0.4,0.4,0.5))
 Core.JumpForceMultiplier",Values=(1,1.25,1,0,0))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(2000,2000,2000,2000,2000))
-Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
+Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.4,1.3))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 Core.BuffDurationMultiplier",Values=(1,1,1,1,1))
 Core.SpikeDamageMultiplier",Values=(1,1,1,1,1))
@@ -79,7 +79,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -287,37 +287,35 @@ Multiplier.StandardSubSpecies.RunSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
-BiteDamage",Values=(20,20,30,30,30))
-BoneBreakChance",Values=(0,0,0.01,0.03,0.05))
+BiteDamage",Values=(30,30,30,30,30))
 BiteCooldown",Values=(1,1,1,1,1))
-BleedAmount",Values=(1,2,3,4,5))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond",Values=(0.2,0.25,0.3,0.35,0.4))
+StaminaSprintCostPerSecond",Values=(9.5,0.7,0.9,1.1,1.3))
 StaminaSwimCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaFastSwimCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaFastDiveCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaJumpCost",Values=(5,5,5,5,5))
-ScratchDamage",Values=(20,20,30,30,30))
-ScratchCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
+ScratchDamage",Values=(55,55,55,55,55))
+ScratchCooldown",Values=(3,3,3,3,3))
 ScratchBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
-ScratchStaminaCost",Values=(0,0,0,0,0))
-DropKickDamage",Values=(30,30,60,60,80))
-DropKickCooldown",Values=(3,3,3,3,3))
+ScratchStaminaCost",Values=(1.5,1.5,1.5,1.5,1.5))
+DropKickDamage",Values=(80,80,80,80,80))
+DropKickCooldown",Values=(5,5,5,5,5))
 DropKickBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
-DropKickStaminaCost",Values=(7.5,7.5,7.5,7.5,7.5))
+DropKickStaminaCost",Values=(6,6,6,6,6))
 DropKickHealthCost",Values=(0,0,0,0,0))
 PeckDamage",Values=(7,7,7,7,7))
 PeckCooldown",Values=(1,1,1,1,1))
 PeckStaminaCost",Values=(0,0,0,0,0))
 PeckBuffDuration",Values=(7,7,7,7,7))
 PeckBuffModifier",Values=(1.2,1.2,1.2,1.2,1.2))
-RazorBiteDamage",Values=(16,16,16,16,16))
+RazorBiteDamage",Values=(21,21,21,21,21))
 RazorBiteCooldown",Values=(1,1,1,1,1))
 RazorBiteStaminaCost",Values=(0,0,0,0,0))
 RazorBiteBleedAmount",Values=(0.5,0.5,0.5,0.5,0.5))
@@ -325,7 +323,7 @@ SharpenedTalonsBleedBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 NutcrackerDamage",Values=(100,100,100,100,100))
 NutcrackerCooldown",Values=(1,1,1,1,1))
 NutcrackerStaminaCost",Values=(0,0,0,0,0))
-TailDamage",Values=(5,9,12,15,15))
+TailDamage",Values=(22,22,22,22,22))
 TailStaminaCost",Values=(0,0,0,0,0))
 TailCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 StompDamage",Values=(20,20,50,50,60))
@@ -367,7 +365,7 @@ BorrowedTimeSpeedDebuffDuration",Values=(15,15,15,15,15))
 SlipperyDrainMultiplier",Values=(1.3,1.3,1.3,1.3,1.3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-22-2024 by Mike</span>
+<span style="color: #ffd369;">08-24-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
