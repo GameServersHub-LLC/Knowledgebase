@@ -10,7 +10,7 @@ title: CTAndrewsarchus
 ---
 # CTAndrewsarchus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -59,7 +59,7 @@ Core.HealthRecoveryRate",Values=(4.66,3.73,2.98,2.38,2.18))
 Core.StaminaRecoveryRate",Values=(1.36,1.2,1.04,0.72,0.65))
 Core.GrowthPerSecond",Values=(1.33,1.14,1,0.88,0.75))
 Core.FallDeathSpeed",Values=(5247,4562.6,3967.5,2450,2100))
-Core.TurnRadiusMultiplier",Values=(1.74,1.52,1.3,1.2,0.96))
+Core.TurnRadiusMultiplier",Values=(1.74,1.52,1.3,1.2,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1.8,1.6,1.4,1.2,1))
 Core.HippoSubSpecies.Speed",Values=(0.95,0.95,0.95,0.93,0.9))
 Core.HippoSubSpecies.IncomingDamage",Values=(0.95,0.95,0.95,0.95,0.95))
@@ -130,7 +130,7 @@ Core.SpeedySubSpecies.Speed",Values=(1.05,1.05,1.05,1.05,1.05))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -350,7 +350,7 @@ Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,0.95))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -387,7 +387,7 @@ CrunchCooldown",Values=(45,45,45,45,45))
 CrunchStaminaCost",Values=(22,22,22,22,22))
 CrunchBoneBreakAmount",Values=(2,3,6,9,12))
 CrunchSprintSpeedMult",Values=(0.99,0.99,0.99,0.99,0.99))
-HeadbuttDamage",Values=(5,10,15,25,35))
+HeadbuttDamage",Values=(5,10,15,20,25))
 HeadbuttBoneBreakChance",Values=(0,0,0,0,0))
 HeadbuttBleedAmount",Values=(0,0,0,0,0))
 HeadbuttCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
@@ -428,17 +428,17 @@ Core.Seafarer.MaxOxygen",Values=(1.5,1.5,1.5,1.5,1.5))
 Core.Seafarer.OxygenDepletion",Values=(0.75,0.75,0.75,0.75,0.75))
 Core.Seafarer.OxygenRecovery",Values=(1.5,1.5,1.5,1.5,1.5))
 Core.Seafarer.OxygenDamage",Values=(0.5,0.5,0.5,0.5,0.5))
-Core.ThinHide.Armor",Values=(0.95,0.95,0.95,0.95,0.95))
+Core.ThinHide.Armor",Values=(1,1,1,1,1))
 Core.ThinHide.Speed",Values=(1.05,1.05,1.05,1.05,1.05))
 Core.ThinHide.Turn",Values=(1,1,1,1,1))
-Core.ThinHide.Weight",Values=(0.99,0.99,0.99,0.99,0.99))
-Core.ThickHide.Armor",Values=(1.14,1.14,1.14,1.14,1.14))
+Core.ThinHide.Weight",Values=(1,1,1,1,1))
+Core.ThickHide.Armor",Values=(1.1,1.1,1.1,1.1,1.1))
 Core.ThickHide.Speed",Values=(0.97,0.97,0.97,0.97,0.97))
 Core.ThickHide.Turn",Values=(1,1,1,1,1))
 Core.ThickHide.Weight",Values=(1.01,1.01,1.01,1.01,1.01))
 Core.Charge.Turning",Values=(0.5,0.5,0.5,0.5,0.5))
-Core.PlantedHooves.Turning",Values=(1.15,1.15,1.15,1.15,1.15))
-Core.PlantedHooves.TurnInPlace",Values=(1.15,1.15,1.15,1.15,1.15))
+Core.PlantedHooves.Turning",Values=(1.1,1.1,1.1,1.1,1.1))
+Core.PlantedHooves.TurnInPlace",Values=(1.1,1.1,1.1,1.1,1.1))
 Core.PlantedHooves.StaminaRecovery",Values=(0.75,0.75,0.75,0.75,0.75))
 Core.Vault.Turning",Values=(1.02,1.02,1.02,1.02,1.02))
 Core.Vault.TurnInPlace",Values=(1.12,1.12,1.12,1.12,1.12))
@@ -451,9 +451,9 @@ Core.DistanceRunner.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 Core.Leap.JumpForce",Values=(1.1,1.1,1.1,1.1,1.1))
 Core.Leap.StaminaRecovery",Values=(0.9,0.9,0.9,0.9,0.9))
 Core.Leap.FallRes",Values=(1.2,1.2,1.2,1.2,1.2))
-Core.Leap.Turning",Values=(0.75,0.75,0.75,0.75,0.75))
-Core.Leap.MaxStamina",Values=(0.75,0.75,0.75,0.75,0.75))
-Core.Leap.Weight",Values=(0.95,0.95,0.95,0.95,0.95))
+Core.Leap.Turning",Values=(1,1,1,1,1))
+Core.Leap.MaxStamina",Values=(1,1,1,1,1))
+Core.Leap.Weight",Values=(0.96,0.96,0.96,0.96,0.96))
 Core.MolarBite.BonebreakMult",Values=(1.2,1.2,1.2,1.2,1.2))
 Core.MolarBite.Speed",Values=(0.93,0.93,0.93,0.93,0.93))
 Core.Dive.OxygenDepletion",Values=(0.75,0.75,0.75,0.75,0.75))
@@ -467,7 +467,7 @@ BerserkerDamageMult",Values=(0.72,0.72,0.72,0.72,0.72))
 BerserkerCooldownMult",Values=(0.4,0.4,0.4,0.4,0.4))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

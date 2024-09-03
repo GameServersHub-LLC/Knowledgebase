@@ -10,7 +10,7 @@ title: SpearcrestNew
 ---
 # SpearcrestNew
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -24,10 +24,10 @@ Listed below are the default stats for the following creature:`SpearcrestNew`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(400,525,650,785,1100))
+Core.MaxHealth",Values=(400,525,650,785,950))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(750,1200,2500,3500,6300))
-Core.Armor",Values=(1.3,1.3,1.3,1.3,1.3))
+Core.CombatWeight",Values=(750,1200,2500,3500,6200))
+Core.Armor",Values=(1.05,1.05,1.05,1.05,1.05))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -80,7 +80,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -285,7 +285,7 @@ Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -312,7 +312,7 @@ SkullbashDamage",Values=(16,20,30,55,70))
 SkullbashCooldown",Values=(8,8,8,8,8))
 SkullbashStaminaCost",Values=(10,10,10,10,10))
 SkullbashChargeDamageReduction",Values=(0.75,0.75,0.75,0.75,0.75))
-ClawDamage",Values=(20,30,30,30,35))
+ClawDamage",Values=(20,35,35,35,40))
 ClawStaminaCost",Values=(0,0,0,0,0))
 ClawBoneBreakChance",Values=(0,0,0,0,0))
 ClawCooldown",Values=(3,3,3,3,3))
@@ -332,13 +332,13 @@ ChargeCost",Values=(20,20,20,20,20))
 ChargeDamage",Values=(35,35,55,55,75))
 ChargeCooldown",Values=(50,50,50,50,50))
 ChargeDuration",Values=(20,20,20,20,25))
-TailAttackDamage",Values=(10,20,30,30,30))
+TailAttackDamage",Values=(10,20,30,40,50))
 TailAttackCooldown",Values=(3,3,3,3,3))
 TailAttackStaminaCost",Values=(0,0,0,0,0))
 TailVenomAmount",Values=(0.2,0.2,0.2,0.2,0.2))
 TailBleedAmount",Values=(0.2,0.2,0.2,0.2,0.2))
 StompRadius",Values=(80,250,350,450,550))
-StompDamage",Values=(30,50,70,90,120))
+StompDamage",Values=(30,50,70,90,130))
 StompForwardBackwardMod",Values=(20,40,70,100,150))
 StompLeftRightMod",Values=(0,0,0,0,0))
 StompUpDownMod",Values=(0,0,0,0,0))
@@ -351,9 +351,9 @@ TyrantRoarInterruptedCooldown",Values=(3,3,3,3,3))
 MjolnirHealStatusEffect",Values=(50,50,50,50,50))
 MjolnirStaminaCost",Values=(15,15,15,15,15))
 MjolnirRoarDuration",Values=(2,2,2,2,2))
-MjolnirRadius",Values=(80,150,250,400,700))
-MjolnirDamage",Values=(20,20,20,20,20))
-MjolnirForwardBackwardMod",Values=(20,40,70,100,250))
+MjolnirRadius",Values=(500,650,750,800,1000))
+MjolnirDamage",Values=(100,100,100,100,130))
+MjolnirForwardBackwardMod",Values=(20,40,70,100,450))
 MjolnirLeftRightMod",Values=(0,0,0,0,0))
 MjolnirUpDownMod",Values=(0,0,0,0,0))
 RumblingHissCooldown",Values=(160,160,160,160,160))
@@ -388,7 +388,7 @@ RampageSearchRange",Values=(5000,5000,5000,5000,5000))
 RampageCheckTargetInterval",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

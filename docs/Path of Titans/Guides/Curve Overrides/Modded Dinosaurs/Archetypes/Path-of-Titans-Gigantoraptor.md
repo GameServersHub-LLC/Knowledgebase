@@ -10,7 +10,7 @@ title: Gigantoraptor
 ---
 # Gigantoraptor
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -34,8 +34,8 @@ Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.BodyFoodAmount",Values=(100,525,950,1375,1800))
 Core.MaxHunger",Values=(50,262.5,475,687.5,900))
 Core.MaxThirst",Values=(50,262.5,475,687.5,900))
-Core.HungerDepletionRate",Values=(0.03,0.14,0.25,0.36,0.47))
-Core.ThirstDepletionRate",Values=(0.03,0.14,0.25,0.36,0.47))
+Core.HungerDepletionRate",Values=(0.03,0.1,0.18,0.25,0.36))
+Core.ThirstDepletionRate",Values=(0.03,0.1,0.18,0.25,0.36))
 Core.FoodConsumptionRate",Values=(20,50,75,100,140))
 Core.WaterConsumptionRate",Values=(20,50,75,100,140))
 Core.MaxOxygen",Values=(100,100,100,100,100))
@@ -59,7 +59,7 @@ Core.StaminaRecoveryRate",Values=(0.4,0.4,0.4,0.4,0.5))
 Core.JumpForceMultiplier",Values=(1,1.25,1,0,0))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(2000,2000,2000,2000,2000))
-Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.4,1.3))
+Core.TurnRadiusMultiplier",Values=(1,1,1,1,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 Core.BuffDurationMultiplier",Values=(1,1,1,1,1))
 Core.SpikeDamageMultiplier",Values=(1,1,1,1,1))
@@ -79,7 +79,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -287,7 +287,7 @@ Multiplier.StandardSubSpecies.RunSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -305,6 +305,15 @@ ScratchDamage",Values=(55,55,55,55,55))
 ScratchCooldown",Values=(3,3,3,3,3))
 ScratchBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
 ScratchStaminaCost",Values=(1.5,1.5,1.5,1.5,1.5))
+RakeDamage",Values=(42,42,42,42,42))
+RakeCooldown",Values=(2,2,2,2,2))
+RakeBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
+RakeStaminaCost",Values=(1,1,1,1,1))
+SliceDamage",Values=(35,35,35,35,35))
+SliceCooldown",Values=(5,5,5,5,5))
+SliceSpeedDebuff",Values=(0.9,0.9,0.9,0.9,0.9))
+SliceSpeedDebuffDuration",Values=(5,5,5,5,5))
+SliceStaminaCost",Values=(1.5,1.5,1.5,1.5,1.5))
 DropKickDamage",Values=(80,80,80,80,80))
 DropKickCooldown",Values=(5,5,5,5,5))
 DropKickBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
@@ -365,7 +374,7 @@ BorrowedTimeSpeedDebuffDuration",Values=(15,15,15,15,15))
 SlipperyDrainMultiplier",Values=(1.3,1.3,1.3,1.3,1.3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

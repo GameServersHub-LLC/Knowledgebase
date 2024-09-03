@@ -10,7 +10,7 @@ title: CTAnkylorhiza
 ---
 # CTAnkylorhiza
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -26,11 +26,11 @@ Listed below are the default stats for the following creature:`CTAnkylorhiza`
 ```cs
 Core.MaxHealth",Values=(300,325,450,525,600))
 Core.MaxStamina",Values=(50,100,100,100,100))
-Core.CombatWeight",Values=(500,1200,1600,2000,2750))
+Core.CombatWeight",Values=(500,1200,1600,2000,2850))
 Core.Armor",Values=(1,1,1,1,1))
-Core.MovementSpeedMultiplier",Values=(1.07,1.11,1.07,1.04,1))
-Core.SprintingSpeedMultiplier",Values=(1.3,1.45,1.3,1.15,1))
-Core.TrottingSpeedMultiplier",Values=(1.07,1.11,1.07,1.04,1))
+Core.MovementSpeedMultiplier",Values=(1.03,1.04,1.03,1.01,1))
+Core.SprintingSpeedMultiplier",Values=(1.12,1.18,1.12,1.06,1))
+Core.TrottingSpeedMultiplier",Values=(1.03,1.03,1.07,1.01,1))
 Core.BodyFoodAmount",Values=(100,225,350,475,600))
 Core.MaxHunger",Values=(50,112.5,175,237.5,300))
 Core.MaxThirst",Values=(50,112.5,175,237.5,300))
@@ -82,7 +82,7 @@ Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 Core.CarryCapacity",Values=(100,400,1000,1401,1901))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -390,7 +390,7 @@ Multiplier.ProsqualodonSubSpecies.TurnSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -399,7 +399,7 @@ BiteDamage",Values=(1,5,10,20,55))
 BiteCooldown",Values=(1.25,1.25,1.25,1.25,1.25))
 CleavingBiteDamage",Values=(5,15,25,50,70))
 CleavingBiteCooldown",Values=(8,8,8,8,8))
-CleavingBleedAmount",Values=(0.01,0.03,0.05,0.15,0.3))
+CleavingBleedAmount",Values=(0.01,0.03,0.05,0.1,0.15))
 CleavingDebuffDuration",Values=(0.05,0.05,0.05,0.05,0.05))
 FlingDamage",Values=(5,10,15,20,30))
 FlingCooldown",Values=(5,5,5,5,5))
@@ -414,7 +414,7 @@ ChargeSpeedIncrease",Values=(800,1000,1400,1600,2250))
 ChargeAccelerationIncrease",Values=(2,2,2,2,2))
 ChargeCost",Values=(20,20,20,20,20))
 ChargeDamage",Values=(20,20,20,20,20))
-ChargeBleed",Values=(0.5,0.5,0.5,0.5,0.5))
+ChargeBleed",Values=(0.3,0.3,0.3,0.3,0.3))
 ChargeCooldown",Values=(30,30,30,30,30))
 ChargeDuration",Values=(5,5,5,5,5))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
@@ -442,7 +442,7 @@ PodRadius",Values=(3000,3000,3000,3000,3000))
 StunSpeedAffect",Values=(0,0,0,0,0))
 StunStaminaRecoveryAffect",Values=(0,0,0,0,0))
 StunTurnAffect",Values=(0,0,0,0,0))
-StunOxygenDepletionAffect",Values=(1.5,1.5,1.5,1.5,1.5))
+StunOxygenDepletionAffect",Values=(3,3,3,3,3))
 StunOxygenRegenAffect",Values=(0,0,0,0,0))
 StunDamageAffect",Values=(0,0,0,0,0))
 StunIncomingDamageAffect",Values=(0.7,0.7,0.7,0.7,0.7))
@@ -500,7 +500,7 @@ HyperCarnivoreFoodDrainMult",Values=(1,1,1,1,1))
 HyperCarnivoreWaterDrainMult",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
