@@ -10,7 +10,7 @@ title: DavidRosaPachyrhino
 ---
 # DavidRosaPachyrhino
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -42,7 +42,7 @@ Core.MaxOxygen",Values=(100,100,100,100,100))
 Core.OxygenDepletionRate",Values=(2,2,2,2,2))
 Core.OxygenRecoveryRate",Values=(5,5,5,5,5))
 Core.FallingLegDamage",Values=(10,50,50,50,50))
-Core.LegHealRate",Values=(1.15,1.15,1.15,1.15,1.15))
+Core.LegHealRate",Values=(1.35,1.35,1.35,1.35,1.35))
 Core.BleedingRate",Values=(0,0,0,0,0))
 Core.BleedingHealRate",Values=(0.03,0.03,0.03,0.03,0.03))
 Core.PoisonRate",Values=(0,0,0,0,0))
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +293,7 @@ Multiplier.SpeedySubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.StandardSubSpecies.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -340,19 +340,20 @@ ArmouredParryActivationCost",Values=(1,1,1,1,1))
 ArmouredParryOngoingCost",Values=(1,1,1,1,1))
 ArmouredParrySelfArmorUp",Values=(1.05,1.05,1.05,1.05,1.05))
 ArmouredParryEnemyArmorDown",Values=(0.95,0.95,0.95,0.95,0.95))
-ArmouredParryCooldown",Values=(9,9,9,9,9))
+ArmouredParryCooldown",Values=(7,7,7,7,7))
 ArmouredParryDuration",Values=(10,10,10,10,10))
 ArmouredParryScalar",Values=(0.01,0.01,0.01,0.01,0.01))
 StampedeDamageIncrease",Values=(1.02,1.02,1.02,1.02,1.02))
-ImperialMarchArmorIncrease",Values=(1.05,1.05,1.05,1.05,1.05))
+ImperialMarchArmorIncrease",Values=(1.1,1.1,1.1,1.1,1.1))
+ImperialMarchAccelIncrease",Values=(1.5,1.5,1.5,1.5,1.5))
 LoneWandererAbnormalConditionsHeal",Values=(1.1,1.1,1.1,1.1,1.1))
 LoneWandererTurnSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
 LoneWandererHungerThirstDrain",Values=(0.5,0.5,0.5,0.5,0.5))
 RecklessDamageUp",Values=(1.2,1.2,1.2,1.2,1.2))
 ThickScales",Values=(1.15,1.15,1.15,1.15,1.15))
 ArmouredFrill",Values=(1.6,1.6,1.6,1.6,1.6))
-DeepenedSlumberHealthRegen",Values=(1.2,1.2,1.2,1.2,1.2))
-DeepenedSlumberStaminaRegen",Values=(1.2,1.2,1.2,1.2,1.2))
+DeepenedSlumberHealthRegen",Values=(1.3,1.3,1.3,1.3,1.3))
+DeepenedSlumberStaminaRegen",Values=(1.3,1.3,1.3,1.3,1.3))
 BullSmashKickDamage",Values=(50,60,65,70,70))
 BullSmashBreakChance",Values=(0,0,0.01,0.03,0.05))
 BullSmashCooldown",Values=(10,10,10,10,10))
@@ -363,7 +364,7 @@ StompRadius",Values=(100,200,350,400,500))
 BullSmashStompForwardBackwardMod",Values=(0,0,0,0,0))
 BullSmashStompLeftRightMod",Values=(0,0,0,0,0))
 BullSmashStompUpDownMod",Values=(0,0,0,0,0))
-ChargeSpeedIncrease",Values=(600,800,800,1000,1000))
+ChargeSpeedIncrease",Values=(600,800,800,1000,1200))
 ChargeAccelerationIncrease",Values=(1.5,1.5,1.5,1.5,1.5))
 ChargeTurnReduction",Values=(0.67,0.67,0.67,0.67,0.67))
 ChargeDuration",Values=(10,10,10,10,10))
@@ -396,7 +397,7 @@ CanadensisBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 PerotorumBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-24-2024 by Mike</span>
+<span style="color: #ffd369;">09-03-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
