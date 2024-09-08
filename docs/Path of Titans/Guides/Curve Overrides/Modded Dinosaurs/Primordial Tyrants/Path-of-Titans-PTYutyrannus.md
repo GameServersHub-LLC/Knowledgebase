@@ -10,7 +10,7 @@ title: PTYutyrannus
 ---
 # PTYutyrannus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -55,7 +55,7 @@ Core.OxygenDamage",Values=(6,6,6,6,6))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
 Core.HealthRecoveryRate",Values=(1,2,3,2,1.2))
-Core.StaminaRecoveryRate",Values=(0.9,0.8,0.7,0.55,0.4))
+Core.StaminaRecoveryRate",Values=(0.9,0.8,0.7,0.65,0.6))
 Core.JumpForceMultiplier",Values=(1,1.25,1,0,0))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(3000,3000,3000,3000,3000))
@@ -63,7 +63,7 @@ Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -271,7 +271,7 @@ Multiplier.StaminaSubSpecies.Stamina",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1.18))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -302,6 +302,7 @@ TendonRuptureStackDuration",Values=(6,6,6,6,6))
 TendonRuptureDebuffDuration",Values=(10,10,10,10,10))
 TendonRuptureDebuffTurnRadius",Values=(0.75,0.75,0.75,0.75,0.75))
 TendonRuptureDebuffSpeed",Values=(0.75,0.75,0.75,0.75,0.75))
+TendonRuptureDebuffIncrement",Values=(0.97,0.97,0.97,0.97,0.97))
 TendonRuptureBiteCooldown",Values=(3,3,3,3,3))
 TendonRuptureBiteStaminaCost",Values=(2,2,2,2,2))
 SwiftStrikesDamage",Values=(4,4,4,4,4))
@@ -358,7 +359,7 @@ LegGambitSprintsSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
 LegGambitTurnradius",Values=(0.9,0.9,0.9,0.9,0.9))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
