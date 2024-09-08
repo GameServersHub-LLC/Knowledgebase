@@ -16,6 +16,9 @@ Below you'll find a list of all maps **Path of Titans** offers!
 ## Aedis
 Not currently updated to the latest version of Path of Titans
 
+## Asylum Lounge
+<a href='./Path-of-Titans-Asylum-Lounge' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1255/conversions/AsylumLoungeTN1-icon.jpg' /> </a>
+
 ## Avernus
 Not currently updated to the latest version of Path of Titans
 
@@ -29,7 +32,7 @@ This map will not be updated going forward
 Not currently updated to the latest version of Path of Titans
 
 ## Gondwa
-<a href='./Path-of-Titans-Gondwa' target='_blank'> <img src='https://cdn.discordapp.com/attachments/1153788245524619364/1276078532996366388/gondwa.webp?ex=66c8383e&is=66c6e6be&hm=7734887c63e670164f03f9e469d5375d66fba4378b6d9d70ff4625463a14e2c9&' /> </a>
+<a href='./Path-of-Titans-Gondwa' target='_blank'> <img src='https://i.postimg.cc/6QZz8hZX/Screenshot-2024-09-08-000124.png' /> </a>
 
 ## Infinita
 Not currently updated to the latest version of Path of Titans
@@ -41,7 +44,7 @@ Not currently updated to the latest version of Path of Titans
 <a href='./Path-of-Titans-NewEra' target='_blank'> <img src='https://web-cdn.alderongames.com/files/690/conversions/NewEra-icon.jpg' /> </a>
 
 ## Panjura
-<a href='./Path-of-Titans-Panjura' target='_blank'> <img src='https://cdn.discordapp.com/attachments/1153788245524619364/1276078532774203413/Panjura.webp?ex=66c8383e&is=66c6e6be&hm=22dcabf6150e894bb64abc36d7b3bfcf4fa71670c4c894f09bcf73a649fdac9f&' /> </a>
+<a href='./Path-of-Titans-Panjura' target='_blank'> <img src='https://i.postimg.cc/cHX3CKFW/Screenshot-2024-09-08-000203.png' /> </a>
 
 ## Paragon
 <a href='./Path-of-Titans-Paragon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/788/conversions/Thumbnail-icon.jpg' /> </a>
@@ -56,4 +59,4 @@ Not currently updated to the latest version of Path of Titans
 Not currently updated to the latest version of Path of Titans
 
 ## The Grim Expanse
-<a href='./Path-of-Titans-TheGrimExpanse' target='_blank'> <img src='https://web-cdn.alderongames.com/files/962/conversions/ac2064af78d714ae2ff45c00bc9d007f-icon.jpg' /> </a>
+<a href='./Path-of-Titans-TheGrimExpanse' target='_blank'> <img src='https://i.postimg.cc/7YM5ZJhW/Screenshot-2024-09-08-000428.png' /> </a>
