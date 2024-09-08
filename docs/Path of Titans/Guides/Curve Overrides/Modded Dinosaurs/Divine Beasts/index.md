@@ -52,7 +52,7 @@ Modder's [Discord Link](#)
 <a href='./Path-of-Titans-TGBsalamander' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1170/conversions/Salamander_Mod_Pic_TGBM_V2-icon.jpg' /> </a>
 
 ## Kryptops
-<a href='./Path-of-Titans-CretaceousKryptops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/852/conversions/Kryptops-photo-icon.jpg' /> </a>
+<a href='./Path-of-Titans-CretaceousKryptops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/852/conversions/Kryptops-photo-icon.jp' /> </a>
 
 ## Mosasaurus
 <a href='./Path-of-Titans-DivineMosa' target='_blank'> <img src='https://web-cdn.alderongames.com/files/993/conversions/Mosasaurus_Thumbnail-icon.jpg' /> </a>

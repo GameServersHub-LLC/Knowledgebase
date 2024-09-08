@@ -18,7 +18,6 @@ This your mod? You want your info here? Make a ticket in our [Discord!](https://
 
 Modder's [Discord Link](#)
 
-## Bwi
-<a href='./Path-of-Titans-Bwi' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1100/conversions/BwiPreview-icon.jpg' /> </a>
+## [Bwi](./Path-of-Titans-Bwi) *Not Updated
 
-## Gonari *Not Updated
+## [Gonari](./Path-of-Titans-Gonari) *Not Updated

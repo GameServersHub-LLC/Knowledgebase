@@ -21,4 +21,4 @@ This your mod? You want your info here? Make a ticket in our [Discord!](https://
 ## Armored Eotriceratops
 <a href='./Path-of-Titans-EoTLC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1171/conversions/EoThumbnail1-icon.jpg' /> </a>
 
-## Beaked Pachycephalosaurus *Not Updated
+### [Beaked Pachycephalosaurus](./Path-of-Titans-Armored-Beaked-Pachycephalosaurus) *Not Updated

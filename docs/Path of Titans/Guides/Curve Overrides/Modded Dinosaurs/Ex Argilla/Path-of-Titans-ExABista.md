@@ -10,11 +10,11 @@ title: ExABista
 ---
 # ExABista
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
->Please be sure to add `CurveOverrides=(CurveName="ExABista.` in front of every line in the `Game.ini` under [/Script/PathOfTitans.IGameSession]`
+>Please be sure to add `CurveOverrides=(CurveName="ExABista.` in front of every line in the `Game.ini` under `[/Script/PathOfTitans.IGameSession]`
 
 ::: warning
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
@@ -81,7 +81,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -197,8 +197,8 @@ Multiplier.BleedingHealRate.Resting",Values=(6,6,6,6,6))
 Multiplier.BleedingHealRate.Sleeping",Values=(9,9,9,9,9))
 Multiplier.BleedingHealRate.Standing",Values=(1,1,1,1,1))
 Multiplier.BleedingHealRate.Walking",Values=(0.75,0.75,0.75,0.75,0.75))
-Multiplier.BleedingHealRate.Trotting",Values=(0.25,0.25,0.25,0.25,0.25))
-Multiplier.BleedingHealRate.Sprinting",Values=(0.5,0.5,0.5,0.5,0.5))
+Multiplier.BleedingHealRate.Trotting",Values=(0.5,0.5,0.5,0.5,0.5))
+Multiplier.BleedingHealRate.Sprinting",Values=(0.25,0.25,0.25,0.25,0.25))
 Multiplier.BleedingHealRate.Swimming",Values=(0.25,0.25,0.25,0.25,0.25))
 Multiplier.BleedingHealRate.TrotSwimming",Values=(1,1,1,1,1))
 Multiplier.BleedingHealRate.FastSwimming",Values=(1,1,1,1,1))
@@ -430,7 +430,7 @@ Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -447,7 +447,7 @@ StaminaJumpCost",Values=(10,20,30,30,5))
 StaminaFlyCostPerSecond",Values=(3,5,5,7,10))
 StaminaFastFlyCostPerSecond",Values=(3,5,5,7,10))
 StaminaLatchCostPerSecond",Values=(1,1,1,1,1))
-BiteDamage",Values=(10,20,30,35,40))
+BiteDamage",Values=(10,20,30,40,50))
 BiteStaminaCost",Values=(0,0,0,0,0))
 BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 DecimationDamage",Values=(18,36,45,60,70))
@@ -462,7 +462,7 @@ TailAttackStaminaCost",Values=(0,0,0,0,0))
 DestroyDamage",Values=(5,10,15,20,30))
 DestroyCooldown",Values=(6,6,6,6,6))
 DestroyStaminaCost",Values=(5,5,5,5,5))
-ArmorDebuffEffect",Values=(0.9,0.9,0.9,0.9,0.9))
+ArmorDebuffEffect",Values=(0.05,0.05,0.05,0.05,0.05))
 ArmorDebuffDuration",Values=(20,20,20,20,20))
 SnareDamage",Values=(5,10,15,20,30))
 SnareCooldown",Values=(6,6,6,6,6))
@@ -502,7 +502,22 @@ CooldownDebuffCooldown",Values=(300,300,300,300,300))
 CooldownDebuffStaminaCost",Values=(10,10,10,10,10))
 CooldownDebuffCooldownReduction",Values=(1.5,1.5,1.5,1.5,1.5))
 CooldownDebuffDuration",Values=(20,20,20,20,20))
-DebuffRange",Values=(1500,1500,1500,1500,1500))
+DebuffRange",Values=(2500,2500,2500,2500,2500))
+NumbingCryCooldown",Values=(240,240,240,240,240))
+NumbingCryEffect",Values=(0.5,0.5,0.5,0.5,0.5))
+NumbingCryCost",Values=(10,10,10,10,10))
+NumbingCryDuration",Values=(30,30,30,30,30))
+TearjerkerCooldown",Values=(150,150,150,150,150))
+TearjerkerEffect",Values=(0,0,0,0,0))
+TearjerkerDuration",Values=(60,60,60,60,60))
+TearjerkerCost",Values=(10,10,10,10,10))
+HeadslamCost",Values=(10,10,10,10,10))
+HeadslamDamage",Values=(20,30,50,70,90))
+HeadslamCooldown",Values=(12,12,12,12,12))
+HeadslamRange",Values=(50,120,200,300,400))
+HeadslamBackMod",Values=(20,20,20,20,20))
+HeadslamSelfDamage",Values=(5,8,10,15,20))
+BracedLegsFallDamage",Values=(1.1,1.1,1.1,1.1,1.1))
 MusicianCooldowns",Values=(0.8,0.8,0.8,0.8,0.8))
 BreachStaminaCost",Values=(15,15,12,10,9))
 BreachCooldown",Values=(35,35,30,25,25))
@@ -511,7 +526,7 @@ BreachRiseDuration",Values=(4,4,5,5,6))
 BuckingStaminaDrain",Values=(4,5,6,7,8))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">08-12-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

@@ -10,7 +10,7 @@ title: Hibber
 ---
 # Hibber
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -65,7 +65,7 @@ Core.TurnRadiusMultiplier",Values=(1,1,1,1,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -270,7 +270,7 @@ Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -301,6 +301,9 @@ ShowcaseSpeedBuff",Values=(1.12,1.12,1.12,1.12,1.12))
 ShowcaseBuffRadius",Values=(2500,2500,2500,2500,2500))
 ShowcaseCooldown",Values=(15,15,15,15,15))
 ShowcaseBuffDuration",Values=(60,60,60,60,60))
+PresentationCooldownDurationMultiplier",Values=(0.9,0.9,0.9,0.9,0.9))
+PresentationCooldown",Values=(15,15,15,15,15))
+PresentationBuffDuration",Values=(30,30,30,30,30))
 RepairShopHealingRate",Values=(8,8,8,8,8))
 RepairShopCost",Values=(2.5,2.5,2.5,2.5,2.5))
 RepairShopTriggerRate",Values=(6,6,6,6,6))
@@ -351,6 +354,7 @@ BloodTransfusionBuffDuration",Values=(120,120,120,120,120))
 BloodTransfusionCost",Values=(20,20,20,20,20))
 BloodTransfusionHealthCost",Values=(20,20,20,20,20))
 BloodTransfusionCooldown",Values=(45,45,45,45,45))
+PreciousCargoSpeedMultiplier",Values=(1.2,1.2,1.2,1.2,1.2))
 BitandPiecesHungerDrain",Values=(1.2,1.2,1.2,1.2,1.2))
 BitandPiecesStaminaRegen",Values=(1.2,1.2,1.2,1.2,1.2))
 ChipShopHungerDrain",Values=(0.7,0.7,0.7,0.7,0.7))
@@ -363,14 +367,15 @@ FlameDecalsSpeedMultiplier",Values=(1.2,1.2,1.2,1.2,1.2))
 VeryThickSkinArmourMultiplier",Values=(1.35,1.35,1.35,1.35,1.35))
 WellFittedShellArmourMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
 WellFittedShellSpeedMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
-ComfyCarapaceStaminaRegenMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
+ComfyCarapaceHealthRegenMultiplier",Values=(1.4,1.4,1.4,1.4,1.4))
 HeadEmptyHeadArmourMultiplier",Values=(1.15,1.15,1.15,1.15,1.15))
 BugRelatedThoughtsSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
+TinyWizardHatCooldownDurationMultiplier",Values=(0.84,0.84,0.84,0.84,0.84))
 SpecialBloodIncomingBleedMultiplier",Values=(0.1,0.1,0.1,0.1,0.1))
 SpecialBloodIncomingVenomMultiplier",Values=(0.1,0.1,0.1,0.1,0.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-03-2024 by Mike</span>
+<span style="color: #ffd369;">09-08-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
