@@ -242,6 +242,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Mod Name:     | Mod ID:               | Game.ini Name:   |
 |---------------|-----------------------|------------------|
 | Tenontosaurus | `UGC_M_N590DRNEWQ_SK` | `GTenontosaurus` |
+| Triceratops   | `UGC_M_YZK74JGE9W_SK` | `DTriceratops`   |
 
 ## Isle of Myths:
 
@@ -281,6 +282,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 |------------------------|---------------------------|--------------------|
 | Breenoc *not updated   | ~~`UGC_M_634E5WJ08W_SK`~~ | `Breenoc`          |
 | Bwi                    | `UGC_M_NZK0JMQ012_SK`     | `Bwi`              |
+| Celenai                | `UGC_M_W61E8KG0MD_SK`     | `Celenai`          |
 | Chisk *not updated     | ~~`UGC_M_YNRE3QYE81_SK`~~ | `Chisk`            |
 | Erosidian *not updated | ~~`UGC_M_6YJ723JE58_SK`~~ | `Erosidian`        |
 | Gonari                 | `UGC_M_N2R01X403D_SK`     | `Gonari`           |
@@ -306,11 +308,13 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/KTO/index) | [Others](#)
 :::
-| Mod Name:        | Mod ID:               | Game.ini Name:|
-|------------------|-----------------------|---------------|
-| Deinosuchus      | `UGC_M_43G76JQ0NR_SK` | `KTODeino`    |
-| Dryptosaurus     | `UGC_M_N2RE1Y403D_SK` | `KTODrypto`   |
-| Yangchuanosaurus | `UGC_M_K5G7ZX1EPN_SK` | `KTOYang`     |
+| Mod Name:        | Mod ID:               | Game.ini Name:  |
+|------------------|-----------------------|-----------------|
+| Deinosuchus      | `UGC_M_43G76JQ0NR_SK` | `KTODeino`      |
+| Dryptosaurus     | `UGC_M_N2RE1Y403D_SK` | `KTODrypto`     |
+| Nanuqsaurus      | `UGC_M_QM5EN9DED3_SK` | `KTONanuq`      |
+| Pachyrhinosaurus | `UGC_M_Y250GGQ0VZ_SK` | `KTOPachyrhino` |
+| Yangchuanosaurus | `UGC_M_K5G7ZX1EPN_SK` | `KTOYang`       |
 
 ## P&D's Menagerie:
 
