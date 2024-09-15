@@ -16,7 +16,7 @@ The Ancient Monster mod team is a Modding group dedicated to bring speculative e
 [Discord Link](https://discord.gg/WyqmaNqPKb)
 
 ## Cerataspida
-<a href='./Path-of-Titans-AMCerataspida' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1186/conversions/Cerata_modpage-icon.jpg' /> </a>
+<a href='./Path-of-Titans-AMCerataspida' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1270/conversions/Cerata_modpage-icon.jpg' /> </a>
 
 <!-- ### [Dankanaptera](#) -->
 

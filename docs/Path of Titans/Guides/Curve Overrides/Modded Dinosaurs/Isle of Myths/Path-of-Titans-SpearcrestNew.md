@@ -10,7 +10,7 @@ title: SpearcrestNew
 ---
 # SpearcrestNew
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -24,9 +24,9 @@ Listed below are the default stats for the following creature:`SpearcrestNew`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(400,525,650,785,950))
+Core.MaxHealth",Values=(400,525,650,785,1100))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(750,1200,2500,3500,6200))
+Core.CombatWeight",Values=(750,1200,2500,3500,5600))
 Core.Armor",Values=(1.05,1.05,1.05,1.05,1.05))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
@@ -80,12 +80,12 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 
 ## Multipliers:
 ```cs
-Multiplier.HealthRecovery.Resting",Values=(1.15,1.15,1.15,1.15,1.15))
+Multiplier.HealthRecovery.Resting",Values=(1.25,1.25,1.25,1.25,1.25))
 Multiplier.HealthRecovery.Sleeping",Values=(1.5,1.5,1.5,1.5,1.5))
 Multiplier.HealthRecovery.Standing",Values=(1,1,1,1,1))
 Multiplier.HealthRecovery.Walking",Values=(1,1,1,1,1))
@@ -285,7 +285,7 @@ Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -316,7 +316,7 @@ ClawDamage",Values=(20,35,35,35,40))
 ClawStaminaCost",Values=(0,0,0,0,0))
 ClawBoneBreakChance",Values=(0,0,0,0,0))
 ClawCooldown",Values=(3,3,3,3,3))
-ClawBleedAmount",Values=(0.1,0.1,0.1,0.1,0.1))
+ClawBleedAmount",Values=(0.2,0.2,0.2,0.2,0.2))
 ClawBloodlossStackDuration",Values=(7,7,7,7,7))
 ClawBloodlossDebuffDuration",Values=(13,13,13,13,13))
 ClawBloodlossDebuffTurnRadiusDebuff",Values=(0.78,0.78,0.78,0.78,0.78))
@@ -352,8 +352,8 @@ MjolnirHealStatusEffect",Values=(50,50,50,50,50))
 MjolnirStaminaCost",Values=(15,15,15,15,15))
 MjolnirRoarDuration",Values=(2,2,2,2,2))
 MjolnirRadius",Values=(500,650,750,800,1000))
-MjolnirDamage",Values=(100,100,100,100,130))
-MjolnirForwardBackwardMod",Values=(20,40,70,100,450))
+MjolnirDamage",Values=(100,100,110,120,130))
+MjolnirForwardBackwardMod",Values=(20,40,70,100,1750))
 MjolnirLeftRightMod",Values=(0,0,0,0,0))
 MjolnirUpDownMod",Values=(0,0,0,0,0))
 RumblingHissCooldown",Values=(160,160,160,160,160))
@@ -388,7 +388,7 @@ RampageSearchRange",Values=(5000,5000,5000,5000,5000))
 RampageCheckTargetInterval",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

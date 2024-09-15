@@ -10,7 +10,7 @@ title: DavidRosaPachyrhino
 ---
 # DavidRosaPachyrhino
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +293,7 @@ Multiplier.SpeedySubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.StandardSubSpecies.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -316,11 +316,11 @@ FrostbittenSmashCooldown",Values=(3.5,3.5,3.5,3.5,3.25))
 FrostbittenSmashCooldownEnemyIncrease",Values=(1.2,1.2,1.2,1.2,1.2))
 FrostbittenSmashCooldownEnemyDuration",Values=(15,15,15,15,15))
 FrostbittenSmashStaminaCost",Values=(0,0,0,0,0))
-FrostbittenSmashSelfDamagePercent",Values=(0.2,0.2,0.2,0.2,0.2))
+FrostbittenSmashSelfDamagePercent",Values=(0.35,0.35,0.35,0.35,0.35))
 FrostbittenSmashBoneBreakChance",Values=(0,0,0,0,0))
 FrostbittenSmashBoneBreakAmount",Values=(0,0,0,0,0))
 MeteorCrusherDamage",Values=(55,60,70,80,90))
-MeteorCrusherSelfDamagePercent",Values=(0.33,0.33,0.33,0.33,0.33))
+MeteorCrusherSelfDamagePercent",Values=(0.4,0.4,0.4,0.4,0.4))
 MeteorCrusherCooldown",Values=(7,7,7,7,7))
 MeteorCrusherStaminaCost",Values=(5,5,5,5,5))
 MeteorCrusherBoneBreakChance",Values=(0,0,0,0,0))
@@ -342,25 +342,25 @@ ArmouredParrySelfArmorUp",Values=(1.05,1.05,1.05,1.05,1.05))
 ArmouredParryEnemyArmorDown",Values=(0.95,0.95,0.95,0.95,0.95))
 ArmouredParryCooldown",Values=(7,7,7,7,7))
 ArmouredParryDuration",Values=(10,10,10,10,10))
-ArmouredParryScalar",Values=(0.01,0.01,0.01,0.01,0.01))
+ArmouredParryScalar",Values=(0.1,0.1,0.1,0.1,0.1))
 StampedeDamageIncrease",Values=(1.02,1.02,1.02,1.02,1.02))
 ImperialMarchArmorIncrease",Values=(1.1,1.1,1.1,1.1,1.1))
 ImperialMarchAccelIncrease",Values=(1.5,1.5,1.5,1.5,1.5))
 LoneWandererAbnormalConditionsHeal",Values=(1.1,1.1,1.1,1.1,1.1))
 LoneWandererTurnSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
 LoneWandererHungerThirstDrain",Values=(0.5,0.5,0.5,0.5,0.5))
-RecklessDamageUp",Values=(1.2,1.2,1.2,1.2,1.2))
+RecklessDamageUp",Values=(1.1,1.1,1.1,1.1,1.1))
 ThickScales",Values=(1.15,1.15,1.15,1.15,1.15))
 ArmouredFrill",Values=(1.6,1.6,1.6,1.6,1.6))
 DeepenedSlumberHealthRegen",Values=(1.3,1.3,1.3,1.3,1.3))
 DeepenedSlumberStaminaRegen",Values=(1.3,1.3,1.3,1.3,1.3))
-BullSmashKickDamage",Values=(50,60,65,70,70))
+BullSmashKickDamage",Values=(50,50,50,55,60))
 BullSmashBreakChance",Values=(0,0,0.01,0.03,0.05))
 BullSmashCooldown",Values=(10,10,10,10,10))
 BullSmashAmount",Values=(0,0,0,0,0))
-BullSmashStompDamage",Values=(50,60,75,75,75))
+BullSmashStompDamage",Values=(50,60,60,65,65))
 BullSmashStaminaCost",Values=(10,10,10,10,10))
-StompRadius",Values=(100,200,350,400,500))
+StompRadius",Values=(100,200,350,400,450))
 BullSmashStompForwardBackwardMod",Values=(0,0,0,0,0))
 BullSmashStompLeftRightMod",Values=(0,0,0,0,0))
 BullSmashStompUpDownMod",Values=(0,0,0,0,0))
@@ -372,6 +372,7 @@ ChargeCooldown",Values=(45,45,45,45,45))
 ChargeCost",Values=(10,10,10,10,10))
 ChargeDamage",Values=(100,100,100,100,100))
 ChargeMaxStaminaReduction",Values=(0.75,0.75,0.75,0.75,0.75))
+ChargeStaminaReduction",Values=(25,25,25,25,25))
 StrongLegsKnockback",Values=(1.4,1.4,1.4,1.4,1.4))
 StrongLegsBoneBreakHeal",Values=(1.15,1.15,1.15,1.15,1.15))
 LongDistanceRunnerSprintStaminaReduction",Values=(0.85,0.85,0.85,0.85,0.85))
@@ -397,7 +398,7 @@ CanadensisBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 PerotorumBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-08-2024 by Mike</span>
+<span style="color: #ffd369;">09-15-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

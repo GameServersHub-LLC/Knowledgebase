@@ -27,7 +27,8 @@ Modder's [Discord Link](#)
 ## Beringia Mammuthus Columbi
 <a href='./Path-of-Titans-BeringiaMammothC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>
 
-## Bistahieversor *Not Updated
+## Bistahieversor
+<a href='./Path-of-Titans-ExABista' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1147/conversions/BistiIcon-icon.jpg' /> </a>
 
 ## Dracoviper
 <a href='./Path-of-Titans-EADracoviper' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1178/conversions/Draco_icon-icon.jpg' /> </a>
