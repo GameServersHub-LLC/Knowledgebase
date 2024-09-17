@@ -19,4 +19,4 @@ This your mod? You want your info here? Make a ticket in our [Discord!](https://
 
 ## Cryolophosaurus
 
-<a href='./path-of-titans-CrimsonCryo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1112/conversions/TCI_Cryo_Larger_Logo-icon.jpg' /> </a>
+<a href='./Path-of-Titans-CrimsonCryo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1112/conversions/TCI_Cryo_Larger_Logo-icon.jpg' /> </a>

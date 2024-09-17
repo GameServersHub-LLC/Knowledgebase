@@ -19,10 +19,10 @@ Modder's [Discord Link](#)
 
 ## Bwi
 
-<a href='./path-of-titans-Bwi' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1100/conversions/BwiPreview-icon.jpg' /> </a>
+<a href='./Path-of-Titans-Bwi' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1100/conversions/BwiPreview-icon.jpg' /> </a>
 
 ## Celenai
 
-<a href='./path-of-titans-Celenai' target='_blank'> <img src='https://web-cdn.alderongames.com/files/933/conversions/Celenai-Preview-icon.jpg' /> </a>
+<a href='./Path-of-Titans-Celenai' target='_blank'> <img src='https://web-cdn.alderongames.com/files/933/conversions/Celenai-Preview-icon.jpg' /> </a>
 
-## [Gonari](./path-of-titans-Gonari) \*Not Updated
+## [Gonari](./Path-of-Titans-Gonari) \*Not Updated

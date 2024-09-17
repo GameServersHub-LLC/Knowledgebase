@@ -13,72 +13,72 @@ title: Default Curve Overrides
 
 ## Here you will find a full list of all Alderon creatures curve overrides with default vaules.
 
-### [Achillobator](./path-of-titans-achillobator)
+### [Achillobator](./Path-of-Titans-achillobator)
 
-### [Albertaceratops](./path-of-titans-albertaceratops)
+### [Albertaceratops](./Path-of-Titans-albertaceratops)
 
-### [Alioramus](./path-of-titans-alioramus)
+### [Alioramus](./Path-of-Titans-alioramus)
 
-### [Allosaurus](./path-of-titans-allosaurus)
+### [Allosaurus](./Path-of-Titans-allosaurus)
 
-### [Amargasaurus](./path-of-titans-amargasaurus)
+### [Amargasaurus](./Path-of-Titans-amargasaurus)
 
-### [Anodontosaurus](./path-of-titans-Anodontosaurus)
+### [Anodontosaurus](./Path-of-Titans-Anodontosaurus)
 
-### [Barsboldia](./path-of-titans-Barsboldia)
+### [Barsboldia](./Path-of-Titans-Barsboldia)
 
-### [Camptosaurus](./path-of-titans-Camptosaurus)
+### [Camptosaurus](./Path-of-Titans-Camptosaurus)
 
-### [Ceratosaurus](./path-of-titans-Ceratosaurus)
+### [Ceratosaurus](./Path-of-Titans-Ceratosaurus)
 
-### [Concavenator](./path-of-titans-Concavenator)
+### [Concavenator](./Path-of-Titans-Concavenator)
 
-### [Daspletosaurus](./path-of-titans-Daspletosaurus)
+### [Daspletosaurus](./Path-of-Titans-Daspletosaurus)
 
-### [Deinocheirus](./path-of-titans-Deinocheirus)
+### [Deinocheirus](./Path-of-Titans-Deinocheirus)
 
-### [Deinoychus](./path-of-titans-Deinonychus)
+### [Deinoychus](./Path-of-Titans-Deinonychus)
 
-### [Eotriceratops](./path-of-titans-Eotriceratops)
+### [Eotriceratops](./Path-of-Titans-Eotriceratops)
 
-### [Eurhinosaurus](./path-of-titans-Eurhinosaurus)
+### [Eurhinosaurus](./Path-of-Titans-Eurhinosaurus)
 
-### [Hatzegopteryx](./path-of-titans-Hatzegopteryx)
+### [Hatzegopteryx](./Path-of-Titans-Hatzegopteryx)
 
-### [Iguanadon](./path-of-titans-Iguanodon)
+### [Iguanadon](./Path-of-Titans-Iguanodon)
 
-### [Kaiwhekea](./path-of-titans-Kaiwhekea)
+### [Kaiwhekea](./Path-of-Titans-Kaiwhekea)
 
-### [Kentrosaurus](./path-of-titans-Kentrosaurus)
+### [Kentrosaurus](./Path-of-Titans-Kentrosaurus)
 
-### [Lambeosaurus](./path-of-titans-Lambeosaurus)
+### [Lambeosaurus](./Path-of-Titans-Lambeosaurus)
 
-### [Latenivenatrix](./path-of-titans-Latenivenatrix)
+### [Latenivenatrix](./Path-of-Titans-Latenivenatrix)
 
-### [Megalania](./path-of-titans-Megalania)
+### [Megalania](./Path-of-Titans-Megalania)
 
-### [Metriacanthosaurus](./path-of-titans-Metriacanthosaurus)
+### [Metriacanthosaurus](./Path-of-Titans-Metriacanthosaurus)
 
-### [Miragaia](./path-of-titans-Miragaia)
+### [Miragaia](./Path-of-Titans-Miragaia)
 
-### [Pachycephalosaurus](./path-of-titans-Pachycephalosaurus)
+### [Pachycephalosaurus](./Path-of-Titans-Pachycephalosaurus)
 
-### [Pycnonemosaurus](./path-of-titans-Pycnonemosaurus)
+### [Pycnonemosaurus](./Path-of-Titans-Pycnonemosaurus)
 
-### [Rhamphorhynchus](./path-of-titans-Rhamphorhynchus)
+### [Rhamphorhynchus](./Path-of-Titans-Rhamphorhynchus)
 
-### [Sarcosuchus](./path-of-titans-Sarcosuchus)
+### [Sarcosuchus](./Path-of-Titans-Sarcosuchus)
 
-### [Spinosaurus](./path-of-titans-Spinosaurus)
+### [Spinosaurus](./Path-of-Titans-Spinosaurus)
 
-### [Stegosaurus](./path-of-titans-Stegosaurus)
+### [Stegosaurus](./Path-of-Titans-Stegosaurus)
 
-### [Struthiomimus](./path-of-titans-Struthiomimus)
+### [Struthiomimus](./Path-of-Titans-Struthiomimus)
 
-### [Styracosaurus](./path-of-titans-Styracosaurus)
+### [Styracosaurus](./Path-of-Titans-Styracosaurus)
 
-### [Suchomimus](./path-of-titans-Suchomimus)
+### [Suchomimus](./Path-of-Titans-Suchomimus)
 
-### [Thalassodromeus](./path-of-titans-Thalassodromeus)
+### [Thalassodromeus](./Path-of-Titans-Thalassodromeus)
 
-### [Tyrannosaurus](./path-of-titans-Tyrannosaurus)
+### [Tyrannosaurus](./Path-of-Titans-Tyrannosaurus)

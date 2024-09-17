@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Camarasaurus
 
-<a href='./path-of-titans-Camarasaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/945/conversions/AGCCamara_Cover2-icon.jpg' /> </a>
+<a href='./Path-of-Titans-Camarasaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/945/conversions/AGCCamara_Cover2-icon.jpg' /> </a>

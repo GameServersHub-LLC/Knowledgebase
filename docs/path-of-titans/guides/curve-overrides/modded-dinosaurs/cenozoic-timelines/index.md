@@ -19,8 +19,8 @@ Modder's [Discord Link](#)
 
 ## Andrewsarchus
 
-<a href='./path-of-titans-CTAndrewsarchus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/901/conversions/Andrewsarchus-Mod-Icon-icon.jpg' /> </a>
+<a href='./Path-of-Titans-CTAndrewsarchus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/901/conversions/Andrewsarchus-Mod-Icon-icon.jpg' /> </a>
 
 ## Ankylorhiza
 
-<a href='./path-of-titans-CTAnkylorhiza' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1131/conversions/Ankylo-Mod-Icon-icon.jpg' /> </a>
+<a href='./Path-of-Titans-CTAnkylorhiza' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1131/conversions/Ankylo-Mod-Icon-icon.jpg' /> </a>

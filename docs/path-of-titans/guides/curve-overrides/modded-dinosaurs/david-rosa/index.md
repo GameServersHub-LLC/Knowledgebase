@@ -19,8 +19,8 @@ Modder's [Discord Link](#)
 
 ## Kaprosuchus
 
-<a href='./path-of-titans-DavidKaproNew' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1081/conversions/DavidRosaKrpo-icon.jpg' /> </a>
+<a href='./Path-of-Titans-DavidKaproNew' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1081/conversions/DavidRosaKrpo-icon.jpg' /> </a>
 
 ## Pachyrhinosaurus
 
-<a href='./path-of-titans-DavidRosaPachyrhino' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1252/conversions/Proyecto-nuevo-(24)-icon.jpg' /> </a>
+<a href='./Path-of-Titans-DavidRosaPachyrhino' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1252/conversions/Proyecto-nuevo-(24)-icon.jpg' /> </a>

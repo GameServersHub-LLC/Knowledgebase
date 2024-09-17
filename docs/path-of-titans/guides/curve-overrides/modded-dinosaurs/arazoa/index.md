@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Xiphactinus
 
-<a href='./path-of-titans-ArazoaXiph' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1077/conversions/Xiph-Logo-icon.jpg' /> </a>
+<a href='./Path-of-Titans-ArazoaXiph' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1077/conversions/Xiph-Logo-icon.jpg' /> </a>
