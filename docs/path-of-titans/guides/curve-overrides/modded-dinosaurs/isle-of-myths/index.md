@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Spearcrest
 
-<a href='./Path-of-Titans-SpearcrestNew' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1251/conversions/New-Project-(3)-icon.jpg' /> </a>
+<a href='./path-of-titans-SpearcrestNew' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1251/conversions/New-Project-(3)-icon.jpg' /> </a>

@@ -19,7 +19,7 @@ Players can also use the `/rules` chat command in-game to read your rules if the
 The server must be stopped while editing server files. You must save your edits and restart your server for any edits to take effect.
 :::
 
-The process for setting up Rules is the same as setting up a [Message of the Day:](./Path-of-Titans-MOTD-Setup)
+The process for setting up Rules is the same as setting up a [Message of the Day:](./path-of-titans-MOTD-Setup)
 
 1. In the Saved folder you must create a file called `Rules.txt`
 2. Enter the MOTD for your server in the text file and click "Save".

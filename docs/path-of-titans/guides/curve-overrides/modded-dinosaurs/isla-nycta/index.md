@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Nyctatyrannus
 
-<a href='./Path-of-Titans-Nyctatyrannus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/695/conversions/IslaNyctaModBanner_v5-icon.jpg' /> </a>
+<a href='./path-of-titans-Nyctatyrannus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/695/conversions/IslaNyctaModBanner_v5-icon.jpg' /> </a>

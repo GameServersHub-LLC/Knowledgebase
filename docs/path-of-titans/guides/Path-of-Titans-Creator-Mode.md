@@ -25,7 +25,7 @@ Creator Mode can be modded to add new item and food types. This allows you to cr
 
 ## Enabling Creator Mode
 
-To use creator mode, you must have permission to use it via your assigned Player Role. [Learn how to edit Player Roles here.](./Path-of-Titans-Player-Roles)
+To use creator mode, you must have permission to use it via your assigned Player Role. [Learn how to edit Player Roles here.](./path-of-titans-Player-Roles)
 
 If you do not have a player role assigned to you with Creator Mode permissions, you will not be able to access Creator Mode.
 

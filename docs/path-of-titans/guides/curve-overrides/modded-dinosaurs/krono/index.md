@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Bloop
 
-<a href='./Path-of-Titans-Bloop' target='_blank'> <img src='https://web-cdn.alderongames.com/files/998/conversions/BloopCover1-icon.jpg' /> </a>
+<a href='./path-of-titans-Bloop' target='_blank'> <img src='https://web-cdn.alderongames.com/files/998/conversions/BloopCover1-icon.jpg' /> </a>

@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Cougar
 
-<a href='./Path-of-Titans-AsylumCougar' target='_blank'> <img src='https://web-cdn.alderongames.com/files/856/conversions/2023_April_KaiModIcons_ModIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-AsylumCougar' target='_blank'> <img src='https://web-cdn.alderongames.com/files/856/conversions/2023_April_KaiModIcons_ModIcon-icon.jpg' /> </a>

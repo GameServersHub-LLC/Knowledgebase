@@ -19,8 +19,8 @@ Modder's [Discord Link](#)
 
 ## Ampelosaurus
 
-<a href='./Path-of-Titans-Ampelosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/790/conversions/Ampelo_Mod_Icon-icon.jpg' /> </a>
+<a href='./path-of-titans-Ampelosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/790/conversions/Ampelo_Mod_Icon-icon.jpg' /> </a>
 
 ## Citipati
 
-<a href='./Path-of-Titans-TCCitipati' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1046/conversions/Citipati_Mod_Icon-icon.jpg' /> </a>
+<a href='./path-of-titans-TCCitipati' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1046/conversions/Citipati_Mod_Icon-icon.jpg' /> </a>

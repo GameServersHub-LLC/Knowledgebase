@@ -19,20 +19,20 @@ Modder's [Discord Link](#)
 
 ## Dunkleosteus
 
-<a href='./Path-of-Titans-Dunkleosteus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/940/conversions/dunkleicon-icon.jpg' /> </a>
+<a href='./path-of-titans-Dunkleosteus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/940/conversions/dunkleicon-icon.jpg' /> </a>
 
 ## Gigantoraptor
 
-<a href='./Path-of-Titans-Gigantoraptor' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1238/conversions/gigantoraptoricon_alderon-icon.jpg' /> </a>
+<a href='./path-of-titans-Gigantoraptor' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1238/conversions/gigantoraptoricon_alderon-icon.jpg' /> </a>
 
 ## Hibber
 
-<a href='./Path-of-Titans-Hibber' target='_blank'> <img src='https://web-cdn.alderongames.com/files/162/hibbericon2.png' /> </a>
+<a href='./path-of-titans-Hibber' target='_blank'> <img src='https://web-cdn.alderongames.com/files/162/hibbericon2.png' /> </a>
 
 ## Ocepech
 
-<a href='./Path-of-Titans-Ocepech' target='_blank'> <img src='https://web-cdn.alderongames.com/files/953/conversions/ocepechelonicon2-icon.jpg' /> </a>
+<a href='./path-of-titans-Ocepech' target='_blank'> <img src='https://web-cdn.alderongames.com/files/953/conversions/ocepechelonicon2-icon.jpg' /> </a>
 
 ## Squalicorax
 
-<a href='./Path-of-Titans-Squalicorax' target='_blank'> <img src='https://web-cdn.alderongames.com/files/928/conversions/SqualicoraxAlderonIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-Squalicorax' target='_blank'> <img src='https://web-cdn.alderongames.com/files/928/conversions/SqualicoraxAlderonIcon-icon.jpg' /> </a>

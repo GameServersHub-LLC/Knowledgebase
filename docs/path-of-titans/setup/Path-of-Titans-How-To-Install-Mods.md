@@ -155,7 +155,9 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 :::
 | Mod Name:                  | Mod ID:               | Game.ini Name:     |
 |----------------------------|-----------------------|--------------------|
+| Magna Ant                  | `UGC_M_YNR0331081_SK` | `EAAnt`            |
 | Australovenator            | `UGC_M_YZKE41GE9W_SK` | `ExAAustralo`      |
+| Great Archelon             | `UGC_M_634E5J8E8W_SK` | `ExArchelon`       |
 | Allosaurus                 | `UGC_M_NV50R62EJD_SK` | `ExAAllo`          |
 | Beringia Mammuthus Columbi | `UGC_M_RD17PN2EXG_SK` | `BeringiaMammothC` |
 | Bistahieversor             | `UGC_M_K5G7Z2Y0PN_SK` | `ExABista`         |
@@ -286,8 +288,8 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Chisk *not updated     | ~~`UGC_M_YNRE3QYE81_SK`~~ | `Chisk`            |
 | Erosidian *not updated | ~~`UGC_M_6YJ723JE58_SK`~~ | `Erosidian`        |
 | Gonari                 | `UGC_M_N2R01X403D_SK`     | `Gonari`           |
-| Hannek *not updated    | ~~`UGC_M_6GWEYKY03Z_SK`~~ | `Hannek`           |
-| Hebu-Bebu *not updated | ~~`UGC_M_N597D5N7WQ_SK`~~ | `Hebubebu`         |
+| Hannek                 | `UGC_M_6GWEYKY03Z_SK`     | `Hannek`           |
+| Hebu-Bebu              | `UGC_M_N597D5N7WQ_SK`     | `Hebubebu`         |
 | Lahki *not updated     | ~~`UGC_M_4RM0KZQ0ZY_SK`~~ | `Lahki` `Lahki2`   |
 | Leilib *not updated    | ~~`UGC_M_DYV7XJ5EGX_SK`~~ | `Leilib`           |
 | Maahu *not updated     | ~~`UGC_M_RD1EPV2EXG_SK`~~ | `Maahu`            |
@@ -410,4 +412,4 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Death's Crazy Skins               | `UGC_M_12G0WXP7WK_SK` |  [Link](https://discord.gg/VY59GmMFeh)   | [Link](https://trello.com/b/DHdmq0ll/deaths-crazy-mods-skins) |
 
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
-<h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hostin./Path-of-Titans/"><strong>Get your server today!</strong></a></span></h3>
+<h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hostin./path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

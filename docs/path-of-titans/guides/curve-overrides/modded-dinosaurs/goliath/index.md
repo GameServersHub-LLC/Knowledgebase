@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Dimetrodon
 
-<a href='./Path-of-Titans-Dimetrodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/977/conversions/Logo-icon.jpg' /> </a>
+<a href='./path-of-titans-Dimetrodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/977/conversions/Logo-icon.jpg' /> </a>

@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Acrocanthosaurus
 
-<a href='./Path-of-Titans-AbsentiaAcro' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1080/conversions/Absentiaicon4-icon.jpg' /> </a>
+<a href='./path-of-titans-AbsentiaAcro' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1080/conversions/Absentiaicon4-icon.jpg' /> </a>

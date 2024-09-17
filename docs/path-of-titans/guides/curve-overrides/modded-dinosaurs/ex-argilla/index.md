@@ -19,32 +19,40 @@ Modder's [Discord Link](#)
 
 ## Australovenator
 
-<a href='./Path-of-Titans-ExAAustralo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-ExAAustralo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg' /> </a>
 
 ## Allosaurus
 
-<a href='./Path-of-Titans-ExAAllo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1145/conversions/AlloIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-ExAAllo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1145/conversions/AlloIcon-icon.jpg' /> </a>
+
+## Magna Ant
+
+<a href='./path-of-titans-EAAnt' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1240/conversions/ant-icon.jpg' /> </a>
+
+## Great Archelon
+
+<a href='./path-of-titans-ExArchelon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1172/conversions/UI_Logo_Archelon-icon.jpg' /> </a>
 
 ## Beringia Mammuthus Columbi
 
-<a href='./Path-of-Titans-BeringiaMammothC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>
+<a href='./path-of-titans-BeringiaMammothC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>
 
 ## Bistahieversor
 
-<a href='./Path-of-Titans-ExABista' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1147/conversions/BistiIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-ExABista' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1147/conversions/BistiIcon-icon.jpg' /> </a>
 
 ## Dracoviper
 
-<a href='./Path-of-Titans-EADracoviper' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1178/conversions/Draco_icon-icon.jpg' /> </a>
+<a href='./path-of-titans-EADracoviper' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1178/conversions/Draco_icon-icon.jpg' /> </a>
 
 ## Smilodon
 
-<a href='./Path-of-Titans-EASmilodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1001/conversions/Smilodon_icon-icon.jpg' /> </a>
+<a href='./path-of-titans-EASmilodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1001/conversions/Smilodon_icon-icon.jpg' /> </a>
 
 ## Griffin
 
-<a href='./Path-of-Titans-EAGriffin' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1133/conversions/griffin_icon-icon.jpg' /> </a>
+<a href='./path-of-titans-EAGriffin' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1133/conversions/griffin_icon-icon.jpg' /> </a>
 
 ## Nasutoceratops
 
-<a href='./Path-of-Titans-EANasuto' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1098/conversions/nasutoModIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-EANasuto' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1098/conversions/nasutoModIcon-icon.jpg' /> </a>

@@ -17,4 +17,4 @@ Introducing P&D's menagerie! While we do aim for accuracy, we as a team aim for 
 
 ## Pentaceratops
 
-<a href='./Path-of-Titans-PDPentaceratops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1165/conversions/Penta_Icon_New-icon.jpg' /> </a>
+<a href='./path-of-titans-PDPentaceratops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1165/conversions/Penta_Icon_New-icon.jpg' /> </a>

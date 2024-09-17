@@ -19,8 +19,8 @@ Modder's [Discord Link](#)
 
 ## Deltadromeus agilis
 
-<a href='./Path-of-Titans-JFDDagilis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1130/conversions/JFD_Dagilis-icon.jpg' /> </a>
+<a href='./path-of-titans-JFDDagilis' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1130/conversions/JFD_Dagilis-icon.jpg' /> </a>
 
 ## Torvosaurus tanneri
 
-<a href='./Path-of-Titans-JFDTtanneri' target='_blank'> <img src='https://web-cdn.alderongames.com/files/898/conversions/JFD_Ttanneri-icon.jpg' /> </a>
+<a href='./path-of-titans-JFDTtanneri' target='_blank'> <img src='https://web-cdn.alderongames.com/files/898/conversions/JFD_Ttanneri-icon.jpg' /> </a>
