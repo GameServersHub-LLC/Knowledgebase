@@ -13,48 +13,48 @@ title: Dinosaurus Curve Overrides
 
 Here you will find a full list of all modded creatures curve overrides with default values.
 
-### [Absentia](./Absentia/index)
+### [Absentia](./absentia/index)
 
-### [Ancient Gods](./Ancient%20Gods/index)
+### [Ancient Gods](./ancient-gods/index)
 
-### [Ancient Monster](./Ancient%20Monster/index)
+### [Ancient Monster](./ancient-monster/index)
 
-### [Arazoa](./Arazoa/index)
+### [Arazoa](./arazoa/index)
 
-### [Archetypes](./Archetypes/index)
+### [Archetypes](./archetypes/index)
 
-### [Asylum](./Asylum/index)
+### [Asylum](./asylum/index)
 
-### [Cenozoic Timelines](./Cenozoic%20Timelines/index)
+### [Cenozoic Timelines](./cenozoic-timelines/index)
 
-### [David Rosa](./David%20Rosa/index)
+### [David Rosa](./david-rosa/index)
 
-### [Divine Beasts](./Divine%20Beasts/index)
+### [Divine Beasts](./divine-beasts/index)
 
-### [Ex Argilla](./Ex%20Argilla/index)
+### [Ex Argilla](./ex-argilla/index)
 
-### [Extinction Mods](./Extinction%20Mods/index)
+### [Extinction Mods](./extinction-mods/index)
 
-### [Feilong](./Feilong/index)
+### [Feilong](./feilong/index)
 
-### [Goliath](./Goliath/index)
+### [Goliath](./goliath/index)
 
-### [Great](./Great/index)
+### [Great](./great/index)
 
-### [Isla Nycta](./Isla%20Nycta/index)
+### [Isla Nycta](./isla-nycta/index)
 
-### [JFD](./JFD/index)
+### [JFD](./jfd/index)
 
-### [K-23](./K-23/index)
+### [K-23](./k-23/index)
 
-### [Krono](./Krono/index)
+### [Krono](./krono/index)
 
-### [KTO](./KTO/index)
+### [KTO](./kto/index)
 
-### [P&D's Menagerie](./P&D's%20Menagerie/index)
+### [P&D's Menagerie](./pd-menagerie/index)
 
-### [Primordial Tyrants](./Primordial%20Tyrants/index)
+### [Primordial Tyrants](./primordial-tyrants/index)
 
-### [The Crimson Isle](./The%20Crimson%20Isle/index)
+### [The Crimson Isle](./the-crimson-isle/index)
 
-### [Titanus Constructus](./Titanus%20Constructus/index)
+### [Titanus Constructus](./titanus-constructus/index)

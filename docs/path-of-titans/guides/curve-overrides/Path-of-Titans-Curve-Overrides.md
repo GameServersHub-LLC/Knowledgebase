@@ -28,9 +28,9 @@ To edit dinosaur stats, you must edit the `Game.ini` file. You can find this fil
 ## Editing Dinosaur Stats
 
 ::: details Here a list for all Alderon Dinos & Mod Dinos
-[Alderon Dinos](./Alderons/index)
+[Alderon Dinos](./alderons/index)
 
-[Mod Dinos](./Modded%20Dinosaurs/index)
+[Mod Dinos](./modded-dinosaurs/index)
 
 These listed are the default vaules curve overrides.
 :::

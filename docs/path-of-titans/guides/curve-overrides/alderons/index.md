@@ -13,15 +13,15 @@ title: Default Curve Overrides
 
 ## Here you will find a full list of all Alderon creatures curve overrides with default vaules.
 
-### [Achillobator](./Path-of-Titans-achillobator)
+### [Achillobator](./Path-of-Titans-Achillobator)
 
-### [Albertaceratops](./Path-of-Titans-albertaceratops)
+### [Albertaceratops](./Path-of-Titans-Albertaceratops)
 
-### [Alioramus](./Path-of-Titans-alioramus)
+### [Alioramus](./Path-of-Titans-Alioramus)
 
-### [Allosaurus](./Path-of-Titans-allosaurus)
+### [Allosaurus](./Path-of-Titans-Allosaurus)
 
-### [Amargasaurus](./Path-of-Titans-amargasaurus)
+### [Amargasaurus](./Path-of-Titans-Amargasaurus)
 
 ### [Anodontosaurus](./Path-of-Titans-Anodontosaurus)
 

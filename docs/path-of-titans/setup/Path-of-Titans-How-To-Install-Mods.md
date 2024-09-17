@@ -76,7 +76,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Absentia:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Absentia/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/absentia/index) | [Others](#)
 :::
 | Mod Name:        | Mod ID:               | Game.ini Name: |
 |------------------|-----------------------|----------------|
@@ -85,7 +85,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Ancient Gods:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Gods/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/ancient-gods/index) | [Others](#)
 :::
 | Mod Name:    | Mod ID:               | Game.ini Name: |
 |--------------|-----------------------|----------------|
@@ -94,7 +94,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Ancient Monster:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ancient%20Monster/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/ancient-monster/index) | [Others](#)
 :::
 | Mod Name:    | Mod ID:                   | Game.ini Name:    |
 |--------------|---------------------------|-------------------|
@@ -110,7 +110,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Archetypes:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Archetypes/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/archetypes/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name:  |
 |---------------|-----------------------|-----------------|
@@ -123,7 +123,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Arazoa:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Arazoa/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/arazoa/index) | [Others](#)
 :::
 | Mod Name:   | Mod ID:               | Game.ini Name: |
 |-------------|-----------------------|----------------|
@@ -132,7 +132,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Asylum:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Asylum/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/asylum/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name: |
 |---------------|-----------------------|----------------|
@@ -141,7 +141,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## David Rosa's:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/David%20Rosa/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/david-rosa/index) | [Others](#)
 :::
 | Mod Name:        | Mod ID:               | Game.ini Name:        |
 |------------------|-----------------------|-----------------------|
@@ -151,7 +151,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Ex Argilla:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Ex%20Argilla/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/ex-argilla/index) | [Others](#)
 :::
 | Mod Name:                  | Mod ID:               | Game.ini Name:     |
 |----------------------------|-----------------------|--------------------|
@@ -167,7 +167,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## The Crimson Isle:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/The%20Crimson%20Isle/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/the-crimson-isle/index) | [Others](#)
 :::
 | Mod Name:       | Mod ID:               | Game.ini Name: |
 |-----------------|-----------------------|----------------|
@@ -176,7 +176,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Cenozoic Timelines:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Cenozoic%20Timelines/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/cenozoic-timelines/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name:    |
 |---------------|-----------------------|-------------------|
@@ -186,7 +186,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Extinction Mods:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Extinction%20Mods/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/extinction-mods/index) | [Others](#)
 :::
  |Mod Name:                      | Mod ID:                   | Game.ini Name: |
 |--------------------------------|---------------------------|----------------|
@@ -195,7 +195,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Divine Beasts:
 
 ::: details
-[Modder Discord](https://discord.gg/divinebeasts) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Divine%20Beasts/index) | [Others](#)
+[Modder Discord](https://discord.gg/divinebeasts) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/divine-beasts/index) | [Others](#)
 :::
 |Mod Name:                  | Mod ID:               | Game.ini Name:       |
 |---------------------------|-----------------------|----------------------|
@@ -218,7 +218,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Feilong:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Feilong/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/feilong/index) | [Others](#)
 :::
 | Mod Name:                                      | Mod ID:                   | Game.ini Name: |
 |------------------------------------------------|---------------------------|----------------|
@@ -228,7 +228,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Goliath:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Goliath/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/goliath/index) | [Others](#)
 :::
 | Mod Name:  | Mod ID:               | Game.ini Name: |
 |------------|-----------------------|----------------|
@@ -237,7 +237,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Great:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Great/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/great/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name:   |
 |---------------|-----------------------|------------------|
@@ -247,7 +247,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Isle of Myths:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Isle%20of%20Myths/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/isle-of-myths/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name:  |
 |---------------|-----------------------|-----------------|
@@ -257,7 +257,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Isla Nycta:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Isla%20Nycta/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/isla-nycta/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name:  |
 |---------------|-----------------------|-----------------|
@@ -266,7 +266,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## JFD:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/JFD/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/jfd/index) | [Others](#)
 :::
 | Mod Name:           | Mod ID:               | Game.ini Name: |
 |---------------------|-----------------------|----------------|
@@ -276,7 +276,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## K23:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/K-23/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/k-23/index) | [Others](#)
 :::
 | Mod Name:              | Mod ID:                   |Game.ini Name:      |
 |------------------------|---------------------------|--------------------|
@@ -306,7 +306,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## KTO:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/KTO/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/kto/index) | [Others](#)
 :::
 | Mod Name:        | Mod ID:               | Game.ini Name:  |
 |------------------|-----------------------|-----------------|
@@ -319,7 +319,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## P&D's Menagerie:
 
 ::: details
-[Modder Discord](https://discord.gg/3mUVxVhSXW) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/P&D's%20Menagerie/index) | [Others](#)
+[Modder Discord](https://discord.gg/3mUVxVhSXW) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/pd-menagerie/index) | [Others](#)
 :::
 | Mod Name:     | Mod ID:               | Game.ini Name:    |
 |---------------|-----------------------|-------------------|
@@ -328,7 +328,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Primordial Tyrants:
 
 ::: details
-[Modder Discord](https://discord.gg/primordialtyrants) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Primordial%20Tyrants/index) | [Others](#)
+[Modder Discord](https://discord.gg/primordialtyrants) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/primordial-tyrants/index) | [Others](#)
 :::
 | Mod Name:       | Mod ID:               | Game.ini Name:      |
 |-----------------|-----------------------|---------------------|
@@ -355,7 +355,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Titanus Constructus:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Titanus%20Constructus/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/titanus-constructus/index) | [Others](#)
 :::
 | Mod Name:    | Mod ID:               | Game.ini Name: |
 |--------------|-----------------------|----------------|
@@ -365,7 +365,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ## Krono:
 
 ::: details
-[Modder Discord](#) | [Curve Overrides Link](../Guides/Curve%20Overrides/Modded%20Dinosaurs/Krono/index) | [Others](#)
+[Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/krono/index) | [Others](#)
 :::
 | Mod Name: |Mod ID:                |Game.ini Name: |
 |-----------|-----------------------|---------------|
@@ -410,4 +410,4 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Death's Crazy Skins               | `UGC_M_12G0WXP7WK_SK` |  [Link](https://discord.gg/VY59GmMFeh)   | [Link](https://trello.com/b/DHdmq0ll/deaths-crazy-mods-skins) |
 
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
-<h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
+<h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hostin./Path-of-Titans/"><strong>Get your server today!</strong></a></span></h3>

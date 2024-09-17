@@ -33,7 +33,7 @@ You must use the format `AllowedCharacters=DinosaurName` where `DinosaurName` is
 
 Or if you want to disable specific dinosaurs, you can use the format `DisallowedCharacters=DinosaurName` where `DinosaurName` is the name of the dinosaur you want to disable.
 
-For modded dinosaurs, [here the list of all names](../Guides/Curve%20Overrides/Modded%20Dinosaurs/index)
+For modded dinosaurs, [here the list of all names](../guides/curve-overrides/modded-dinosaurs/index)
 
 ## Example Game.ini
 
