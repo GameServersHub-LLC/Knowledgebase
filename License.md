@@ -74,9 +74,9 @@ If any provision of this Agreement is held to be unenforceable or invalid, such 
 ### [Signature Section]
 
 **GameServersHub LLC**  
-Authorized Signatory: Jennifer Harrison  
+Authorized Signatory: GameServersHub LLC  
 Date: September 17, 2024
 
 **Licensee**  
-Authorized Signatory: Jennifer Harrison  
+Authorized Signatory: GameServersHub LLC  
 Date: September 17, 2024
