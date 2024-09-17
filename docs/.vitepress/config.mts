@@ -113,7 +113,7 @@ export default defineConfig({
       useFolderLinkFromIndexFile: true,
       hyphenToSpace: true,
       // underscoreToSpace: true,
-      capitalizeFirst: true,
+      capitalizeFirst: false,
       // capitalizeEachWords: false,
       collapsed: true,
       // collapseDepth: 2,
