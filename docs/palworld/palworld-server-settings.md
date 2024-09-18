@@ -19,7 +19,7 @@ Before starting with the configuration process of your Palworld server, you need
 
 2\. To access the secure repository where the configuration files for your Palworld server are stored, you'll need to navigate to the designated directory path, which differs depending on your operating system. For **Linux** users, head to "**Saved/Config/LinuxServer/PalWorldSettings.ini**", while **Windows** users should go to "**Saved/Config/WindowsServer/PalWorldSettings.ini**". This repository is where you can manage and modify various settings that affect your Palworld server experience, so it's an important location to be familiar with.
 
-![RDCMan_RgomBMiV3K.png](https://gameservershub.com/billing/images/kb/3_RDCMan_RgomBMiV3K.png)
+![PalworldDedicatedServer](/palworld-dedicated-server-location.webp)
 
 ## Understanding the Configuration File
 
@@ -29,7 +29,7 @@ Before you're in the editing process, please take a moment to get a chance to un
 
 The assigned values to these keys wield power to intricately shape crucial server parameters, encompassing the nuances of difficulty levels, day and night speed rates, experience rates, and various other pivotal elements.
 
-![Code_srl6mx8rIi.png](https://gameservershub.com/billing/images/kb/4_Code_srl6mx8rIi.png)
+![PalworldServerLocation](/palworld-server-settings-preview.webp)
 
 ## How to Edit Palworld Server Settings:
 
