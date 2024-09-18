@@ -156,8 +156,10 @@ export default defineConfig({
   },
   markdown: {
     config: (md) => {
-      // Use lightbox plugin
       md.use(lightbox, {});
+    },
+    image: {
+      lazyLoading: true,
     },
   },
 });
