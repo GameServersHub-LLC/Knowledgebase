@@ -12,6 +12,7 @@ const vitepressSidebarOptions = {
 
 const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
 const ogImage = `${ogUrl}gameservershub.com-wiki-page.webp`;
+const currentYear = new Date().getFullYear();
 
 export default defineConfig({
   title: "GameServersHub",
@@ -94,8 +95,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright:
-        '2024 © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.',
+      copyright: `${currentYear} © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.`,
     },
 
     outline: {
