@@ -19,40 +19,40 @@ Modder's [Discord Link](#)
 
 ## Australovenator
 
-<a href='./path-of-titans-ExAAustralo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-exaaustralo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1099/conversions/AustraModIcon-icon.jpg' /> </a>
 
 ## Allosaurus
 
-<a href='./path-of-titans-ExAAllo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1145/conversions/AlloIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-exaallo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1145/conversions/AlloIcon-icon.jpg' /> </a>
 
 ## Magna Ant
 
-<a href='./path-of-titans-EAAnt' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1240/conversions/ant-icon.jpg' /> </a>
+<a href='./path-of-titans-eaant' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1240/conversions/ant-icon.jpg' /> </a>
 
 ## Great Archelon
 
-<a href='./path-of-titans-ExArchelon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1172/conversions/UI_Logo_Archelon-icon.jpg' /> </a>
+<a href='./path-of-titans-exarchelon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1172/conversions/UI_Logo_Archelon-icon.jpg' /> </a>
 
 ## Beringia Mammuthus Columbi
 
-<a href='./path-of-titans-BeringiaMammothC' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>
+<a href='./path-of-titans-beringiamammothc' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>
 
 ## Bistahieversor
 
-<a href='./path-of-titans-ExABista' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1147/conversions/BistiIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-exabista' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1147/conversions/BistiIcon-icon.jpg' /> </a>
 
 ## Dracoviper
 
-<a href='./path-of-titans-EADracoviper' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1178/conversions/Draco_icon-icon.jpg' /> </a>
+<a href='./path-of-titans-eadracoviper' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1178/conversions/Draco_icon-icon.jpg' /> </a>
 
 ## Smilodon
 
-<a href='./path-of-titans-EASmilodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1001/conversions/Smilodon_icon-icon.jpg' /> </a>
+<a href='./path-of-titans-easmilodon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1001/conversions/Smilodon_icon-icon.jpg' /> </a>
 
 ## Griffin
 
-<a href='./path-of-titans-EAGriffin' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1133/conversions/griffin_icon-icon.jpg' /> </a>
+<a href='./path-of-titans-eagriffin' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1133/conversions/griffin_icon-icon.jpg' /> </a>
 
 ## Nasutoceratops
 
-<a href='./path-of-titans-EANasuto' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1098/conversions/nasutoModIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-eanasuto' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1098/conversions/nasutoModIcon-icon.jpg' /> </a>

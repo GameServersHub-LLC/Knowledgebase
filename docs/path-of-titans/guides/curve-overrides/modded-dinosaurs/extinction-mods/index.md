@@ -19,4 +19,4 @@ Modder's [Discord Link](#)
 
 ## Current Mods
 
-### [Chaos Triceratops](./path-of-titans-Chaos-Triceratops) \*Not Updated
+### [Chaos Triceratops](./path-of-titans-chaos-triceratops) \*Not Updated

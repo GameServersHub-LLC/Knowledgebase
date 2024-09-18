@@ -19,20 +19,20 @@ Modder's [Discord Link](#)
 
 ## Bwi
 
-<a href='./path-of-titans-Bwi' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1100/conversions/BwiPreview-icon.jpg' /> </a>
+<a href='./path-of-titans-bwi' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1100/conversions/BwiPreview-icon.jpg' /> </a>
 
 ## Celenai
 
-<a href='./path-of-titans-Celenai' target='_blank'> <img src='https://web-cdn.alderongames.com/files/933/conversions/Celenai-Preview-icon.jpg' /> </a>
+<a href='./path-of-titans-celenai' target='_blank'> <img src='https://web-cdn.alderongames.com/files/933/conversions/Celenai-Preview-icon.jpg' /> </a>
 
 ## Gonari
 
-<a href='./path-of-titans-Gonari' target='_blank'> <img src='https://web-cdn.alderongames.com/files/896/conversions/GonariPreview-icon.jpg' /> </a>
+<a href='./path-of-titans-gonari' target='_blank'> <img src='https://web-cdn.alderongames.com/files/896/conversions/GonariPreview-icon.jpg' /> </a>
 
 ## Hannek
 
-<a href='./path-of-titans-Hannek' target='_blank'> <img src='https://web-cdn.alderongames.com/files/732/conversions/HannekPreview-icon.jpg' /> </a>
+<a href='./path-of-titans-hannek' target='_blank'> <img src='https://web-cdn.alderongames.com/files/732/conversions/HannekPreview-icon.jpg' /> </a>
 
 ## Hebu-Bebu
 
-<a href='./path-of-titans-Hebubebu' target='_blank'> <img src='https://web-cdn.alderongames.com/files/729/conversions/HebuBebuPreview-icon.jpg' /> </a>
+<a href='./path-of-titans-hebubebu' target='_blank'> <img src='https://web-cdn.alderongames.com/files/729/conversions/HebuBebuPreview-icon.jpg' /> </a>
