@@ -36,13 +36,13 @@ The assigned values to these keys wield power to intricately shape crucial serve
 With the configuration file successfully identified and comprehended, it's time to begin editing your Palworld server settings. Explore essential customization options as we delve into key parameters that allow you to tailor your server experience to perfection:
 
 **`Difficulty`:** You can modify the level of challenge for the game by adjusting the overall difficulty settings.  
-**`ServerPassword`**: To enhance the security of the server, it is recommended that you set a secure password. Please let me know the password you want to set, and I will assist you throughout the process. If you need any guidance on creating a strong password, I can provide you with some tips and suggestions.  
-**` DayTimeSpeedRate``: `** This feature allows you to adjust the speed of the daytime cycle within the game.  
-**` NightTimeSpeedRate``: `** This option allows you to adjust the speed at which the game runs during nighttime. Modifying this setting allows you to customize your gaming experience to suit your preferences better.  
+**`ServerPassword`:** To enhance the security of the server, it is recommended that you set a secure password. Please let me know the password you want to set, and I will assist you throughout the process. If you need any guidance on creating a strong password, I can provide you with some tips and suggestions.  
+**`DayTimeSpeedRate`:** This feature allows you to adjust the speed of the daytime cycle within the game.  
+**`NightTimeSpeedRate`:** This option allows you to adjust the speed at which the game runs during nighttime. Modifying this setting allows you to customize your gaming experience to suit your preferences better.  
 **`ExpRate`:** This feature enables you to modify the rate at which players and creatures accumulate experience points, allowing you to fine-tune the pace of character progression and gameplay balance.  
 **`PalSpawnNumRate`:** With this feature, you can control and modify the frequency of Pal creatures appearing in your game.  
-**` PlayerDamageRateAttack``: `** This particular functionality aids in calculating the precise amount of damage that can be inflicted on other players and animals within the game.  
-**` PlayerDamageRateDefense``: `** This attribute calculates how much a player or animal can resist or withstand attacks or damage from external sources. It is an essential aspect of gameplay that allows players to survive in hostile environments and engage in combat with other players or creatures.  
+**`PlayerDamageRateAttack`:** This particular functionality aids in calculating the precise amount of damage that can be inflicted on other players and animals within the game.  
+**`PlayerDamageRateDefense`:** This attribute calculates how much a player or animal can resist or withstand attacks or damage from external sources. It is an essential aspect of gameplay that allows players to survive in hostile environments and engage in combat with other players or creatures.  
 **`DropItemMaxNum`**: This setting allows you to specify the highest possible amount of items that can be dropped within the game.
 
 When it comes to the Palworld server, there are various settings that you can explore and customize to make your gameplay experience more enjoyable. Customization options include everything from adjusting the difficulty level to changing the weather and time of day. You can also fine-tune the rules of the game, like whether or not PvP combat is allowed or how frequently resources spawn. Experimenting with these settings to find what works best for you and your playing style is essential. Whether you prefer a more relaxed gaming experience or a challenging one, don't hesitate to make the adjustments to create a Palworld server that you'll love.
@@ -53,257 +53,70 @@ After you have made the required modifications to your Palworld server, it's ver
 
 ## List of all Settings
 
-Parameter
-
-Description
-
-`Difficulty`
-
-`Adjusts the overall difficulty of the game.`
-
-`DayTimeSpeedRate`
-
-`Modifies the speed of in-game time during the day.`
-
-`NightTimeSpeedRate`
-
-`Modifies the speed of in-game time during the night.`
-
-`ExpRate`
-
-`Changes the experience gain rate for both players and creatures.`
-
-`PalCaptureRate`
-
-`Adjusts the rate at which Pal creatures can be captured.`
-
-`PalSpawnNumRate`
-
-`Adjusts the rate at which Pal creatures spawn.`
-
-`PalDamageRateAttack`
-
-`Fine-tunes Pal creature damage dealt.`
-
-`PalDamageRateDefense`
-
-`Fine-tunes Pal creature damage received.`
-
-`PlayerDamageRateAttack`
-
-`Fine-tunes player damage dealt.`
-
-`PlayerDamageRateDefense`
-
-`Fine-tunes player damage received.`
-
-`PlayerStomachDecreaseRate`
-
-`Adjusts the rate at which the player's stomach decreases.`
-
-`PlayerStaminaDecreaseRate`
-
-`Adjusts the rate at which the player's stamina decreases.`
-
-`PlayerAutoHPRegeneRate`
-
-`Adjusts the rate of automatic player health regeneration.`
-
-`PlayerAutoHpRegeneRateInSleep`
-
-`Adjusts the rate of automatic player health regeneration during sleep.`
-
-`PalStomachDecreaseRate`
-
-`Adjusts the rate at which Pal creature stomach decreases.`
-
-`PalStaminaDecreaseRate`
-
-`Adjusts the rate at which Pal creature stamina decreases.`
-
-`PalAutoHPRegeneRate`
-
-`Adjusts the rate of automatic Pal creature health regeneration.`
-
-`PalAutoHpRegeneRateInSleep`
-
-`Adjusts the rate of automatic Pal creature health regeneration during sleep.`
-
-`BuildObjectDamageRate`
-
-`Adjusts the rate at which built objects take damage.`
-
-`BuildObjectDeteriorationDamageRate`
-
-`Adjusts the rate at which built objects deteriorate.`
-
-`CollectionDropRate`
-
-`Adjusts the drop rate of collected items.`
-
-`CollectionObjectHpRate`
-
-`Adjusts the health of collected objects.`
-
-`CollectionObjectRespawnSpeedRate`
-
-`Adjusts the respawn speed of collected objects.`
-
-`EnemyDropItemRate`
-
-`Adjusts the drop rate of items from defeated enemies.`
-
-`DeathPenalty`
-
-`Defines the penalty upon player death (e.g., All, None).`
-
-`bEnablePlayerToPlayerDamage`
-
-`Enables or disables player-to-player damage.`
-
-`bEnableFriendlyFire`
-
-`Enables or disables friendly fire.`
-
-`bEnableInvaderEnemy`
-
-`Enables or disables invader enemies.`
-
-`bActiveUNKO`
-
-`Activates or deactivates UNKO (Unidentified Nocturnal Knock-off).`
-
-`bEnableAimAssistPad`
-
-`Enables or disables aim assist for controllers.`
-
-`bEnableAimAssistKeyboard`
-
-`Enables or disables aim assist for keyboards.`
-
-`DropItemMaxNum`
-
-`Sets the maximum number of dropped items in the game.`
-
-`DropItemMaxNum_UNKO`
-
-`Sets the maximum number of dropped UNKO items in the game.`
-
-`BaseCampMaxNum`
-
-`Sets the maximum number of base camps that can be built.`
-
-`BaseCampWorkerMaxNum`
-
-`Sets the maximum number of workers in a base camp.`
-
-`DropItemAliveMaxHours`
-
-`Sets the maximum time items remain alive after being dropped.`
-
-`bAutoResetGuildNoOnlinePlayers`
-
-`Automatically resets guilds with no online players.`
-
-`AutoResetGuildTimeNoOnlinePlayers`
-
-`Sets the time after which guilds with no online players are automatically reset.`
-
-`GuildPlayerMaxNum`
-
-`Sets the maximum number of players in a guild.`
-
-`PalEggDefaultHatchingTime`
-
-`Sets the default hatching time for Pal eggs.`
-
-`WorkSpeedRate`
-
-`Adjusts the overall work speed in the game.`
-
-`bIsMultiplay`
-
-`Enables or disables multiplayer mode.`
-
-`bIsPvP`
-
-`Enables or disables player versus player (PvP) mode.`
-
-`bCanPickupOtherGuildDeathPenaltyDrop`
-
-`Enables or disables the pickup of death penalty drops from other guilds.`
-
-`bEnableNonLoginPenalty`
-
-`Enables or disables non-login penalties.`
-
-`bEnableFastTravel`
-
-`Enables or disables fast travel.`
-
-`bIsStartLocationSelectByMap`
-
-`Enables or disables the selection of starting locations on the map.`
-
-`bExistPlayerAfterLogout`
-
-`Enables or disables the existence of players after logout.`
-
-`bEnableDefenseOtherGuildPlayer`
-
-`Enables or disables the defense of other guild players.`
-
-`CoopPlayerMaxNum`
-
-`Sets the maximum number of cooperative players in a session.`
-
-`ServerPlayerMaxNum`
-
-`Sets the maximum number of players allowed on the server.`
-
-`ServerName`
-
-`Sets the name of the Palworld server.`
-
-`ServerDescription`
-
-`Provides a description for the Palworld server.`
-
-`AdminPassword`
-
-`Sets the password for server administration.`
-
-`ServerPassword`
-
-`Sets the password for joining the Palworld server.`
-
-`PublicPort`
-
-`Sets the public port for the Palworld server.`
-
-`PublicIP`
-
-`Sets the public IP address for the Palworld server.`
-
-`RCONEnabled`
-
-`Enables or disables Remote Console (RCON) for server administration.`
-
-`RCONPort`
-
-`Sets the port for Remote Console (RCON) communication.`
-
-`Region`
-
-`Sets the region for the Palworld server.`
-
-`bUseAuth`
-
-`Enables or disables server authentication.`
-
-`BanListURL`
-
-`Sets the URL for the server's ban list.`
+| Setting                              | Description                                                                      |
+| ------------------------------------ | -------------------------------------------------------------------------------- |
+| Difficulty                           | Adjusts the overall difficulty of the game.                                      |
+| DayTimeSpeedRate                     | Modifies the speed of in-game time during the day.                               |
+| NightTimeSpeedRate                   | Modifies the speed of in-game time during the night.                             |
+| ExpRate                              | Changes the experience gain rate for both players and creatures.                 |
+| PalCaptureRate                       | Adjusts the rate at which Pal creatures can be captured.                         |
+| PalSpawnNumRate                      | Adjusts the rate at which Pal creatures spawn.                                   |
+| PalDamageRateAttack                  | Fine-tunes Pal creature damage dealt.                                            |
+| PalDamageRateDefense                 | Fine-tunes Pal creature damage received.                                         |
+| PlayerDamageRateAttack               | Fine-tunes player damage dealt.                                                  |
+| PlayerDamageRateDefense              | Fine-tunes player damage received.                                               |
+| PlayerStomachDecreaseRate            | Adjusts the rate at which the player's stomach decreases.                        |
+| PlayerStaminaDecreaseRate            | Adjusts the rate at which the player's stamina decreases.                        |
+| PlayerAutoHPRegeneRate               | Adjusts the rate of automatic player health regeneration.                        |
+| PlayerAutoHpRegeneRateInSleep        | Adjusts the rate of automatic player health regeneration during sleep.           |
+| PalStomachDecreaseRate               | Adjusts the rate at which Pal creature stomach decreases.                        |
+| PalStaminaDecreaseRate               | Adjusts the rate at which Pal creature stamina decreases.                        |
+| PalAutoHPRegeneRate                  | Adjusts the rate of automatic Pal creature health regeneration.                  |
+| PalAutoHpRegeneRateInSleep           | Adjusts the rate of automatic Pal creature health regeneration during sleep.     |
+| BuildObjectDamageRate                | Adjusts the rate at which built objects take damage.                             |
+| BuildObjectDeteriorationDamageRate   | Adjusts the rate at which built objects deteriorate.                             |
+| CollectionDropRate                   | Adjusts the drop rate of collected items.                                        |
+| CollectionObjectHpRate               | Adjusts the health of collected objects.                                         |
+| CollectionObjectRespawnSpeedRate     | Adjusts the respawn speed of collected objects.                                  |
+| EnemyDropItemRate                    | Adjusts the drop rate of items from defeated enemies.                            |
+| DeathPenalty                         | Defines the penalty upon player death (e.g., All, None).                         |
+| bEnablePlayerToPlayerDamage          | Enables or disables player-to-player damage.                                     |
+| bEnableFriendlyFire                  | Enables or disables friendly fire.                                               |
+| bEnableInvaderEnemy                  | Enables or disables invader enemies.                                             |
+| bActiveUNKO                          | Activates or deactivates UNKO (Unidentified Nocturnal Knock-off).                |
+| bEnableAimAssistPad                  | Enables or disables aim assist for controllers.                                  |
+| bEnableAimAssistKeyboard             | Enables or disables aim assist for keyboards.                                    |
+| DropItemMaxNum                       | Sets the maximum number of dropped items in the game.                            |
+| DropItemMaxNum_UNKO                  | Sets the maximum number of dropped UNKO items in the game.                       |
+| BaseCampMaxNum                       | Sets the maximum number of base camps that can be built.                         |
+| BaseCampWorkerMaxNum                 | Sets the maximum number of workers in a base camp.                               |
+| DropItemAliveMaxHours                | Sets the maximum time items remain alive after being dropped.                    |
+| bAutoResetGuildNoOnlinePlayers       | Automatically resets guilds with no online players.                              |
+| AutoResetGuildTimeNoOnlinePlayers    | Sets the time after which guilds with no online players are automatically reset. |
+| GuildPlayerMaxNum                    | Sets the maximum number of players in a guild.                                   |
+| PalEggDefaultHatchingTime            | Sets the default hatching time for Pal eggs.                                     |
+| WorkSpeedRate                        | Adjusts the overall work speed in the game.                                      |
+| bIsMultiplay                         | Enables or disables multiplayer mode.                                            |
+| bIsPvP                               | Enables or disables player versus player (PvP) mode.                             |
+| bCanPickupOtherGuildDeathPenaltyDrop | Enables or disables the pickup of death penalty drops from other guilds.         |
+| bEnableNonLoginPenalty               | Enables or disables non-login penalties.                                         |
+| bEnableFastTravel                    | Enables or disables fast travel.                                                 |
+| bIsStartLocationSelectByMap          | Enables or disables the selection of starting locations on the map.              |
+| bExistPlayerAfterLogout              | Enables or disables the existence of players after logout.                       |
+| bEnableDefenseOtherGuildPlayer       | Enables or disables the defense of other guild players.                          |
+| CoopPlayerMaxNum                     | Sets the maximum number of cooperative players in a session.                     |
+| ServerPlayerMaxNum                   | Sets the maximum number of players allowed on the server.                        |
+| ServerName                           | Sets the name of the Palworld server.                                            |
+| ServerDescription                    | Provides a description for the Palworld server.                                  |
+| AdminPassword                        | Sets the password for server administration.                                     |
+| ServerPassword                       | Sets the password for joining the Palworld server.                               |
+| PublicPort                           | Sets the public port for the Palworld server.                                    |
+| PublicIP                             | Sets the public IP address for the Palworld server.                              |
+| RCONEnabled                          | Enables or disables Remote Console (RCON) for server administration.             |
+| RCONPort                             | Sets the port for Remote Console (RCON) communication.                           |
+| Region                               | Sets the region for the Palworld server.                                         |
+| bUseAuth                             | Enables or disables server authentication.                                       |
+| BanListURL                           | Sets the URL for the server's ban list.                                          |
 
 ## Additional Tips
 
