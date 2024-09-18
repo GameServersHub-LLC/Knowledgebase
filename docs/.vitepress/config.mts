@@ -6,8 +6,6 @@ const vitepressSidebarOptions = {
   /* Options... */
 };
 
-const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
-const ogImage = `${ogUrl}gameservershub.com-wiki-page.webp`;
 const currentYear = new Date().getFullYear();
 
 export default defineConfig({
@@ -44,12 +42,20 @@ export default defineConfig({
     ],
     ["meta", { name: "author", content: "Mike Harrison" }],
     ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:image", content: ogImage }],
-    ["meta", { property: "og:url", content: ogUrl }],
+    [
+      "meta",
+      { property: "og:image", content: "/gameservershub-meta-thumbnail.webp" },
+    ],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
-    ["meta", { name: "twitter:image", content: ogImage }],
+    [
+      "meta",
+      { name: "twitter:image", content: "/gameservershub-meta-thumbnail.webp" },
+    ],
     ["meta", { name: "twitter:site", content: "@antfu7" }],
-    ["meta", { name: "twitter:url", content: ogUrl }],
+    [
+      "meta",
+      { name: "twitter:url", content: "/gameservershub-meta-thumbnail.webp" },
+    ],
     [
       "link",
       {
