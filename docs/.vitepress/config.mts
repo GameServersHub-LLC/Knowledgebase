@@ -1,9 +1,5 @@
 import { defineConfig } from "vitepress";
-
-// This allows lightbox images to work on the pages for users
 import lightbox from "vitepress-plugin-lightbox";
-
-// This allows automation folder generation
 import { generateSidebar } from "vitepress-sidebar";
 
 const vitepressSidebarOptions = {
@@ -64,8 +60,6 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-
     search: {
       provider: "local",
     },
