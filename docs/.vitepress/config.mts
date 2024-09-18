@@ -11,7 +11,7 @@ const vitepressSidebarOptions = {
 };
 
 const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
-const ogImage = `${ogUrl}GameServersHub.com-Wiki-Page.webp`;
+const ogImage = `${ogUrl}gameservershub.com-wiki-page.webp`;
 
 export default defineConfig({
   title: "GameServersHub",

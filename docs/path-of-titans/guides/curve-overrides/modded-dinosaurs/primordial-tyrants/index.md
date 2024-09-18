@@ -11,7 +11,7 @@ title: Primordial Tyrants
 
 # Path of Titans Primordial Tyrants
 
-![Path Of Titans](<PT Header.webp>)
+![Path Of Titans](<pt header.webp>)
 
 Primordial Tyrants is an ambitious mod and gaming community.
 Our mods consists of a vast variety of additional dinosaurs, new skins, and fictional dinosaurs.
