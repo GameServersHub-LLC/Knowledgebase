@@ -17,17 +17,17 @@ hero:
 features:
   - icon:
       {
-        src: /Path of Titans - 667x260.webp,
+        src: /path of titans - 667x260.webp,
         width: 667,
         height: 260,
         alt: Path Of Titans Background,
       }
     title: Path Of Titans Guides
     details: Embark on epic quests in the central and eastern zones of Gondwa, and strive to become the best.
-    link: "./path-of-titans/setup/path-of-titans-How-To-Configurate-Game-ini"
+    link: "./path-of-titans/setup/path-of-titans-how-to-configurate-game-ini"
   - icon:
       {
-        src: /Rust - 667x260.webp,
+        src: /rust - 667x260.webp,
         width: 667,
         height: 260,
         alt: Rust Background,
@@ -37,7 +37,7 @@ features:
     link: "#"
   - icon:
       {
-        src: /Palworld - 667x260.webp,
+        src: /palworld - 667x260.webp,
         width: 667,
         height: 260,
         alt: Palworld Background,
@@ -47,7 +47,7 @@ features:
     link: "./palworld/palworld-server-settings"
   - icon:
       {
-        src: /7 Days To Die - 667x260.webp,
+        src: /7 days to die - 667x260.webp,
         width: 667,
         height: 260,
         alt: 7 Days To Die Background,
@@ -57,7 +57,7 @@ features:
     link: "#"
   - icon:
       {
-        src: /Soulmask - 667x260.webp,
+        src: /soulmask - 667x260.webp,
         width: 667,
         height: 260,
         alt: Soulmask Background,
@@ -67,7 +67,7 @@ features:
     link: "#"
   - icon:
       {
-        src: /V Rising - 667x260.webp,
+        src: /v rising - 667x260.webp,
         width: 667,
         height: 260,
         alt: V Rising Background,
@@ -77,7 +77,7 @@ features:
     link: "#"
   - icon:
       {
-        src: /The Isle - 667x260.webp,
+        src: /the isle - 667x260.webp,
         width: 667,
         height: 260,
         alt: The Isle Background,
@@ -87,7 +87,7 @@ features:
     link: "#"
   - icon:
       {
-        src: /Satisfactory - 667x260.webp,
+        src: /satisfactory - 667x260.webp,
         width: 667,
         height: 260,
         alt: Satisfactory Background,

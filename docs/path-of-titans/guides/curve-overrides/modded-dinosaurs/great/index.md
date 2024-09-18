@@ -19,8 +19,8 @@ Modder's [Discord Link](#)
 
 ## Triceratops
 
-<a href='./path-of-titans-DTriceratops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/989/conversions/Logo_GreatTrike-icon.jpg' /> </a>
+<a href='./path-of-titans-dtriceratops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/989/conversions/Logo_GreatTrike-icon.jpg' /> </a>
 
 ## Tenontosaurus
 
-<a href='./path-of-titans-GTenontosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/978/conversions/image-54-icon.jpg' /> </a>
+<a href='./path-of-titans-gtenontosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/978/conversions/image-54-icon.jpg' /> </a>

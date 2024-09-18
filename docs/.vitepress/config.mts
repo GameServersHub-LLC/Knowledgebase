@@ -1,9 +1,5 @@
 import { defineConfig } from "vitepress";
-
-// This allows lightbox images to work on the pages for users
 import lightbox from "vitepress-plugin-lightbox";
-
-// This allows automation folder generation
 import { generateSidebar } from "vitepress-sidebar";
 
 const vitepressSidebarOptions = {
@@ -11,7 +7,8 @@ const vitepressSidebarOptions = {
 };
 
 const ogUrl = "https://gameservershub.com/wp-content/uploads/2024/07/";
-const ogImage = `${ogUrl}GameServersHub.com-Wiki-Page.webp`;
+const ogImage = `${ogUrl}gameservershub.com-wiki-page.webp`;
+const currentYear = new Date().getFullYear();
 
 export default defineConfig({
   title: "GameServersHub",
@@ -63,8 +60,6 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-
     search: {
       provider: "local",
     },
@@ -94,8 +89,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright:
-        '2024 © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.',
+      copyright: `${currentYear} © <a href="https://gameservershub.com/tos">Copyright</a> GameServersHub: All rights reserved.`,
     },
 
     outline: {
@@ -156,8 +150,10 @@ export default defineConfig({
   },
   markdown: {
     config: (md) => {
-      // Use lightbox plugin
       md.use(lightbox, {});
+    },
+    image: {
+      lazyLoading: true,
     },
   },
 });

@@ -83,4 +83,4 @@ Here is an example of way to edit the font and colors
 <large>Thanks, and have fun!</>
 ```
 
-![alt text](Rules.webp)
+![alt text](rules.webp)
