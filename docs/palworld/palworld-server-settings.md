@@ -1,6 +1,9 @@
 ---
 head:
   - - meta
+    - property: "og:image"
+      content: /path of titans - 667x260.webp
+  - - meta
     - name: description
       content: Explore GameServersHub's Gaming Wiki for in-depth info on Palworld. Discover details on gameplay, features, and updates for the ultimate creature-collecting adventure!
   - - meta

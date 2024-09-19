@@ -1,6 +1,9 @@
 ---
 head:
   - - meta
+    - property: "og:image"
+      content: /path of titans - 667x260.webp
+  - - meta
     - name: description
       content: Explore GameServersHub's Linux Guide for comprehensive information on Linux. Learn about installation, features, and updates for mastering your Linux system!
   - - meta
