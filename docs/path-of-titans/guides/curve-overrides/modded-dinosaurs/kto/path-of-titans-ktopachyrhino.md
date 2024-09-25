@@ -10,7 +10,7 @@ title: KTOPachyrhino
 ---
 # KTOPachyrhino
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -70,7 +70,7 @@ Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -275,7 +275,7 @@ Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1.11))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -307,13 +307,13 @@ RampageStaminaCost",Values=(35,35,35,35,35))
 RampageDuration",Values=(3,3,3,3,3))
 RampageSpeedIncrease",Values=(200,400,650,900,1000))
 ShoveDamage",Values=(5,7,10,15,20))
-ShoveCooldown",Values=(7,7,7,7,7))
+ShoveCooldown",Values=(5,5,5,5,5))
 ShoveStaminaCost",Values=(5,5,5,5,5))
 ShoveSpeed",Values=(350,350,350,350,350))
 ShoveAccelDebuffDuration",Values=(5,5,5,5,5))
 ShoveAccelDebuff",Values=(0.75,0.75,0.75,0.75,0.75))
-ShoveDmgBuffDuration",Values=(1,1,1,1,1))
-ShoveDamageBuff",Values=(1.2,1.2,1.2,1.2,1.2))
+ShoveDmgBuffDuration",Values=(3,3,3,3,3))
+ShoveDamageBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 HeavyBlowDamage",Values=(30,40,45,55,60))
 HeavyBlowCooldown",Values=(12,12,12,12,12))
 HeavyBlowStaminaCost",Values=(10,10,10,10,10))
@@ -373,7 +373,7 @@ StrongLegsKnockback",Values=(1.4,1.4,1.4,1.4,1.4))
 StrongLegsLegHeal",Values=(1.15,1.15,1.15,1.15,1.15))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

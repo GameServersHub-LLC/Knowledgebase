@@ -10,7 +10,7 @@ title: EAAnt
 ---
 # EAAnt
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -74,13 +74,13 @@ Core.StaminaFastSwimCostMultiplier",Values=(1,1,1,1,1))
 Core.StaminaFastDiveCostMultiplier",Values=(1,1,1,1,1))
 Core.StaminaFlyCostMultiplier",Values=(1,1,1,1,1))
 Core.StaminaFastFlyCostMultiplier",Values=(1,1,1,1,1))
-Core.CarryCapacity",Values=(200,900,1600,2300,3001))
+Core.CarryCapacity",Values=(200,900,1600,2300,2500))
 Core.KnockbackToDelatchThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -285,7 +285,7 @@ Multiplier.IncomingDamage.Jumping",Values=(0.75,0.75,0.75,0.75,0.75))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -295,7 +295,7 @@ BoneBreakChance",Values=(0,0,0.01,0.03,0.05))
 BiteCooldown",Values=(1.25,1.25,1.25,1.25,1.25))
 BleedAmount",Values=(1,2,3,4,5))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond",Values=(0.2,0.25,0.3,0.35,0.4))
+StaminaSprintCostPerSecond",Values=(0.2,0.25,0.3,0.4,0.6))
 StaminaSwimgCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaTrotSwimCostPerSecond",Values=(1,1,1,1,1))
 StaminaFastSwimCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
@@ -317,12 +317,6 @@ CrushingBiteDamage",Values=(100,100,100,100,100))
 CrushingBoneBreakAmount",Values=(10,10,10,10,10))
 CrushingBiteCooldown",Values=(5,5,5,5,5))
 CrushingBiteStaminaCost",Values=(10,10,10,10,10))
-TrophallaxisCooldown",Values=(120,120,120,120,120))
-TrophallaxisInterruptedCooldown",Values=(3,3,3,3,3))
-TrophallaxisDamageBuff",Values=(80,80,80,80,80))
-TrophallaxisStaminaCost",Values=(80,80,80,80,80))
-TrophallaxisDuration",Values=(80,80,80,80,80))
-TrophallaxisRadius",Values=(3000,3000,3000,3000,3000))
 StingDamage",Values=(30,30,30,30,30))
 StingBoneBreakChance",Values=(0,0,0,0,0))
 StingCooldown",Values=(1,1,1,1,1))
@@ -339,12 +333,18 @@ RaptorStrikesPounceDamageBuff",Values=(1.4,1.4,1.4,1.4,1.4))
 ClampDamage",Values=(0,0,0,0,0))
 ClampCooldown",Values=(1,1,1,1,1))
 ClampStaminaCost",Values=(0,0,0,0,0))
-ClampCarryStaminaCost",Values=(0.6,0.6,0.6,0.6,0.6))
+ClampCarryStaminaCost",Values=(0.4,0.4,0.4,0.4,0.4))
 SpikeyShellDamageAmount",Values=(0.2,0.2,0.2,0.2,0.2))
-ShieldWallArmorIncrease",Values=(1.3,1.3,1.3,1.3,1.3))
+ShieldWallArmorIncrease",Values=(1.1,1.1,1.1,1.1,1.1))
+TrophallaxisCooldown",Values=(120,120,120,120,120))
+TrophallaxisInterruptedCooldown",Values=(3,3,3,3,3))
+TrophallaxisDamageBuff",Values=(80,80,80,80,80))
+TrophallaxisStaminaCost",Values=(80,80,80,80,80))
+TrophallaxisDuration",Values=(80,80,80,80,80))
+TrophallaxisRadius",Values=(3000,3000,3000,3000,3000))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

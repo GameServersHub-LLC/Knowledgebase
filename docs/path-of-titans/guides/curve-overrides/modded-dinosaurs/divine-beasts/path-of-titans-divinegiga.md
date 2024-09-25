@@ -10,7 +10,7 @@ title: DivineGiga
 ---
 # DivineGiga
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -80,7 +80,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -291,19 +291,19 @@ Multiplier.MonsterSubspecies.BoneBreakRegen",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
 StaminaSprintCostPerSecond",Values=(0.5,1,1.2,1.6,2.07))
-StaminaSwimgCostPerSecond",Values=(1.6,1.7,1.8,1.9,2.13))
+StaminaSwimgCostPerSecond",Values=(0.6,0.7,1,1.3,2.13))
 StaminaFastSwimCostPerSecond",Values=(3,3.3,3.4,3.5,4))
 StaminaDiveCostPerSecond",Values=(1.6,1.7,1.8,1.9,2.13))
 StaminaFastDiveCostPerSecond",Values=(3,3.3,3.4,3.5,4))
 StaminaJumpCost",Values=(5,5,5,5,5))
-BiteDamage",Values=(20,45,50,70,70))
+BiteDamage",Values=(20,45,50,60,60))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteBoneBreakAmount",Values=(0,0,0,0,0))
 BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
@@ -315,27 +315,31 @@ ChargeDamage",Values=(50,60,70,80,90))
 ClawStaminaCost",Values=(0,0,0,0,0))
 ClawDamage",Values=(10,15,20,30,50))
 ClawBoneBreakChance",Values=(0,0,0,0,0))
-ClawBleedAmount",Values=(0.1,0.1,0.1,0.1,0.1))
-ClawCooldown",Values=(2.3,2.3,2.3,2.3,2.3))
+ClawBleedAmount",Values=(0.5,0.5,0.5,0.5,0.5))
+ClawCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 SanguineSnapDamage",Values=(10,10,20,30,30))
 SanguineSnapDamageBuff",Values=(1.2,1.2,1.2,1.2,1.2))
 SanguineSnapDamageBuffCooldown",Values=(10,10,10,10,10))
 SanguineSnapBoneBreakChance",Values=(0,0,0,0,0))
 SanguineSnapBoneBreakAmount",Values=(0,0,0,0,0))
 SanguineSnapCooldown",Values=(1,1,1,1,1))
-SanguineSnapBleedAmount",Values=(0.2,0.2,0.2,0.2,0.2))
+SanguineSnapBleedAmount",Values=(0.3,0.3,0.3,0.3,0.3))
 SanguineSnapBreakAmount",Values=(0,0,0,0,0))
-ChargedBleedSnapDamage",Values=(25,25,30,45,60))
-ChargedBleedSnapBleedAmount",Values=(1,1,1,1,1))
-ChargedBleedSnapCooldown",Values=(3,3,3,3,3))
+ChargedBleedSnapDamage",Values=(25,25,70,75,90))
+ChargedBleedSnapBleedAmount",Values=(0.5,0.5,0.5,0.5,0.5))
+ChargedBleedSnapCooldown",Values=(6,6,6,6,6))
 ChargedBleedSnapStaminaCost",Values=(10,10,10,10,10))
-ChargedBleedSnapBoneBreakChance",Values=(0,0,0,0,0))
-ChargedBleedSnapBoneBreakAmount",Values=(0,0,0,0,0))
+ChargedBleedSnapBoneBreakChance",Values=(1,1,1,1,1))
+ChargedBleedSnapBoneBreakAmount",Values=(0.01,0.01,0.01,0.01,0.01))
+ChargedBleedSnapGashSpeedDebuff",Values=(0.85,0.85,0.85,0.85,0.85))
+ChargedBleedSnapGashBleedHealDebuff",Values=(0.8,0.8,0.8,0.8,0.8))
+ChargedBleedSnapGashSpeedDebuffDuration",Values=(7,7,7,7,7))
 BloodFrenzyDamageBoost",Values=(1.1,1.11,1.1,1.1,1.1))
 BloodFrenzyCooldownReduction",Values=(0.15,0.15,0.15,0.15,0.15))
 BloodFrenzySpeedBoost",Values=(1.1,1.1,1.1,1.1,1.1))
 SlipperyBuckingDrain",Values=(0.3,0.3,0.3,0.3,0.3))
 FleshTearDamage",Values=(25,25,30,55,70))
+FleshTearFoodGain",Values=(25,25,30,55,70))
 FleshTearBoneBreakChance",Values=(0,0,0,0,0))
 FleshTearBleedAmount",Values=(1,1,1,1,1))
 FleshTearCooldown",Values=(150,150,150,150,150))
@@ -362,6 +366,17 @@ StoutBoneBreakHeal",Values=(1.25,1.25,1.25,1.25,1.25))
 ResilientScalesBleedHeal",Values=(1.3,1.3,1.3,1.3,1.3))
 ResilientScalesVenomHeal",Values=(1.3,1.3,1.3,1.3,1.3))
 LoneHunterAttackDamage",Values=(1.1,1.1,1.1,1.1,1.1))
+GrittyScalesStaminaAmount",Values=(1.18,1.18,1.18,1.18,1.18))
+GrittyScalesStaminaRecovery",Values=(1.18,1.18,1.18,1.18,1.18))
+GrittyScalesSpeed",Values=(0.92,0.92,0.92,0.92,0.92))
+ForwardMomentumSprintCostReduction",Values=(1.07,1.07,1.07,1.07,1.07))
+ForwardMomentumKnockbackIncrease",Values=(1.25,1.25,1.25,1.25,1.25))
+ForwardMomentumAccelerationReduction",Values=(0.65,0.65,0.65,0.65,0.65))
+ForwardMomentumTurnRadius",Values=(0.95,0.95,0.95,0.95,0.95))
+ForwardMomentumSpeed",Values=(1.02,1.02,1.02,1.02,1.02))
+EnduringTyrantTurnRadius",Values=(1.1,1.1,1.1,1.1,1.1))
+EnduringTyrantStaminaRecovery",Values=(1.4,1.4,1.4,1.4,1.4))
+EnduringTyrantSpeedReduction",Values=(0.9,0.9,0.9,0.9,0.9))
 SouthernTyrantArmor",Values=(1.15,1.15,1.15,1.15,1.15))
 SouthernTyrantSpeed",Values=(0.94,0.94,0.94,0.94,0.94))
 TailAttackDamage",Values=(10,15,20,25,30))
@@ -374,9 +389,26 @@ RagingBellowAcceleration",Values=(1.45,1.45,1.45,1.45,1.45))
 RagingBellowCost",Values=(10,10,10,10,10))
 RagingBellowCooldown",Values=(180,180,180,180,180))
 RagingBellowDuration",Values=(30,30,30,30,30))
+BloodLustedCooldown",Values=(360,360,360,360,360))
+BloodLustedInterruptedCooldown",Values=(3,3,3,3,3))
+BloodLustedDamageBuff",Values=(0.85,0.85,0.85,0.85,0.85))
+BloodLustedSpeedBuff",Values=(1.07,1.07,1.07,1.07,1.07))
+BloodLustedAccelerationBuff",Values=(2,2,2,2,2))
+BloodLustedTurnBuff",Values=(1.11,1.11,1.11,1.11,1.11))
+BloodLustedStaminaCost",Values=(65,65,65,65,65))
+BloodLustedAntiDMG",Values=(0.1,0.1,0.1,0.1,0.1))
+BloodLustedDuration",Values=(30,30,30,30,30))
+AcceleratorTrotSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
+SmashDamage",Values=(20,45,50,50,65))
+SmashBoneBreakChance",Values=(0,0,0,0,0))
+SmashBoneBreakAmount",Values=(0,0,0,0,0))
+SmashCooldown",Values=(4,4,4,4,4))
+SmashIncomingDamageReduction",Values=(0.94,0.94,0.94,0.94,0.94))
+SmashBuffDuration",Values=(8,8,8,8,8))
+SmashBuffCost",Values=(3,3,3,3,3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-17-2024 by Mike</span>
+<span style="color: #ffd369;">09-24-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
