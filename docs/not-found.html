@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="refresh"
+      content="0; url=https://guides.gsh-servers.com/"
+    />
+    <title>Page Not Found - Guides by GSH Servers</title>
+  </head>
+  <body>
+    <h1>Redirecting...</h1>
+    <script type="text/javascript">
+      // Define a mapping of old URLs to new URLs
+      const redirects = {
+        "/old-broken-page": "/new-correct-page",
+        "/another-broken-page": "/another-correct-page",
+        // Add more mappings here
+      };
+
+      // Get the current path of the page
+      let currentPath = window.location.pathname;
+
+      // Check if the path ends with .md or .html and remove the extension
+      let newPath = currentPath.replace(/\.md$|\.html$/, "");
+
+      // Convert the URL to lowercase and replace "%20" with "-"
+      const lowercasePath = newPath
+        .toLowerCase() // Convert to lowercase
+        .replace(/%20/g, "-") // Replace "%20" with "-"
+        .replace(/\s+/g, "-"); // Ensure no spaces remain
+
+      // First, check if the current path matches an old broken URL
+      if (redirects[currentPath]) {
+        window.location.href = redirects[currentPath];
+      }
+      // Check if the path ends with .md or .html and redirect without the extension
+      else if (newPath !== currentPath) {
+        window.location.href = newPath;
+      }
+      // Redirect if there are %20 (spaces) and capital letters in the URL
+      else if (lowercasePath !== currentPath) {
+        window.location.href = lowercasePath;
+      }
+      // Redirect to homepage if no match is found
+      else {
+        window.location.href = "/";
+      }
+    </script>
+  </body>
+</html>

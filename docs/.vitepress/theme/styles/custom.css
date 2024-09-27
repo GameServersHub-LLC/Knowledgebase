@@ -129,8 +129,20 @@ ul.breadcrumbs li.first[data-v-1536bbb2] {
   border-left: none;
 }
 
-ul.breadcrumbs li.first a[data-v-1536bbb2] {
-  font-size: 18px;
+ul.breadcrumbs li.first a[large-font] {
+  font-size: 20px;
+  padding-left: 20px;
+  border-radius: 5px 0 0 5px;
+}
+
+ul.breadcrumbs li.first a[med-font] {
+  font-size: 16px;
+  padding-left: 20px;
+  border-radius: 5px 0 0 5px;
+}
+
+ul.breadcrumbs li.first a[small-font] {
+  font-size: 12px;
   padding-left: 20px;
   border-radius: 5px 0 0 5px;
 }
