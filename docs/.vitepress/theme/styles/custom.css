@@ -131,7 +131,7 @@ ul.breadcrumbs li.first[data-v-1536bbb2] {
 
 ul.breadcrumbs span[small-font] {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 40px;
   color: var(--custom-breadcrumb-text-color);
   padding: 2px 30px 2px 30px;

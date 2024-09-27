@@ -108,6 +108,10 @@ This logs when a player uses a waystone to teleport.
 
 This records messages sent by a player in the game chat.
 
+### PlayerProfanity
+
+This records instances of a player using profanity in the game chat.
+
 ### PlayerHack
 
 This logs suspected or confirmed instances of a player using hacks or cheats and reports on high ping.
@@ -124,17 +128,25 @@ This logs when a player joins a group within the game.
 
 This records when a player leaves a group within the game.
 
+### PlayerPurchase
+
+Called when a player purchases/upgrades a skin and when an ability is purchased. Depending on the purchase, different fields are sent.
+
 ### ServerRestart
 
 This logs instances of the server being restarted.
 
-### ServerRestartCountdownThis
+### ServerRestartCountdown
 
-tracks the countdown leading up to a server restart.
+This tracks the countdown leading up to a server restart.
 
 ### ServerModerate
 
 This logs actions taken by server moderators, such as muting or banning players.
+
+### ServerError
+
+This logs errors encountered by the server.
 
 ### AdminSpectate
 
@@ -147,14 +159,6 @@ This logs commands issued by an admin.
 ### BadAverageTick
 
 This tracks instances where the server’s tick rate falls below acceptable levels, indicating potential performance issues.
-
-### ServerError
-
-This logs errors encountered by the server.
-
-### PlayerProfanity
-
-This records instances of a player using profanity in the game chat.
 
 ## Game.ini Example
 
