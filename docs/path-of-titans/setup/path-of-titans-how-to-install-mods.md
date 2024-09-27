@@ -99,38 +99,38 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/ancient-monster/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:    | Mod ID:                   | Game.ini Name:    |
 |--------------|---------------------------|-------------------|
-| Cerataspida | `UGC_M_Y257G65EVZ_SK` | `AMCerataspida` |
-| Dankanaptera | ~~`UGC_M_634752J78W_SK`~~ | `AMDankanaptera` |
-| Dryptosaurus | `UGC_M_YNR7341E81_SK` | `DJCDryptosaurus` |
-| Gigamandra | `UGC_M_W61E8X47MD_SK` | `Gigamandra` |
-| Golugore | `UGC_M_VJK7M6KER3_SK` | `Golugore` |
-| Madrehorn | ~~`UGC_M_QM57NKD7D3_SK`~~ | `AMMadrehorn` |
-| Moraquile | `UGC_M_NZKEJJRE12_SK` | `AMMoraquile` |
-| Thalasrex | `UGC_M_VJK0M13ER3_SK` | `AMThalasrex` |
+| Cerataspida  | `UGC_M_Y257G65EVZ_SK`     | `AMCerataspida`   |
+| Dankanaptera | ~~`UGC_M_634752J78W_SK`~~ | `AMDankanaptera`  |
+| Dryptosaurus | `UGC_M_YNR7341E81_SK`     | `DJCDryptosaurus` |
+| Gigamandra   | `UGC_M_W61E8X47MD_SK`     | `Gigamandra`      |
+| Golugore     | `UGC_M_VJK7M6KER3_SK`     | `Golugore`        |
+| Madrehorn    | ~~`UGC_M_QM57NKD7D3_SK`~~ | `AMMadrehorn`     |
+| Moraquile    | `UGC_M_NZKEJJRE12_SK`     | `AMMoraquile`     |
+| Thalasrex    | `UGC_M_VJK0M13ER3_SK`     | `AMThalasrex`     |
 
 ## Archetypes:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/archetypes/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:     | Mod ID:               | Game.ini Name:  |
 |---------------|-----------------------|-----------------|
-| Dunkleosteus | `UGC_M_4RMEK5W7ZY_SK` | `Dunkleosteus` |
+| Dunkleosteus  | `UGC_M_4RMEK5W7ZY_SK` | `Dunkleosteus`  |
 | Gigantoraptor | `UGC_M_K5GEZ9YEPN_SK` | `Gigantoraptor` |
-| Hibber | `UGC_M_6YJ7243058_SK` | `Hibber` |
-| Ocepechelon | `UGC_M_4RM0K8QEZY_SK` | `Ocepech` |
-| Squalicorax | `UGC_M_6YJ72NJE58_SK` | `Squalicorax` |
+| Hibber        | `UGC_M_6YJ7243058_SK` | `Hibber`        |
+| Ocepechelon   | `UGC_M_4RM0K8QEZY_SK` | `Ocepech`       |
+| Squalicorax   | `UGC_M_6YJ72NJE58_SK` | `Squalicorax`   |
 
 ## Arazoa:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/arazoa/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:   | Mod ID:               | Game.ini Name: |
 |-------------|-----------------------|----------------|
-| Xiphactinus | `UGC_M_6YJ72ZYE58_SK` | `ArazoaXiph` |
+| Xiphactinus | `UGC_M_6YJ72ZYE58_SK` | `ArazoaXiph`   |
 
 ## Asylum:
 
@@ -202,23 +202,23 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](https://discord.gg/divinebeasts) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/divine-beasts/index) | [Others](#)
 :::
-|Mod Name: | Mod ID: | Game.ini Name: |
+|Mod Name:                  | Mod ID:               | Game.ini Name:       |
 |---------------------------|-----------------------|----------------------|
-| Acrocanthosaurus | `UGC_M_Z85EQ5372V_SK` | `DivineAcroRedux` |
-| Ampelosaurus | `UGC_M_K5GEZ410PN_SK` | `DivineAmp` |
-| Carcharodontosaurus | `UGC_M_5XN0V387PZ_SK` | `DivineCarchar` |
-| Compsognathus | `UGC_M_DYV0X257GX_SK` | `DivineCompy` |
-| Deinosuchus | `UGC_M_6GW0YZY73Z_SK` | `DivineDeino` |
-| Dryosaurus | `UGC_M_43GE6D67NR_SK` | `DivineDryo` |
-| Edmontosaurus Annectens | `UGC_M_Z850QPPE2V_SK` | `DivineAnnectens` |
-| Edmontosaurus Regalis | `UGC_M_N2R719403D_SK` | `DivineRegalis` |
-| Giganotosaurus | `UGC_M_N59ED1N7WQ_SK` | `DivineGiga` |
-| Inostrancevia | `UGC_M_DYVEXK57GX_SK` | `DivineInos` |
-| Japanese Giant Salamander | `UGC_M_QM5ENMJ7D3_SK` | `TGBsalamander` |
-| Kryptops | `UGC_M_43GE6NQENR_SK` | `CretaceousKryptops` |
-| Mosasaurus | `UGC_M_NZK0JNR712_SK` | `DivineMosa` |
-| Velocciraptor | `UGC_M_43G069Q0NR_SK` | `Velocciraptor` |
-| Zhuchengtyrannus | `UGC_M_6GW0YYP03Z_SK` | `DivineZhuch` |
+| Acrocanthosaurus          | `UGC_M_Z85EQ5372V_SK` | `DivineAcroRedux`    |
+| Ampelosaurus              | `UGC_M_K5GEZ410PN_SK` | `DivineAmp`          |
+| Carcharodontosaurus       | `UGC_M_5XN0V387PZ_SK` | `DivineCarchar`      |
+| Compsognathus             | `UGC_M_DYV0X257GX_SK` | `DivineCompy`        |
+| Deinosuchus               | `UGC_M_6GW0YZY73Z_SK` | `DivineDeino`        |
+| Dryosaurus                | `UGC_M_43GE6D67NR_SK` | `DivineDryo`         |
+| Edmontosaurus Annectens   | `UGC_M_Z850QPPE2V_SK` | `DivineAnnectens`    |
+| Edmontosaurus Regalis     | `UGC_M_N2R719403D_SK` | `DivineRegalis`      |
+| Giganotosaurus            | `UGC_M_N59ED1N7WQ_SK` | `DivineGiga`         |
+| Inostrancevia             | `UGC_M_DYVEXK57GX_SK` | `DivineInos`         |
+| Japanese Giant Salamander | `UGC_M_QM5ENMJ7D3_SK` | `TGBsalamander`      |
+| Kryptops                  | `UGC_M_43GE6NQENR_SK` | `CretaceousKryptops` |
+| Mosasaurus                | `UGC_M_NZK0JNR712_SK` | `DivineMosa`         |
+| Velocciraptor             | `UGC_M_43G069Q0NR_SK` | `Velocciraptor`      |
+| Zhuchengtyrannus          | `UGC_M_6GW0YYP03Z_SK` | `DivineZhuch`        |
 
 ## Feilong:
 
@@ -226,44 +226,44 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/feilong/index) | [Others](#)
 :::
 | Mod Name: | Mod ID: | Game.ini Name: |
-|------------------------------------------------|---------------------------|----------------|
-| Armored Eotriceratops | `UGC_M_NV5ER12EJD_SK` | `EoTLC` |
-| Beaked Pachycephalosaurus Variant \*not updated | ~~`UGC_M_JG1E9XX0QN_SK`~~ | `Beaky` |
+|-------------------------------------------------|---------------------------|----------------|
+| Armored Eotriceratops                           | `UGC_M_NV5ER12EJD_SK`     | `EoTLC`        |
+| Beaked Pachycephalosaurus Variant \*not updated | ~~`UGC_M_JG1E9XX0QN_SK`~~ | `Beaky`        |
 
 ## Goliath:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/goliath/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:  | Mod ID:               | Game.ini Name: |
 |------------|-----------------------|----------------|
-| Dimetrodon | `UGC_M_W6178YG7MD_SK` | `Dimetrodon` |
+| Dimetrodon | `UGC_M_W6178YG7MD_SK` | `Dimetrodon`   |
 
 ## Great:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/great/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:     | Mod ID:               | Game.ini Name:   |
 |---------------|-----------------------|------------------|
 | Tenontosaurus | `UGC_M_N590DRNEWQ_SK` | `GTenontosaurus` |
-| Triceratops | `UGC_M_YZK74JGE9W_SK` | `DTriceratops` |
+| Triceratops   | `UGC_M_YZK74JGE9W_SK` | `DTriceratops`   |
 
 ## Isle of Myths:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/isle-of-myths/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:     | Mod ID:               | Game.ini Name:  |
 |---------------|-----------------------|-----------------|
-| Spearcrest | `UGC_M_N2R711873D_SK` | `SpearcrestNew` |
+| Spearcrest    | `UGC_M_N2R711873D_SK` | `SpearcrestNew` |
 
 ## Isla Nycta:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/isla-nycta/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:     | Mod ID:               | Game.ini Name:  |
 |---------------|-----------------------|-----------------|
 | Nyctatyrannus | `UGC_M_K5G0Z310PN_SK` | `Nyctatyrannus` |
 
@@ -274,8 +274,8 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 :::
 | Mod Name: | Mod ID: | Game.ini Name: |
 |---------------------|-----------------------|----------------|
-| Torvosaurus tanneri | `UGC_M_YNR73VY081_SK` |`JFDTtanneri` |
-| Deltadromeus agilis | `UGC_M_W6178R10MD_SK` |`JFDDagilis` |
+| Torvosaurus tanneri | `UGC_M_YNR73VY081_SK` |`JFDTtanneri`   |
+| Deltadromeus agilis | `UGC_M_W6178R10MD_SK` |`JFDDagilis`    |
 
 ## K23:
 
