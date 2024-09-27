@@ -129,16 +129,49 @@ ul.breadcrumbs li.first[data-v-1536bbb2] {
   border-left: none;
 }
 
-ul.breadcrumbs li.first a[large-font] {
-  font-size: 20px;
-}
-
-ul.breadcrumbs li.first a[med-font] {
-  font-size: 16px;
-}
-
-ul.breadcrumbs li.first a[small-font] {
+ul.breadcrumbs span[small-font] {
+  display: block;
   font-size: 12px;
+  line-height: 40px;
+  color: var(--custom-breadcrumb-text-color);
+  padding: 2px 30px 2px 30px;
+  text-decoration: none;
+  background: var(--custom-breadcrumb-background-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  /* max-width: 200px; */
+  transition: 0.3s ease;
+}
+
+ul.breadcrumbs span[med-font] {
+  display: block;
+  font-size: 16px;
+  line-height: 40px;
+  color: var(--custom-breadcrumb-text-color);
+  padding: 2px 30px 2px 30px;
+  text-decoration: none;
+  background: var(--custom-breadcrumb-background-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  /* max-width: 200px; */
+  transition: 0.3s ease;
+}
+
+ul.breadcrumbs span[large-font] {
+  display: block;
+  font-size: 20px;
+  line-height: 40px;
+  color: var(--custom-breadcrumb-text-color);
+  padding: 2px 30px 2px 30px;
+  text-decoration: none;
+  background: var(--custom-breadcrumb-background-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  /* max-width: 200px; */
+  transition: 0.3s ease;
 }
 
 ul.breadcrumbs li.last[data-v-1536bbb2]:before {
@@ -150,6 +183,24 @@ ul.breadcrumbs li.last[data-v-1536bbb2]:after {
 }
 
 ul.breadcrumbs li.last span[data-v-1536bbb2] {
+  padding-right: 20px;
+  border-radius: 0 40px 40px 0;
+  border-right: 2px solid var(--custom-breadcrumb-border-color);
+}
+
+ul.breadcrumbs li.last span[large-font] {
+  padding-right: 20px;
+  border-radius: 0 40px 40px 0;
+  border-right: 2px solid var(--custom-breadcrumb-border-color);
+}
+
+ul.breadcrumbs li.last span[med-font] {
+  padding-right: 20px;
+  border-radius: 0 40px 40px 0;
+  border-right: 2px solid var(--custom-breadcrumb-border-color);
+}
+
+ul.breadcrumbs li.last span[small-font] {
   padding-right: 20px;
   border-radius: 0 40px 40px 0;
   border-right: 2px solid var(--custom-breadcrumb-border-color);

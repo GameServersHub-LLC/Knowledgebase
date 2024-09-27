@@ -31,46 +31,46 @@ Enabling Client Side Replays:
 Path:
 
 <ul class="breadcrumbs" data-v-1536bbb2="">
-<li class="first" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> C:
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Users
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> %UserName%
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> AppData
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i>  Local
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i>  PathOfTitans
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i> Saved
-</span>
-</li>
-<li class="last" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i> Demos
-</span>
-</li>
+  <li class="first" data-v-1536bbb2="">
+    <span large-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> C:
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Users
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> %UserName%
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span small-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> AppData
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span small-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> Local
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span small-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> PathOfTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span small-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+  <li class="last" data-v-1536bbb2="">
+    <span small-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> Demos
+    </span>
+  </li>
 </ul>
 
 To enable your own recording of replays, you can use the following configuration in `Game.ini`:
