@@ -32,7 +32,9 @@ The Ancient Monster mod team is a Modding group dedicated to bring speculative e
 
 <a href='./path-of-titans-golugore' target='_blank'> <img src='https://web-cdn.alderongames.com/files/822/conversions/Golugore_icon-icon.jpg' /> </a>
 
-<!-- ### [Madrehorn](#) -->
+## Madrehorn.
+
+<a href='./path-of-titans-ammadrehorn' target='_blank'> <img src='https://web-cdn.alderongames.com/files/866/conversions/Mod-page-icon-for-madrehorn-icon.jpg' /> </a>
 
 ## Moraquile
 

@@ -148,7 +148,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 :::
 | Mod Name: | Mod ID: | Game.ini Name: |
 |------------------|-----------------------|-----------------------|
-| Kaprosuchus | `UGC_M_N597DMN7WQ_SK` | `DavidKaproNew` |
+| Kaprosuchus      | `UGC_M_N597DMN7WQ_SK` | `DavidKaproNew`       |
 | Pachyrhinosaurus | `UGC_M_43G7646ENR_SK` | `DavidRosaPachyrhino` |
 
 ## Ex Argilla:
@@ -156,37 +156,37 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/ex-argilla/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:                  | Mod ID:               | Game.ini Name:     |
 |----------------------------|-----------------------|--------------------|
-| Magna Ant | `UGC_M_YNR0331081_SK` | `EAAnt` |
-| Australovenator | `UGC_M_YZKE41GE9W_SK` | `ExAAustralo` |
-| Great Archelon | `UGC_M_634E5J8E8W_SK` | `ExArchelon` |
-| Allosaurus | `UGC_M_NV50R62EJD_SK` | `ExAAllo` |
+| Magna Ant                  | `UGC_M_YNR0331081_SK` | `EAAnt`            |
+| Australovenator            | `UGC_M_YZKE41GE9W_SK` | `ExAAustralo`      |
+| Great Archelon             | `UGC_M_634E5J8E8W_SK` | `ExArchelon`       |
+| Allosaurus                 | `UGC_M_NV50R62EJD_SK` | `ExAAllo`          |
 | Beringia Mammuthus Columbi | `UGC_M_RD17PN2EXG_SK` | `BeringiaMammothC` |
-| Bistahieversor | `UGC_M_K5G7Z2Y0PN_SK` | `ExABista` |
-| Smilodon | `UGC_M_JG1E9D97QN_SK` | `EASmilodon` |
-| Dracoviper | `UGC_M_W610844EMD_SK` | `EADracoviper` |
-| Griffin | `UGC_M_12GEW9PEWK_SK` | `EAGriffin` |
-| Nasutoceratops | `UGC_M_6GWEYR373Z_SK` | `EANasuto` |
+| Bistahieversor             | `UGC_M_K5G7Z2Y0PN_SK` | `ExABista`         |
+| Smilodon                   | `UGC_M_JG1E9D97QN_SK` | `EASmilodon`       |
+| Dracoviper                 | `UGC_M_W610844EMD_SK` | `EADracoviper`     |
+| Griffin                    | `UGC_M_12GEW9PEWK_SK` | `EAGriffin`        |
+| Nasutoceratops             | `UGC_M_6GWEYR373Z_SK` | `EANasuto`         |
 
 ## The Crimson Isle:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/the-crimson-isle/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:       | Mod ID:               | Game.ini Name: |
 |-----------------|-----------------------|----------------|
-| Cryolophosaurus | `UGC_M_N597D9ZEWQ_SK` | `CrimsonCryo` |
+| Cryolophosaurus | `UGC_M_N597D9ZEWQ_SK` | `CrimsonCryo`  |
 
 ## Cenozoic Timelines:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/cenozoic-timelines/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:     | Mod ID:               | Game.ini Name:    |
 |---------------|-----------------------|-------------------|
 | Andrewsarchus | `UGC_M_Y25EGKQ0VZ_SK` | `CTAndrewsarchus` |
-| Ankylorhiza | `UGC_M_YZK74RK79W_SK` | `CTAnkylorhiza` |
+| Ankylorhiza   | `UGC_M_YZK74RK79W_SK` | `CTAnkylorhiza`   |
 
 ## Extinction Mods:
 
@@ -303,16 +303,16 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](#) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:  | Mod ID:               | Game.ini Name: |
 |------------|-----------------------|----------------|
-| Susecdurus | `UGC_M_W6108317MD_SK` | `Susecdurus` |
+| Susecdurus | `UGC_M_W6108317MD_SK` | `Susecdurus`   |
 
 ## KTO:
 
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](../guides/curve-overrides/modded-dinosaurs/kto/index) | [Others](#)
 :::
-| Mod Name: | Mod ID: | Game.ini Name: |
+| Mod Name:        | Mod ID:               | Game.ini Name:  |
 |------------------|-----------------------|-----------------|
 | Deinosuchus | `UGC_M_43G76JQ0NR_SK` | `KTODeino` |
 | Dryptosaurus | `UGC_M_N2RE1Y403D_SK` | `KTODrypto` |

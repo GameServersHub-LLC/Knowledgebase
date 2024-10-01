@@ -20,6 +20,10 @@ This your mod? You want your info here? Make a ticket in our [Discord!](https://
 
 Modder's [Discord Link](#)
 
+## Great Archelon
+
+<a href='./path-of-titans-exarchelon' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1172/conversions/UI_Logo_Archelon-icon.jpg' /> </a>
+
 ## Triceratops
 
 <a href='./path-of-titans-dtriceratops' target='_blank'> <img src='https://web-cdn.alderongames.com/files/989/conversions/Logo_GreatTrike-icon.jpg' /> </a>

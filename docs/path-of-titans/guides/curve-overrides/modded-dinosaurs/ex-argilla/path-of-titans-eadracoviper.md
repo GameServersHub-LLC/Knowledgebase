@@ -10,7 +10,7 @@ title: EADracoviper
 ---
 # EADracoviper
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -80,7 +80,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -323,7 +323,7 @@ Multiplier.StandardSubSpecies",Values=(1,1,1,1,1))
 Multiplier.VeteranSubSpecies.FlightSpeed",Values=(0.9,0.9,0.9,0.9,0.9))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -334,13 +334,13 @@ BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 BleedAmount",Values=(0,0,0,0,0))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
 StaminaSprintCostPerSecond",Values=(0.6,0.75,1,1.1,1.33))
-StaminaSwimgCostPerSecond",Values=(0.3,0.3,0.3,0.4,0.4))
+StaminaSwimgCostPerSecond",Values=(0,0,0,0,0))
 StaminaFastSwimCostPerSecond",Values=(0.6,0.75,0.85,1,1.4))
 StaminaDiveCostPerSecond",Values=(0.4,0.5,0.6,0.7,0.8))
 StaminaFastDiveCostPerSecond",Values=(0.6,0.75,0.85,0.95,1.1))
 StaminaJumpCost",Values=(3,3,3,3,3))
 StaminaFlyCostPerSecond",Values=(0.2,0.25,0.3,0.35,0.4))
-StaminaFastFlyCostPerSecond",Values=(0.2,0.25,0.35,0.45,0.55))
+StaminaFastFlyCostPerSecond",Values=(0.2,0.35,0.45,0.55,0.65))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteBleedAmount",Values=(0,0,0,0,0))
 HollowBonesJumpStaminaMultiplier",Values=(0.8,0.8,0.8,0.8,0.8))
@@ -380,7 +380,7 @@ TailDamage",Values=(30,30,30,30,30))
 TailCooldown",Values=(3,3,3,3,3))
 ShearingForceDamage",Values=(25,35,45,55,65))
 ShearingForceCooldown",Values=(3,3,3,3,3))
-ShearingForceBleed",Values=(1,1,1,1,1))
+ShearingForceBleed",Values=(0.75,0.75,0.75,0.75,0.75))
 DeadEndMovementSpeed",Values=(400,400,400,400,400))
 DeadEndDamage",Values=(0,0,0,0,0))
 DeadEndCooldown",Values=(5,5,5,5,5))
@@ -400,9 +400,13 @@ BarrelRollBleedAmount",Values=(0,0,0,0,0))
 BarrelRollCooldown",Values=(8,8,8,8,8))
 BarrelRollStaminaCost",Values=(5,5,5,5,5))
 BarrelRollMovementSpeed",Values=(300,300,300,300,300))
+FlockTacticsDamageBuff",Values=(1.03,1.03,1.03,1.03,1.03))
+LongDistanceRunnerStamina",Values=(0.85,0.85,0.85,0.85,0.85))
+FetidFervorSpeedBuff",Values=(1.1,1.1,1.1,1.1,1.1))
+FetidFrevorRange",Values=(5000,5000,5000,5000,5000))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

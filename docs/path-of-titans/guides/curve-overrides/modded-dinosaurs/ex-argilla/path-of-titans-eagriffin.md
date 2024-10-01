@@ -10,7 +10,7 @@ title: EAGriffin
 ---
 # EAGriffin
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -56,7 +56,7 @@ Core.PoisonDamage",Values=(10,20,20,30,30))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
 Core.HealthRecoveryRate",Values=(0.83,1.13,1.35,1.53,1.67))
-Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.8,0.6))
+Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.6,0.55))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
 Core.FallDeathSpeed",Values=(3500,3500,3500,3500,3500))
 Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
@@ -80,7 +80,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -429,7 +429,7 @@ Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -462,7 +462,6 @@ ClawDamage",Values=(25,35,40,45,55))
 ClawBoneBreakChance",Values=(0,0,0,0,0))
 ClawCooldown",Values=(2.5,2.5,2.5,2.5,2.5))
 ClawBleedAmount",Values=(0.25,0.25,0.25,0.25,0.25))
-AirClawDamage",Values=(40,45,50,55,60))
 AirClawCooldown",Values=(5,5,5,5,5))
 AirClawBleedAmount",Values=(0.5,0.5,0.5,0.5,0.5))
 HeavyBiteDamage",Values=(35,40,45,50,60))
@@ -489,8 +488,8 @@ KickCost",Values=(5,5,5,5,5))
 GroundedClawsSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
 AerodynamicWingsFlyingTurn",Values=(1.1,1.1,1.1,1.1,1.1))
 AerodynamicTurnRadius",Values=(0.7,0.7,0.7,0.7,0.7))
-HeraldOfHorusDamageBuff",Values=(1.15,1.15,1.15,1.15,1.15))
-HeraldOfHorusBleedBuff",Values=(1.15,1.15,1.15,1.15,1.15))
+HeraldOfHorusDamageBuff",Values=(1.05,1.05,1.05,1.05,1.05))
+HeraldOfHorusBleedBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 PrometheusWardDamageBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 PrometheusWardBleedBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 HeraldicWingsJumpForce",Values=(1.6,1.6,1.6,1.6,1.6))
@@ -506,13 +505,14 @@ WrathOfOlympusCooldown",Values=(120,120,120,120,120))
 RomanWarCryDamageIncrease",Values=(1.2,1.2,1.2,1.2,1.2))
 RomanWarCryDuration",Values=(20,20,20,20,20))
 RomanWarCryCooldown",Values=(150,150,150,150,150))
-PrometheusAttackdamage",Values=(1.15,1.15,1.15,1.15,1.15))
-PrometheusBleed",Values=(1.15,1.15,1.15,1.15,1.15))
+PrometheusAttackdamage",Values=(1.05,1.05,1.05,1.05,1.05))
+PrometheusBleed",Values=(1.05,1.05,1.05,1.05,1.05))
 HeraldicWingsJumpCost",Values=(0.7,0.7,0.7,0.7,0.7))
 GroundedClawsSpeedMultiplier",Values=(0.7,0.7,0.7,0.7,0.7))
+AirClawStaminaCost",Values=(10,10,10,10,10))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

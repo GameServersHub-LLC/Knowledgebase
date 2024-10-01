@@ -10,7 +10,7 @@ title: DivineZhuch
 ---
 # DivineZhuch
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -87,7 +87,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -301,7 +301,7 @@ Multiplier.SpecialSpeedySubSpecies.Attack",Values=(1.03,1.03,1.03,1.03,1.03))
 BodyFoodDecayPerSecond",Values=(0.5,0.6,0.7,0.8,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -316,7 +316,7 @@ StaminaJumpCost",Values=(2.5,2.5,2.5,2.5,2.5))
 FrontBiteDamage",Values=(25,30,35,55,70))
 FrontBiteBoneBreakChance",Values=(0,0,0,0,0))
 FrontBiteBleedAmount",Values=(0,0,0,0,0))
-FrontBiteCooldown",Values=(1.2,1.2,1.2,1.2,1.2))
+FrontBiteCooldown",Values=(1.35,1.35,1.35,1.35,1.35))
 FrontBiteStaminaCost",Values=(0,0,0,0,0))
 BoneSnapDamage",Values=(30,30,30,30,30))
 BoneSnapBoneBreakAmount",Values=(20,20,20,20,20))
@@ -340,7 +340,7 @@ BackBiteDamage",Values=(5,20,43,50,70))
 BackBiteBoneBreakChance",Values=(0,0,0,0,0))
 BackBiteSpeed",Values=(0,0,0,0,0))
 BackBiteBleedAmount",Values=(0,0,0,0,0))
-BackBiteCooldown",Values=(1,1,1,1,1))
+BackBiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 BackBiteStaminaCost",Values=(0,0,0,0,0))
 BuffAttackDamageMultiplier",Values=(1.05,1.05,1.05,1.05,1.05))
 BuffAttackDamageRadius",Values=(3000,3000,3000,3000,3000))
@@ -374,7 +374,7 @@ ThrashingStaminaCost",Values=(20,20,20,20,20))
 ThrashingCooldown",Values=(3,3,3,3,3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">09-24-2024 by Mike</span>
+<span style="color: #ffd369;">10-01-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
