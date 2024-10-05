@@ -1,8 +1,8 @@
 ---
 head:
   - - meta
-    - property: 
-      content: 
+    - property: "og:image"
+      content: /gameservershub-meta-thumbnail.webp
   - - meta
     - name: description
       content: Explore GameServersHub's Gaming Wiki for in-depth info on Ark Survival Ascended. Discover details on gameplay, features, and updates for the ultimate creature-collecting adventure!
@@ -124,6 +124,7 @@ PreventDownloadSurvivors=False
 PreventDownloadItems=True
 PreventDownloadDinos=True
 ```
+
 ## Start ARK Survival Ascended Servers and Enjoy!​
 
 The Ark: Survival Ascended Pterodactyl Cluster should now be working. Thanks for following my guide. If you have questions or comments, feel free to leave them here and I will do my best to answer them!
