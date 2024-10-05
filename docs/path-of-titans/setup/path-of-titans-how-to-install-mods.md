@@ -106,7 +106,7 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Dryptosaurus | `UGC_M_YNR7341E81_SK`     | `DJCDryptosaurus` |
 | Gigamandra   | `UGC_M_W61E8X47MD_SK`     | `Gigamandra`      |
 | Golugore     | `UGC_M_VJK7M6KER3_SK`     | `Golugore`        |
-| Madrehorn    | ~~`UGC_M_QM57NKD7D3_SK`~~ | `AMMadrehorn`     |
+| Madrehorn    | `UGC_M_QM57NKD7D3_SK`     | `AMMadrehorn`     |
 | Moraquile    | `UGC_M_NZKEJJRE12_SK`     | `AMMoraquile`     |
 | Thalasrex    | `UGC_M_VJK0M13ER3_SK`     | `AMThalasrex`     |
 
