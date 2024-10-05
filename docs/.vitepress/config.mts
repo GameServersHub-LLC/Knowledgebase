@@ -140,7 +140,7 @@ export default defineConfig({
       // convertSameNameSubFileToGroupIndexPage: false,
       // folderLinkNotIncludesFileName: false,
       // keepMarkdownSyntaxFromTitle: false,
-      // debugPrint: false,
+      // debugPrint: true,
     }),
 
     socialLinks: [
