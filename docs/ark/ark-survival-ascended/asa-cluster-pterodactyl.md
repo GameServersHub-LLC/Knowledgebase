@@ -9,16 +9,16 @@ head:
   - - meta
     - name: keywords
       content: Ark Survival Ascended
-title: Cluster on Pterodactyl
+title: Setting Up Clusters on Pterodactyl
 ---
 
-# Ark Survival Ascended Cluster on Pterodactyl
+# Ark Survival Ascended Setting Up Cluster on Pterodactyl
 
 ![alt text](asa-cluster-ptero.webp)
 
 Our goal for this tutorial is to setup and configure an Ark: Survival Ascended Pterodactyl Cluster.
 
-Note: This guide is for ARK Survival Evolved. If you are looking for ASE directions, see [Setting up ARK Survival Evolved cluster in Pterodactyl.](#)
+Note: This guide is for ARK Survival Evolved. If you are looking for ASE directions, see [Setting up ARK Survival Evolved Cluster in Pterodactyl.](#)
 
 ## Pterodactyl ASA Cluster Creation​
 
