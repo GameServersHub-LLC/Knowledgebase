@@ -303,9 +303,9 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 ::: details
 [Modder Discord](#) | [Curve Overrides Link](#) | [Others](#)
 :::
-| Mod Name:  | Mod ID:               | Game.ini Name: |
-|------------|-----------------------|----------------|
-| Susecdurus | `UGC_M_W6108317MD_SK` | `Susecdurus`   |
+| Mod Name:  | Mod ID:                                 | Game.ini Name: |
+|------------|-----------------------------------------|----------------|
+| Susecdurus \*not updated | ~~`UGC_M_W6108317MD_SK`~~ | `Susecdurus`   |
 
 ## KTO:
 

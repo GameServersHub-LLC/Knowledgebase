@@ -10,7 +10,7 @@ title: Rhamphorhynchus
 ---
 # Rhamphorhynchus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -31,11 +31,11 @@ Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(100,125,150,175,200))
+Core.BodyFoodAmount",Values=(10,10,30,175,200))
 Core.MaxHunger",Values=(50,62,75,87,100))
 Core.MaxThirst",Values=(50,62,75,87,100))
-Core.HungerDepletionRate",Values=(0.03,0.03,0.04,0.05,0.06))
-Core.ThirstDepletionRate",Values=(0.03,0.03,0.04,0.05,0.06))
+Core.HungerDepletionRate",Values=(0.06,0.03,0.04,0.04,0.04))
+Core.ThirstDepletionRate",Values=(0.06,0.03,0.04,0.04,0.04))
 Core.FoodConsumptionRate",Values=(20,25,30,35,40))
 Core.WaterConsumptionRate",Values=(20,25,30,35,40))
 Core.MaxOxygen",Values=(100,100,100,100,100))
@@ -87,7 +87,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -242,6 +242,32 @@ Multiplier.VenomHealRate.CrouchWalking",Values=(0.75,0.75,0.75,0.75,0.75))
 Multiplier.VenomHealRate.Jumping",Values=(1,1,1,1,1))
 Multiplier.VenomHealRate.Flying",Values=(0.5,0.5,0.5,0.5,0.5))
 Multiplier.VenomHealRate.FastFlying",Values=(0.25,0.25,0.25,0.25,0.25))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
 Multiplier.HungerDepletionRate.Resting",Values=(1,1,1,1,1))
 Multiplier.HungerDepletionRate.Sleeping",Values=(1,1,1,1,1))
 Multiplier.HungerDepletionRate.Standing",Values=(1,1,1,1,1))
@@ -325,7 +351,7 @@ Multiplier.MuensteriSubSpecies.SwimSpeedMultiplier",Values=(1.1,1.1,1.1,1.1,1.1)
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -423,12 +449,12 @@ AttachUnderwaterStaminaDrainPerSecond",Values=(1,1,1,1,1))
 LordOfTerrorsCost",Values=(10,10,10,10,10))
 LordOfTerrorsStaminaLost",Values=(10,10,10,10,10))
 LordOfTerrorsRange",Values=(10000,10000,10000,10000,10000))
-LordOfTerrorsCoolodown",Values=(300,300,300,300,300))
+LordOfTerrorsCooldown",Values=(300,300,300,300,300))
 LordOfTerrorsDamageDebuff",Values=(0.9,0.9,0.9,0.9,0.9))
 LordOfTerrorsDebuffDuration",Values=(30,30,30,30,30))
 BloodthirstyHuntersCost",Values=(10,10,10,10,10))
 BloodthirstyHuntersRange",Values=(1500,1500,1500,1500,1500))
-BloodthirstyHuntersCoolodown",Values=(300,300,300,300,300))
+BloodthirstyHuntersCooldown",Values=(300,300,300,300,300))
 BloodthirstyHuntersBleedBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 BloodthirstyHuntersDuration",Values=(30,30,30,30,30))
 FishingLureFishReactionDelayStacks",Values=(3,3,3,3,3))
@@ -440,7 +466,7 @@ FishyBreathRange",Values=(5000,5000,5000,5000,5000))
 FishyBreathCost",Values=(25,25,25,25,25))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

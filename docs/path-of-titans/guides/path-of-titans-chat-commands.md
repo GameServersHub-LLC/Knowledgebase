@@ -39,10 +39,10 @@ Commands in this section do not require permission to use, and are available to 
 | /respawn | `/respawn` | - | :x: | Kills your character and respawns them at a standard spawn point. Useful if players somehow get stuck. |
 | /mute [user] | `/mute that411guy` | - | :x: | Mutes the specified user. This only mutes them for the player, not the entire server. |
 | /unmute [user] | `/unmute that411guy` | - | :x: | Unmutes the specified user. This only unmutes them for the player, not the entire server. |
-| /listplayers | `/listplayers` | - | :x: | Shows all players on the server. |
-| /whisper [username] [message] | `/whisper that411guy Hello there` | - | :x: | Whispers a message to the specified player. If no player is specified, it will whisper to the last player you whispered to. |
+| /listplayers | `/listplayers` | - | :heavy_check_mark: | Shows all players on the server. |
+| /whisper [username] [message] | `/whisper that411guy Hello there` | - | :heavy_check_mark: | Whispers a message to the specified player. If no player is specified, it will whisper to the last player you whispered to. |
 | /w [username] [message] | `/w that411guy Hello there` | - | :x: | Shortcut for /whisper. |
-| /whisperall [message] | `/whisperall Hello everyone` | - | :x: | Whispers a message to all players in the server. |
+| /whisperall [message] | `/whisperall Hello everyone` | - | :heavy_check_mark: | Whispers a message to all players in the server. |
 
 ## Teleport Commands
 
