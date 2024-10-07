@@ -10,7 +10,7 @@ title: Megalania
 ---
 # Megalania
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -31,11 +31,11 @@ Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(100,200,300,400,500))
+Core.BodyFoodAmount",Values=(10,10,100,400,500))
 Core.MaxHunger",Values=(50,100,150,200,250))
 Core.MaxThirst",Values=(50,100,150,200,250))
-Core.HungerDepletionRate",Values=(0.03,0.07,0.1,0.13,0.17))
-Core.ThirstDepletionRate",Values=(0.03,0.07,0.1,0.13,0.17))
+Core.HungerDepletionRate",Values=(0.06,0.06,0.06,0.07,0.07))
+Core.ThirstDepletionRate",Values=(0.06,0.06,0.06,0.07,0.07))
 Core.FoodConsumptionRate",Values=(20,25,35,45,50))
 Core.WaterConsumptionRate",Values=(20,25,35,45,50))
 Core.MaxOxygen",Values=(100,100,100,100,100))
@@ -86,7 +86,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -288,13 +288,39 @@ Multiplier.IncomingDamage.FastDiving",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Crouching",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
 Multiplier.BulkySubSpecies.VenomDamage",Values=(1.05,1.05,1.05,1.05,1.05))
 Multiplier.StandardSubSpecies.JumpForceMultiplier",Values=(1.25,1.25,1.25,1.25,1.25))
 Multiplier.SpeedySubSpecies.SwimSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -311,7 +337,7 @@ StaminaDiveCostPerSecond",Values=(1.1,1.3,1.5,1.9,2.2))
 StaminaFastDiveCostPerSecond",Values=(0.7,0.8,0.95,1.1,1.3))
 StaminaJumpCost",Values=(5,5,5,5,5))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
-BiteVenomAmount",Values=(0.1,0.1,0.1,0.1,0.1))
+BiteVenomAmount",Values=(0.2,0.2,0.2,0.2,0.2))
 BiteStaminaCost",Values=(0,0,0,0,0))
 FetidScentDamageMultiplier",Values=(1.2,1.2,1.2,1.2,1.2))
 FetidScentRange",Values=(5000,5000,5000,5000,5000))
@@ -335,11 +361,11 @@ LeapJumpForce",Values=(1.5,1.5,1.5,1.5,1.5))
 LeapAirControl",Values=(3,3,3,3,3))
 LeapFallDamage",Values=(1.2,1.2,1.2,1.2,1.2))
 ToxicScreamVenom",Values=(1.5,1.5,1.5,1.5,1.5))
-ToxicScreamDuration",Values=(30,30,30,30,30))
+ToxicScreamDuration",Values=(60,60,60,60,60))
 ToxicScreamCooldown",Values=(300,300,300,300,300))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

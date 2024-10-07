@@ -10,7 +10,7 @@ title: Hatzegopteryx
 ---
 # Hatzegopteryx
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -31,11 +31,11 @@ Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(50,200,400,500,600))
+Core.BodyFoodAmount",Values=(10,10,130,500,600))
 Core.MaxHunger",Values=(50,100,200,250,300))
 Core.MaxThirst",Values=(50,100,200,250,300))
-Core.HungerDepletionRate",Values=(0.03,0.03,0.04,0.05,0.06))
-Core.ThirstDepletionRate",Values=(0.04,0.05,0.06,0.07,0.08))
+Core.HungerDepletionRate",Values=(0.06,0.06,0.1,0.1,0.11))
+Core.ThirstDepletionRate",Values=(0.06,0.06,0.1,0.1,0.11))
 Core.FoodConsumptionRate",Values=(17,30,45,60,70))
 Core.WaterConsumptionRate",Values=(17,30,45,60,70))
 Core.MaxOxygen",Values=(100,100,100,100,100))
@@ -88,7 +88,7 @@ Core.CarryCapacity",Values=(100,800,1300,1700,2100))
 Core.CharacterCarrySpeedMult",Values=(0.67,0.67,0.67,0.67,0.67))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -434,31 +434,57 @@ Multiplier.IncomingDamage.Latched",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.LatchedUnderwater",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Carried",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
 Multiplier.StandardSubSpecies.FlightStamina",Values=(0.9,0.9,0.9,0.9,0.9))
 Multiplier.PointedSubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.RoundedSubSpecies.Armor",Values=(1.05,1.05,1.05,1.05,1.05))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
 MeshEffectBuckingDrainBuff",Values=(0.5,0.5,0.5,0.5,0.5))
-BeakClackCooldown",Values=(300,300,300,300,300))
+BeakClackCooldown",Values=(150,150,150,150,150))
 BeakClackRange",Values=(1000,1000,1000,1000,1000))
 BeakClackCost",Values=(0,0,0,0,0))
 BeakClackImmunityDuration",Values=(3,3,3,3,3))
-ShriekOfHorrorsCooldown",Values=(300,300,300,300,300))
+ShriekOfHorrorsCooldown",Values=(180,180,180,180,180))
 ShriekOfHorrorsRange",Values=(3000,3000,3000,3000,3000))
 ShriekOfHorrorsCost",Values=(0,0,0,0,0))
 ShriekOfHorrorsDuration",Values=(30,30,30,30,30))
 ShriekOfHorrorsSpeedDebuff",Values=(0.85,0.85,0.85,0.85,0.85))
-DeathCroakCooldown",Values=(300,300,300,300,300))
+DeathCroakCooldown",Values=(150,150,150,150,150))
 DeathCroakRange",Values=(3000,3000,3000,3000,3000))
 DeathCroakCorpseRange",Values=(300,300,300,300,300))
-DeathCroakCost",Values=(20,20,20,20,20))
+DeathCroakCost",Values=(0,0,0,0,0))
 DeathCroakArmorDebuff",Values=(0.85,0.85,0.85,0.85,0.85))
 DeathCroakDuration",Values=(45,45,45,45,45))
 BiteDamage",Values=(1,5,10,20,30))
@@ -507,21 +533,21 @@ EvilEyeDuration",Values=(6,6,6,6,6))
 SkydiverFallDeathSpeed",Values=(1.2,1.2,1.2,1.2,1.2))
 BarrelRollDamage",Values=(20,30,40,50,60))
 BarrelRollCooldown",Values=(5,5,5,5,5))
-BarrelRollStaminaCost",Values=(5,5,5,5,5))
+BarrelRollStaminaCost",Values=(2,2,2,2,2))
 BarrelRollSpeed",Values=(400,600,800,1000,1200))
 WingBeatDamage",Values=(1,1,1,1,1))
 WingBeatCooldown",Values=(5,5,5,5,5))
 WingBeatStaminaCost",Values=(5,5,5,5,5))
-FlailDamage",Values=(25,25,30,30,35))
+FlailDamage",Values=(25,30,40,50,60))
 FlailCooldown",Values=(4,4,4,4,4))
-FlailStaminaCost",Values=(5,5,5,5,5))
-StabDamage",Values=(100,100,100,100,100))
+FlailStaminaCost",Values=(2,2,2,2,2))
+StabDamage",Values=(50,60,70,80,100))
 StabCooldown",Values=(4,4,4,4,4))
 StabCost",Values=(3,3,3,3,3))
 FlockMigrationStaminaMultiplierBuff",Values=(-0.1,-0.1,-0.1,-0.1,-0.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

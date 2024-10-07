@@ -10,7 +10,7 @@ title: Deinonychus
 ---
 # Deinonychus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -24,18 +24,18 @@ Listed below are the default stats for the following creature:`Deinonychus`
 
 ## Attributes:
 ```cs
-Core.MaxHealth",Values=(300,350,400,450,500))
+Core.MaxHealth",Values=(100,200,250,300,350))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(100,325,550,775,1000))
+Core.CombatWeight",Values=(100,325,550,600,800))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(100,125,150,175,200))
+Core.BodyFoodAmount",Values=(10,10,25,175,200))
 Core.MaxHunger",Values=(50,62,75,87,100))
 Core.MaxThirst",Values=(50,62,75,87,100))
-Core.HungerDepletionRate",Values=(0.03,0.03,0.04,0.05,0.06))
-Core.ThirstDepletionRate",Values=(0.04,0.05,0.06,0.07,0.08))
+Core.HungerDepletionRate",Values=(0.06,0.03,0.04,0.04,0.04))
+Core.ThirstDepletionRate",Values=(0.06,0.03,0.04,0.04,0.04))
 Core.FoodConsumptionRate",Values=(20,25,30,35,40))
 Core.WaterConsumptionRate",Values=(20,25,30,35,40))
 Core.MaxOxygen",Values=(100,100,100,100,100))
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -287,14 +287,39 @@ Multiplier.IncomingDamage.FastDiving",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Crouching",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
-Multiplier.BulkySubSpecies.Speed",Values=(0.95,0.95,0.95,0.95,0.95))
-Multiplier.BulkySubSpecies.IncomingDamage",Values=(0.9,0.9,0.9,0.9,0.9))
-Multiplier.SpeedySubSpecies.Speed",Values=(1.05,1.05,1.05,1.05,1.05))
-Multiplier.SpeedySubSpecies.IncomingDamage",Values=(1.1,1.1,1.1,1.1,1.1))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.BulkySubSpecies.JumpMultiplierBuff",Values=(0.25,0.25,0.25,0.25,0.25))
+Multiplier.BasicSubSpecies.HealthRecoveryMultiplierBuff",Values=(0.1,0.1,0.1,0.1,0.1))
+Multiplier.SpeedySubSpecies.AccelerationMultiplierBuff",Values=(1.5,1.5,1.5,1.5,1.5))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -318,12 +343,12 @@ StaminaFastSwimCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaFastDiveCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
-StaminaSprintCostPerSecond",Values=(0.05,0.1,0.2,0.25,0.3))
+StaminaSprintCostPerSecond",Values=(0.05,0.1,0.2,0.4,0.5))
 StaminaJumpCost",Values=(5,5,5,5,5))
 RaptorStrikesDamage",Values=(6,6,6,6,6))
 RaptorStrikesCooldown",Values=(1,1,1,1,1))
 RaptorStrikesDamageBuff",Values=(1.2,1.2,1.2,1.2,1.2))
-RaptorStrikesDamageBuffCooldown",Values=(10,10,10,10,10))
+RaptorStrikesDamageBuffCooldown",Values=(30,30,30,30,30))
 RaptorStrikesStaminaCost",Values=(0,0,0,0,0))
 RaptorStrikesPounceDamageBuff",Values=(1.4,1.4,1.4,1.4,1.4))
 BuffAttackDamageMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
@@ -340,13 +365,63 @@ AlertCallDuration",Values=(60,60,60,60,60))
 AlertCallCost",Values=(20,20,20,20,20))
 RudderTailAirControl",Values=(100,100,100,100,100))
 ScoutSpeedAmout",Values=(1.1,1.1,1.1,1.1,1.1))
-SlicerDamage",Values=(10,10,20,20,20))
+SlicerDamage",Values=(1,1,1,1,1))
 SlicerCooldown",Values=(5,5,5,5,5))
 SlicerBleedAmount",Values=(0,0,0,0,0))
+SlicerHealthRecoveryBuff",Values=(1,1,1,1,1))
+SlicerHealDuration",Values=(300,300,300,300,300))
 KnockbackDelatchThreshold",Values=(200,200,200,200,200))
+OnAlertRange",Values=(7500,7500,7500,7500,7500))
+OnAlertWaitActivateTime",Values=(6,6,6,6,6))
+OnAlertDelay",Values=(4,4,4,4,4))
+OnAlertCheckTargetsFrequency",Values=(1,1,1,1,1))
+DoubleJumpMax",Values=(2,2,2,2,2))
+DoubleJumpMaxWaitTime",Values=(2,2,2,2,2))
+LuckyFeatherStaminaMultiplier",Values=(0.5,0.5,0.5,0.5,0.5))
+LuckyFeatherImmunityDuration",Values=(10,10,10,10,10))
+LuckyFeatherCooldown",Values=(150,150,150,150,150))
+LuckyFeatherSetCurrentHealth",Values=(10,10,10,10,10))
+RatOutBuffDuration",Values=(30,30,30,30,30))
+RatOutTrotSpeedBuff",Values=(1.2,1.2,1.2,1.2,1.2))
+RatOutSearchRange",Values=(2000,2000,2000,2000,2000))
+RatOutBuffRange",Values=(10000,10000,10000,10000,10000))
+RatOutCooldown",Values=(300,300,300,300,300))
+RatOutCost",Values=(20,20,20,20,20))
+StaticClingLatchedStaminaCostBuff",Values=(-0.2,-0.2,-0.2,-0.2,-0.2))
+EscapeArtistDuration",Values=(30,30,30,30,30))
+EscapeArtistMovementSpeedBuff",Values=(0.2,0.2,0.2,0.2,0.2))
+DropFeathersStaminaAdded",Values=(20,20,20,20,20))
+DropFeathersCooldown",Values=(300,300,300,300,300))
+DareYouInterruptCooldown",Values=(30,30,30,30,30))
+DareYouCooldown",Values=(3,3,3,3,3))
+DareYouArmorMultiplier",Values=(1.2,1.2,1.2,1.2,1.2))
+DareYouRange",Values=(1500,1500,1500,1500,1500))
+DareYouBuffDuration",Values=(3,3,3,3,3))
+DareYouBuffAbilityDuration",Values=(10,10,10,10,10))
+TendonKnickDamage",Values=(20,30,40,50,50))
+TendonKnickCooldown",Values=(10,10,10,10,10))
+TendonKnickBleedAmount",Values=(0,0,0,0,0))
+TendonKnickCost",Values=(0,0,0,0,0))
+SlicedDuration",Values=(60,60,60,60,60))
+SlicedSpeedDebuff",Values=(0.01,0.01,0.01,0.01,0.01))
+SlicedImmunityDuration",Values=(300,300,300,300,300))
+PackHunterRange",Values=(5000,5000,5000,5000,5000))
+PackHunterHealthRegenBuff",Values=(0.25,0.25,0.25,0.25,0.25))
+PackHunterDamageBuff",Values=(0.2,0.2,0.2,0.2,0.2))
+PackHunterPounceStaminaDrainBuff",Values=(-0.25,-0.25,-0.25,-0.25,-0.25))
+MeatShieldTransferPercentDamage",Values=(1,1,1,1,1))
+MeatShieldTransferPercentBleed",Values=(0.5,0.5,0.5,0.5,0.5))
+MeatShieldTransferPercentVenom",Values=(0.8,0.8,0.8,0.8,0.8))
+MeatShieldTransferPercentParalysis",Values=(0.5,0.5,0.5,0.5,0.5))
+MeatShieldTransferPercentToxin",Values=(0.2,0.2,0.2,0.2,0.2))
+MeatShieldTransferPercentPoison",Values=(1,1,1,1,1))
+MeatShieldSpeedDebuff",Values=(0.05,0.05,0.05,0.05,0.05))
+MobRallyRange",Values=(5000,5000,5000,5000,5000))
+MobRallyCooldown",Values=(60,60,60,60,60))
+MobRallyCost",Values=(10,10,10,10,10))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
