@@ -128,7 +128,7 @@ You can easily ban players via the in-game chat commands. Here are the three com
 
 `/ban [playername] [ban reason]`
 
->**Example:** /ban Jiggy Breaking rule 12 Bans the user from the server based on their Alderon Games Username. You can leave the ban reason blank if desired. Also supports [userbanreason] and [duration] arguments.
+>**Example:** /ban that411guy Breaking rule 12 Bans the user from the server based on their Alderon Games Username. You can leave the ban reason blank if desired. Also supports [userbanreason] and [duration] arguments.
 
 `/ban [IPAddress] [ban reason]`
 
@@ -140,7 +140,7 @@ You can easily ban players via the in-game chat commands. Here are the three com
 
 `/unban [playername]`
 
->**Example:** /unban Jiggy Unbans the user via their Alderon Games Username.
+>**Example:** /unban that411guy Unbans the user via their Alderon Games Username.
 
 `/unban [IPAddress]`
 
