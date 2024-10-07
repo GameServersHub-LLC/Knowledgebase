@@ -10,7 +10,7 @@ title: Pycnonemosaurus
 ---
 # Pycnonemosaurus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -26,16 +26,16 @@ Listed below are the default stats for the following creature:`Pycnonemosaurus`
 ```cs
 Core.MaxHealth",Values=(100,220,350,450,550))
 Core.MaxStamina",Values=(100,100,100,100,100))
-Core.CombatWeight",Values=(500,1000,1700,2500,3300))
+Core.CombatWeight",Values=(500,1000,1700,2500,3500))
 Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(100,300,600,900,1200))
+Core.BodyFoodAmount",Values=(10,10,125,900,1200))
 Core.MaxHunger",Values=(50,175,300,425,600))
 Core.MaxThirst",Values=(50,175,300,425,600))
-Core.HungerDepletionRate",Values=(0.2,0.1,0.1,0.1,0.2))
-Core.ThirstDepletionRate",Values=(0.25,0.15,0.15,0.15,0.33))
+Core.HungerDepletionRate",Values=(0.55,0.1,0.14,0.18,0.22))
+Core.ThirstDepletionRate",Values=(0.55,0.1,0.14,0.18,0.22))
 Core.FoodConsumptionRate",Values=(20,30,50,70,80))
 Core.WaterConsumptionRate",Values=(20,30,50,70,80))
 Core.MaxOxygen",Values=(50,100,100,100,100))
@@ -61,7 +61,7 @@ Core.OxygenDamage",Values=(6,6,6,6,6))
 Core.PoisonDamage",Values=(6,6,6,6,6))
 Core.LimpHealthThreshold",Values=(0.5,0.3,0.3,0.3,0.3))
 Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
-Core.HealthRecoveryRate",Values=(1,2,3,2,1))
+Core.HealthRecoveryRate",Values=(1,2,3,2,1.4))
 Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.8,0.6))
 Core.JumpForceMultiplier",Values=(1,1.25,1,0,0))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
@@ -86,7 +86,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -221,6 +221,32 @@ Multiplier.VenomHealRate.FastDiving",Values=(0.25,0.25,0.25,0.25,0.25))
 Multiplier.VenomHealRate.Crouching",Values=(1,1,1,1,1))
 Multiplier.VenomHealRate.CrouchWalking",Values=(0.75,0.75,0.75,0.75,0.75))
 Multiplier.VenomHealRate.Jumping",Values=(0.25,0.25,0.25,0.25,0.25))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
 Multiplier.HungerDepletionRate.Resting",Values=(1,1,1,1,1))
 Multiplier.HungerDepletionRate.Sleeping",Values=(1,1,1,1,1))
 Multiplier.HungerDepletionRate.Standing",Values=(1,1,1,1,1))
@@ -294,12 +320,12 @@ Multiplier.SpeedySubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
-BiteDamage",Values=(20,30,30,40,45))
+BiteDamage",Values=(20,25,30,30,35))
 BoneBreakChance",Values=(0,0,0,0,0))
 BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 BleedAmount",Values=(0,0,0,0,0))
@@ -312,15 +338,16 @@ StaminaFastDiveCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaJumpCost",Values=(5,5,5,5,5))
 ChargeSpeedIncrease",Values=(400,700,1200,1500,1700))
 ChargeCost",Values=(40,40,40,40,40))
-ChargeDamage",Values=(70,80,90,100,110))
+ChargeDamage",Values=(50,60,70,80,90))
 ChargeCooldown",Values=(15,15,15,15,15))
 ChargeDuration",Values=(10,10,10,10,10))
 ChargeAccelerationIncrease",Values=(1.5,1.5,1.5,1.5,1.5))
 ChargeTurnRadiusMultiplier",Values=(0.5,0.5,0.5,0.5,0.5))
 TailAttackDamage",Values=(10,20,20,20,20))
 TailAttackCooldown",Values=(3,3,3,3,3))
-HeadbuttDamage",Values=(20,20,20,20,20))
+HeadbuttDamage",Values=(35,35,35,35,35))
 HeadbuttCooldown",Values=(2,2,2,2,2))
+HeadbuttSelfDamageMultiplier",Values=(0.25,0.25,0.25,0.25,0.25))
 RoughScalesDamage",Values=(1,2,3,4,4))
 TailBalanceSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
 StrongLegsBoneBreakHeal",Values=(1.15,1.15,1.15,1.15,1.15))
@@ -338,9 +365,41 @@ BulldozerStaminaCost",Values=(5,5,5,5,5))
 JuggernautMinDamageMultiplier",Values=(0.25,0.25,0.25,0.25,0.25))
 JuggernautMaxDamageMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
 JuggernautTrotSpeedThresholdMultiplier",Values=(1,1,1,1,1))
+StabilityCooldownMultiplier",Values=(0.75,0.75,0.75,0.75,0.75))
+StabilityCostMultiplier",Values=(0.75,0.75,0.75,0.75,0.75))
+MouthguardRecoilDamageMultiplier",Values=(0.75,0.75,0.75,0.75,0.75))
+MouthguardRecoilItemSizeMin",Values=(50,50,50,50,50))
+MouthguardRecoilItemSizeMax",Values=(200,200,200,200,200))
+MouthguardRecoilBuffMin",Values=(0,0,0,0,0))
+MouthguardRecoilBuffMax",Values=(0.5,0.5,0.5,0.5,0.5))
+SecondWindStaminaPerHit",Values=(2,2,2,2,2))
+DeepBreathCooldown",Values=(240,240,240,240,240))
+DeepBreathCost",Values=(0,0,0,0,0))
+DeepBreathStaminaRegenBuff",Values=(0.2,0.2,0.2,0.2,0.2))
+DeepBreathDuration",Values=(60,60,60,60,60))
+DeepBreathRange",Values=(2000,2000,2000,2000,2000))
+ResilientScalesBleedHeal",Values=(1.3,1.3,1.3,1.3,1.3))
+ResilientScalesVenomHeal",Values=(1.3,1.3,1.3,1.3,1.3))
+ThickScutesHealthRecoveryBuff",Values=(0.2,0.2,0.2,0.2,0.2))
+CrackedScutesDamageReductionPerStack",Values=(0.9,0.9,0.9,0.9,0.9))
+CrackedScutesReplenishTime",Values=(30,30,30,30,30))
+CrackedScutesMaxStacks",Values=(5,5,5,5,5))
+TrickShotHeadbuttDamage",Values=(120,120,120,120,120))
+TrickShotHeadbuttBoneBreakAmount",Values=(0,0,0,0,0))
+TrickShotHeadbuttSelfDamageMultiplier",Values=(0.25,0.25,0.25,0.25,0.25))
+TrickShotHeadbuttCooldown",Values=(5,5,5,5,5))
+TrickShotHeadbuttCost",Values=(5,5,5,5,5))
+TrickShotHeadbuttDazedDuration",Values=(3,3,3,3,3))
+TrickShotHeadbuttDazedSpeedMultiplier",Values=(0.7,0.7,0.7,0.7,0.7))
+BracedLegsFallDamageReduction",Values=(1.1,1.1,1.1,1.1,1.1))
+JukeCooldown",Values=(10,10,10,10,10))
+JukeCost",Values=(5,5,5,5,5))
+KnockoutDamage",Values=(10,10,20,20,20))
+KnockoutCooldown",Values=(3,3,3,3,3))
+KnockoutCost",Values=(10,10,10,10,10))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

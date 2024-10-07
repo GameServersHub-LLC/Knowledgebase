@@ -10,7 +10,7 @@ title: Miragaia
 ---
 # Miragaia
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -31,7 +31,7 @@ Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(100,375,600,800,1000))
+Core.BodyFoodAmount",Values=(10,10,125,800,1000))
 Core.MaxHunger",Values=(50,200,300,400,500))
 Core.MaxThirst",Values=(50,200,300,400,500))
 Core.HungerDepletionRate",Values=(0.03,0.08,0.13,0.19,0.26))
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -287,13 +287,39 @@ Multiplier.IncomingDamage.FastDiving",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Crouching",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
 Multiplier.StandardSubSpecies.StaminaRecoveryRate",Values=(1.1,1.1,1.1,1.1,1.1))
 Multiplier.SpikeySubSpecies.SpikesDamage",Values=(1.2,1.2,1.2,1.2,1.2))
 Multiplier.WidePlatesSubSpecies.HealthRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -307,7 +333,7 @@ StaminaFastDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaJumpCost",Values=(5,5,5,5,5))
 TailDamage",Values=(35,35,35,35,35))
 TailCooldown",Values=(3,3,3,3,3))
-TailVenomAmount",Values=(0.25,0.25,0.25,0.25,0.25))
+TailVenomAmount",Values=(0.35,0.35,0.35,0.35,0.35))
 TailToxinAmount",Values=(0.25,0.25,0.25,0.25,0.25))
 TailParalysisAmount",Values=(0,0,0,0,0))
 TailCost",Values=(0,0,0,0,0))
@@ -331,11 +357,11 @@ MuddyScalesMudAmountPerPeriod",Values=(0.01,0.01,0.01,0.01,0.01))
 MuddyScalesMudBuffPeriod",Values=(0.15,0.15,0.15,0.15,0.15))
 MuddyScalesMudBuffDuration",Values=(3,3,3,3,3))
 MuddyScalesArmorMultiplierMax",Values=(0.5,0.5,0.5,0.5,0.5))
-MuddyScalesParalysisAmountMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
+MuddyScalesParalysisAmountMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
 MuddyScalesDecreasePerHit",Values=(0.05,0.05,0.05,0.05,0.05))
 MuddyScalesCooldown",Values=(0,0,0,0,0))
 MuddyScalesCost",Values=(0,0,0,0,0))
-CakedOnMudHealRateDivider",Values=(3,3,3,3,3))
+CakedOnMudHealRateDivider",Values=(18,18,18,18,18))
 MudBlockBleedHealMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
 MudBlockPoisonHealMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
 MudBlockVenomHealMultiplier",Values=(1.5,1.5,1.5,1.5,1.5))
@@ -346,13 +372,13 @@ SpikedGatheringCheckTimerFrequency",Values=(3,3,3,3,3))
 SpikedGatheringSpikeDamageBuff",Values=(0.1,0.1,0.1,0.1,0.1))
 TailSwingDamage",Values=(80,80,80,80,80))
 TailSwingCooldown",Values=(6,6,6,6,6))
-TailSwingVenomAmount",Values=(0.75,0.75,0.75,0.75,0.75))
+TailSwingVenomAmount",Values=(1,1,1,1,1))
 TailSwingToxinAmount",Values=(0.75,0.75,0.75,0.75,0.75))
 TailSwingParalysisAmount",Values=(0,0,0,0,0))
 TailSwingCost",Values=(0,0,0,0,0))
 TailBarrageDamage",Values=(45,45,45,45,45))
 TailBarrageCooldown",Values=(6,6,6,6,6))
-TailBarrageVenomAmount",Values=(0.15,0.15,0.15,0.15,0.15))
+TailBarrageVenomAmount",Values=(0.2,0.2,0.2,0.2,0.2))
 TailBarrageToxinAmount",Values=(0.15,0.15,0.15,0.15,0.15))
 TailBarrageParalysisAmount",Values=(0,0,0,0,0))
 TailBarrageCost",Values=(0,0,0,0,0))
@@ -380,7 +406,7 @@ TailLashParalysisAmount",Values=(0,0,0,0,0))
 TailLashCost",Values=(10,10,10,10,10))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

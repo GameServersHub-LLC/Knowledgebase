@@ -10,7 +10,7 @@ title: Default
 ---
 # Default
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -31,7 +31,7 @@ Core.Armor",Values=(0.1,0.3,0.6,0.8,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(50,100,100,100,100))
+Core.BodyFoodAmount",Values=(10,10,100,100,100))
 Core.MaxHunger",Values=(50,100,100,100,100))
 Core.MaxThirst",Values=(50,100,100,100,100))
 Core.HungerDepletionRate",Values=(0.2,0.1,0.1,0.1,0.1))
@@ -88,7 +88,7 @@ Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 Core.WetnessHealRate",Values=(0.01,0.01,0.01,0.01,0.01))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -434,10 +434,48 @@ Multiplier.IncomingDamage.Latched",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.LatchedUnderwater",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Carried",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Flying",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastFlying",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Latched",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.LatchedUnderwater",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Carried",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CarriedUnderwater",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(0.5,0.5,0.5,0.5,0.5))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Flying",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastFlying",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Latched",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.LatchedUnderwater",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Carried",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CarriedUnderwater",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -467,7 +505,7 @@ BuckingCooldown",Values=(2,2,2,2,2))
 SlipperyDrainMultiplier",Values=(1.3,1.3,1.3,1.3,1.3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

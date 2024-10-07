@@ -10,7 +10,7 @@ title: Barsboldia
 ---
 # Barsboldia
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -31,7 +31,7 @@ Core.Armor",Values=(1,1,1,1,1))
 Core.MovementSpeedMultiplier",Values=(1,1,1,1,1))
 Core.SprintingSpeedMultiplier",Values=(1,1,1,1,1))
 Core.TrottingSpeedMultiplier",Values=(1,1,1,1,1))
-Core.BodyFoodAmount",Values=(100,575,1050,1525,2000))
+Core.BodyFoodAmount",Values=(10,10,250,1525,2000))
 Core.MaxHunger",Values=(50,287.5,525,762.5,1000))
 Core.MaxThirst",Values=(50,287.5,525,762.5,1000))
 Core.HungerDepletionRate",Values=(0.03,0.16,0.29,0.42,0.48))
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -287,14 +287,39 @@ Multiplier.IncomingDamage.FastDiving",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Crouching",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
-Multiplier.BulkySubSpecies.Speed",Values=(0.95,0.95,0.95,0.95,0.95))
-Multiplier.BulkySubSpecies.IncomingDamage",Values=(0.9,0.9,0.9,0.9,0.9))
-Multiplier.SpeedySubSpecies.Speed",Values=(1.05,1.05,1.05,1.05,1.05))
-Multiplier.SpeedySubSpecies.IncomingDamage",Values=(1.1,1.1,1.1,1.1,1.1))
+Multiplier.ParalysisHealRate.Resting",Values=(2,2,2,2,2))
+Multiplier.ParalysisHealRate.Sleeping",Values=(4,4,4,4,4))
+Multiplier.ParalysisHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ParalysisHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Resting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sleeping",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Standing",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Walking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Trotting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Sprinting",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Swimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastSwimming",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Diving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.FastDiving",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Crouching",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.CrouchWalking",Values=(1,1,1,1,1))
+Multiplier.ToxinHealRate.Jumping",Values=(1,1,1,1,1))
+Multiplier.BulkySubSpecies.StaminaRecoveryBuff",Values=(0.1,0.1,0.1,0.1,0.1))
+Multiplier.StandardSubSpecies.HealthRecoveryBuff",Values=(0.1,0.1,0.1,0.1,0.1))
+Multiplier.SpeedySubSpecies.StatusHealingBuff",Values=(1.1,1.1,1.1,1.1,1.1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -324,12 +349,12 @@ HeadbuttBoneBreakChance",Values=(1,1,1,1,1))
 HeadbuttBleedAmount",Values=(0,0,0,0,0))
 HeadbuttCooldown",Values=(3,3,3,3,3))
 HeadbuttStaminaCost",Values=(0,0,0,0,0))
-TailAttackDamage",Values=(15,20,35,40,45))
+TailAttackDamage",Values=(15,20,35,45,55))
 TailAttackBoneBreakChance",Values=(0,0,0,0,0))
 TailAttackBleedAmount",Values=(0,0,0,0,0))
 TailAttackCooldown",Values=(3,3,3,3,3))
 TailAttackStaminaCost",Values=(0,0,0,0,0))
-TailSlamDamage",Values=(40,50,55,65,75))
+TailSlamDamage",Values=(40,50,60,70,85))
 TailSlamBoneBreakChance",Values=(0,0,0,0,0))
 TailSlamBleedAmount",Values=(0,0,0,0,0))
 TailSlamCooldown",Values=(5,5,5,5,5))
@@ -346,7 +371,7 @@ LoneSurvivorPreciseAcceleration",Values=(2,2,2,2,2))
 LoneSurvivorTurnRadius",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
