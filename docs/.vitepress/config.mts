@@ -9,7 +9,7 @@ const vitepressSidebarOptions = {
 const currentYear = new Date().getFullYear();
 
 export default defineConfig({
-  title: "GameServersHub",
+  title: "Wiki & Knowledgebase",
   description:
     "GameServersHub's wiki offers guides and tutorials for Path of Titans. Explore maps and more. Join our Discord for expert tips, support, and detailed tutorials!",
   lastUpdated: true,
