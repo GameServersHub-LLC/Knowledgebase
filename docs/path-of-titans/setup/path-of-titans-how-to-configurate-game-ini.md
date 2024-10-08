@@ -34,7 +34,6 @@ Editing your configuration files using the official GameServersHub admin dashboa
 Path:
 
 <ul class="breadcrumbs" data-v-1536bbb2="">
-<!--[-->
 <li class="first" data-v-1536bbb2="">
 <span data-v-1536bbb2="">
 <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
@@ -60,7 +59,6 @@ Path:
 <i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini
 </span>
 </li>
-<!--]-->
 </ul>
 
 ## IGameSession Config
@@ -172,6 +170,36 @@ By not adding the line makes the line to the **default** setting
 | **Changing Combat timer duration** | When players attack each other, they gain an "In Combat" status that prevents healing and logging out. You can change the duration of this state by adding the following:<br/> - `CurveOverrides=(CurveName="Global.InCombatDuration",Values=(30))`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](../guides/curve-overrides/index).`added` |
 | **Changing Group Slot Sizes** | When players group up, their dino will fill a certain number of group slots. You can change the number of slots by adding the following for any desired dinosaur:<br/> - `GroupSlotSizeOverrides=(DinoAssetID="Allosaurus",GroupSize=5)`<br/> This uses the same format as adjusting dinosaur stats, [learn how to adjust stats here](../guides/curve-overrides/index).`added` |
 | `bOverrideWeather=true` | This much be added under `bOverrideWeather=true` and each have its own line `+WeatherEvents=(WeatherType=Fog,MinTime=1.000000,MaxTime=1.000000)` `+WeatherEvents=(WeatherType=Storm,MinTime=1.000000,MaxTime=1.000000)` `+WeatherEvents=(WeatherType=Snow,MinTime=1.000000,MaxTime=1.000000)` |
+
+### Nesting Lines
+
+|Config Name:|Description:|
+|-|-|
+| `bNesting=true` | If true, nesting will be enabled on the server. |
+| `bNestingDecorations=true` | If true, decorations can be placed around nests. |
+| `bSameSpeciesAdoptionRestriction=false` | If true, only the same species can be adopted. Otherwise, only the same diet type can be adopted. |
+| `MinNestingGrowth=0.75` | The minimum growth a player must be in order to place a nest. |
+| `MaxNestImmunityBuffGrowth=0.25` | The maximum growth a hatchling will become immune to all damage for a short time after spawning at their parent's nest. Set this to 0 to completely disable the hatchling spawn immunity. |
+| `MaxNestRespawnGrowth=0.5` | The maximum growth a hatchling will respawn at their parent's nest. Once they grow past this value, they will respawn at a random point on the map like a regular adult dinosaur. |
+| `MaxNestFreeRespawnGrowth=0.25` | The maximum growth a hatchling will respawn at their parent's nest without consuming a baby slot. Once they grow past this point, they will consume an egg slot for each respawn. |
+| `MinNestRespawnCondition=0.5` | The minimum health a nest must have for a hatchling to be able to respawn at it. If the nest is too damaged, the hatchling will not be able to respawn there and will instead spawn at a random point on the map like a regular adult dinosaur. |
+| `MinNestHealthForDecorations=0.5` | The minimum health a nest must have to place decorations around it. |
+| `MinNestBabySlotFoodWater=0.0` | The minimum food and water a nest must have inside it to begin generating baby slots. Leave this at 0 to ignore the food/water requirements. |
+| `MinNestBabySlotResources=0.5` | The minimum resource percentage in each category a nest must have to generate baby slots. |
+| `MinNestHealthToEditAbilities=0.75` | The minimum health a nest must have to be able to edit abilities while sleeping nearby it. |
+| `MaxAdoptionGrowth=0.5` | The max growth of a potential adoption candidate. If they are older than this age, they will not be adoptable. |
+| `NestInactiveDespawnTimeSolo=120` | The amount of seconds until a nest will despawn without the owner online. |
+| `NestInactiveDespawnTimeDependents=900` | The amount of seconds until a nest will despawn, without the owner's offspring online |
+| `NestDisrepairDespawnTime=7200` | The amount of seconds a nest with 0 health will be destroyed permanently. |
+| `NestBabySlotGenerationTime=1800` | The amount of seconds it will take for a baby slot to generate while all baby slot conditions are met. |
+| `NestInvitationExpiryTime=15` | The amount of seconds until a nest invitation will expire. |
+| `NestAcceptedInvitationExpiryTime=300` | The amount of seconds until an accepted nest invitation will no longer be valid to use. This will be used on the character creation screen as the player is creating their new hatchling character. |
+| `FamilyBuffRange=5000` | The distance from family members that the family buff will be applied. Set this to 0 to disable this buff. |
+| `NestResourceMultiplier=1.0` | The multiplier on the amount of resources required to construct a nest. If set to 0, nests will not require resources and can be built instantly without them. |
+| `NestResourcelessConstructionSpeed=5.0` | The amount of health contributed to a nest when NestResourceMultiplier is zero. |
+| `bNestsInvulnerable=false` | If true, nests cannot be destroyed by other players. |
+| `bSpawnParentNestOnLogin=false` | If true, the parent's nest will spawn when a child that is still young logs in. This can be useful to avoid players being orphaned if their parents log out. |
+| `NestObstructionRadius=500` | The radius in centimeters other nests cannot be placed near an existing nest. The default is 5 meters here. |
 
 ## IGameMode Config
 
