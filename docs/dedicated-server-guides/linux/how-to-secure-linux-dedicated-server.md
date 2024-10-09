@@ -9,7 +9,7 @@ head:
   - - meta
     - name: keywords
       content: Linux security, best practices, Linux tweaks, secure Linux, Linux hardening, system security, Linux firewall, SSH security, Linux server security, Linux security guide
-title: Top Linux Security Practices Essential Tweaks for System Protection
+title: Top Linux Security Practices
 ---
 
 # Best Security Practices and Tweaks for Linux Systems
