@@ -9,7 +9,7 @@ head:
   - - meta
     - name: keywords
       content: MySQL, Windows Server, Install MySQL, Configure MySQL, MySQL Installation, Database Setup, MySQL Tutorial, Windows Server 2012, Windows Server 2016, Windows Server 2019, MySQL Guide
-title: Step-by-Step Guide: Installing MySQL on Windows Server
+title: Step-by-Step Guide Installing MySQL on Windows Server
 ---
 
 # How to Set Up MySQL on Windows Server: A Comprehensive Guide

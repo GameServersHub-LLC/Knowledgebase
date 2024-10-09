@@ -9,7 +9,7 @@ head:
   - - meta
     - name: keywords
       content: MySQL, Linux, Install MySQL, Configure MySQL, MySQL Installation, Database Setup, MySQL Tutorial, Ubuntu, CentOS, Fedora, MySQL Guide
-title: Step-by-Step Guide: Installing MySQL on Linux
+title: Step-by-Step Guide Installing MySQL on Linux
 ---
 
 # How to Set Up MySQL on Linux: A Comprehensive Guide
