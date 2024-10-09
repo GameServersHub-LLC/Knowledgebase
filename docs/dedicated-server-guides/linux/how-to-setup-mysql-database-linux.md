@@ -407,4 +407,4 @@ You have successfully installed and configured MySQL on your Linux server. This 
 
 ---
 
-**Note:** Always ensure that your MySQL server is properly secured, especially if it's accessible over a network. Use strong passwords, restrict user privileges, and keep your software up to date to protect against vulnerabilities.
+**Note:** Always ensure that your MySQL server is properly secured, especially if it's accessible over a network. [Use strong passwords](/security-practices/how-to-protect-your-passwords), restrict user privileges, and keep your software up to date to protect against vulnerabilities.

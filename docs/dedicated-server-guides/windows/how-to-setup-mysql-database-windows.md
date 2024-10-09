@@ -315,4 +315,4 @@ Setting up MySQL on a Windows Server involves careful installation and configura
 
 ---
 
-**Note**: Always ensure that your MySQL server is secured properly, especially if it's accessible over a network. Use strong passwords, restrict user privileges, and keep your software up to date to protect against vulnerabilities.
+**Note**: Always ensure that your MySQL server is secured properly, especially if it's accessible over a network. [Use strong passwords](/security-practices/how-to-protect-your-passwords), restrict user privileges, and keep your software up to date to protect against vulnerabilities.
