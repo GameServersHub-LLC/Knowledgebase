@@ -12,7 +12,7 @@ head:
 title: Guides
 ---
 
-# Path of Titans Guides
+# Path of Titans Guides 
 
 A collection of all GSH Guides for the game Path of Titans.
 

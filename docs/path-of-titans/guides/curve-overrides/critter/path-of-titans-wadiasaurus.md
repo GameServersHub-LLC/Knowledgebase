@@ -40,8 +40,7 @@ Core.ChaseDistanceLimitBuffer",Values=(2500,2500,2500,2500,2500))
 <span style="color: #ffd369;">10-07-2024 by Mike</span>
 :::
 
-## Multipliers:
-```cs
+
 
 ## Combat:
 ```cs
