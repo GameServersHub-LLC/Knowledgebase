@@ -93,7 +93,7 @@ By not adding the line makes the line to the **default** setting
 | Configure Server Automatic Restart Times | Servers can be configured to automatically restart either at preset times or at preset intervals through the following options: `bServerAutoRestart`, `bUseScheduledRestartTimes`, `ScheduledRestartTimes`, `RestartLengthInSeconds`, `RestartNotificationTimestamps`. [learn how to adjust server restart behavior here](./path-of-titans-server-restart). |
 | `ServerDeadBodyTime=0` | Specifies how long a dead body will persist for in seconds. A value of `0` means it will persist forever. |
 | `ServerRespawnTime=45` | Amount of time (in minutes) a player must be alive before they can use the `/respawn` command to kill their dinosaur and respawn. It's suggested to keep this number relatively high to avoid players piling up corpses on your server and causing issues. Defaults to `45` minutes. |
-| `ServerFootprintLifetime=60` | Specifies the maximum time (in seconds) footprints will remain behind dinosaurs. Setting this to `0` will disable footprints entirely. Defaults to `60` seconds. |
+| `ServerFootprintLifetime=60` | Specifies the maximum time (in seconds) footprints will remain behind dinosaurs. Setting this to `0` will disable footprints entirely. Max is 60! Defaults to `60` seconds. |
 | `bServerAllowMap=true` | Enables or disables the full map for the entire server. Defaults to `true`. |
 | `bServerAllowMinimap=true` | Enables or disables the minimap for the entire server. Defaults to `true`. |
 | `bServerAllow3DMapMarkers=true` | Enables or disables the markers on the full map, and floating quest markers in the world. Defaults to `true`. |

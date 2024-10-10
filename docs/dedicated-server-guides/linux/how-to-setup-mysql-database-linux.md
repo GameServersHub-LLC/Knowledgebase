@@ -28,18 +28,25 @@ Before proceeding, ensure you have:
 
 ## Table of Contents
 
-1. [Updating System Packages](#1-updating-system-packages)
-2. [Installing MySQL](#2-installing-mysql)
-   - [On Ubuntu](#on-ubuntu)
-   - [On CentOS and Fedora](#on-centos-and-fedora)
-3. [Securing the MySQL Installation](#3-securing-the-mysql-installation)
-4. [Managing the MySQL Service](#4-managing-the-mysql-service)
-5. [Testing the MySQL Installation](#5-testing-the-mysql-installation)
-6. [Configuring Remote Access (Optional)](#6-configuring-remote-access-optional)
-7. [Setting Up a Sample Database (Optional)](#7-setting-up-a-sample-database-optional)
-8. [Scheduling Regular Backups](#8-scheduling-regular-backups)
-9. [Updating MySQL](#9-updating-mysql)
-10. [Conclusion](#10-conclusion)
+- [How to Set Up MySQL on Linux: A Comprehensive Guide](#how-to-set-up-mysql-on-linux-a-comprehensive-guide)
+  - [Introduction](#introduction)
+  - [Prerequisites](#prerequisites)
+  - [Table of Contents](#table-of-contents)
+  - [1. Updating System Packages](#1-updating-system-packages)
+    - [Ubuntu](#ubuntu)
+    - [CentOS](#centos)
+    - [Fedora](#fedora)
+  - [2. Installing MySQL](#2-installing-mysql)
+    - [On Ubuntu](#on-ubuntu)
+    - [On CentOS and Fedora](#on-centos-and-fedora)
+  - [3. Securing the MySQL Installation](#3-securing-the-mysql-installation)
+  - [4. Managing the MySQL Service](#4-managing-the-mysql-service)
+  - [5. Testing the MySQL Installation](#5-testing-the-mysql-installation)
+  - [6. Configuring Remote Access (Optional)](#6-configuring-remote-access-optional)
+  - [7. Setting Up a Sample Database (Optional)](#7-setting-up-a-sample-database-optional)
+  - [8. Scheduling Regular Backups](#8-scheduling-regular-backups)
+  - [9. Updating MySQL](#9-updating-mysql)
+  - [10. Conclusion](#10-conclusion)
 
 ---
 
@@ -360,7 +367,7 @@ Regular backups are essential for data recovery.
 
    - Add the following line to run the backup daily at 2 AM:
 
-     ```cron
+     ```bash
      0 2 * * * /home/your_username/mysql_backup.sh
      ```
 

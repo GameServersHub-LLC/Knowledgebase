@@ -196,7 +196,7 @@ Mount the `/tmp` directory with `noexec` and `nosuid` options to prevent executi
 
   Add the following line:
 
-  ```fstab
+  ```bash
   tmpfs /run/shm tmpfs defaults,noexec,nosuid 0 0
   ```
 
