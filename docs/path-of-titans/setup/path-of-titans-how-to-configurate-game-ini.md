@@ -93,7 +93,7 @@ By not adding the line makes the line to the **default** setting
 | Configure Server Automatic Restart Times | Servers can be configured to automatically restart either at preset times or at preset intervals through the following options: `bServerAutoRestart`, `bUseScheduledRestartTimes`, `ScheduledRestartTimes`, `RestartLengthInSeconds`, `RestartNotificationTimestamps`. [learn how to adjust server restart behavior here](./path-of-titans-server-restart). |
 | `ServerDeadBodyTime=0` | Specifies how long a dead body will persist for in seconds. A value of `0` means it will persist forever. |
 | `ServerRespawnTime=45` | Amount of time (in minutes) a player must be alive before they can use the `/respawn` command to kill their dinosaur and respawn. It's suggested to keep this number relatively high to avoid players piling up corpses on your server and causing issues. Defaults to `45` minutes. |
-| `ServerFootprintLifetime=60` | Specifies the maximum time (in seconds) footprints will remain behind dinosaurs. Setting this to `0` will disable footprints entirely. Defaults to `60` seconds. |
+| `ServerFootprintLifetime=60` | Specifies the maximum time (in seconds) footprints will remain behind dinosaurs. Setting this to `0` will disable footprints entirely. Max is 60! Defaults to `60` seconds. |
 | `bServerAllowMap=true` | Enables or disables the full map for the entire server. Defaults to `true`. |
 | `bServerAllowMinimap=true` | Enables or disables the minimap for the entire server. Defaults to `true`. |
 | `bServerAllow3DMapMarkers=true` | Enables or disables the markers on the full map, and floating quest markers in the world. Defaults to `true`. |
@@ -127,6 +127,8 @@ By not adding the line makes the line to the **default** setting
 | `bServerGrowth=true` | Enables/Disables Growth on your server. If disabled, all dinosaurs will spawn as Adults, and all existing characters will be bumped up to Adult. |
 | `GlobalPassiveGrowthPerMinute=0` | Adds additional passive growth per second to all dinosaurs. Remember, full growth = `1` so a good value for this might be `0.005`, which means a player would take 200 minutes (3.3 hours) to reach adulthood. Growth amount currently applies equally across all dinosaurs. Setting this to `0` disables passive growth. |
 | `ChangeSubspeciesGrowthPenaltyPercent=25` | Specifies the growth penalty percent for changing subspecies. Note that `bLoseGrowthPastGrowthStages=true` may have to be active for anything 25 and above. |
+| `bUseTutorialCustomGrowthMultiplier=false` | If true, the tutorial will use the `TutorialCustomGrowthMultiplier` value to determine the growth rate of the player. If false, the tutorial will use the default growth rate. |
+| `TutorialCustomGrowthMultiplier=1.0` | The growth multiplier used in the tutorial if `bUseTutorialCustomGrowthMultiplier` is set to true. |
 
 ### Weather
 
@@ -235,7 +237,7 @@ By not adding the line makes the line to the **default** setting
 | `bNestsInvulnerable=false` | If true, nests cannot be destroyed by other players. Default is `false` |
 | `bSpawnParentNestOnLogin=false` | If true, the parent's nest will spawn when a child that is still young logs in. This can be useful to avoid players being orphaned if their parents log out. Default is `false` |
 | `NestObstructionRadius=500` | The radius in centimeters other nests cannot be placed near an existing nest. The default is `5` meters here. |
-| `bServerEditAbilitiesAtNest=true` | Forces player to only be able to editted dino at their nest. Default is `true` |
+| `bServerEditAbilitiesAtNest=true` | If true, players can only edit abilities at their nest. Setting **BOTH** `bServerEditAbilitiesInHomeCaves=false` **AND** `bServerEditAbilitiesAtNest=false` will allow players to edit their abilities anywhere. |
 
 ## IGameMode Config
 
