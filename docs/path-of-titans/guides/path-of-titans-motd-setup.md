@@ -25,7 +25,26 @@ The server must be stopped while editing server files. You must save your edits 
 
 You can find this file in the following location:
 
-`PathofTitans/Saved/MOTD.txt`
+Path:
+
+<ul class="breadcrumbs" data-v-1536bbb2="">
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> MOTD.txt
+    </span>
+  </li>
+</ul>
 
 ::: tip
 If you specify a Discord server in your Server Config, a Discord button will appear on your MOTD as well, letting players join your community Discord server if clicked. More information here: [Server Configuration Options](../setup/path-of-titans-how-to-configurate-game-ini)

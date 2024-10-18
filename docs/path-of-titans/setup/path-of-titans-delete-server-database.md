@@ -27,23 +27,22 @@ Resetting / deleting the database is a two-step process. You have to delete the 
 Path:
 
 <ul class="breadcrumbs" data-v-1536bbb2="">
-<!--[-->
-<li class="first" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> DataBaseCache
-</span>
-</li>
-<!--]-->
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> DatabaseCache
+    </span>
+  </li>
 </ul>
 
 Delete this `DatabaseCache` folder.
@@ -56,7 +55,24 @@ We also suggest periodically backing up this folder to ensure you can rollback p
 
 Path:
 
-`PathofTitans/Saved/SaveGame`
+<ul class="breadcrumbs" data-v-1536bbb2="">
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> SaveGames
+    </span>
+  </li>
+</ul>
 
 Delete this `SaveGames` folder.
 

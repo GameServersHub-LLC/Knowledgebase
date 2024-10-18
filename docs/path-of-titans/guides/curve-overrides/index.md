@@ -30,15 +30,15 @@ To edit dinosaur stats, you must edit the `Game.ini` file. You can find this fil
 
 ## Editing Dinosaur Stats
 
-### Here a list for all Alderon Dinos & Mod Dinos
-
-#### [Alderon Dinos](./alderons/index)
-
-#### [Mod Dinos](./modded-dinosaurs/index)
-
-#### [Alderon AI Critters](./critter/index)
-
+::: tip
 These listed are the default vaules curve overrides.
+:::
+
+### [Alderon Dinos](./alderons/index)
+
+### [Mod Dinos](./modded-dinosaurs/index)
+
+### [Alderon AI Critters](./critter/index)
 
 ::: tip
 Each stat edit must be on it's own line and must be listed under the `[/Script/PathOfTitans.IGameSession]` header.

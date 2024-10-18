@@ -34,7 +34,26 @@ Changes to server files require a server restart, so we recommend adding whiteli
 
 Here is the format for the `whitelist.txt` file:
 
-`PathofTitans/Saved/whitelist.txt`
+Path:
+
+<ul class="breadcrumbs" data-v-1536bbb2="">
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> whitelist.txt
+    </span>
+  </li>
+</ul>
 
 ## Formatting
 

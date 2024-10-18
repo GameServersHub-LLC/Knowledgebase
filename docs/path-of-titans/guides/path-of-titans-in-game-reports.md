@@ -24,32 +24,37 @@ The server must be stopped while editing server files. You must save your edits 
 
 To setup In-Game Player reports, you must edit the `Game.ini` file. You can find this file in the following location:
 
+Path:
+
 <ul class="breadcrumbs" data-v-1536bbb2="">
-<li class="first" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Config
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
-</span>
-</li>
-<li class="last" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini
-</span>
-</li>
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Config
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
+    </span>
+  </li>
+
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> Game.ini
+    </span>
+  </li>
 </ul>
 
 ::: info

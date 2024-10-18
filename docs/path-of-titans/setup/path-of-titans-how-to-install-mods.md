@@ -25,33 +25,34 @@ It would help if you listed every mod you plan to use in the `GameUserSettings.i
 Path:
 
 <ul class="breadcrumbs" data-v-1536bbb2="">
-<!--[-->
-<li class="first" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> Config
-</span>
-</li>
-<li class="" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
-</span>
-</li>
-<li class="last" data-v-1536bbb2="">
-<span data-v-1536bbb2="">
-<i class="fas fa-file" data-v-1536bbb2=""></i> GameUserSettings.ini
-</span>
-</li>
-<!--]-->
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Config
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
+    </span>
+  </li>
+
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> GameUserSettings.ini
+    </span>
+  </li>
 </ul>
 
 Under the `[PathOfTitans.Mods]` header, add the lines:

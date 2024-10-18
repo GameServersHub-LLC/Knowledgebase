@@ -9,7 +9,7 @@ head:
   - - meta
     - name: keywords
       content: Path Of Titans
-title: Dinosaurs Enable/Disable
+title: Enable / Disable Dinosaurs 
 ---
 
 # Path of Titans Enabling/Disabling Dinosaurs
@@ -22,7 +22,39 @@ This will set up a whitelist of permitted dinosaurs on your server. The reason w
 
 To enable/disable dinosaurs you must edit the `Game.ini` file on your server, and add the dinosaur names under the `[/Script/PathOfTitans.IGameSession]` header. You can find the `Game.ini` file in the following location:
 
-`PathofTitans/Saved/Config/LinuxServer/Commands.ini`
+Path:
+
+<ul class="breadcrumbs" data-v-1536bbb2="">
+  <li class="first" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> PathofTitans
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Saved
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> Config
+    </span>
+  </li>
+
+  <li class="" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-folder" data-v-1536bbb2=""></i> LinuxServer
+    </span>
+  </li>
+  
+  <li class="last" data-v-1536bbb2="">
+    <span med-font="">
+      <i class="fas fa-file" data-v-1536bbb2=""></i> Commands.ini
+    </span>
+  </li>
+</ul>
 
 ::: info
 `LinuxServer` is the folder name for Linux servers. If you are using a different operating system, the folder name will be different but the other folders will be the same.
