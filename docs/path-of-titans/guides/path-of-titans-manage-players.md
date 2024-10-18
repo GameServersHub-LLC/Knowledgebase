@@ -28,7 +28,7 @@ First, log into your server, then there are the two methods you can use to kick 
 
 Kick a given user with the optional reason. You can leave the kick reason blank if desired.
 
-`/kick [playername> [kick reason>`
+`/kick [playername] [kick reason]`
 
 > Example: /kick that411guy Spamming the chat.
 >

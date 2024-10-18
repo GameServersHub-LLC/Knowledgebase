@@ -9,7 +9,7 @@ head:
   - - meta
     - name: keywords
       content: Path Of Titans
-title: Delete Databases
+title: Delete Server Databases
 ---
 
 # Path of Titans Deleting / Resetting Server Database
