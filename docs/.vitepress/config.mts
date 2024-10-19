@@ -60,7 +60,7 @@ export default defineConfig({
       "link",
       {
         rel: "apple-touch-icon",
-        href: "/apple-touch-icon.png",
+        href: "/apple-touch-icon.webp",
         sizes: "180x180",
       },
     ],

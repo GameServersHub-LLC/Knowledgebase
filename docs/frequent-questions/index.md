@@ -8,11 +8,11 @@ head:
       content: Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find details on gameplay, features, and updates for the ultimate dino MMO adventure!
   - - meta
     - name: keywords
-      content: Path Of Titans
+      content: Frequently Asked Questions
 title: Game Panel FAQ
 ---
 
-# Path of Titans Game Panel FAQ
+# Frequently Asked Questions
 
 Here is a collection of our most frequently asked questions.
 
