@@ -10,7 +10,7 @@ title: DivineAmp
 ---
 # DivineAmp
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -86,7 +86,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -292,18 +292,19 @@ Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
 Multiplier.SpikySubSpecies.SpikeDamage",Values=(2,2,2,2,2))
 Multiplier.SpikySubSpecies.AttackDamage",Values=(1.05,1.05,1.05,1.05,1.05))
-Multiplier.SpeedySubSpecies.Speed",Values=(1.06,1.06,1.06,1.06,1.06))
-Multiplier.SpeedySubSpecies.SpikeDamage",Values=(0.6,0.6,0.6,0.6,0.6))
+Multiplier.SpikelessSubSpecies.HealthRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
+Multiplier.SpikelessSubSpecies.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
+Multiplier.SpikelessSubSpecies.SpikeDamage",Values=(0.6,0.6,0.6,0.6,0.6))
 Multiplier.BulkySubSpecies.SpikeDamage",Values=(1.3,1.3,1.3,1.3,1.3))
 Multiplier.BulkySubSpecies.Armor",Values=(1.08,1.08,1.08,1.08,1.08))
 Multiplier.DoubleDefenseSubSpecies.Speed",Values=(0.93,0.93,0.93,0.93,0.93))
 Multiplier.DoubleDefenseSubSpecies.Armor",Values=(1.2,1.2,1.2,1.2,1.2))
 Multiplier.StandardSubSpecies.Stamina",Values=(1.1,1.1,1.1,1.1,1.1))
-Multiplier.StandardSubSpecies.Speed",Values=(1.03,1.03,1.03,1.03,1.03))
+Multiplier.StandardSubSpecies.Speed",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1.67))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -404,6 +405,7 @@ kickRStaminaCost",Values=(0,0,0,0,0))
 Bulwark.Armor",Values=(1.8,1.8,1.8,1.8,1.8))
 Ward.Armor",Values=(1.45,1.45,1.45,1.45,1.45))
 WardCrouchDuration",Values=(6,6,6,6,6))
+AirSacs",Values=(1.1,1.1,1.1,1.1,1.1))
 PickyEaterHunger",Values=(0.6,0.6,0.6,0.6,0.6))
 SpikesHideDamage",Values=(1,1,2,2,3))
 SpikesHideBleed",Values=(0.1,0.1,0.1,0.1,0.1))
@@ -413,7 +415,7 @@ DefenseBuffCooldown",Values=(120,120,120,120,120))
 DefenseBuffMultiplier",Values=(1.3,1.3,1.3,1.3,1.3))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

@@ -10,7 +10,7 @@ title: DivineCarchar
 ---
 # DivineCarchar
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -291,16 +291,16 @@ Multiplier.BleedSubspecies.Bleed",Values=(1.1,1.1,1.1,1.1,1.1))
 Multiplier.BulkySubspecies.Armor",Values=(1.05,1.05,1.05,1.05,1.05))
 Multiplier.AttackSubspecies.Attack",Values=(1.05,1.05,1.05,1.05,1.05))
 Multiplier.StaminaSubspecies.MaxStamina",Values=(1.05,1.05,1.05,1.05,1.05))
-Multiplier.SpeedySubspecies.Speed",Values=(1.03,1.03,1.03,1.03,1.03))
+Multiplier.StaminaRecoverySubspecies.StaminaRecovery",Values=(1.07,1.07,1.07,1.07,1.07))
 BodyFoodDecayPerSecond",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Combat:
 ```cs
-BiteDamage",Values=(40,45,47,60,60))
+BiteDamage",Values=(40,45,47,55,55))
 BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 BiteBleedAmount",Values=(0.1,0.1,0.1,0.1,0.1))
@@ -308,6 +308,10 @@ BleedSnapDamage",Values=(40,43,45,60,60))
 BleedSnapAmount",Values=(1.2,1.2,1.2,1.2,1.2))
 BleedSnapCooldown",Values=(3,3,3,3,3))
 BleedSnapStaminaCost",Values=(3,3,3,3,3))
+BleedSnapDebuffAcceleration",Values=(1.2,1.2,1.2,1.2,1.2))
+BleedSnapDebuffDuration",Values=(12,12,12,12,12))
+BleedSnapDebuffTurn",Values=(0.95,0.95,0.95,0.95,0.95))
+BleedSnapDebuffStamina",Values=(1.15,1.15,1.15,1.15,1.15))
 ChargeDamage",Values=(40,50,55,60,60))
 ChargeBoneBreakChance",Values=(0,0,0.06,0.07,0.07))
 ChargeBleedAmount",Values=(0,0,0,0,0))
@@ -318,7 +322,7 @@ ChargeCooldown",Values=(160,160,160,160,160))
 ChargeCost",Values=(16,16,16,16,16))
 BigGameSpecialistRange",Values=(5000,5000,5000,5000,5000))
 BigGameSpecialistCooldown",Values=(200,200,200,200,200))
-BigGameSpecialistDamageBuff",Values=(0.8,0.8,0.8,0.8,0.8))
+BigGameSpecialistDamageBuff",Values=(0.89,0.89,0.89,0.89,0.89))
 BigGameSpecialistStaminaCost",Values=(20,20,20,20,20))
 BigGameSpecialistDuration",Values=(60,60,60,60,60))
 LegSpeed",Values=(0,0,0,0,0))
@@ -339,8 +343,7 @@ StompUpDownMod",Values=(0,0,0,0,0))
 SauropodHunterBleedDamage",Values=(1.15,1.15,1.15,1.15,1.15))
 SharkToothedLizardBleedDamage",Values=(1.3,1.3,1.3,1.3,1.3))
 SharkToothedLizardAttackDamageNerf",Values=(0.9,0.9,0.9,0.9,0.9))
-LightweightScalesSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
-LightweightScalesTurnRate",Values=(0.85,0.85,0.85,0.85,0.85))
+PerseveringScalesStamina",Values=(1.1,1.1,1.1,1.1,1.1))
 ResilientScalesBleedHeal",Values=(1.3,1.3,1.3,1.3,1.3))
 ResilientScalesVenomHeal",Values=(1.3,1.3,1.3,1.3,1.3))
 NimbleTail",Values=(1.05,1.05,1.05,1.05,1.05))
@@ -370,7 +373,7 @@ ClawCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
 thickhide",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

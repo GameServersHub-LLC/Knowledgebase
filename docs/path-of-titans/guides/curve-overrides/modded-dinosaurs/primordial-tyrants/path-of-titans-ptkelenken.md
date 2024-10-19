@@ -10,7 +10,7 @@ title: PTKelenken
 ---
 # PTKelenken
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -63,7 +63,7 @@ Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -267,11 +267,11 @@ Multiplier.IncomingDamage.CrouchWalking",Values=(1,1,1,1,1))
 Multiplier.IncomingDamage.Jumping",Values=(1,1,1,1,1))
 Multiplier.AttackSubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.StaminaSubSpecies.Recovery",Values=(1.1,1.1,1.1,1.1,1.1))
-Multiplier.SpeedySubSpecies.Speed",Values=(1.05,1.05,1.05,1.05,1.05))
+Multiplier.SpeedySubSpecies.Speed",Values=(1.5,1.5,1.5,1.5,1.5))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,0.45))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -288,6 +288,13 @@ KickBoneBreakAmount",Values=(0,0,0,0,0))
 KickCooldown",Values=(3,3,3,3,3))
 KickBleedAmount",Values=(0,0,0,0,0))
 KickCost",Values=(5,5,5,5,5))
+DropKickDamage",Values=(20,30,40,60,85))
+DropKickCooldown",Values=(8,8,8,8,8))
+DropKickBleedAmount",Values=(0,0,0,0,0))
+DropKickCost",Values=(5,5,5,5,5))
+DropKickDamageBonus",Values=(1.05,1.05,1.05,1.05,1.05))
+DropKickBuffDuration",Values=(10,10,10,10,10))
+DropKickMovement",Values=(200,300,400,500,600))
 StaminaTrotCostPerSecond",Values=(0,0,0,0,0))
 StaminaSprintCostPerSecond",Values=(1,0.8,0.7,0.6,0.6))
 StaminaSwimgCostPerSecond",Values=(1.61,1.61,1.61,1.61,1.61))
@@ -295,12 +302,21 @@ StaminaFastSwimCostPerSecond",Values=(2.9,2.9,2.9,2.9,2.9))
 StaminaDiveCostPerSecond",Values=(2.9,2.9,2.9,2.9,2.9))
 StaminaFastDiveCostPerSecond",Values=(2.9,2.9,2.9,2.9,2.9))
 StaminaJumpCost",Values=(1,1,1,1,1))
+SelfPreservationSpeedBonus",Values=(1.1,1.1,1.1,1.1,1.1))
+SelfPreservationTurnReduction",Values=(0.9,0.9,0.9,0.9,0.9))
+SelfPreservationHealthRatio",Values=(0.2,0.2,0.2,0.2,0.2))
+HeavyDownHealthBonus",Values=(1.2,1.2,1.2,1.2,1.2))
+LightweightSpeed",Values=(1.05,1.05,1.05,1.05,1.05))
+LightweightTurn",Values=(0.85,0.85,0.85,0.85,0.85))
+EllipticalWingsTurn",Values=(1.1,1.1,1.1,1.1,1.1))
+BroadwingsAirControl",Values=(2,2,2,2,2))
+BracedLegsFallDamage",Values=(1.1,1.1,1.1,1.1,1.1))
 FeatherFanStrength",Values=(200,300,400,600,800))
 FeatherFanCooldown",Values=(6,6,6,6,6))
 FeatherFanStaminaCost",Values=(2.5,2.5,2.5,2.5,2.5))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

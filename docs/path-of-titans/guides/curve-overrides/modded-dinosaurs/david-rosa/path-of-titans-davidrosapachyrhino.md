@@ -10,7 +10,7 @@ title: DavidRosaPachyrhino
 ---
 # DavidRosaPachyrhino
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -293,7 +293,7 @@ Multiplier.SpeedySubSpecies.Damage",Values=(1.03,1.03,1.03,1.03,1.03))
 Multiplier.StandardSubSpecies.StaminaRecovery",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -310,6 +310,16 @@ BiteBoneBreakChance",Values=(0,0,0,0,0))
 BiteCooldown",Values=(2,2,2,2,2))
 BiteDamageIncrease",Values=(1.05,1.05,1.05,1.05,1.05))
 BiteDamageIncreaseDuration",Values=(10,10,10,10,10))
+RevitalishingHeadbuttDamage",Values=(30,30,40,45,50))
+RevitalishingHeadbuttCooldown",Values=(2,2,2,2,2))
+RevitalishingHeadbuttHealthRegenIncrease",Values=(1.15,1.15,1.15,1.15,1.15))
+RevitalishingHeadbuttHealthRegenIncreaseDuration",Values=(60,60,60,60,60))
+GroundSlamDamage",Values=(20,20,20,25,30))
+GroundSlamCooldown",Values=(4,4,4,4,4))
+GroundSlamRadius",Values=(100,150,150,150,150))
+GroundSlamForwardBackwardMod",Values=(0,0,0,0,0))
+GroundSlamLeftRightMod",Values=(0,0,0,0,0))
+GroundSlamUpDownMod",Values=(0,0,0,0,0))
 FrostbittenSmashMovement",Values=(200,250,300,350,350))
 FrostbittenSmashDamage",Values=(20,25,30,75,80))
 FrostbittenSmashCooldown",Values=(3.5,3.5,3.5,3.5,3.25))
@@ -393,12 +403,14 @@ KnightMarchCeratopsianSprintStaminaReduction",Values=(0.95,0.95,0.95,0.95,0.95))
 KnightMarchAllSprintStaminaReduction",Values=(0.9,0.9,0.9,0.9,0.9))
 DoNotTouchRadius2",Values=(5000,5000,5000,5000,5000))
 DoNotTouch",Values=(6,6,6,6,6))
+RageModeDamage",Values=(1.1,1.1,1.1,1.1,1.1))
+RageModeArmor",Values=(1.05,1.05,1.05,1.05,1.05))
 LakustaiBuff",Values=(1.03,1.03,1.03,1.03,1.03))
 CanadensisBuff",Values=(1.05,1.05,1.05,1.05,1.05))
 PerotorumBuff",Values=(1.15,1.15,1.15,1.15,1.15))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

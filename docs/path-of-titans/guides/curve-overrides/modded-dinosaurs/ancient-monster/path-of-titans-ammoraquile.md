@@ -10,7 +10,7 @@ title: AMMoraquile
 ---
 # AMMoraquile
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -81,7 +81,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -435,7 +435,7 @@ Multiplier.StatHunter.FallDeathSpeed",Values=(1.2,1.2,1.2,1.2,1.2))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -540,8 +540,8 @@ SenseFreshBloodDamageMultiplier",Values=(1.1,1.1,1.1,1.1,1.1))
 DashDamage",Values=(10,10,10,10,10))
 DashBleedAmount",Values=(0.1,0.1,0.1,0.1,0.1))
 DashCooldown",Values=(10,10,10,10,10))
-DashStaminaCost",Values=(10,10,10,10,10))
-DashStrength",Values=(1000,1000,1000,1000,1000))
+DashStaminaCost",Values=(2,2,2,2,2))
+DashStrength",Values=(800,800,800,800,800))
 RippingKickDamage",Values=(10,10,10,10,10))
 RippingKickBleedAmount",Values=(0.75,0.75,0.75,0.75,0.75))
 RippingKickCooldown",Values=(10,10,10,10,10))
@@ -551,7 +551,7 @@ BracedLegsFallDamageReduction",Values=(1.1,1.1,1.1,1.1,1.1))
 LegsGrippingClawsTurnSpeed",Values=(1.1,1.1,1.1,1.1,1.1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-01-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>

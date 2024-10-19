@@ -32,6 +32,10 @@ Modder's [Discord Link](#)
 
 <a href='./path-of-titans-eaant' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1240/conversions/ant-icon.jpg' /> </a>
 
+## Dominus Caeli
+
+<a href='./path-of-titans-eadominus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1278/conversions/DominusIcon-icon.jpg' /> </a>
+
 ## Beringia Mammuthus Columbi
 
 <a href='./path-of-titans-beringiamammothc' target='_blank'> <img src='https://web-cdn.alderongames.com/files/868/conversions/mammothC_Icon-icon.jpg' /> </a>

@@ -22,7 +22,9 @@ The Ancient Monster mod team is a Modding group dedicated to bring speculative e
 
 <a href='./path-of-titans-amcerataspida' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1270/conversions/Cerata_modpage-icon.jpg' /> </a>
 
-<!-- ### [Dankanaptera](#) -->
+## Dankanaptera
+
+<a href='./path-of-titans-amdankanaptera' target='_blank'> <img src='https://web-cdn.alderongames.com/files/917/conversions/Dankana_mod_page-icon.jpg' /> </a>
 
 ## Gigamandra
 
@@ -34,7 +36,7 @@ The Ancient Monster mod team is a Modding group dedicated to bring speculative e
 
 ## Madrehorn.
 
-<a href='./path-of-titans-ammadrehorn' target='_blank'> <img src='https://web-cdn.alderongames.com/files/866/conversions/Mod-page-icon-for-madrehorn-icon.jpg' /> </a>
+<a href='./path-of-titans-ammadrehorn' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1296/conversions/Modpage_icon-icon.jpg' /> </a>
 
 ## Moraquile
 
@@ -44,6 +46,10 @@ The Ancient Monster mod team is a Modding group dedicated to bring speculative e
 
 <a href='./path-of-titans-amthalasrex' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1104/conversions/thalasrex_modpage-icon.jpg' /> </a>
 
-## Docjay Creation Dryptosaurus
+## Dryptosaurus
 
 <a href='./path-of-titans-djcdryptosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/963/conversions/modpageicon-icon.jpg' /> </a>
+
+## Ceratosaurus
+
+<a href='./path-of-titans-djcceratosaurus' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1283/conversions/Cerato_modpage-icon.jpg' /> </a>

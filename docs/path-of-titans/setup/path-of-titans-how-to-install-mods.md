@@ -103,7 +103,8 @@ Certain mods may disrupt the functioning of the custom map. Include only the cus
 | Mod Name:    | Mod ID:                   | Game.ini Name:    |
 |--------------|---------------------------|-------------------|
 | Cerataspida  | `UGC_M_Y257G65EVZ_SK`     | `AMCerataspida`   |
-| Dankanaptera | ~~`UGC_M_634752J78W_SK`~~ | `AMDankanaptera`  |
+| Ceratosaurus | `UGC_M_DYV7XN60GX_SK`     | `DJCCeratosaurus` |
+| Dankanaptera | `UGC_M_634752J78W_SK`     | `AMDankanaptera`  |
 | Dryptosaurus | `UGC_M_YNR7341E81_SK`     | `DJCDryptosaurus` |
 | Gigamandra   | `UGC_M_W61E8X47MD_SK`     | `Gigamandra`      |
 | Golugore     | `UGC_M_VJK7M6KER3_SK`     | `Golugore`        |

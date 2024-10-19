@@ -10,7 +10,7 @@ title: Latenivenatrix
 ---
 # Latenivenatrix
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-07-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -85,7 +85,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-07-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -319,7 +319,7 @@ Multiplier.SpeedySubSpecies.Jump",Values=(1.25,1.25,1.25,1.25,1.25))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-07-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -375,9 +375,42 @@ RippingKickDamage",Values=(20,20,30,30,30))
 RippingKickCooldown",Values=(3,3,3,3,3))
 RippingKickBleed",Values=(0.45,0.45,0.45,0.45,0.45))
 RippingKickCost",Values=(5,5,5,5,5))
+FeatherweightHealthAfterFall",Values=(1,1,1,1,1))
+FeatherweightCooldown",Values=(300,300,300,300,300))
+BloodlustDamageMutliplier",Values=(0.75,0.75,0.75,0.75,0.75))
+BloodlustBleedMultiplier",Values=(1.25,1.25,1.25,1.25,1.25))
+NocturnalStaminaRecoveryMultiplierBuff",Values=(0.5,0.5,0.5,0.5,0.5))
+ScatterMovementStrength",Values=(800,800,800,900,1000))
+RevitalizeMaximumHealthRatio",Values=(0.25,0.25,0.25,0.25,0.25))
+RevitalizeMaximumBuff",Values=(5,5,5,5,5))
+SkittishPounceCooldownReductionBuff",Values=(0.5,0.5,0.5,0.5,0.5))
+MoonRunnerSprintStaminaDrainBuff",Values=(0.75,0.75,0.75,0.75,0.75))
+LordOfTerrorsCost",Values=(10,10,10,10,10))
+LordOfTerrorsStaminaLost",Values=(10,10,10,10,10))
+LordOfTerrorsRange",Values=(10000,10000,10000,10000,10000))
+LordOfTerrorsCooldown",Values=(300,300,300,300,300))
+MangleDamage",Values=(10,10,10,10,10))
+MangleCooldown",Values=(5,5,5,5,5))
+MangleBleedAmount",Values=(0.45,0.45,0.45,0.45,0.45))
+MobRallyRange",Values=(5000,5000,5000,5000,5000))
+MobRallyDuration",Values=(30,30,30,30,30))
+MobRallyCooldown",Values=(60,60,60,60,60))
+MobRallyCost",Values=(10,10,10,10,10))
+MobRallyPouncedDamageBuff",Values=(0.2,0.2,0.2,0.2,0.2))
+PunctureDamage",Values=(5,5,5,5,5))
+PunctureCooldown",Values=(30,30,30,30,30))
+PunctureDebuffBleedHealMultiplier",Values=(0.9,0.9,0.9,0.9,0.9))
+PunctureDebuffDuration",Values=(120,120,120,120,120))
+ShredDamage",Values=(40,50,60,75,90))
+ShredCooldown",Values=(1.5,1.5,1.5,1.5,1.5))
+ShredCost",Values=(6,6,6,6,6))
+LeapingStartWaitDelay",Values=(3,3,3,3,3))
+LeapingStartWaitUIDelay",Values=(7,7,7,7,7))
+LeapingStartMovementSpeedBuff",Values=(0.5,0.5,0.5,0.5,0.5))
+LeapingStartBuffDuration",Values=(10,10,10,10,10))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-07-2024 by Mike</span>
+<span style="color: #ffd369;">10-19-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
