@@ -72,6 +72,10 @@ Modder's [Discord Link](#)
 
 <a href='./path-of-titans-divinemosa' target='_blank'> <img src='https://web-cdn.alderongames.com/files/993/conversions/Mosasaurus_Thumbnail-icon.jpg' /> </a>
 
+## Orcinus Orca
+
+<a href='./path-of-titans-divineorca' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1229/conversions/Divine_Ports_Orca_Thumbnail-icon.jpg' /> </a>
+
 ## VelocciRaptor
 
 <a href='./path-of-titans-velocciraptor' target='_blank'> <img src='https://web-cdn.alderongames.com/files/430/conversions/Tumb-icon.jpg' /> </a>

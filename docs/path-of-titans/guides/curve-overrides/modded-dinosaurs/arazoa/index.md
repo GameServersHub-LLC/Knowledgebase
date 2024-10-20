@@ -20,6 +20,14 @@ This your mod? You want your info here? Make a ticket in our [Discord!](https://
 
 Modder's [Discord Link](#)
 
+## Livyatan
+
+<a href='./path-of-titans-arazoalivy' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1090/conversions/Arazoa-icon.jpg' /> </a>
+
+## Tropeognathus
+
+<a href='./path-of-titans-arazoatropeo' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1286/conversions/TropeModIcon-icon.jpg' /> </a>
+
 ## Xiphactinus
 
 <a href='./path-of-titans-arazoaxiph' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1287/conversions/XiphModIcon-icon.jpg' /> </a>
