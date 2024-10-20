@@ -10,7 +10,7 @@ title: EADominus
 ---
 # EADominus
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-19-2024 by Mike</span>
+<span style="color: #ffd369;">10-20-2024 by Mike</span>
 :::
 
 > [!IMPORTANT]
@@ -58,8 +58,8 @@ Core.BodyFoodCorpseThreshold",Values=(0.3,0.3,0.3,0.3,0.3))
 Core.HealthRecoveryRate",Values=(1.67,1.32,1.2,1.15,0.83))
 Core.StaminaRecoveryRate",Values=(1.6,1.3,1,0.7,0.45))
 Core.GrowthPerSecond",Values=(1,1,1,1,1))
-Core.FallDeathSpeed",Values=(3000,3000,3000,3000,3000))
-Core.TurnRadiusMultiplier",Values=(2,1.75,1.5,1.25,1))
+Core.FallDeathSpeed",Values=(4000,4000,4000,4000,4000))
+Core.TurnRadiusMultiplier",Values=(2,1.5,1.25,1,0.7))
 Core.TurnInPlaceRadiusMultiplier",Values=(1,1,1,1,1))
 Core.BuffDurationMultiplier",Values=(1,1,1,1,1))
 Core.SpikeDamageMultiplier",Values=(1,1,1,1,1))
@@ -80,7 +80,7 @@ Core.KnockbackToDecarryThreshold",Values=(100,100,100,100,100))
 Core.KnockbackToCancelAttackThreshold",Values=(100,100,100,100,100))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-19-2024 by Mike</span>
+<span style="color: #ffd369;">10-20-2024 by Mike</span>
 :::
 
 ## Multipliers:
@@ -429,7 +429,7 @@ Multiplier.IncomingDamage.CarriedUnderwater",Values=(1,1,1,1,1))
 BodyFoodDecayPerSecond",Values=(2,1,1,1,1))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-19-2024 by Mike</span>
+<span style="color: #ffd369;">10-20-2024 by Mike</span>
 :::
 
 ## Combat:
@@ -447,8 +447,8 @@ StaminaDiveCostPerSecond",Values=(1.6,1.9,2.2,2.7,3))
 StaminaFastDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaTrotDiveCostPerSecond",Values=(0.8,1,1.2,1.4,1.6))
 StaminaJumpCost",Values=(10,10,10,10,10))
-StaminaFlyCostPerSecond",Values=(0.83,0.83,0.83,0.83,0.83))
-StaminaFastFlyCostPerSecond",Values=(1.67,1.67,1.67,1.67,1.67))
+StaminaFlyCostPerSecond",Values=(1.67,1.67,1.67,1.67,1.67))
+StaminaFastFlyCostPerSecond",Values=(1,1,1,1,1))
 StaminaLatchCostPerSecond",Values=(1,1,1,1,1))
 BreachStaminaCost",Values=(15,15,12,10,9))
 BreachCooldown",Values=(35,35,30,25,25))
@@ -499,7 +499,7 @@ PneumaticBonesBoneBreakHeal",Values=(0.9,0.9,0.9,0.9,0.9))
 SkydiverFallDeathSpeed",Values=(1.2,1.2,1.2,1.2,1.2))
 ```
 ::: info LAST UPDATED
-<span style="color: #ffd369;">10-19-2024 by Mike</span>
+<span style="color: #ffd369;">10-20-2024 by Mike</span>
 :::
 <p style="text-align: center;"><span data-preserver-spaces="true">Experience seamless gameplay with our top-of-the-line "</span><strong><span data-preserver-spaces="true">Path Of Titans</span></strong><span data-preserver-spaces="true">" video game servers for hosting. Dominate the virtual world and build your killer dinosaur-themed world with your gaming squad. </span><span data-preserver-spaces="true">With </span><strong><span data-preserver-spaces="true">lightning-fast hardware</span></strong><span data-preserver-spaces="true">, </span><strong><span data-preserver-spaces="true">unrivaled performance</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">reliable uptime</span></strong><span data-preserver-spaces="true">, our servers ensure an immersive gaming experience for your communitys needs. </span><span data-preserver-spaces="true">Take advantage of our cutting-edge features, including </span><strong><span data-preserver-spaces="true">customizable settings</span></strong><span data-preserver-spaces="true">, an </span><strong><span data-preserver-spaces="true">intuitive control panel</span></strong><span data-preserver-spaces="true">, and </span><strong><span data-preserver-spaces="true">dedicated support</span></strong><span data-preserver-spaces="true">. Dont miss out on this opportunity to level up your gaming experience.</span></p>
 <h3 style="text-align: center;"><span style="color: #ffd369;"><a style="color: #ffd369;" href="https://gameservershub.com/hosting/path-of-titans/"><strong>Get your server today!</strong></a></span></h3>
