@@ -18,11 +18,11 @@ Explore GameServersHub's Gaming Wiki for in-depth info on Path of Titans. Find d
 
 This your mod? You want your info here? Make a ticket in our [Discord!](https://discord.gg/gsh)
 
-Modder's [Discord Link]([#](https://discord.gg/arazoa))
+Modder's [Discord Link](https://discord.gg/arazoa)
 
 ## Livyatan
 
-<a href='./path-of-titans-arazoalivy' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1288/conversions/LivyModIcon-icon.jpg' /> </a>
+<a href='./path-of-titans-arazoalivy' target='_blank'> <img src='https://web-cdn.alderongames.com/files/1090/conversions/Arazoa-icon.jpg' /> </a>
 
 ## Tropeognathus
 
